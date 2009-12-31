@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2009-11-07
+Version Consolidée au 2010-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -7,85 +7,87 @@ Version Consolidée au 2009-11-07
         - [Chapitre Ier : Statut et missions (art. L111-1 à L111-3)](#4)
         - [Chapitre II : Organisation et fonctionnement (art. L112-1 à L112-2)](#5)
         - [Chapitre III : Recrutement et statut des agents contractuels (art. L113-1)](#6)
-        - [Chapitre IV : Dispositions financières et comptables (art. L114-1)](#7)
-        - [Chapitre VI : Taxes, prélèvements et autres produits affectés au Centre national du cinéma et de l'image animée (art. L116-1 à L116-5)](#8)
-      - [Titre II : Registres du cinéma et de l'audiovisuel (art. L121-1 à L126-3)](#9)
-        - [Chapitre Ier : Principes généraux (art. L121-1 à L121-2)](#10)
-        - [Chapitre II : Dépôt du titre et immatriculation des œuvres (art. L122-1 à L122-2)](#11)
+        - [Chapitre IV : Dispositions financières et comptables (art. L114-1 à L114-2)](#7)
+        - [Chapitre V : Impositions affectées au Centre national du cinéma et de l'image animée et perçues par lui (art. L115-1 à L115-27)](#8)
+          - [Section 1 : Taxe sur le prix des entrées aux séances organisées par les exploitants d'établissements de spectacles cinématographiques (art. L115-1 à L115-5)](#9)
+          - [Section 2 : Taxe sur les éditeurs et distributeurs de services de télévision (art. L115-6 à L115-13)](#10)
+          - [Section 3 : Cotisations professionnelles (art. L115-14 à L115-15)](#11)
+          - [Section 4 : Recouvrement et contrôle (art. L115-16 à L115-27)](#12)
+        - [Chapitre VI : Taxes, prélèvements et autres produits affectés au Centre national du cinéma et de l'image animée (art. L116-1 à L116-5)](#13)
+      - [Titre II : Registres du cinéma et de l'audiovisuel (art. L121-1 à L126-3)](#14)
+        - [Chapitre Ier : Principes généraux (art. L121-1 à L121-2)](#15)
+        - [Chapitre II : Dépôt du titre et immatriculation des œuvres (art. L122-1 à L122-2)](#16)
         - [Chapitre III : Inscription et publication des actes, 
-conventions et jugements (art. L123-1 à L123-6)](#12)
-        - [Chapitre IV : Privilège et réalisation du nantissement (art. L124-1 à L124-4)](#13)
-        - [Chapitre V : Attributions et rémunération du conservateur (art. L125-1 à L125-2)](#14)
-        - [Chapitre VI : Communication de renseignements relatifs aux recettes (art. L126-1 à L126-3)](#15)
-    - [Livre II : Professions et activités (art. L211-1 à L241-1)](#16)
-      - [Titre Ier : Exercice des professions et activités du cinéma (art. L211-1 à L214-9)](#17)
-        - [Chapitre Ier : Visa d'exploitation cinématographique (art. L211-1 à L211-2)](#18)
-        - [Chapitre II : Secteur de l'exploitation cinématographique (art. L212-1 à L212-32)](#19)
-          - [Section 1 : Autorisation d'exercice de la profession d'exploitant (art. L212-2 à L212-5)](#20)
-          - [Section 2 : Implantation et construction des établissements de spectacles cinématographiques (art. L212-6 à L212-13)](#21)
-          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. L212-14 à L212-17)](#22)
-          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. L212-18)](#23)
+conventions et jugements (art. L123-1 à L123-6)](#17)
+        - [Chapitre IV : Privilège et réalisation du nantissement (art. L124-1 à L124-4)](#18)
+        - [Chapitre V : Attributions et rémunération du conservateur (art. L125-1 à L125-2)](#19)
+        - [Chapitre VI : Communication de renseignements relatifs aux recettes (art. L126-1 à L126-3)](#20)
+    - [Livre II : Professions et activités (art. L211-1 à L241-1)](#21)
+      - [Titre Ier : Exercice des professions et activités du cinéma (art. L211-1 à L214-9)](#22)
+        - [Chapitre Ier : Visa d'exploitation cinématographique (art. L211-1 à L211-2)](#23)
+        - [Chapitre II : Secteur de l'exploitation cinématographique (art. L212-1 à L212-32)](#24)
+          - [Section 1 : Autorisation d'exercice de la profession d'exploitant (art. L212-2 à L212-5)](#25)
+          - [Section 2 : Implantation et construction des établissements de spectacles cinématographiques (art. L212-6 à L212-13)](#26)
+          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. L212-14 à L212-17)](#27)
+          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. L212-18)](#28)
           - [Section 5 : Groupements, ententes et engagements 
-de programmation cinématographique (art. L212-19 à L212-26)](#24)
-          - [Section 6 : Formules d'accès au cinéma (art. L212-27 à L212-31)](#25)
-          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. L212-32)](#26)
-        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. L213-1 à L213-15)](#27)
-          - [Section 1 : Médiateur du cinéma (art. L213-1 à L213-8)](#28)
-          - [Section 2 : Concession des droits de représentation cinématographique (art. L213-9 à L213-13)](#29)
-          - [Section 3 : Contrat de concession des droits de représentation cinématographique (art. L213-14 à L213-15)](#30)
-        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. L214-1 à L214-9)](#31)
-      - [Titre II : Edition vidéographique (art. L221-1 à L222-1)](#32)
-        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. L221-1 à L221-2)](#33)
-        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. L222-1)](#34)
-      - [Titre II : Edition vidéographique et services de médias audiovisuels à la demande (art.  à L223-2)](#35)
-        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art.  à L222-1)](#36)
-        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art.  à L222-1)](#37)
-        - [Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande (art. L223-1 à L223-2)](#38)
-      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. L231-1 à L234-2)](#39)
-        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. L231-1)](#40)
-        - [Chapitre II : Exploitation sur les services de médias audiovisuels à la demande (art. L232-1)](#41)
-        - [Chapitre III : Exploitation sur les services de télévision (art. L233-1)](#42)
-        - [Chapitre IV : Dispositions communes (art. L234-1 à L234-2)](#43)
-      - [Titre IV : Dispositions diverses (art. L241-1)](#44)
-        - [Chapitre unique : Obligation de dépôt légal (art. L241-1)](#45)
-    - [Livre III : Financement et fiscalité (art. L311-1 à L336-3)](#46)
-      - [Titre Ier : Aides du Centre national du cinéma et de l'image animée (art. L311-1 à L313-1)](#47)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-2)](#48)
-        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. L312-1 à L312-4)](#49)
-        - [Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer (art. L313-1)](#50)
-      - [Titre II : Aides des collectivités territoriales (art. L321-1 à L321-3)](#51)
-        - [Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques (art. L321-1 à L321-3)](#52)
-      - [Titre III : Incitations fiscales (art. L331-1 à L336-3)](#53)
-        - [Chapitre Ier : Crédits d'impôt (art. L331-1 à L331-3)](#54)
-        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. L332-1 à L332-3)](#55)
+de programmation cinématographique (art. L212-19 à L212-26)](#29)
+          - [Section 6 : Formules d'accès au cinéma (art. L212-27 à L212-31)](#30)
+          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. L212-32)](#31)
+        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. L213-1 à L213-15)](#32)
+          - [Section 1 : Médiateur du cinéma (art. L213-1 à L213-8)](#33)
+          - [Section 2 : Concession des droits de représentation cinématographique (art. L213-9 à L213-13)](#34)
+          - [Section 3 : Contrat de concession des droits de représentation cinématographique (art. L213-14 à L213-15)](#35)
+        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. L214-1 à L214-9)](#36)
+      - [Titre II : Edition vidéographique et services de médias audiovisuels à la demande (art. L221-1 à L223-2)](#37)
+        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. L221-1 à L221-2)](#38)
+        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. L222-1)](#39)
+        - [Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande (art. L223-1 à L223-2)](#40)
+      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. L231-1 à L234-2)](#41)
+        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. L231-1)](#42)
+        - [Chapitre II : Exploitation sur les services de médias audiovisuels à la demande (art. L232-1)](#43)
+        - [Chapitre III : Exploitation sur les services de télévision (art. L233-1)](#44)
+        - [Chapitre IV : Dispositions communes (art. L234-1 à L234-2)](#45)
+      - [Titre IV : Dispositions diverses (art. L241-1)](#46)
+        - [Chapitre unique : Obligation de dépôt légal (art. L241-1)](#47)
+    - [Livre III : Financement et fiscalité (art. L311-1 à L336-3)](#48)
+      - [Titre Ier : Aides du Centre national du cinéma et de l'image animée (art. L311-1 à L313-1)](#49)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-2)](#50)
+        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. L312-1 à L312-4)](#51)
+        - [Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer (art. L313-1)](#52)
+      - [Titre II : Aides des collectivités territoriales (art. L321-1 à L321-3)](#53)
+        - [Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques (art. L321-1 à L321-3)](#54)
+      - [Titre III : Incitations fiscales (art. L331-1 à L336-3)](#55)
+        - [Chapitre Ier : Crédits d'impôt (art. L331-1 à L331-4)](#56)
+        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. L332-1 à L332-3)](#57)
         - [Chapitre III : Déductions fiscales et réductions d'impôt
-au titre des investissements outre-mer (art. L333-1 à L333-3)](#56)
-        - [Chapitre IV : Taxe sur la valeur ajoutée (art. L334-1 à L334-4)](#57)
-        - [Chapitre V : Taxe professionnelle (art. L335-1 à L335-2)](#58)
-        - [Chapitre VI : Dispositions diverses (art. L336-1 à L336-3)](#59)
-    - [Livre IV : Contrôles et sanctions (art. L411-1 à L442-1)](#60)
-      - [Titre Ier : Procédures de contrôle (art. L411-1 à L415-1)](#61)
-        - [Chapitre Ier : Compétence des agents de contrôle (art. L411-1 à L411-2)](#62)
-        - [Chapitre II : Prérogatives et moyens d'intervention (art. L412-1 à L412-3)](#63)
-        - [Chapitre III : Echanges d'informations (art. L413-1 à L413-4)](#64)
-        - [Chapitre IV : Constatation des manquements et des infractions (art. L414-1 à L414-3)](#65)
-        - [Chapitre V : Secret professionnel (art. L415-1)](#66)
-      - [Titre II : Sanctions administratives (art. L421-1 à L424-1)](#67)
-        - [Chapitre Ier : Champ d'application (art. L421-1)](#68)
-        - [Chapitre II : Nature des sanctions administratives (art. L422-1 à L422-3)](#69)
-        - [Chapitre III : Décisions de sanction (art. L423-1 à L423-2)](#70)
-        - [Chapitre IV : Dispositions diverses (art. L424-1)](#71)
-      - [Titre III : Dispositions pénales (art. L431-1 à L433-1)](#72)
-        - [Chapitre Ier : Dispositions générales (art. L431-1)](#73)
+au titre des investissements outre-mer (art. L333-1 à L333-3)](#58)
+        - [Chapitre IV : Taxe sur la valeur ajoutée (art. L334-1 à L334-4)](#59)
+        - [Chapitre V : Contribution économique territoriale (art. L335-1 à L335-2)](#60)
+        - [Chapitre VI : Dispositions diverses (art. L336-1 à L336-3)](#61)
+    - [Livre IV : Contrôles et sanctions (art. L411-1 à L442-1)](#62)
+      - [Titre Ier : Procédures de contrôle (art. L411-1 à L415-1)](#63)
+        - [Chapitre Ier : Compétence des agents de contrôle (art. L411-1 à L411-2)](#64)
+        - [Chapitre II : Prérogatives et moyens d'intervention (art. L412-1 à L412-3)](#65)
+        - [Chapitre III : Echanges d'informations (art. L413-1 à L413-4)](#66)
+        - [Chapitre IV : Constatation des manquements et des infractions (art. L414-1 à L414-3)](#67)
+        - [Chapitre V : Secret professionnel (art. L415-1)](#68)
+      - [Titre II : Sanctions administratives (art. L421-1 à L424-1)](#69)
+        - [Chapitre Ier : Champ d'application (art. L421-1)](#70)
+        - [Chapitre II : Nature des sanctions administratives (art. L422-1 à L422-3)](#71)
+        - [Chapitre III : Décisions de sanction (art. L423-1 à L423-2)](#72)
+        - [Chapitre IV : Dispositions diverses (art. L424-1)](#73)
+      - [Titre III : Dispositions pénales (art. L431-1 à L433-1)](#74)
+        - [Chapitre Ier : Dispositions générales (art. L431-1)](#75)
         - [Chapitre II : Infractions aux dispositions relatives 
-au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#74)
-        - [Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L433-1)](#75)
-      - [Titre IV : Actions en justice (art. L441-1 à L442-1)](#76)
-        - [Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L441-1)](#77)
-        - [Chapitre II : Délit de contrefaçon (art. L442-1)](#78)
-    - [Livre V : Dispositions relatives à l'outre-mer (art. L511-1 à L511-2)](#79)
-      - [Titre unique (art. L511-1 à L511-2)](#80)
-        - [Chapitre unique (art. L511-1 à L511-2)](#81)
+au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#76)
+        - [Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L433-1)](#77)
+      - [Titre IV : Actions en justice (art. L441-1 à L442-1)](#78)
+        - [Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L441-1)](#79)
+        - [Chapitre II : Délit de contrefaçon (art. L442-1)](#80)
+    - [Livre V : Dispositions relatives à l'outre-mer (art. L511-1 à L511-2)](#81)
+      - [Titre unique (art. L511-1 à L511-2)](#82)
+        - [Chapitre unique (art. L511-1 à L511-2)](#83)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Organisation administrative<a id=2></a>
@@ -455,7 +457,902 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1 (V)
 
 
-#### Chapitre VI : Taxes, prélèvements et autres produits affectés au Centre national du cinéma et de l'image animée<a id=8></a>
+###### Article L114-2
+
+Le Centre national du cinéma et de l'image animée établit chaque année un rapport, qui rend compte du rendement et de
+l'emploi prévisionnels des taxes et prélèvements et autres produits qu'il perçoit ou qui lui sont affectés en application des
+dispositions du présent livre. Ce rapport est adressé au Parlement en même temps que le projet de loi de finances de l'année.
+
+**Nota:**
+
+Ordonnance n° 2009-901 du 24 juillet 2009 article 11 6° : L'article L. 114-2 entre en vigueur le 1er janvier 2010.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Cité par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 11 (V)
+  - Code du cinéma et de l'image animée - art. R112-4 (V)
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 44-2 (VT)
+
+
+#### Chapitre V : Impositions affectées au Centre national du cinéma et de l'image animée et perçues par lui<a id=8></a>
+
+##### Section 1 : Taxe sur le prix des entrées aux séances organisées par les exploitants d'établissements de spectacles cinématographiques<a id=9></a>
+
+###### Article L115-1
+
+Est affecté au Centre national du cinéma et de l'image animée le produit d'une taxe assise sur le prix des entrées aux
+séances organisées par les exploitants d'établissements de spectacles cinématographiques situés en France métropolitaine,
+quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres ou documents cinématographiques
+ou audiovisuels qui y sont représentés. 
+
+Les exploitants et les représentations concernés sont ceux soumis au présent code. 
+
+Le prix des entrées aux séances s'entend du prix effectivement acquitté par le spectateur ou, en cas de formule d'accès au
+cinéma donnant droit à des entrées multiples, du prix de référence par place mentionné à l'article L. 212-23 et qui constitue
+la base de la répartition des recettes entre l'exploitant de l'établissement de spectacles cinématographiques et le
+distributeur et les ayants droit de chaque œuvre ou document cinématographique ou audiovisuel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Cité par_:
+
+  - Décret n°2009-1254 du 16 octobre 2009 - art. 22 (Ab)
+  - Arrêté du 4 février 2011 - art. 1 (VD)
+  - Décret n°2011-442 du 20 avril 2011 - art. 1 (V)
+  - Arrêté du 7 mars 2013 - art. 1 (V)
+  - Loi n°2016-925 du 7 juillet 2016 - art. 93 (V)
+  - Code de la propriété intellectuelle - art. L331-3 (V)
+  - Code du cinéma et de l'image animée - art. 211-26 (V)
+  - Code du cinéma et de l'image animée - art. 221-9 (V)
+  - Code du cinéma et de l'image animée - art. 231-13 (V)
+  - Code du cinéma et de l'image animée - art. 231-22 (T)
+  - Code du cinéma et de l'image animée - art. 231-3 (V)
+  - Code du cinéma et de l'image animée - art. 231-38 (V)
+  - Code du cinéma et de l'image animée - art. 232-12 (V)
+  - Code du cinéma et de l'image animée - art. 232-2 (V)
+  - Code du cinéma et de l'image animée - art. 232-23 (V)
+  - Code du cinéma et de l'image animée - art. 412-15 (V)
+  - Code du cinéma et de l'image animée - art. 412-18 (V)
+  - Code du cinéma et de l'image animée - art. 412-9 (V)
+  - Code du cinéma et de l'image animée - art. D212-88 (V)
+  - Code du cinéma et de l'image animée - art. L115-14 (V)
+  - Code du cinéma et de l'image animée - art. L115-27 (V)
+  - Code du cinéma et de l'image animée - art. L212-34 (V)
+  - Code du cinéma et de l'image animée - art. L213-10 (V)
+  - Code du cinéma et de l'image animée - art. L213-5 (V)
+  - Code du cinéma et de l'image animée - art. L214-9 (V)
+  - Code du cinéma et de l'image animée - art. L311-2 (V)
+  - Livre des procédures fiscales - art. L163 (VD)
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 45 (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L212-23 (V)
+
+
+###### Article L115-2
+
+La taxe est calculée en appliquant sur le prix des entrées aux séances organisées par les exploitants d'établissements de
+spectacles cinématographiques un taux de 10,72 %. 
+
+Ce taux est multiplié par 1,5 en cas de représentation d'œuvres ou de documents cinématographiques ou audiovisuels à
+caractère pornographique ou d'incitation à la violence figurant sur la liste mentionnée au quatrième alinéa de l'article L.
+311-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Cité par_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 117 (V)
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 46 (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L311-2 (V)
+
+
+###### Article L115-3
+
+La taxe est due mensuellement par établissement de spectacles cinématographiques, pour les semaines cinématographiques
+achevées dans le mois considéré et au cours desquelles ont été organisées au moins deux séances. Toutefois, pour les mois de
+décembre et de janvier, la taxe est due respectivement jusqu'au 31 décembre et à compter du 1er janvier.
+
+La taxe n'est pas due lorsque son montant mensuel par établissement de spectacles cinématographiques est inférieur à 80 €.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 47, alinéa 1 (VT)
+
+
+###### Article L115-4
+
+Les redevables remplissent, par établissement de spectacles cinématographiques, une déclaration conforme au modèle agréé par
+le Centre national du cinéma et de l'image animée et comportant les indications nécessaires à la détermination de l'assiette
+et à la perception de la taxe.
+
+La déclaration est déposée au Centre national du cinéma et de l'image animée en un seul exemplaire avant le 25 du mois
+suivant celui au cours duquel les opérations imposables ont été réalisées.
+
+La déclaration est transmise par voie électronique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 47, alinéas 2 et 3 (VT)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L115-16 (V)
+  - Code du cinéma et de l'image animée - art. L115-18 (V)
+  - Code du cinéma et de l'image animée - art. L115-19 (V)
+  - Code du cinéma et de l'image animée - art. L115-20 (V)
+  - Code du cinéma et de l'image animée - art. L115-22 (V)
+  - Code du cinéma et de l'image animée - art. L115-25 (V)
+
+
+###### Article L115-5
+
+Les redevables acquittent auprès de l'agent comptable du Centre national du cinéma et de l'image animée le montant de la taxe
+lors du dépôt de leur déclaration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 47, alinéa 4 (VT)
+
+
+##### Section 2 : Taxe sur les éditeurs et distributeurs de services de télévision<a id=10></a>
+
+###### Article L115-6
+
+Est affecté au Centre national du cinéma et de l'image animée le produit d'une taxe due par tout éditeur de services de
+télévision, au sens de l'article 2 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, qui est
+établi en France et qui a programmé, au cours de l'année civile précédente, une ou plusieurs œuvres audiovisuelles ou
+cinématographiques éligibles aux aides financières du Centre national du cinéma et de l'image animée, ainsi que par tout
+distributeur de services de télévision au sens de l'article 2-1 de la même loi établi en France.
+
+Tout éditeur de services de télévision, redevable à ce titre de la taxe mentionnée au présent article, et dont le financement
+fait appel à une rémunération de la part des usagers et qui encaisse directement le produit des abonnements acquittés par ces
+usagers, est en outre redevable de cette taxe au titre de son activité de distributeur de services de télévision.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°95-110 du 2 février 1995 - art. 4 (V)
+  - Décret n°2010-416 du 27 avril 2010 - art. 27 (V)
+  - Décret n°2010-416 du 27 avril 2010 - art. 5 (V)
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 30 (V)
+  - Décret n°2016-302 du 14 mars 2016 (V)
+  - Code du cinéma et de l'image animée - art. 211-30 (V)
+  - Code du cinéma et de l'image animée - art. 311-8 (VD)
+  - Code du cinéma et de l'image animée - art. 411-52 (V)
+  - Code du cinéma et de l'image animée - art. L115-27 (V)
+  - Code du cinéma et de l'image animée - art. L115-9 (V)
+  - Code général des impôts, CGI. - art. 1609 sexdecies B (M)
+  - Code général des impôts, CGI. - art. 302 bis KG (V)
+  - Livre des procédures fiscales - art. L163 (VD)
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code général des impôts, CGI. - art. 1609 sexdecies, I et VI (VT)
+
+
+###### Article L115-7
+
+La taxe est assise sur le montant hors taxe sur la valeur ajoutée :
+
+1° Pour les éditeurs de services de télévision, au titre de chacun des services de télévision édités :
+
+a) Des sommes versées par les annonceurs et les parrains, pour la diffusion de leurs messages publicitaires et de parrainage,
+aux redevables concernés ou aux régisseurs de messages publicitaires et de parrainage. Ces sommes font l'objet d'un
+abattement forfaitaire de 4 % ;
+
+b) Du produit de la contribution à l'audiovisuel public encaissé par les redevables concernés, à l'exception de la société
+nationale de programme France Télévisions au titre de ses services de télévision spécifiques à l'outre-mer, et des autres
+ressources publiques ;
+
+c) Des sommes versées directement ou indirectement par les opérateurs de communications électroniques aux redevables
+concernés, ou aux personnes en assurant l'encaissement, à raison des appels téléphoniques à revenus partagés, des connexions
+à des services télématiques et des envois de minimessages qui sont liés à la diffusion de leurs programmes, à l'exception des
+programmes servant une grande cause nationale ou d'intérêt général ;
+
+2° Pour les distributeurs de services de télévision, des abonnements et autres sommes acquittés par les usagers en
+rémunération d'un ou plusieurs services de télévision. Lorsqu'une offre donne également accès à d'autres catégories de
+services, la taxe est assise sur la seule part de cette offre correspondant aux services de télévision. Le produit des
+abonnements et autres sommes précités fait l'objet d'une déduction de 10 %.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code général des impôts, CGI. - art. 1609 sexdecies, II (VT)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L115-11 (V)
+  - Code du cinéma et de l'image animée - art. L115-13 (M)
+  - Code du cinéma et de l'image animée - art. L115-8 (V)
+
+
+###### Article L115-8
+
+L'exigibilité de la taxe est constituée par l'encaissement du produit de la redevance et des autres ressources publiques et
+par le versement des autres sommes mentionnées au 1° de l'article L. 115-7 pour les éditeurs de services de télévision et,
+pour les distributeurs de services, par l'encaissement du produit des abonnements et autres sommes mentionnés au 2° de cet
+article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code général des impôts, CGI. - art. 1609 sexdecies, III (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-7 (VT)
+
+
+###### Article L115-9
+
+La taxe est calculée comme suit :
+
+1° Pour les éditeurs de services de télévision, la taxe est calculée en appliquant un taux de 5,5 % à la fraction du montant
+des versements et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service, qui excède 11 000 000 €.
+
+Le montant de la taxe résultant de l'application des dispositions précédentes est réduit de 50 % pour la société nationale de
+programme France Télévisions au titre de ses services de télévision spécifiques à l'outre-mer et pour les services de
+télévision dont l'éditeur est établi dans les départements d'outre-mer.
+
+Pour les services de télévision diffusés en haute définition, le taux qui précède est majoré de 0,2. Pour les services de
+télévision diffusés en télévision mobile personnelle, il est majoré de 0,1. Pour les services de télévision diffusés à la
+fois en haute définition et en télévision mobile personnelle, le taux applicable est celui applicable aux services diffusés
+en haute définition. Au titre de la première année de diffusion en haute définition ou en télévision mobile personnelle, le
+taux majoré s'applique à proportion de la part du montant des versements et encaissements intervenus à compter du mois au
+cours duquel a débuté la diffusion en haute définition ou en télévision mobile personnelle dans le montant total des
+versements et encaissements de l'année considérée.
+
+2° Pour les distributeurs de services, la taxe est calculée en appliquant à la fraction de chaque part du montant des
+encaissements annuels, hors taxe sur la valeur ajoutée, qui excède 10 000 000 euros les taux de :
+
+a) 0,5 % pour la fraction supérieure à 10 000 000 euros et inférieure ou égale à 75 000 000 euros ;
+
+b) 1 % pour la fraction supérieure à 75 000 000 euros et inférieure ou égale à 140 000 000 euros ;
+
+c) 1,5 % pour la fraction supérieure à 140 000 000 euros et inférieure ou égale à 205 000 000 euros ;
+
+d) 2 % pour la fraction supérieure à 205 000 000 euros et inférieure ou égale à 270 000 000 euros ;
+
+e) 2,5 % pour la fraction supérieure à 270 000 000 euros et inférieure ou égale à 335 000 000 euros ;
+
+f) 3 % pour la fraction supérieure à 335 000 000 euros et inférieure ou égale à 400 000 000 euros ;
+
+g) 3,5 % pour la fraction supérieure à 400 000 000 euros et inférieure ou égale à 465 000 000 euros ;
+
+h) 4 % pour la fraction supérieure à 465 000 000 euros et inférieure ou égale à 530 000 000 euros ;
+
+i) 4,5 % pour la fraction supérieure à 530 000 000 euros ;
+
+3° Dans le cas mentionné au deuxième alinéa de l'article L. 115-6, la taxe due en tant qu'éditeur de services est calculée
+selon les modalités mentionnées au 1° et la taxe due en tant que distributeur de services selon les modalités mentionnées au
+2°.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code général des impôts, CGI. - art. 1609 sexdecies A (Ab)
+
+
+###### Article L115-10
+
+Les redevables acquittent la taxe auprès de l'agent comptable du Centre national du cinéma et de l'image animée par acomptes
+mensuels ou trimestriels selon la périodicité de leur déclaration de taxe sur la valeur ajoutée. Ces acomptes mensuels ou
+trimestriels sont au moins égaux, respectivement, au douzième ou au quart du montant de la taxe due au titre de l'année
+civile précédente majoré de 5 %. 
+
+Les redevables qui estiment que les acomptes déjà payés au titre de l'année atteignent le montant de la taxe dont ils seront
+en définitive redevables peuvent, après en avoir informé le Centre national du cinéma et de l'image animée, surseoir au
+paiement des acomptes suivants. Si le montant de la taxe est supérieur de plus de 20 % au montant des acomptes versés, la
+majoration et l'intérêt de retard mentionnés à l'article L. 115-24 sont applicables. 
+
+Les redevables procèdent à la liquidation de la taxe due au titre de l'année civile précédente dans les mêmes délais que ceux
+applicables à la déclaration de taxe sur la valeur ajoutée du mois de mars ou du premier trimestre de l'année civile. Ils
+acquittent le complément de taxe éventuellement dû auprès de l'agent comptable du Centre national du cinéma et de l'image
+animée. 
+
+La taxe est acquittée par virement ou télérèglement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Cité par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 37 (V)
+  - Code du cinéma et de l'image animée - art. L115-12 (V)
+
+_Anciens textes_:
+
+  - Code général des impôts, CGI. - art. 1609 sexdecies, IV, alinéa 1 (VT)
+  - Code général des impôts, CGI. - art. 1693 quater (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-24 (V)
+
+
+###### Article L115-11
+
+Les redevables remplissent chaque année, par éditeur de services ou distributeur de services, une déclaration conforme au
+modèle agréé par le Centre national du cinéma et de l'image animée. 
+
+La déclaration est déposée au Centre national du cinéma et de l'image animée en un seul exemplaire dans les mêmes délais que
+ceux applicables à la déclaration de taxe sur la valeur ajoutée du mois de mars ou du premier trimestre de l'année civile. 
+
+La déclaration comporte les indications nécessaires à la liquidation de la taxe due au titre de l'année civile précédente et
+à la perception de la taxe due au titre de l'année en cours. Elle précise, au titre de l'année civile précédente, chacun des
+éléments constitutifs de l'assiette de la taxe définis à l'article L. 115-7, le montant des acomptes déjà versés et du
+complément de taxe éventuellement dû, ainsi que le montant des acomptes dus au titre de l'année en cours. 
+
+La déclaration est transmise par voie électronique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code général des impôts, CGI. - art. 1609 sexdecies, IV, alinéa 2 (VT)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L115-16 (V)
+  - Code du cinéma et de l'image animée - art. L115-18 (V)
+  - Code du cinéma et de l'image animée - art. L115-19 (V)
+  - Code du cinéma et de l'image animée - art. L115-20 (V)
+  - Code du cinéma et de l'image animée - art. L115-22 (V)
+  - Code du cinéma et de l'image animée - art. L115-25 (V)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-7 (V)
+
+
+###### Article L115-12
+
+En cas de cessation définitive de l'activité d'édition ou de distribution de services de télévision : 
+
+1° La taxe due au titre de l'année précédente est déclarée et liquidée dans les conditions et délais mentionnés aux articles
+L. 115-10 et L. 115-11 ; 
+
+2° La taxe due au titre de l'année en cours sur le montant des versements et encaissements intervenus avant la date de
+cessation d'activité est déclarée et liquidée auprès du Centre national du cinéma et de l'image animée dans les trente jours
+de la cessation d'activité. 
+
+En cas de reprise d'une activité d'édition ou de distribution de services de télévision, les acomptes restant à payer et le
+complément de taxe éventuellement dû au titre de l'année en cours sont acquittés, dans les conditions mentionnées à l'article
+L. 115-10, par le redevable qui a repris l'activité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-10 (V)
+
+
+###### Article L115-13
+
+Les régisseurs de messages publicitaires et de parrainage mentionnés au a du 1° de l'article L. 115-7 fournissent à chaque
+éditeur de services de télévision, ainsi qu'au Centre national du cinéma et de l'image animée, avant le 15 février de chaque
+année, un état récapitulatif des sommes qu'ils ont encaissées au cours de l'année civile précédente en rémunération de la
+diffusion de messages publicitaires et de parrainage par le service de télévision concerné. 
+
+Les personnes mentionnées au c du 1° de l'article L. 115-7 assurant l'encaissement des sommes versées par les opérateurs de
+communications électroniques fournissent à chaque éditeur de services de télévision, ainsi qu'au Centre national du cinéma et
+de l'image animée, avant le 15 février de chaque année, un état récapitulatif des sommes mentionnées au c du 1° de cet
+article qu'elles ont encaissées au cours de l'année civile précédente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Livre des procédures fiscales - art. L102 AA (Ab)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L115-26 (V)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-7 (V)
+
+
+##### Section 3 : Cotisations professionnelles<a id=11></a>
+
+###### Article L115-14
+
+Est affecté au Centre national du cinéma et de l'image animée le produit des cotisations suivantes : 
+
+1° Une cotisation due par les entreprises de production d'œuvres cinématographiques. Cette contribution est fixée à 0,58 %
+des encaissements hors taxe sur la valeur ajoutée provenant des cessions de droits d'exploitation des œuvres
+cinématographiques, en secteur commercial ou non commercial, sur tous supports notamment pelliculaire, magnétique, optique,
+numérique et par tous procédés de communication électronique. Elle est exigible trimestriellement. 
+
+Sont notamment regardées comme des cessions de droits d'exploitation les participations financières des éditeurs de services
+de télévision dans la production des œuvres cinématographiques, lorsque ces participations sont la contrepartie d'un ou
+plusieurs droits de représentation ; 
+
+2° Une cotisation due par les entreprises de distribution d'œuvres cinématographiques. Cette contribution est fixée à 0,58 %
+des encaissements hors taxe sur la valeur ajoutée provenant de l'exploitation, en secteur commercial ou non commercial, des
+œuvres cinématographiques dont elles assurent la distribution, sous réserve de l'application de l'article 1999 du code civil
+relatif au remboursement des frais engagés par les mandataires pour le compte de leurs mandants. Elle est exigible
+trimestriellement. 
+
+Cette cotisation est portée à 0,68 % pour les entreprises qui distribuent les œuvres cinématographiques à caractère
+pornographique ou d'incitation à la violence inscrites sur la liste mentionnée au quatrième alinéa de l'article L. 311-2 ; 
+
+3° Une cotisation due par les entreprises d'exportation d'œuvres cinématographiques. Cette contribution est fixée à 0,55 % du
+chiffre d'affaires hors taxe sur la valeur ajoutée. Elle est exigible trimestriellement ; 
+
+4° Une cotisation due par les exploitants d'établissements de spectacles cinématographiques. Cette contribution est fixée à
+0,232 % du prix des entrées aux séances au sens de l'article L. 115-1, hors taxe sur la valeur ajoutée et compte non tenu de
+la taxe mentionnée au même article. Elle est exigible annuellement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Cite_:
+
+  - Code civil - art. 1999 (V)
+  - Code du cinéma et de l'image animée - art. L115-1 (V)
+  - Code du cinéma et de l'image animée - art. L311-2 (V)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. 721-4 (VD)
+  - Code du cinéma et de l'image animée - art. L115-15 (V)
+  - Code du cinéma et de l'image animée - art. L115-27 (V)
+  - Livre des procédures fiscales - art. L163 (VD)
+
+
+###### Article L115-15
+
+Les cotisations mentionnées à l'article L. 115-14 sont fondées, en ce qui concerne les exploitants d'établissements de
+spectacles cinématographiques, sur les déclarations hebdomadaires de recettes mentionnées au 3° de l'article L. 212-26 et,
+pour les autres catégories d'entreprises, sur des déclarations trimestrielles d'encaissements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-14 (V)
+  - Code du cinéma et de l'image animée - art. L212-26 (V)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L115-16 (V)
+
+
+##### Section 4 : Recouvrement et contrôle<a id=12></a>
+
+###### Article L115-16
+
+Les déclarations prévues aux articles L. 115-4, L. 115-11 et L. 115-15 sont contrôlées par les services du Centre national du
+cinéma et de l'image animée.
+
+A cette fin, les agents habilités à cet effet par le président du Centre national du cinéma et de l'image animée peuvent
+demander aux redevables tous renseignements, justifications ou éclaircissements relatifs à leur déclaration.
+
+Ils peuvent également examiner sur place les documents utiles. Préalablement, un avis de passage est adressé aux redevables
+afin qu'ils puissent se faire assister d'un conseil.
+
+L'obligation du secret professionnel, telle qu'elle est définie aux articles 226-13 et 226-14 du code pénal, s'applique à
+toutes les personnes appelées à intervenir dans l'établissement de l'assiette, le contrôle, le recouvrement ou le contentieux
+des taxes ou des cotisations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 48 (VT)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L111-3 (V)
+  - Code du cinéma et de l'image animée - art. L115-17 (V)
+  - Code du cinéma et de l'image animée - art. L115-18 (V)
+
+
+###### Article L115-17
+
+Lorsque les agents mentionnés à l'article L. 115-16 constatent une insuffisance, une inexactitude, une omission ou une
+dissimulation dans les éléments servant de base au calcul des taxes ou des cotisations, ils adressent au redevable une
+proposition de rectification qui est motivée de manière à lui permettre de formuler ses observations ou de faire connaître
+son acceptation. 
+
+Cette proposition mentionne le montant des droits éludés et les sanctions y afférentes. Elle précise, à peine de nullité, que
+le contribuable a la faculté de se faire assister d'un conseil de son choix pour discuter la proposition de rectification ou
+pour y répondre. 
+
+Elle est notifiée par pli recommandé au redevable qui dispose d'un délai de trente jours pour présenter ses observations. 
+
+Une réponse motivée est adressée au redevable en cas de rejet de ses observations. 
+
+Les bases de la proposition de rectification sont évaluées d'office lorsque l'examen sur place des documents utiles ne peut
+avoir lieu du fait du redevable ou d'un tiers comme prévu à l'article L. 115-16. 
+
+Les agents mentionnés à l'article L. 115-16 peuvent fixer d'office la base d'imposition en se fondant sur les éléments
+propres au redevable ou, à défaut, par référence au chiffre d'affaires réalisé par un redevable comparable. 
+
+Les bases ou les éléments servant de base au calcul des impositions d'office et leurs modalités de détermination sont portés
+à la connaissance du redevable trente jours au moins avant la mise en recouvrement des impositions.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 79 (V)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-16 (V)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L115-19 (V)
+  - Code du cinéma et de l'image animée - art. L115-22 (V)
+  - Code du cinéma et de l'image animée - art. L115-23 (V)
+
+
+###### Article L115-18
+
+Lorsque le redevable n'a pas déposé sa déclaration dans les délais mentionnés aux articles L. 115-4 et L. 115-11 et n'a pas
+régularisé sa situation dans les trente jours suivant la réception d'une mise en demeure, notifiée par pli recommandé,
+d'avoir à la produire dans ce délai, les agents mentionnés à l'article L. 115-16 peuvent fixer d'office la base d'imposition
+en se fondant sur les éléments propres au redevable ou, à défaut, par référence au chiffre d'affaires réalisé par un
+exploitant d'établissement de spectacles cinématographiques, un éditeur de services de télévision ou un distributeur de
+services de télévision comparable. 
+
+Les bases ou les éléments servant au calcul des impositions d'office et leurs modalités de détermination sont portés à la
+connaissance du redevable trente jours au moins avant la mise en recouvrement des impositions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 49, I, 1, alinéa 2 (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-11 (V)
+  - Code du cinéma et de l'image animée - art. L115-16 (V)
+  - Code du cinéma et de l'image animée - art. L115-4 (V)
+
+
+###### Article L115-19
+
+Les droits rappelés dans les cas mentionnés aux articles L. 115-17 et L. 115-18 sont assortis d'une majoration de 10 %. 
+
+Le taux de la majoration est porté à 40 % en cas de défaut de dépôt de la déclaration dans les délais mentionnés aux articles
+L. 115-4 et L. 115-11 lorsque le redevable n'a pas régularisé sa situation dans les trente jours suivant la réception de la
+mise en demeure.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 49, I, 2, alinéa 1 (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-11 (V)
+  - Code du cinéma et de l'image animée - art. L115-17 (V)
+  - Code du cinéma et de l'image animée - art. L115-4 (V)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L115-21 (V)
+
+
+###### Article L115-20
+
+Le défaut de dépôt de la déclaration dans les délais mentionnés aux articles L. 115-4 et L. 115-11 entraîne l'application,
+sur le montant des droits résultant de la déclaration déposée tardivement, d'une majoration de : 
+
+1° 10 % en l'absence de mise en demeure ou en cas de dépôt de la déclaration dans les trente jours suivant la réception d'une
+mise en demeure, notifiée par pli recommandé, d'avoir à la produire dans ce délai ; 
+
+2° 40 % lorsque la déclaration n'a pas été déposée dans les trente jours suivant la réception d'une mise en demeure, notifiée
+par pli recommandé, d'avoir à la produire dans ce délai.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 49, I, 2, alinéas 2 à 4 (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-11 (V)
+  - Code du cinéma et de l'image animée - art. L115-4 (V)
+
+
+###### Article L115-21
+
+Les sanctions mentionnées aux articles L. 115-19 et L. 115-20 ne peuvent être prononcées avant l'expiration d'un délai de
+trente jours à compter de la notification du document par lequel le Centre national du cinéma et de l'image animée a fait
+connaître au redevable la sanction qu'il envisage de lui appliquer, les motifs de celle-ci et la possibilité dont dispose
+l'intéressé de présenter ses observations dans ce délai.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 49, I, 2, alinéa 5 (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-19 (V)
+
+
+###### Article L115-22
+
+Le droit de reprise du Centre national du cinéma et de l'image animée s'exerce jusqu'au 31 décembre de la troisième année qui
+suit celle au titre de laquelle les taxes ou les cotisations sont devenues exigibles. 
+
+La prescription est interrompue par le dépôt des déclarations mentionnées aux articles L. 115-4 et L. 115-11, par l'envoi de
+la proposition de rectification mentionnée à l'article L. 115-17 et par tous les autres actes interruptifs de droit commun. 
+
+Les réclamations sont adressées au Centre national du cinéma et de l'image animée et sont présentées, instruites et jugées
+comme en matière de taxes sur le chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code général des impôts, CGI. - art. 1609 sexdecies, V (VT)
+  - Code de l'industrie cinématographique - art. 49 I, 3, 4 et 5 (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-11 (V)
+  - Code du cinéma et de l'image animée - art. L115-17 (V)
+  - Code du cinéma et de l'image animée - art. L115-4 (V)
+
+
+###### Article L115-23
+
+A défaut de paiement des taxes ou des cotisations à la date légale d'exigibilité, l'agent comptable du Centre national du
+cinéma et de l'image animée notifie à l'encontre du redevable un avis de mise en recouvrement faisant mention du montant des
+droits et des majorations dues en application des articles L. 115-17 à L. 115-21 et du montant de ceux des majorations et
+intérêts de retard mentionnés à l'article L. 115-24 qui sont appliqués. 
+
+Le recouvrement des taxes et des cotisations est effectué par l'agent comptable du Centre national du cinéma et de l'image
+animée selon les procédures et sous les sanctions, garanties, sûretés et privilèges applicables en matière de taxes sur le
+chiffre d'affaires. 
+
+Les contestations relatives à l'avis de mise en recouvrement et aux mesures de recouvrement forcé sont adressées à l'agent
+comptable du Centre national du cinéma et de l'image animée et sont présentées, instruites et jugées comme en matière de
+taxes sur le chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code général des impôts, CGI. - art. 1609 sexdecies, V (VT)
+  - Code de l'industrie cinématographique - art. 49, II (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-17 (V)
+  - Code du cinéma et de l'image animée - art. L115-24 (V)
+
+
+###### Article L115-24
+
+Le paiement partiel ou le défaut de paiement des taxes ou des cotisations dans le délai légal entraîne l'application :
+
+1° D'une majoration de 5 % sur le montant des sommes dont le paiement a été différé ou éludé en tout ou en partie. Cette
+majoration n'est pas due quand le dépôt tardif de la déclaration est accompagné du paiement total de la taxe ;
+
+2° D'un intérêt de retard au taux de 0,40 % par mois sur le montant des droits qui n'ont pas été payés à la date
+d'exigibilité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 50 (VT)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L115-10 (V)
+  - Code du cinéma et de l'image animée - art. L115-23 (V)
+
+
+###### Article L115-25
+
+Le défaut de respect de l'obligation relative aux modalités de déclaration mentionnées au troisième alinéa de l'article L.
+115-4 et au quatrième alinéa de l'article L. 115-11 entraîne l'application d'une majoration de 0,2 % du montant des droits
+correspondant aux déclarations déposées selon un autre procédé. Le montant de la majoration ne peut être inférieur à 60
+euros. 
+
+Le défaut de respect de l'obligation relative aux modalités de paiement mentionnées au quatrième alinéa de l'article L.
+115-10 entraîne l'application d'une majoration de 0,2 % sur le montant des sommes dont le paiement a été effectué selon un
+autre procédé. Le montant de la majoration ne peut être inférieur à 60 euros.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code de l'industrie cinématographique - art. 47, alinéa 3 (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-11 (V)
+  - Code du cinéma et de l'image animée - art. L115-4 (V)
+
+
+###### Article L115-26
+
+Le défaut de respect des obligations mentionnées à l'article L. 115-13 entraîne l'application d'une amende égale à 10 % des
+sommes non communiquées. 
+
+L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de trente jours à compter de la notification du
+document par lequel le Centre national du cinéma et de l'image animée a fait connaître au contrevenant la sanction qu'il se
+propose d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéressé de présenter ses observations dans ce
+délai. 
+
+Le manquement est constaté et l'amende est prononcée, recouvrée, garantie et contestée en suivant les règles applicables en
+matière de taxes sur le chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Anciens textes_:
+
+  - Code général des impôts, CGI. - art. 1736, II (VT)
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-13 (V)
+
+
+###### Article L115-27
+
+Les conditions dans lesquelles le Centre national du cinéma et de l'image animée reçoit de l'administration des impôts les
+renseignements nécessaires au recouvrement et au contrôle des taxes et cotisations mentionnées aux articles L. 115-1, L.
+115-6 et L. 115-14 sont mentionnées à l'article L. 163 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L163 (V)
+  - Code du cinéma et de l'image animée - art. L115-1 (V)
+  - Code du cinéma et de l'image animée - art. L115-14 (V)
+  - Code du cinéma et de l'image animée - art. L115-6 (V)
+
+
+#### Chapitre VI : Taxes, prélèvements et autres produits affectés au Centre national du cinéma et de l'image animée<a id=13></a>
 
 ###### Article L116-1
 
@@ -559,9 +1456,9 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 44-1, II (VT)
 
 
-### Titre II : Registres du cinéma et de l'audiovisuel<a id=9></a>
+### Titre II : Registres du cinéma et de l'audiovisuel<a id=14></a>
 
-#### Chapitre Ier : Principes généraux<a id=10></a>
+#### Chapitre Ier : Principes généraux<a id=15></a>
 
 ###### Article L121-1
 
@@ -604,7 +1501,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 40, alinéa 2 (Ab)
 
 
-#### Chapitre II : Dépôt du titre et immatriculation des œuvres<a id=11></a>
+#### Chapitre II : Dépôt du titre et immatriculation des œuvres<a id=16></a>
 
 ###### Article L122-1
 
@@ -676,7 +1573,7 @@ _Cité par_:
 
 
 #### Chapitre III : Inscription et publication des actes, 
-conventions et jugements<a id=12></a>
+conventions et jugements<a id=17></a>
 
 ###### Article L123-1
 
@@ -881,7 +1778,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L123-5 (V)
 
 
-#### Chapitre IV : Privilège et réalisation du nantissement<a id=13></a>
+#### Chapitre IV : Privilège et réalisation du nantissement<a id=18></a>
 
 ###### Article L124-1
 
@@ -977,7 +1874,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 43 (Ab)
 
 
-#### Chapitre V : Attributions et rémunération du conservateur<a id=14></a>
+#### Chapitre V : Attributions et rémunération du conservateur<a id=19></a>
 
 ###### Article L125-1
 
@@ -1049,7 +1946,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L114-1 (V)
 
 
-#### Chapitre VI : Communication de renseignements relatifs aux recettes<a id=15></a>
+#### Chapitre VI : Communication de renseignements relatifs aux recettes<a id=20></a>
 
 ###### Article L126-1
 
@@ -1114,11 +2011,11 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 44, alinéa 3 (Ab)
 
 
-## Livre II : Professions et activités<a id=16></a>
+## Livre II : Professions et activités<a id=21></a>
 
-### Titre Ier : Exercice des professions et activités du cinéma<a id=17></a>
+### Titre Ier : Exercice des professions et activités du cinéma<a id=22></a>
 
-#### Chapitre Ier : Visa d'exploitation cinématographique<a id=18></a>
+#### Chapitre Ier : Visa d'exploitation cinématographique<a id=23></a>
 
 ###### Article L211-1
 
@@ -1178,7 +2075,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R211-3 (V)
 
 
-#### Chapitre II : Secteur de l'exploitation cinématographique<a id=19></a>
+#### Chapitre II : Secteur de l'exploitation cinématographique<a id=24></a>
 
 ###### Article L212-1
 
@@ -1199,7 +2096,7 @@ _Cité par_:
   - Arrêté du 10 novembre 2016 - art. 3 (V)
 
 
-##### Section 1 : Autorisation d'exercice de la profession d'exploitant<a id=20></a>
+##### Section 1 : Autorisation d'exercice de la profession d'exploitant<a id=25></a>
 
 ###### Article L212-2
 
@@ -1309,7 +2206,7 @@ _Cité par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art. 14 (V)
 
 
-##### Section 2 : Implantation et construction des établissements de spectacles cinématographiques<a id=21></a>
+##### Section 2 : Implantation et construction des établissements de spectacles cinématographiques<a id=26></a>
 
 ###### Article L212-6
 
@@ -1568,7 +2465,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-7 (V)
 
 
-##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=22></a>
+##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=27></a>
 
 ###### Article L212-14
 
@@ -1651,7 +2548,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L111-3 (V)
 
 
-##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=23></a>
+##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=28></a>
 
 ###### Article L212-18
 
@@ -1676,7 +2573,7 @@ _Cité par_:
 
 
 ##### Section 5 : Groupements, ententes et engagements 
-de programmation cinématographique<a id=24></a>
+de programmation cinématographique<a id=29></a>
 
 ###### Article L212-19
 
@@ -1897,7 +2794,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L441-1 (V)
 
 
-##### Section 6 : Formules d'accès au cinéma<a id=25></a>
+##### Section 6 : Formules d'accès au cinéma<a id=30></a>
 
 ###### Article L212-27
 
@@ -2057,7 +2954,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-29
 
 
-##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=26></a>
+##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=31></a>
 
 ###### Article L212-32
 
@@ -2116,9 +3013,9 @@ _Anciens textes_:
   - Code du cinéma et de l'image animée - art. L212-26 (T)
 
 
-#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=27></a>
+#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=32></a>
 
-##### Section 1 : Médiateur du cinéma<a id=28></a>
+##### Section 1 : Médiateur du cinéma<a id=33></a>
 
 ###### Article L213-1
 
@@ -2292,7 +3189,7 @@ _Créé par_:
   - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
 
 
-##### Section 2 : Concession des droits de représentation cinématographique<a id=29></a>
+##### Section 2 : Concession des droits de représentation cinématographique<a id=34></a>
 
 ###### Article L213-9
 
@@ -2419,7 +3316,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L213-12
 
 
-##### Section 3 : Contrat de concession des droits de représentation cinématographique<a id=30></a>
+##### Section 3 : Contrat de concession des droits de représentation cinématographique<a id=35></a>
 
 ###### Article L213-14
 
@@ -2465,7 +3362,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L123-1
 
 
-#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=31></a>
+#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=36></a>
 
 ###### Article L214-1
 
@@ -2690,9 +3587,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L214-1 (V)
 
 
-### Titre II : Edition vidéographique<a id=32></a>
+### Titre II : Edition vidéographique et services de médias audiovisuels à la demande<a id=37></a>
 
-#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=33></a>
+#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=38></a>
 
 ###### Article L221-1
 
@@ -2727,7 +3624,7 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=34></a>
+#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=39></a>
 
 ###### Article L222-1
 
@@ -2760,13 +3657,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L441-1 (V)
 
 
-### Titre II : Edition vidéographique et services de médias audiovisuels à la demande<a id=35></a>
-
-#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=36></a>
-
-#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=37></a>
-
-#### Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande<a id=38></a>
+#### Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande<a id=40></a>
 
 ###### Article L223-1
 
@@ -2806,9 +3697,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L223-1
 
 
-### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=39></a>
+### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=41></a>
 
-#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=40></a>
+#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=42></a>
 
 ###### Article L231-1
 
@@ -2847,7 +3738,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
-#### Chapitre II : Exploitation sur les services de médias audiovisuels à la demande<a id=41></a>
+#### Chapitre II : Exploitation sur les services de médias audiovisuels à la demande<a id=43></a>
 
 ###### Article L232-1
 
@@ -2889,7 +3780,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
-#### Chapitre III : Exploitation sur les services de télévision<a id=42></a>
+#### Chapitre III : Exploitation sur les services de télévision<a id=44></a>
 
 ###### Article L233-1
 
@@ -2917,7 +3808,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L234-1 (V)
 
 
-#### Chapitre IV : Dispositions communes<a id=43></a>
+#### Chapitre IV : Dispositions communes<a id=45></a>
 
 ###### Article L234-1
 
@@ -2968,9 +3859,9 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 30-7, alinéa 5 (Ab)
 
 
-### Titre IV : Dispositions diverses<a id=44></a>
+### Titre IV : Dispositions diverses<a id=46></a>
 
-#### Chapitre unique : Obligation de dépôt légal<a id=45></a>
+#### Chapitre unique : Obligation de dépôt légal<a id=47></a>
 
 ###### Article L241-1
 
@@ -2985,11 +3876,11 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-## Livre III : Financement et fiscalité<a id=46></a>
+## Livre III : Financement et fiscalité<a id=48></a>
 
-### Titre Ier : Aides du Centre national du cinéma et de l'image animée<a id=47></a>
+### Titre Ier : Aides du Centre national du cinéma et de l'image animée<a id=49></a>
 
-#### Chapitre Ier : Dispositions générales<a id=48></a>
+#### Chapitre Ier : Dispositions générales<a id=50></a>
 
 ###### Article L311-1
 
@@ -3064,7 +3955,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L115-1 (VD)
 
 
-#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=49></a>
+#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=51></a>
 
 ###### Article L312-1
 
@@ -3215,7 +4106,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 70 (Ab)
 
 
-#### Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer<a id=50></a>
+#### Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer<a id=52></a>
 
 ###### Article L313-1
 
@@ -3240,9 +4131,9 @@ _Abrogé par_:
   - Ordonnance n°2017-762 du 4 mai 2017 - art. 23
 
 
-### Titre II : Aides des collectivités territoriales<a id=51></a>
+### Titre II : Aides des collectivités territoriales<a id=53></a>
 
-#### Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=52></a>
+#### Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=54></a>
 
 ###### Article L321-1
 
@@ -3293,9 +4184,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4211-1 (V)
 
 
-### Titre III : Incitations fiscales<a id=53></a>
+### Titre III : Incitations fiscales<a id=55></a>
 
-#### Chapitre Ier : Crédits d'impôt<a id=54></a>
+#### Chapitre Ier : Crédits d'impôt<a id=56></a>
 
 ###### Article L331-1
 
@@ -3352,7 +4243,30 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 terdecies (V)
 
 
-#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=55></a>
+###### Article L331-4
+
+Le crédit d'impôt pour dépenses de production exécutive en France d'œuvres cinématographiques et audiovisuelles étrangères
+est régi par les articles 220 Z bis et 220 quaterdecies du code général des impôts.
+
+**Nota:**
+
+Ordonnance n° 2009-901 du 24 juillet 2009 article 13 : L'article L. 331-4 entre en vigueur à la même date que celle prévue
+pour l'entrée en vigueur des articles 220 Z bis et 220 quaterdecies du code général des impôts par le V de l'article 131 de
+la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 (Au plus tard le 1er janvier 2010).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 220 Z bis (V)
+  - Code général des impôts, CGI. - art. 220 quaterdecies (VT)
+
+
+#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=57></a>
 
 ###### Article L332-1
 
@@ -3410,7 +4324,7 @@ _Cite_:
 
 
 #### Chapitre III : Déductions fiscales et réductions d'impôt
-au titre des investissements outre-mer<a id=56></a>
+au titre des investissements outre-mer<a id=58></a>
 
 ###### Article L333-1
 
@@ -3470,7 +4384,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 217 duodecies (V)
 
 
-#### Chapitre IV : Taxe sur la valeur ajoutée<a id=57></a>
+#### Chapitre IV : Taxe sur la valeur ajoutée<a id=59></a>
 
 ###### Article L334-1
 
@@ -3556,39 +4470,39 @@ _Cite_:
   - Code général des impôts, CGI. - art. 279 bis (V)
 
 
-#### Chapitre V : Taxe professionnelle<a id=58></a>
+#### Chapitre V : Contribution économique territoriale<a id=60></a>
 
 ###### Article L335-1
 
-L'exonération de la taxe professionnelle applicable aux exploitants d'établissements de spectacles cinématographiques situés
-dans les communes de moins de 100 000 habitants qui réalisent moins de 2 000 entrées en moyenne hebdomadaire ainsi qu'aux
-autres exploitants est régie par le 3° de l'article 1464 A du code général des impôts.
+L'exonération de la cotisation foncière des entreprises applicable aux exploitants d'établissements de spectacles
+cinématographiques situés dans les communes de moins de 100 000 habitants qui réalisent moins de 2 000 entrées en moyenne
+hebdomadaire ainsi qu'aux autres exploitants est régie par le 3° de l'article 1464 A du code général des impôts.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1464 (V)
+  - Code général des impôts, CGI. - art. 1464
 
 
 ###### Article L335-2
 
-L'exonération de la taxe professionnelle applicable aux exploitants d'établissements de spectacles cinématographiques qui
-réalisent en moyenne hebdomadaire moins de 7 500 entrées et bénéficient d'un classement  art et essai  est régie par le 4° de
-l'article 1464 A du code général des impôts.
+L'exonération de la cotisation foncière des entreprises applicable aux exploitants d'établissements de spectacles
+cinématographiques qui réalisent en moyenne hebdomadaire moins de 7 500 entrées et bénéficient d'un classement art et essai
+est régie par le 4° de l'article 1464 A du code général des impôts.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 
-#### Chapitre VI : Dispositions diverses<a id=59></a>
+#### Chapitre VI : Dispositions diverses<a id=61></a>
 
 ###### Article L336-1
 
@@ -3648,11 +4562,11 @@ _Cite_:
   - Livre des procédures fiscales - art. L172 B
 
 
-## Livre IV : Contrôles et sanctions<a id=60></a>
+## Livre IV : Contrôles et sanctions<a id=62></a>
 
-### Titre Ier : Procédures de contrôle<a id=61></a>
+### Titre Ier : Procédures de contrôle<a id=63></a>
 
-#### Chapitre Ier : Compétence des agents de contrôle<a id=62></a>
+#### Chapitre Ier : Compétence des agents de contrôle<a id=64></a>
 
 ###### Article L411-1
 
@@ -3712,7 +4626,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-24 (VD)
 
 
-#### Chapitre II : Prérogatives et moyens d'intervention<a id=63></a>
+#### Chapitre II : Prérogatives et moyens d'intervention<a id=65></a>
 
 ###### Article L412-1
 
@@ -3790,7 +4704,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R414-1 (V)
 
 
-#### Chapitre III : Echanges d'informations<a id=64></a>
+#### Chapitre III : Echanges d'informations<a id=66></a>
 
 ###### Article L413-1
 
@@ -3877,7 +4791,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L163 (VT)
 
 
-#### Chapitre IV : Constatation des manquements et des infractions<a id=65></a>
+#### Chapitre IV : Constatation des manquements et des infractions<a id=67></a>
 
 ###### Article L414-1
 
@@ -3971,7 +4885,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R414-1 (V)
 
 
-#### Chapitre V : Secret professionnel<a id=66></a>
+#### Chapitre V : Secret professionnel<a id=68></a>
 
 ###### Article L415-1
 
@@ -3996,9 +4910,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R412-1 (V)
 
 
-### Titre II : Sanctions administratives<a id=67></a>
+### Titre II : Sanctions administratives<a id=69></a>
 
-#### Chapitre Ier : Champ d'application<a id=68></a>
+#### Chapitre Ier : Champ d'application<a id=70></a>
 
 ###### Article L421-1
 
@@ -4091,7 +5005,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L311-1
 
 
-#### Chapitre II : Nature des sanctions administratives<a id=69></a>
+#### Chapitre II : Nature des sanctions administratives<a id=71></a>
 
 ###### Article L422-1
 
@@ -4202,7 +5116,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R423-2 (M)
 
 
-#### Chapitre III : Décisions de sanction<a id=70></a>
+#### Chapitre III : Décisions de sanction<a id=72></a>
 
 ###### Article L423-1
 
@@ -4239,7 +5153,7 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-#### Chapitre IV : Dispositions diverses<a id=71></a>
+#### Chapitre IV : Dispositions diverses<a id=73></a>
 
 ###### Article L424-1
 
@@ -4253,9 +5167,9 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-### Titre III : Dispositions pénales<a id=72></a>
+### Titre III : Dispositions pénales<a id=74></a>
 
-#### Chapitre Ier : Dispositions générales<a id=73></a>
+#### Chapitre Ier : Dispositions générales<a id=75></a>
 
 ###### Article L431-1
 
@@ -4275,7 +5189,7 @@ _Cite_:
 
 
 #### Chapitre II : Infractions aux dispositions relatives 
-au visa d'exploitation cinématographique<a id=74></a>
+au visa d'exploitation cinématographique<a id=76></a>
 
 ###### Article L432-1
 
@@ -4347,7 +5261,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 22, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=75></a>
+#### Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=77></a>
 
 ###### Article L433-1
 
@@ -4369,9 +5283,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1
 
 
-### Titre IV : Actions en justice<a id=76></a>
+### Titre IV : Actions en justice<a id=78></a>
 
-#### Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=77></a>
+#### Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=79></a>
 
 ###### Article L441-1
 
@@ -4393,7 +5307,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1
 
 
-#### Chapitre II : Délit de contrefaçon<a id=78></a>
+#### Chapitre II : Délit de contrefaçon<a id=80></a>
 
 ###### Article L442-1
 
@@ -4408,11 +5322,11 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-## Livre V : Dispositions relatives à l'outre-mer<a id=79></a>
+## Livre V : Dispositions relatives à l'outre-mer<a id=81></a>
 
-### Titre unique<a id=80></a>
+### Titre unique<a id=82></a>
 
-#### Chapitre unique<a id=81></a>
+#### Chapitre unique<a id=83></a>
 
 ###### Article L511-1
 
