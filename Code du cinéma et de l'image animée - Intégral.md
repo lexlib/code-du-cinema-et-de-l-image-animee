@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2010-10-02
+Version Consolidée au 2011-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -705,15 +705,27 @@ concernés, ou aux personnes en assurant l'encaissement, à raison des appels t�
 programmes servant une grande cause nationale ou d'intérêt général ;
 
 2° Pour les distributeurs de services de télévision, des abonnements et autres sommes acquittés par les usagers en
-rémunération d'un ou plusieurs services de télévision. Lorsqu'une offre donne également accès à d'autres catégories de
-services, la taxe est assise sur la seule part de cette offre correspondant aux services de télévision. Le produit des
-abonnements et autres sommes précités fait l'objet d'une déduction de 10 %.
+rémunération d'un ou plusieurs services de télévision, ainsi que des abonnements à des offres composites pour un prix
+forfaitaire incluant des services de télévision. Le produit de ces abonnements et autres sommes fait l'objet d'une déduction
+de 10 %. Lorsqu'une offre composite inclut également, pour un prix forfaitaire, un accès à des services de communication au
+public en ligne ou à des services de téléphonie, cette déduction est portée à 55 %.
+
+**Nota:**
+
+Conformément à l’article 1 de la décision n° 2017-669 QPC du 27 octobre 2017 (NOR: CSCX1730407S), les mots " ou aux
+régisseurs de messages publicitaires et de parrainage " figurant au a du 1° de l'article L. 115-7 du code du cinéma et de
+l'image animée, dans ses rédactions résultant de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011 et de la loi
+n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, sont contraires à la Constitution. Conformément à
+l’article 2, la déclaration d'inconstitutionnalité est reportée au 1er juillet 2018. Par ailleurs, afin de préserver l'effet
+utile de la présente décision à la solution des instances en cours ou à venir, il appartient aux juridictions saisies de
+surseoir à statuer jusqu'à l'entrée en vigueur de la nouvelle loi ou, au plus tard, jusqu'au 1er juillet 2018 dans les
+procédures en cours ou à venir dont l'issue dépend de l'application des dispositions déclarées inconstitutionnelles.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 35 (V)
 
 _Anciens textes_:
 
@@ -750,14 +762,15 @@ _Cite_:
 
 ###### Article L115-9
 
-La taxe est calculée comme suit :
+La taxe est calculée comme suit : 
 
 1° Pour les éditeurs de services de télévision, la taxe est calculée en appliquant un taux de 5,5 % à la fraction du montant
-des versements et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service, qui excède 11 000 000 €.
+des versements et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service, qui excède 11 000 000
+€. 
 
 Le montant de la taxe résultant de l'application des dispositions précédentes est réduit de 50 % pour la société nationale de
 programme France Télévisions au titre de ses services de télévision spécifiques à l'outre-mer et pour les services de
-télévision dont l'éditeur est établi dans les départements d'outre-mer.
+télévision dont l'éditeur est établi dans les départements d'outre-mer. 
 
 Pour les services de télévision diffusés en haute définition, le taux qui précède est majoré de 0,2. Pour les services de
 télévision diffusés en télévision mobile personnelle, il est majoré de 0,1. Pour les services de télévision diffusés à la
@@ -765,38 +778,38 @@ fois en haute définition et en télévision mobile personnelle, le taux applica
 en haute définition. Au titre de la première année de diffusion en haute définition ou en télévision mobile personnelle, le
 taux majoré s'applique à proportion de la part du montant des versements et encaissements intervenus à compter du mois au
 cours duquel a débuté la diffusion en haute définition ou en télévision mobile personnelle dans le montant total des
-versements et encaissements de l'année considérée.
+versements et encaissements de l'année considérée. 
 
 2° Pour les distributeurs de services, la taxe est calculée en appliquant à la fraction de chaque part du montant des
-encaissements annuels, hors taxe sur la valeur ajoutée, qui excède 10 000 000 euros les taux de :
+encaissements annuels, hors taxe sur la valeur ajoutée, qui excède 10 000 000 euros les taux de : 
 
-a) 0,5 % pour la fraction supérieure à 10 000 000 euros et inférieure ou égale à 75 000 000 euros ;
+a) 0,5 % pour la fraction supérieure à 10 000 000 euros et inférieure ou égale à 75 000 000 euros ; 
 
-b) 1 % pour la fraction supérieure à 75 000 000 euros et inférieure ou égale à 140 000 000 euros ;
+b) 1 % pour la fraction supérieure à 75 000 000 euros et inférieure ou égale à 140 000 000 euros ; 
 
-c) 1,5 % pour la fraction supérieure à 140 000 000 euros et inférieure ou égale à 205 000 000 euros ;
+c) 1,5 % pour la fraction supérieure à 140 000 000 euros et inférieure ou égale à 205 000 000 euros ; 
 
-d) 2 % pour la fraction supérieure à 205 000 000 euros et inférieure ou égale à 270 000 000 euros ;
+d) 2 % pour la fraction supérieure à 205 000 000 euros et inférieure ou égale à 270 000 000 euros ; 
 
-e) 2,5 % pour la fraction supérieure à 270 000 000 euros et inférieure ou égale à 335 000 000 euros ;
+e) 2,5 % pour la fraction supérieure à 270 000 000 euros et inférieure ou égale à 335 000 000 euros ; 
 
-f) 3 % pour la fraction supérieure à 335 000 000 euros et inférieure ou égale à 400 000 000 euros ;
+f) 3 % pour la fraction supérieure à 335 000 000 euros et inférieure ou égale à 400 000 000 euros ; 
 
-g) 3,5 % pour la fraction supérieure à 400 000 000 euros et inférieure ou égale à 465 000 000 euros ;
+g) 3,5 % pour la fraction supérieure à 400 000 000 euros et inférieure ou égale à 465 000 000 euros ; 
 
-h) 4 % pour la fraction supérieure à 465 000 000 euros et inférieure ou égale à 530 000 000 euros ;
+h) 4 % pour la fraction supérieure à 465 000 000 euros et inférieure ou égale à 530 000 000 euros ; 
 
-i) 4,5 % pour la fraction supérieure à 530 000 000 euros ;
+i) 4,5 % pour la fraction supérieure à 530 000 000 euros ; 
 
 3° Dans le cas mentionné au deuxième alinéa de l'article L. 115-6, la taxe due en tant qu'éditeur de services est calculée
 selon les modalités mentionnées au 1° et la taxe due en tant que distributeur de services selon les modalités mentionnées au
-2°.
+2°. Toutefois, le taux mentionné au i du 2° est majoré de 2,2.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 35 (V)
 
 _Anciens textes_:
 
