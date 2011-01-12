@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -2455,17 +2455,18 @@ _Cite_:
 ###### Article L212-12
 
 Les règles relatives à la compatibilité de l'autorisation prévue à l'article L. 212-7 avec les schémas de cohérence
-territoriale sont fixées à l'article L. 122-1 du code de l'urbanisme.
+territoriale sont fixées à l'article L. 122-1-15 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L122-1 (V)
+  - Code de l'urbanisme - art. L122-1-15
+  - Code du cinéma et de l'image animée - art. L212-7 (V)
 
 
 ###### Article L212-13
