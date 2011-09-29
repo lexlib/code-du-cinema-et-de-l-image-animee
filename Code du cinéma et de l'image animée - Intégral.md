@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-09-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -5029,18 +5029,18 @@ _Cité par_:
 ###### Article L413-2
 
 Est régie par l'article L. 8271-4 du code du travail la transmission par les agents de contrôle mentionnés à l'article L.
-8271-1 du même code aux agents du Centre national du cinéma et de l'image animée de tous renseignements et tous documents
+8271-1-2 du même code aux agents du Centre national du cinéma et de l'image animée de tous renseignements et tous documents
 nécessaires à l'appréciation des droits ou de l'exécution d'obligations qui entrent dans le champ de leurs compétences.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2011-672 du 16 juin 2011 - art. 84
 
 _Cite_:
 
-  - Code du travail - art. L8271-1 (V)
+  - Code du travail - art. L8271-1-2 (V)
   - Code du travail - art. L8271-4 (V)
 
 _Cité par_:
@@ -5122,28 +5122,32 @@ _Cité par_:
 ###### Article L414-2
 
 Lorsque les agents assermentés du Centre national du cinéma ont été informés par les agents de contrôle mentionnés à
-l'article L. 8271-1 du code du travail qu'un procès-verbal constatant une infraction aux dispositions du 3° de l'article L.
+l'article L. 8271-1-2 du code du travail qu'un procès-verbal constatant une infraction aux dispositions du 3° de l'article L.
 1242-2 de ce code ou aux dispositions relatives au travail illégal a été dressé, ils notifient à l'intéressé, par lettre
 recommandée avec demande d'avis de réception, qu'il est passible, en application du 12° de l'article L. 421-1 du présent
 code, d'une ou plusieurs des sanctions prévues à l'article L. 422-3 de ce même code. 
 
-La lettre de notification de l'information rappelle le délai accordé à l'intéressé pour présenter ses observations.
+La lettre de notification de l'information rappelle le délai accordé à l'intéressé pour présenter ses observations. 
 
 A compter de la notification de cette information, l'intéressé dispose d'un délai de quinze jours francs pour présenter ses
 observations, par lettre recommandée avec demande d'avis de réception.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2011-672 du 16 juin 2011 - art. 84
+
+_Abrogé par_:
+
+  - Ordonnance n°2017-762 du 4 mai 2017 - art. 32
 
 _Cite_:
 
-  - Code du travail - art. L1242-2 (V)
-  - Code du travail - art. L8271-1 (V)
-  - Code du cinéma et de l'image animée - art. L421-1 (V)
-  - Code du cinéma et de l'image animée - art. L422-3 (V)
+  - Code du travail - art. L1242-2
+  - Code du travail - art. L8271-1-2
+  - Code du cinéma et de l'image animée - art. L421-1
+  - Code du cinéma et de l'image animée - art. L422-3 (Ab)
 
 _Cité par_:
 
