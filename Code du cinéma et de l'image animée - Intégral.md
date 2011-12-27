@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2011-09-30
+Version Consolidée au 2011-12-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -762,8 +762,9 @@ _Cite_:
 La taxe est calculée comme suit : 
 
 1° Pour les éditeurs de services de télévision, la taxe est calculée en appliquant un taux de 5,5 % à la fraction du montant
-des versements et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service, qui excède 11 000 000
-€. 
+des versements et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service, qui excède 11 000 000 €.
+Ce seuil est fixé à 16 000 000 € pour les éditeurs de services de télévision qui ne bénéficient pas de ressources procurées
+par la diffusion de messages publicitaires. 
 
 Le montant de la taxe résultant de l'application des dispositions précédentes est réduit de 50 % pour la société nationale de
 programme France Télévisions au titre de ses services de télévision spécifiques à l'outre-mer et pour les services de
@@ -806,7 +807,11 @@ selon les modalités mentionnées au 1° et la taxe due en tant que distributeur
 
 _Modifié par_:
 
-  - Loi n°2010-1657 du 29 décembre 2010 - art. 35 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 20
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L115-6 (VT)
 
 
 ###### Article L115-10
