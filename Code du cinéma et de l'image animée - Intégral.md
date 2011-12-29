@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2011-12-28
+Version Consolidée au 2011-12-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -587,15 +587,15 @@ décembre et de janvier, la taxe est due respectivement jusqu'au 31 décembre et
 
 La taxe n'est pas due lorsque son montant mensuel par établissement de spectacles cinématographiques est inférieur à 80 €.
 
+Le  montant de la taxe ne peut entrer en compte dans la détermination de  l'assiette des divers impôts, taxes et droits de
+toute nature autres que  la taxe sur la valeur ajoutée auxquels est soumise la recette des  salles de spectacles
+cinématographiques.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-_Anciens textes_:
-
-  - Code de l'industrie cinématographique - art. 47, alinéa 1 (VT)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 120
 
 
 ###### Article L115-4
