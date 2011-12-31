@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -649,17 +649,27 @@ _Anciens textes_:
 
 ###### Article L115-6
 
-Est affecté au Centre national du cinéma et de l'image animée le produit d'une taxe due par tout éditeur de services de
-télévision, au sens de l'article 2 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, qui est
-établi en France et qui a programmé, au cours de l'année civile précédente, une ou plusieurs œuvres audiovisuelles ou
-cinématographiques éligibles aux aides financières du Centre national du cinéma et de l'image animée, ainsi que par tout
-distributeur de services de télévision au sens de l'article 2-1 de la même loi établi en France.
+Il est institué une taxe due par tout éditeur de services de télévision, au sens de l'article 2 de la loi n° 86-1067 du 30
+septembre 1986 relative à la liberté de communication, qui est établi en France et qui a programmé, au cours de l'année
+civile précédente, une ou plusieurs œuvres audiovisuelles ou cinématographiques éligibles aux aides financières du Centre
+national du cinéma et de l'image animée, ainsi que par tout distributeur de services de télévision au sens de l'article 2-1
+de la même loi établi en France. 
 
 Tout éditeur de services de télévision, redevable à ce titre de la taxe mentionnée au présent article, et dont le financement
 fait appel à une rémunération de la part des usagers et qui encaisse directement le produit des abonnements acquittés par ces
-usagers, est en outre redevable de cette taxe au titre de son activité de distributeur de services de télévision.
+usagers, est en outre redevable de cette taxe au titre de son activité de distributeur de services de télévision. 
+
+Le produit de la taxe acquittée par les éditeurs de services de télévision est affecté au Centre national du cinéma et de
+l'image animée. Le produit de la taxe acquittée par les distributeurs de services de télévision est affecté à ce même
+établissement dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour
+2012.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°86-1067 du 30 septembre 1986 - art. 2 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
 
 _Cité par_:
 
@@ -678,9 +688,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 302 bis KG (VT)
   - Livre des procédures fiscales - art. L163 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
 
 _Anciens textes_:
 
@@ -4671,22 +4681,27 @@ _Cite_:
 
 ###### Article L334-1
 
-L'application d'un taux réduit de 5, 5 % de taxe sur la valeur ajoutée aux droits d'entrées dans les salles de spectacles
+L'application d'un taux réduit de   7 % de taxe sur la valeur ajoutée aux droits d'entrées dans les salles de spectacles
 cinématographiques, quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres ou
-documents audiovisuels qui y sont présentés, est régie par le b quinquies de l'article 279 du code général des impôts.
+documents audiovisuels qui y sont présentés, est régie par le b quinquies de l'article 279 du code général des impôts. 
 
-L'application d'un taux réduit de 5, 5 % de taxe sur la valeur ajoutée notamment aux cessions de tous droits portant sur les
+L'application d'un taux réduit de   7 % de taxe sur la valeur ajoutée notamment aux cessions de tous droits portant sur les
 œuvres cinématographiques est régie par le g du 3° de l'article 279 du code général des impôts.
+
+**Nota:**
+
+LOI n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 art 13 III : les dispositions du présent article
+s'appliquent aux opérations pour lesquelles la taxe sur la valeur ajoutée est exigible à compter du 1er janvier 2012.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 13 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 279 (V)
+  - Code général des impôts, CGI. - art. 279
 
 
 ###### Article L334-2
