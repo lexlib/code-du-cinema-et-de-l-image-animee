@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -661,8 +661,7 @@ usagers, est en outre redevable de cette taxe au titre de son activité de distr
 
 Le produit de la taxe acquittée par les éditeurs de services de télévision est affecté au Centre national du cinéma et de
 l'image animée. Le produit de la taxe acquittée par les distributeurs de services de télévision est affecté à ce même
-établissement dans la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour
-2012. 
+établissement. 
 
 Est également regardée comme distributeur de services de télévision toute personne proposant un accès à des services de
 communication au public en ligne ou à des services de téléphonie, dès lors que la souscription à ces services permet de
@@ -670,15 +669,15 @@ recevoir, au titre de cet accès, des services de télévision (1).
 
 **Nota:**
 
-(1) Conformément à la loi n° 2011-1977 du 28 décembre 2011, article 20 II, ces dispositions entrent en vigueur à une date
-fixée par décret qui ne peut être postérieure au 1er janvier 2013.
+(1) Conformément à la loi n° 2011-1977 du 28 décembre 2011, article 20 II, modifié par la loi n° 2012-1510 du 29 décembre
+2012, article 79, les dispositions du dernier alinéa entrent en vigueur à une date fixée par décret qui ne peut être
+postérieure au 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°86-1067 du 30 septembre 1986 - art. 2 (V)
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Loi n°86-1067 du 30 septembre 1986 - art. 2
 
 _Cité par_:
 
@@ -700,7 +699,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 20
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 79
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 39 (VD)
 
 _Anciens textes_:
 
