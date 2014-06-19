@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2014-02-09
+Version Consolidée au 2014-06-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -28,68 +28,69 @@ conventions et jugements (art. L123-1 à L123-6)](#17)
         - [Chapitre II : Secteur de l'exploitation cinématographique (art. L212-1 à L212-32)](#24)
           - [Section 1 : Autorisation d'exercice de la profession d'exploitant (art. L212-2 à L212-5)](#25)
           - [Section 2 : Implantation et construction des établissements de spectacles cinématographiques (art. L212-6 à L212-13)](#26)
-          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. L212-14 à L212-17)](#27)
-          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. L212-18)](#28)
+            - [Sous-section 3 : Dispositions diverses (art. L212-11 à L212-13)](#27)
+          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. L212-14 à L212-17)](#28)
+          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. L212-18)](#29)
           - [Section 5 : Groupements, ententes et engagements 
-de programmation cinématographique (art. L212-19 à L212-26)](#29)
-          - [Section 6 : Formules d'accès au cinéma (art. L212-27 à L212-31)](#30)
-          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. L212-32)](#31)
-        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. L213-1 à L213-23)](#32)
-          - [Section 1 : Médiateur du cinéma (art. L213-1 à L213-8)](#33)
-          - [Section 2 : Concession des droits de représentation cinématographique (art. L213-9 à L213-13)](#34)
-          - [Section 3 : Contrat de concession des droits de représentation cinématographique (art. L213-14 à L213-15)](#35)
+de programmation cinématographique (art. L212-19 à L212-26)](#30)
+          - [Section 6 : Formules d'accès au cinéma (art. L212-27 à L212-31)](#31)
+          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. L212-32)](#32)
+        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. L213-1 à L213-23)](#33)
+          - [Section 1 : Médiateur du cinéma (art. L213-1 à L213-8)](#34)
+          - [Section 2 : Concession des droits de représentation cinématographique (art. L213-9 à L213-13)](#35)
+          - [Section 3 : Contrat de concession des droits de représentation cinématographique (art. L213-14 à L213-15)](#36)
           - [Section 4 : Equipement numérique des établissements 
-de spectacles cinématographiques (art. L213-16 à L213-23)](#36)
-        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. L214-1 à L214-9)](#37)
-      - [Titre II : Edition vidéographique et services de médias audiovisuels à la demande (art. L221-1 à L223-2)](#38)
-        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. L221-1 à L221-2)](#39)
-        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. L222-1)](#40)
-        - [Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande (art. L223-1 à L223-2)](#41)
-      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. L231-1 à L234-2)](#42)
-        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. L231-1)](#43)
-        - [Chapitre II : Exploitation sur les services de médias audiovisuels à la demande (art. L232-1)](#44)
-        - [Chapitre III : Exploitation sur les services de télévision (art. L233-1)](#45)
-        - [Chapitre IV : Dispositions communes (art. L234-1 à L234-2)](#46)
-      - [Titre IV : Dispositions diverses (art. L241-1)](#47)
-        - [Chapitre unique : Obligation de dépôt légal (art. L241-1)](#48)
-    - [Livre III : Financement et fiscalité (art. L311-1 à L336-2)](#49)
-      - [Titre Ier : Aides du Centre national du cinéma et de l'image animée (art. L311-1 à L313-1)](#50)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-2)](#51)
-        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. L312-1 à L312-4)](#52)
-        - [Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer (art. L313-1)](#53)
-      - [Titre II : Aides des collectivités territoriales (art. L321-1 à L321-3)](#54)
-        - [Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques (art. L321-1 à L321-3)](#55)
-      - [Titre III : Incitations fiscales (art. L331-1 à L336-2)](#56)
-        - [Chapitre Ier : Crédits d'impôt (art. L331-1 à L331-4)](#57)
-        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. L332-1 à L332-3)](#58)
+de spectacles cinématographiques (art. L213-16 à L213-23)](#37)
+        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. L214-1 à L214-9)](#38)
+      - [Titre II : Edition vidéographique et services de médias audiovisuels à la demande (art. L221-1 à L223-2)](#39)
+        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. L221-1 à L221-2)](#40)
+        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. L222-1)](#41)
+        - [Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande (art. L223-1 à L223-2)](#42)
+      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. L231-1 à L234-2)](#43)
+        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. L231-1)](#44)
+        - [Chapitre II : Exploitation sur les services de médias audiovisuels à la demande (art. L232-1)](#45)
+        - [Chapitre III : Exploitation sur les services de télévision (art. L233-1)](#46)
+        - [Chapitre IV : Dispositions communes (art. L234-1 à L234-2)](#47)
+      - [Titre IV : Dispositions diverses (art. L241-1)](#48)
+        - [Chapitre unique : Obligation de dépôt légal (art. L241-1)](#49)
+    - [Livre III : Financement et fiscalité (art. L311-1 à L336-2)](#50)
+      - [Titre Ier : Aides du Centre national du cinéma et de l'image animée (art. L311-1 à L313-1)](#51)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-2)](#52)
+        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. L312-1 à L312-4)](#53)
+        - [Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer (art. L313-1)](#54)
+      - [Titre II : Aides des collectivités territoriales (art. L321-1 à L321-3)](#55)
+        - [Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques (art. L321-1 à L321-3)](#56)
+      - [Titre III : Incitations fiscales (art. L331-1 à L336-2)](#57)
+        - [Chapitre Ier : Crédits d'impôt (art. L331-1 à L331-4)](#58)
+        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. L332-1 à L332-3)](#59)
         - [Chapitre III : Déductions fiscales et réductions d'impôt
-au titre des investissements outre-mer (art. L333-1 à L333-3)](#59)
-        - [Chapitre IV : Taxe sur la valeur ajoutée (art. L334-2 à L334-4)](#60)
-        - [Chapitre V : Contribution économique territoriale (art. L335-1 à L335-2)](#61)
-        - [Chapitre VI : Dispositions diverses (art. L336-1 à L336-2)](#62)
-    - [Livre IV : Contrôles et sanctions (art. L411-1 à L442-1)](#63)
-      - [Titre Ier : Procédures de contrôle (art. L411-1 à L415-1)](#64)
-        - [Chapitre Ier : Compétence des agents de contrôle (art. L411-1 à L411-2)](#65)
-        - [Chapitre II : Prérogatives et moyens d'intervention (art. L412-1 à L412-3)](#66)
-        - [Chapitre III : Echanges d'informations (art. L413-1 à L413-4)](#67)
-        - [Chapitre IV : Constatation des manquements et des infractions (art. L414-1 à L414-3)](#68)
-        - [Chapitre V : Secret professionnel (art. L415-1)](#69)
-      - [Titre II : Sanctions administratives (art. L421-1 à L424-1)](#70)
-        - [Chapitre Ier : Champ d'application (art. L421-1)](#71)
-        - [Chapitre II : Nature des sanctions administratives (art. L422-1 à L422-3)](#72)
-        - [Chapitre III : Décisions de sanction (art. L423-1 à L423-2)](#73)
-        - [Chapitre IV : Dispositions diverses (art. L424-1)](#74)
-      - [Titre III : Dispositions pénales (art. L431-1 à L433-1)](#75)
-        - [Chapitre Ier : Dispositions générales (art. L431-1)](#76)
+au titre des investissements outre-mer (art. L333-1 à L333-3)](#60)
+        - [Chapitre IV : Taxe sur la valeur ajoutée (art. L334-2 à L334-4)](#61)
+        - [Chapitre V : Contribution économique territoriale (art. L335-1 à L335-2)](#62)
+        - [Chapitre VI : Dispositions diverses (art. L336-1 à L336-2)](#63)
+    - [Livre IV : Contrôles et sanctions (art. L411-1 à L442-1)](#64)
+      - [Titre Ier : Procédures de contrôle (art. L411-1 à L415-1)](#65)
+        - [Chapitre Ier : Compétence des agents de contrôle (art. L411-1 à L411-2)](#66)
+        - [Chapitre II : Prérogatives et moyens d'intervention (art. L412-1 à L412-3)](#67)
+        - [Chapitre III : Echanges d'informations (art. L413-1 à L413-4)](#68)
+        - [Chapitre IV : Constatation des manquements et des infractions (art. L414-1 à L414-3)](#69)
+        - [Chapitre V : Secret professionnel (art. L415-1)](#70)
+      - [Titre II : Sanctions administratives (art. L421-1 à L424-1)](#71)
+        - [Chapitre Ier : Champ d'application (art. L421-1)](#72)
+        - [Chapitre II : Nature des sanctions administratives (art. L422-1 à L422-3)](#73)
+        - [Chapitre III : Décisions de sanction (art. L423-1 à L423-2)](#74)
+        - [Chapitre IV : Dispositions diverses (art. L424-1)](#75)
+      - [Titre III : Dispositions pénales (art. L431-1 à L433-1)](#76)
+        - [Chapitre Ier : Dispositions générales (art. L431-1)](#77)
         - [Chapitre II : Infractions aux dispositions relatives 
-au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#77)
-        - [Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L433-1)](#78)
-      - [Titre IV : Actions en justice (art. L441-1 à L442-1)](#79)
-        - [Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L441-1)](#80)
-        - [Chapitre II : Délit de contrefaçon (art. L442-1)](#81)
-    - [Livre V : Dispositions relatives à l'outre-mer (art. L511-1 à L511-2)](#82)
-      - [Titre unique (art. L511-1 à L511-2)](#83)
-        - [Chapitre unique (art. L511-1 à L511-2)](#84)
+au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#78)
+        - [Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L433-1)](#79)
+      - [Titre IV : Actions en justice (art. L441-1 à L442-1)](#80)
+        - [Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L441-1)](#81)
+        - [Chapitre II : Délit de contrefaçon (art. L442-1)](#82)
+    - [Livre V : Dispositions relatives à l'outre-mer (art. L511-1 à L511-2)](#83)
+      - [Titre unique (art. L511-1 à L511-2)](#84)
+        - [Chapitre unique (art. L511-1 à L511-2)](#85)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Organisation administrative<a id=2></a>
@@ -2437,6 +2438,8 @@ _Cite_:
   - Code de commerce. - art. L752-7 (V)
 
 
+##### Sous-section 3 : Dispositions diverses<a id=27></a>
+
 ###### Article L212-11
 
 Les règles relatives à l'emprise au sol des surfaces, bâties ou non, affectées aux aires de stationnement annexes d'un
@@ -2446,15 +2449,15 @@ par l'article L. 111-6-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - DEPLACE: Loi n°2014-626 du 18 juin 2014 - art. 57
 
 _Cite_:
 
-  - Code de commerce. - art. L752-1 (V)
-  - Code de l'urbanisme - art. L111-6-1 (V)
-  - Code du cinéma et de l'image animée - art. L212-7 (V)
+  - Code de commerce - art. L752-1
+  - Code de l'urbanisme - art. L111-6-1
+  - Code du cinéma et de l'image animée - art. L212-7
 
 
 ###### Article L212-12
@@ -2464,14 +2467,14 @@ territoriale sont fixées à l'article L. 122-1-15 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+**Liens**:
 
-  - Loi n°2010-788 du 12 juillet 2010 - art. 17 (V)
+  - DEPLACE: Loi n°2014-626 du 18 juin 2014 - art. 57
 
 _Cite_:
 
   - Code de l'urbanisme - art. L122-1-15
-  - Code du cinéma et de l'image animée - art. L212-7 (V)
+  - Code du cinéma et de l'image animée - art. L212-7
 
 
 ###### Article L212-13
@@ -2483,20 +2486,16 @@ ladite autorisation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. L425-8 (V)
+  - DEPLACE: Loi n°2014-626 du 18 juin 2014 - art. 57
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L212-7 (V)
+  - Code du cinéma et de l'image animée - art. L212-7
 
 
-##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=27></a>
+##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=28></a>
 
 ###### Article L212-14
 
@@ -2579,7 +2578,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L111-3 (V)
 
 
-##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=28></a>
+##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=29></a>
 
 ###### Article L212-18
 
@@ -2604,7 +2603,7 @@ _Cité par_:
 
 
 ##### Section 5 : Groupements, ententes et engagements 
-de programmation cinématographique<a id=29></a>
+de programmation cinématographique<a id=30></a>
 
 ###### Article L212-19
 
@@ -2817,7 +2816,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L441-1 (V)
 
 
-##### Section 6 : Formules d'accès au cinéma<a id=30></a>
+##### Section 6 : Formules d'accès au cinéma<a id=31></a>
 
 ###### Article L212-27
 
@@ -2977,7 +2976,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-29
 
 
-##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=31></a>
+##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=32></a>
 
 ###### Article L212-32
 
@@ -3036,9 +3035,9 @@ _Anciens textes_:
   - Code du cinéma et de l'image animée - art. L212-26 (T)
 
 
-#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=32></a>
+#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=33></a>
 
-##### Section 1 : Médiateur du cinéma<a id=33></a>
+##### Section 1 : Médiateur du cinéma<a id=34></a>
 
 ###### Article L213-1
 
@@ -3216,7 +3215,7 @@ _Créé par_:
   - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
 
 
-##### Section 2 : Concession des droits de représentation cinématographique<a id=34></a>
+##### Section 2 : Concession des droits de représentation cinématographique<a id=35></a>
 
 ###### Article L213-9
 
@@ -3343,7 +3342,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L213-12
 
 
-##### Section 3 : Contrat de concession des droits de représentation cinématographique<a id=35></a>
+##### Section 3 : Contrat de concession des droits de représentation cinématographique<a id=36></a>
 
 ###### Article L213-14
 
@@ -3390,7 +3389,7 @@ _Cite_:
 
 
 ##### Section 4 : Equipement numérique des établissements 
-de spectacles cinématographiques<a id=36></a>
+de spectacles cinématographiques<a id=37></a>
 
 ###### Article L213-16
 
@@ -3634,7 +3633,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-23
 
 
-#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=37></a>
+#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=38></a>
 
 ###### Article L214-1
 
@@ -3859,9 +3858,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L214-1 (V)
 
 
-### Titre II : Edition vidéographique et services de médias audiovisuels à la demande<a id=38></a>
+### Titre II : Edition vidéographique et services de médias audiovisuels à la demande<a id=39></a>
 
-#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=39></a>
+#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=40></a>
 
 ###### Article L221-1
 
@@ -3896,7 +3895,7 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=40></a>
+#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=41></a>
 
 ###### Article L222-1
 
@@ -3929,7 +3928,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L441-1 (V)
 
 
-#### Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande<a id=41></a>
+#### Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande<a id=42></a>
 
 ###### Article L223-1
 
@@ -3969,9 +3968,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L223-1
 
 
-### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=42></a>
+### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=43></a>
 
-#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=43></a>
+#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=44></a>
 
 ###### Article L231-1
 
@@ -4010,7 +4009,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
-#### Chapitre II : Exploitation sur les services de médias audiovisuels à la demande<a id=44></a>
+#### Chapitre II : Exploitation sur les services de médias audiovisuels à la demande<a id=45></a>
 
 ###### Article L232-1
 
@@ -4052,7 +4051,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
-#### Chapitre III : Exploitation sur les services de télévision<a id=45></a>
+#### Chapitre III : Exploitation sur les services de télévision<a id=46></a>
 
 ###### Article L233-1
 
@@ -4080,7 +4079,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L234-1 (V)
 
 
-#### Chapitre IV : Dispositions communes<a id=46></a>
+#### Chapitre IV : Dispositions communes<a id=47></a>
 
 ###### Article L234-1
 
@@ -4131,9 +4130,9 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 30-7, alinéa 5 (Ab)
 
 
-### Titre IV : Dispositions diverses<a id=47></a>
+### Titre IV : Dispositions diverses<a id=48></a>
 
-#### Chapitre unique : Obligation de dépôt légal<a id=48></a>
+#### Chapitre unique : Obligation de dépôt légal<a id=49></a>
 
 ###### Article L241-1
 
@@ -4148,11 +4147,11 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-## Livre III : Financement et fiscalité<a id=49></a>
+## Livre III : Financement et fiscalité<a id=50></a>
 
-### Titre Ier : Aides du Centre national du cinéma et de l'image animée<a id=50></a>
+### Titre Ier : Aides du Centre national du cinéma et de l'image animée<a id=51></a>
 
-#### Chapitre Ier : Dispositions générales<a id=51></a>
+#### Chapitre Ier : Dispositions générales<a id=52></a>
 
 ###### Article L311-1
 
@@ -4227,7 +4226,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L115-1 (VD)
 
 
-#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=52></a>
+#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=53></a>
 
 ###### Article L312-1
 
@@ -4371,7 +4370,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 70 (Ab)
 
 
-#### Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer<a id=53></a>
+#### Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer<a id=54></a>
 
 ###### Article L313-1
 
@@ -4396,9 +4395,9 @@ _Abrogé par_:
   - Ordonnance n°2017-762 du 4 mai 2017 - art. 23
 
 
-### Titre II : Aides des collectivités territoriales<a id=54></a>
+### Titre II : Aides des collectivités territoriales<a id=55></a>
 
-#### Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=55></a>
+#### Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=56></a>
 
 ###### Article L321-1
 
@@ -4449,9 +4448,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4211-1 (V)
 
 
-### Titre III : Incitations fiscales<a id=56></a>
+### Titre III : Incitations fiscales<a id=57></a>
 
-#### Chapitre Ier : Crédits d'impôt<a id=57></a>
+#### Chapitre Ier : Crédits d'impôt<a id=58></a>
 
 ###### Article L331-1
 
@@ -4531,7 +4530,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 quaterdecies (VT)
 
 
-#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=58></a>
+#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=59></a>
 
 ###### Article L332-1
 
@@ -4567,7 +4566,7 @@ _Cite_:
 
 
 #### Chapitre III : Déductions fiscales et réductions d'impôt
-au titre des investissements outre-mer<a id=59></a>
+au titre des investissements outre-mer<a id=60></a>
 
 ###### Article L333-1
 
@@ -4627,7 +4626,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 217 duodecies (V)
 
 
-#### Chapitre IV : Taxe sur la valeur ajoutée<a id=60></a>
+#### Chapitre IV : Taxe sur la valeur ajoutée<a id=61></a>
 
 ###### Article L334-2
 
@@ -4693,7 +4692,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 279 bis (V)
 
 
-#### Chapitre V : Contribution économique territoriale<a id=61></a>
+#### Chapitre V : Contribution économique territoriale<a id=62></a>
 
 ###### Article L335-1
 
@@ -4730,7 +4729,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1586 nonies (V)
 
 
-#### Chapitre VI : Dispositions diverses<a id=62></a>
+#### Chapitre VI : Dispositions diverses<a id=63></a>
 
 ###### Article L336-1
 
@@ -4767,11 +4766,11 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L116-2 (V)
 
 
-## Livre IV : Contrôles et sanctions<a id=63></a>
+## Livre IV : Contrôles et sanctions<a id=64></a>
 
-### Titre Ier : Procédures de contrôle<a id=64></a>
+### Titre Ier : Procédures de contrôle<a id=65></a>
 
-#### Chapitre Ier : Compétence des agents de contrôle<a id=65></a>
+#### Chapitre Ier : Compétence des agents de contrôle<a id=66></a>
 
 ###### Article L411-1
 
@@ -4831,7 +4830,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-24 (VD)
 
 
-#### Chapitre II : Prérogatives et moyens d'intervention<a id=66></a>
+#### Chapitre II : Prérogatives et moyens d'intervention<a id=67></a>
 
 ###### Article L412-1
 
@@ -4909,7 +4908,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R414-1 (V)
 
 
-#### Chapitre III : Echanges d'informations<a id=67></a>
+#### Chapitre III : Echanges d'informations<a id=68></a>
 
 ###### Article L413-1
 
@@ -4996,7 +4995,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L163 (VT)
 
 
-#### Chapitre IV : Constatation des manquements et des infractions<a id=68></a>
+#### Chapitre IV : Constatation des manquements et des infractions<a id=69></a>
 
 ###### Article L414-1
 
@@ -5093,7 +5092,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R414-1 (V)
 
 
-#### Chapitre V : Secret professionnel<a id=69></a>
+#### Chapitre V : Secret professionnel<a id=70></a>
 
 ###### Article L415-1
 
@@ -5118,9 +5117,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R412-1 (V)
 
 
-### Titre II : Sanctions administratives<a id=70></a>
+### Titre II : Sanctions administratives<a id=71></a>
 
-#### Chapitre Ier : Champ d'application<a id=71></a>
+#### Chapitre Ier : Champ d'application<a id=72></a>
 
 ###### Article L421-1
 
@@ -5212,7 +5211,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L311-1
 
 
-#### Chapitre II : Nature des sanctions administratives<a id=72></a>
+#### Chapitre II : Nature des sanctions administratives<a id=73></a>
 
 ###### Article L422-1
 
@@ -5323,7 +5322,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R423-2 (V)
 
 
-#### Chapitre III : Décisions de sanction<a id=73></a>
+#### Chapitre III : Décisions de sanction<a id=74></a>
 
 ###### Article L423-1
 
@@ -5360,7 +5359,7 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-#### Chapitre IV : Dispositions diverses<a id=74></a>
+#### Chapitre IV : Dispositions diverses<a id=75></a>
 
 ###### Article L424-1
 
@@ -5374,9 +5373,9 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-### Titre III : Dispositions pénales<a id=75></a>
+### Titre III : Dispositions pénales<a id=76></a>
 
-#### Chapitre Ier : Dispositions générales<a id=76></a>
+#### Chapitre Ier : Dispositions générales<a id=77></a>
 
 ###### Article L431-1
 
@@ -5396,7 +5395,7 @@ _Cite_:
 
 
 #### Chapitre II : Infractions aux dispositions relatives 
-au visa d'exploitation cinématographique<a id=77></a>
+au visa d'exploitation cinématographique<a id=78></a>
 
 ###### Article L432-1
 
@@ -5468,7 +5467,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 22, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=78></a>
+#### Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=79></a>
 
 ###### Article L433-1
 
@@ -5490,9 +5489,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1
 
 
-### Titre IV : Actions en justice<a id=79></a>
+### Titre IV : Actions en justice<a id=80></a>
 
-#### Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=80></a>
+#### Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=81></a>
 
 ###### Article L441-1
 
@@ -5514,7 +5513,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1
 
 
-#### Chapitre II : Délit de contrefaçon<a id=81></a>
+#### Chapitre II : Délit de contrefaçon<a id=82></a>
 
 ###### Article L442-1
 
@@ -5529,11 +5528,11 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-## Livre V : Dispositions relatives à l'outre-mer<a id=82></a>
+## Livre V : Dispositions relatives à l'outre-mer<a id=83></a>
 
-### Titre unique<a id=83></a>
+### Titre unique<a id=84></a>
 
-#### Chapitre unique<a id=84></a>
+#### Chapitre unique<a id=85></a>
 
 ###### Article L511-1
 
