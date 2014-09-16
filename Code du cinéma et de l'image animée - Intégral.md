@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2014-07-12
+Version Consolidée au 2014-09-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -5793,7 +5793,7 @@ e) Le directeur général du Trésor ou son représentant ;
 
 f) Le directeur du budget ou son représentant ; 
 
-g) Le directeur général de la compétitivité, de l'industrie et des services ou son représentant ; 
+g) Le directeur général des entreprises ou son représentant ; 
 
 h) Le directeur général de l'enseignement scolaire ou son représentant ; 
 
@@ -5810,17 +5810,9 @@ titulaire.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°2010-654 du 11 juin 2010 - art. 1, alinéas 1 à 15 et 17 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2014-794 du 9 juillet 2014 - art.
-
-_Créé par_:
-
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Décret n°2014-1048 du 15 septembre 2014 - art. 4
 
 _Cite_:
 
