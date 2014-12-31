@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2014-12-19
+Version Consolidée au 2015-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -28,227 +28,237 @@ conventions et jugements (art. L123-1 à L123-6)](#17)
         - [Chapitre II : Secteur de l'exploitation cinématographique (art. L212-1 à L212-32)](#24)
           - [Section 1 : Autorisation d'exercice de la profession d'exploitant (art. L212-2 à L212-5)](#25)
           - [Section 2 : Implantation et construction des établissements de spectacles cinématographiques (art. L212-6 à L212-13)](#26)
-            - [Sous-section 3 : Dispositions diverses (art. L212-11 à L212-13)](#27)
-          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. L212-14 à L212-17)](#28)
-          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. L212-18)](#29)
+            - [Sous-section 1 : Commissions d'aménagement cinématographique (art. L212-6-1 à L212-6-9)](#27)
+              - [Paragraphe 1 : Commission départementale d'aménagement cinématographique (art. L212-6-1 à L212-6-4)](#28)
+              - [Paragraphe 2 : Commission nationale d'aménagement cinématographique (art. L212-6-5 à L212-6-8)](#29)
+              - [Paragraphe 3 : Dispositions communes (art. L212-6-9)](#30)
+            - [Sous-section 2 : Autorisation d'aménagement cinématographique (art. L212-7 à L212-10-9)](#31)
+              - [Paragraphe 1 : Projets soumis à autorisation (art. L212-7 à L212-8-1)](#32)
+              - [Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique (art. L212-9 à L212-10-2)](#33)
+              - [Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique (art. L212-10-3 à L212-10-9)](#34)
+            - [Sous-section 3 : Dispositions diverses (art. L212-11 à L212-13)](#35)
+          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. L212-14 à L212-17)](#36)
+          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. L212-18)](#37)
           - [Section 5 : Groupements, ententes et engagements 
-de programmation cinématographique (art. L212-19 à L212-26)](#30)
-          - [Section 6 : Formules d'accès au cinéma (art. L212-27 à L212-31)](#31)
-          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. L212-32)](#32)
-        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. L213-1 à L213-23)](#33)
-          - [Section 1 : Médiateur du cinéma (art. L213-1 à L213-8)](#34)
-          - [Section 2 : Concession des droits de représentation cinématographique (art. L213-9 à L213-13)](#35)
-          - [Section 3 : Contrat de concession des droits de représentation cinématographique (art. L213-14 à L213-15)](#36)
+de programmation cinématographique (art. L212-19 à L212-26)](#38)
+          - [Section 6 : Formules d'accès au cinéma (art. L212-27 à L212-31)](#39)
+          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. L212-32)](#40)
+        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. L213-1 à L213-23)](#41)
+          - [Section 1 : Médiateur du cinéma (art. L213-1 à L213-8)](#42)
+          - [Section 2 : Concession des droits de représentation cinématographique (art. L213-9 à L213-13)](#43)
+          - [Section 3 : Contrat de concession des droits de représentation cinématographique (art. L213-14 à L213-15)](#44)
           - [Section 4 : Equipement numérique des établissements 
-de spectacles cinématographiques (art. L213-16 à L213-23)](#37)
-        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. L214-1 à L214-9)](#38)
-      - [Titre II : Edition vidéographique et services de médias audiovisuels à la demande (art. L221-1 à L223-2)](#39)
-        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. L221-1 à L221-2)](#40)
-        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. L222-1)](#41)
-        - [Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande (art. L223-1 à L223-2)](#42)
-      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. L231-1 à L234-2)](#43)
-        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. L231-1)](#44)
-        - [Chapitre II : Exploitation sur les services de médias audiovisuels à la demande (art. L232-1)](#45)
-        - [Chapitre III : Exploitation sur les services de télévision (art. L233-1)](#46)
-        - [Chapitre IV : Dispositions communes (art. L234-1 à L234-2)](#47)
-      - [Titre IV : Dispositions diverses (art. L241-1)](#48)
-        - [Chapitre unique : Obligation de dépôt légal (art. L241-1)](#49)
-    - [Livre III : Financement et fiscalité (art. L311-1 à L336-2)](#50)
-      - [Titre Ier : Aides du Centre national du cinéma et de l'image animée (art. L311-1 à L313-1)](#51)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-2)](#52)
-        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. L312-1 à L312-4)](#53)
-        - [Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer (art. L313-1)](#54)
-      - [Titre II : Aides des collectivités territoriales (art. L321-1 à L321-3)](#55)
-        - [Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques (art. L321-1 à L321-3)](#56)
-      - [Titre III : Incitations fiscales (art. L331-1 à L336-2)](#57)
-        - [Chapitre Ier : Crédits d'impôt (art. L331-1 à L331-4)](#58)
-        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. L332-1 à L332-3)](#59)
+de spectacles cinématographiques (art. L213-16 à L213-23)](#45)
+        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. L214-1 à L214-9)](#46)
+      - [Titre II : Edition vidéographique et services de médias audiovisuels à la demande (art. L221-1 à L223-2)](#47)
+        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. L221-1 à L221-2)](#48)
+        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. L222-1)](#49)
+        - [Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande (art. L223-1 à L223-2)](#50)
+      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. L231-1 à L234-2)](#51)
+        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. L231-1)](#52)
+        - [Chapitre II : Exploitation sur les services de médias audiovisuels à la demande (art. L232-1)](#53)
+        - [Chapitre III : Exploitation sur les services de télévision (art. L233-1)](#54)
+        - [Chapitre IV : Dispositions communes (art. L234-1 à L234-2)](#55)
+      - [Titre IV : Dispositions diverses (art. L241-1)](#56)
+        - [Chapitre unique : Obligation de dépôt légal (art. L241-1)](#57)
+    - [Livre III : Financement et fiscalité (art. L311-1 à L336-2)](#58)
+      - [Titre Ier : Aides du Centre national du cinéma et de l'image animée (art. L311-1 à L313-1)](#59)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-2)](#60)
+        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. L312-1 à L312-4)](#61)
+        - [Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer (art. L313-1)](#62)
+      - [Titre II : Aides des collectivités territoriales (art. L321-1 à L321-3)](#63)
+        - [Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques (art. L321-1 à L321-3)](#64)
+      - [Titre III : Incitations fiscales (art. L331-1 à L336-2)](#65)
+        - [Chapitre Ier : Crédits d'impôt (art. L331-1 à L331-4)](#66)
+        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. L332-1 à L332-3)](#67)
         - [Chapitre III : Déductions fiscales et réductions d'impôt
-au titre des investissements outre-mer (art. L333-1 à L333-3)](#60)
-        - [Chapitre IV : Taxe sur la valeur ajoutée (art. L334-2 à L334-4)](#61)
-        - [Chapitre V : Contribution économique territoriale (art. L335-1 à L335-2)](#62)
-        - [Chapitre VI : Dispositions diverses (art. L336-1 à L336-2)](#63)
-    - [Livre IV : Contrôles et sanctions (art. L411-1 à L442-1)](#64)
-      - [Titre Ier : Procédures de contrôle (art. L411-1 à L415-1)](#65)
-        - [Chapitre Ier : Compétence des agents de contrôle (art. L411-1 à L411-2)](#66)
-        - [Chapitre II : Prérogatives et moyens d'intervention (art. L412-1 à L412-3)](#67)
-        - [Chapitre III : Echanges d'informations (art. L413-1 à L413-4)](#68)
-        - [Chapitre IV : Constatation des manquements et des infractions (art. L414-1 à L414-3)](#69)
-        - [Chapitre V : Secret professionnel (art. L415-1)](#70)
-      - [Titre II : Sanctions administratives (art. L421-1 à L424-1)](#71)
-        - [Chapitre Ier : Champ d'application (art. L421-1)](#72)
-        - [Chapitre II : Nature des sanctions administratives (art. L422-1 à L422-3)](#73)
-        - [Chapitre III : Décisions de sanction (art. L423-1 à L423-2)](#74)
-        - [Chapitre IV : Dispositions diverses (art. L424-1)](#75)
-      - [Titre III : Dispositions pénales (art. L431-1 à L433-1)](#76)
-        - [Chapitre Ier : Dispositions générales (art. L431-1)](#77)
+au titre des investissements outre-mer (art. L333-1 à L333-3)](#68)
+        - [Chapitre IV : Taxe sur la valeur ajoutée (art. L334-2 à L334-4)](#69)
+        - [Chapitre V : Contribution économique territoriale (art. L335-1 à L335-2)](#70)
+        - [Chapitre VI : Dispositions diverses (art. L336-1 à L336-2)](#71)
+    - [Livre IV : Contrôles et sanctions (art. L411-1 à L442-1)](#72)
+      - [Titre Ier : Procédures de contrôle (art. L411-1 à L415-1)](#73)
+        - [Chapitre Ier : Compétence des agents de contrôle (art. L411-1 à L411-2)](#74)
+        - [Chapitre II : Prérogatives et moyens d'intervention (art. L412-1 à L412-3)](#75)
+        - [Chapitre III : Echanges d'informations (art. L413-1 à L413-4)](#76)
+        - [Chapitre IV : Constatation des manquements et des infractions (art. L414-1 à L414-4)](#77)
+        - [Chapitre V : Secret professionnel (art. L415-1)](#78)
+      - [Titre II : Sanctions administratives (art. L421-1 à L425-1)](#79)
+        - [Chapitre Ier : Champ d'application (art. L421-1)](#80)
+        - [Chapitre II : Nature des sanctions administratives (art. L422-1 à L422-3)](#81)
+        - [Chapitre III : Décisions de sanction (art. L423-1 à L423-2)](#82)
+        - [Chapitre IV : Dispositions diverses (art. L424-1)](#83)
+        - [Chapitre V : Dispositions particulières relatives à l'implantation des établissements de spectacles cinématographiques (art. L425-1)](#84)
+      - [Titre III : Dispositions pénales (art. L431-1 à L434-1)](#85)
+        - [Chapitre Ier : Dispositions générales (art. L431-1)](#86)
         - [Chapitre II : Infractions aux dispositions relatives 
-au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#78)
-        - [Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L433-1)](#79)
-      - [Titre IV : Actions en justice (art. L441-1 à L442-1)](#80)
-        - [Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L441-1)](#81)
-        - [Chapitre II : Délit de contrefaçon (art. L442-1)](#82)
-    - [Livre V : Dispositions relatives à l'outre-mer (art. L511-1 à L511-2)](#83)
-      - [Titre unique (art. L511-1 à L511-2)](#84)
-        - [Chapitre unique (art. L511-1 à L511-2)](#85)
-  - [Partie réglementaire (art. R112-1 à R432-4)](#86)
-    - [Livre Ier : Organisation administrative (art. R112-1 à D123-3)](#87)
-      - [Titre Ier : Centre national du cinéma et de l'image animée (art. R112-1 à R114-4)](#88)
-        - [Chapitre II : Organisation et fonctionnement (art. R112-1 à A112-36)](#89)
-          - [Section 1 : Conseil d'administration (art. R112-1 à D112-22)](#90)
-            - [Sous-section 1 : Composition et mandat (art. R112-1 à R112-3)](#91)
-            - [Sous-section 2 : Attributions (art. R112-4 à R112-6)](#92)
-            - [Sous-section 3 : Fonctionnement (art. R112-7 à R112-10)](#93)
-            - [Sous-section 4 : Election des représentants du personnel (art. D112-11 à D112-22)](#94)
-          - [Section 2 : Président (art. R112-23 à R112-25)](#95)
-          - [Section 3 : Bulletin officiel du cinéma et de l'image animée (art. D112-26 à A112-36)](#96)
-            - [Sous-section 1 : Dispositions générales (art. D112-26 à D112-29)](#97)
-            - [Sous-section 2 : Publication des actes du Centre national du cinéma et de l'image animée et de son président (art. A112-30 à A112-35)](#98)
-            - [Sous-section 3 : Publication des actes d'autres autorités et organes administratifs (art. A112-36)](#99)
-        - [Chapitre III : Recrutement et statut des agents contractuels (art. A113-3 à R113-1)](#100)
-        - [Chapitre IV : Dispositions financières et comptables (art. R114-1 à R114-4)](#101)
-      - [Titre II : Registres du cinéma et de l'audiovisuel (art. D123-1 à D123-3)](#102)
-        - [Chapitre III : Inscription et publication des actes, conventions et jugements (art. D123-1 à D123-3)](#103)
-    - [Livre II : Professions et activités (art. D210-1 à R241-1)](#104)
-      - [Titre Ier : Exercice des professions et activités du cinéma (art. D210-1 à D214-11)](#105)
-        - [Section préliminaire : Les œuvres cinématographiques (art. D210-1 à A210-11)](#106)
-          - [Sous-section 1 : Caractéristiques des œuvres cinématographiques (art. D210-1 à D210-7)](#107)
-            - [Paragraphe 1 : Œuvres cinématographiques de longue et de courte durée (art. D210-1 à D210-2)](#108)
-            - [Paragraphe 2 : Œuvres cinématographiques d'art et d'essai (art. D210-3 à D210-5)](#109)
-            - [Paragraphe 3 : Œuvres cinématographiques à caractère publicitaire (art. D210-6 à D210-7)](#110)
-          - [Sous-section 2 : Sécurité du support pellicule des œuvres cinématographiques (art. D210-8 à D210-10)](#111)
-          - [Sous-section 3 : Dispositions diverses (art. A210-11)](#112)
-        - [Chapitre Ier : Visa d'exploitation cinématographique (art. R211-1 à R211-49)](#113)
-          - [Section 1 : Délivrance du visa d'exploitation cinématographique (art. R211-1 à R211-15)](#114)
-            - [Sous-section 1 : Demande de visa d'exploitation cinématographique (art. R211-1 à R211-3)](#115)
-            - [Sous-section 2 : Rapport des comités de classification et avis de la commission de classification (art. R211-4 à R211-9)](#116)
-            - [Sous-section 3 : Décision du ministre chargé de la culture (art. D211-16 à R211-15)](#117)
-          - [Section 2 : Obligations liées à la délivrance du visa d'exploitation cinématographique (art. R211-17 à R211-25)](#118)
-          - [Section 3 : Organisation et fonctionnement des instances consultatives (art. R211-26 à R211-43)](#119)
-            - [Sous-section 1 : Comités de classification (art. R211-26 à R211-28)](#120)
-            - [Sous-section 2 : Commission de classification (art. R211-29 à R211-38)](#121)
-              - [Paragraphe 1 : Composition de la commission de classification (art. R211-29 à R211-35)](#122)
-              - [Paragraphe 2 : Fonctionnement de la commission de classification (art. R211-36 à R211-38)](#123)
-            - [Sous-section 3 : Dispositions communes (art. D211-44 à R211-43)](#124)
-          - [Section 4 : Dispositions particulières relatives à certaines représentations cinématographiques (art. R211-45 à R211-49)](#125)
-            - [Sous-section 1 : Représentation cinématographique locale (art. R211-45 à R211-47)](#126)
-            - [Sous-section 2 : Représentation cinématographique d'une œuvre à caractère publicitaire dans un seul département (art. R211-48)](#127)
-            - [Sous-section 3 : Représentation cinématographique dans un établissement scolaire ou universitaire (art. R211-49)](#128)
-        - [Chapitre II : Secteur de l'exploitation cinématographique (art. R212-1 à D212-97)](#129)
-          - [Section 1 : Autorisation d'exercice de la profession d'exploitant d'établissement de spectacles cinématographiques (art. R212-1 à R212-5)](#130)
-            - [Sous-section 1 : Autorisation d'exploiter au titre d'une salle (art. R212-1)](#131)
-            - [Sous-section 2 : Autorisation d'exploiter sous la forme d'une activité itinérante (art. R212-2 à R212-3)](#132)
-            - [Sous-section 3 : Dispositions communes (art. R212-4 à R212-5)](#133)
-          - [Section 2 : Implantation et construction des établissements de spectacles cinématographiques (art. A212-7 à R212-9)](#134)
-            - [Sous-section 1 : Implantation des établissements de spectacles cinématographiques (art. A212-7 à R212-6)](#135)
-            - [Sous-section 2 : Construction des établissements de spectacles cinématographiques (art. R212-9)](#136)
-          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. R212-10 à R212-13)](#137)
-          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. D212-14 à D212-16)](#138)
-          - [Section 5 : Groupements, ententes et engagements de programmation cinématographique (art. R212-17 à R212-43)](#139)
-            - [Sous-section 1 : Agrément des groupements et ententes de programmation (art. R212-17 à R212-29)](#140)
-              - [Paragraphe 1 : Conditions de l'agrément (art. R212-18 à R212-21)](#141)
-              - [Paragraphe 2 : Délivrance de l'agrément (art. R212-22 à R212-29)](#142)
-            - [Sous-section 2 : Engagements de programmation (art. R212-30 à R212-43)](#143)
-              - [Paragraphe 1 : Engagements de programmation soumis à homologation (art. R212-30 à R212-39)](#144)
-              - [Paragraphe 2 : Projets de programmation valant engagements de programmation (art. R212-40 à R212-43)](#145)
-          - [Section 6 : Formules d'accès au cinéma (art. R212-44 à R212-66)](#146)
-            - [Sous-section 1 : Conditions de l'agrément (art. R212-44 à R212-50)](#147)
-            - [Sous-section 2 : Demande d'agrément (art. R212-51 à R212-57)](#148)
-            - [Sous-section 3 : Commission d'agrément des formules d'accès au cinéma (art. R212-58 à R212-65)](#149)
-            - [Sous-section 4 : Retrait de l'agrément (art. R212-66)](#150)
-          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. D212-67 à D212-89)](#151)
-            - [Sous-section 1 : Délivrance des droits d'entrée dans les établissements de spectacles cinématographiques (art. D212-68 à D212-84)](#152)
-              - [Paragraphe 1 : Dispositions générales (art. D212-68 à D212-71)](#153)
-              - [Paragraphe 2 : Dispositions particulières aux billets imprimerie (art. D212-72 à D212-78)](#154)
-              - [Paragraphe 3 : Dispositions particulières aux billets informatiques et aux droits d'entrée dématérialisés (art. D212-79 à D212-84)](#155)
-                - [Sous-Paragraphe 1 : Caractéristiques et homologation des systèmes informatisés de billetterie (art. D212-79)](#156)
-                - [Sous-Paragraphe 2 : Installation et utilisation des systèmes informatisés de billetterie (art. D212-80 à D212-84)](#157)
-            - [Sous-section 2 : Relevés des informations relatives aux recettes réalisées dans les établissements de spectacles cinématographiques (art. D212-85 à D212-87)](#158)
-            - [Sous-section 3 : Déclaration des recettes réalisées dans les établissements de spectacles cinématographiques (art. D212-88 à D212-89)](#159)
-          - [Section 8 : Etablissements de spectacles cinématographiques d'art et d'essai (art. D212-90 à D212-97)](#160)
-            - [Sous-section 1 : Classement des établissements d'art et d'essai (art. D212-90 à D212-93)](#161)
-            - [Sous-section 2 : Commission du cinéma d'art et d'essai (art. D212-94 à D212-97)](#162)
-        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. R213-1 à R213-11)](#163)
-          - [Section unique :  Médiateur du cinéma (art. R213-1 à R213-11)](#164)
-        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. D214-1 à D214-11)](#165)
-          - [Section 1 : Dispositions relatives aux séances organisées exceptionnellement par les associations ou groupements à but non lucratif (art. D214-1 à D214-3)](#166)
-          - [Section 2 : Dispositions relatives aux séances de ciné-club (art. D214-4 à D214-7)](#167)
-          - [Section 3 : Dispositions relatives aux séances en plein air (art. D214-8 à D214-10)](#168)
-          - [Section 4 : Dispositions communes (art. D214-11)](#169)
-      - [Titre II : Édition vidéographique et services de médias audiovisuels à la demande (art. A221-3 à D222-3)](#170)
-        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. A221-3 à R221-4)](#171)
-        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. A222-2 à D222-3)](#172)
-      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. D231-1 à D231-5)](#173)
-        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. D231-1 à D231-5)](#174)
-      - [Titre IV : Dispositions diverses (art. A241-2 à R241-1)](#175)
-        - [Chapitre unique :  Obligation de dépôt légal (art. A241-2 à R241-1)](#176)
-    - [Livre III : Financement et fiscalité (art. D311-1 à D336-2)](#177)
-      - [Titre Ier : Aides du centre national du cinéma et de l'image animée (art. D311-1 à D312-1)](#178)
-        - [Chapitre Ier : Dispositions générales (art. D311-1 à D311-12)](#179)
-          - [Section 1 : Attribution des aides financières (art. D311-1 à D311-3)](#180)
-          - [Section 2 : Exclusion du bénéfice des aides financières (art. D311-4 à D311-12)](#181)
-            - [Sous-section 1 : Exclusion des œuvres ou documents à caractère pornographique ou d'incitation à la violence (art. D311-4)](#182)
-            - [Sous-section 2 : Exclusion des établissements de spectacles cinématographiques représentant des œuvres à caractère pornographique (art. D311-5 à D311-12)](#183)
-              - [Paragraphe 1 : Exclusion des établissements de spectacles cinématographiques spécialisés (art. D311-5 à D311-10)](#184)
-              - [Paragraphe 2 : Exclusion des établissements de spectacles cinématographiques non spécialisés (art. D311-11 à D311-12)](#185)
-        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. D312-1)](#186)
-      - [Titre II : Aides des collectivités territoriales (art. R321-1)](#187)
-        - [Chapitre unique :  Subventions aux exploitants d'établissements de spectacles cinématographiques (art. R321-1)](#188)
-      - [Titre III : Incitations fiscales (art. D331-1 à D336-2)](#189)
-        - [Chapitre Ier : Crédits d'impôt (art. D331-1 à D331-64)](#190)
-          - [Section 1 : Crédit d'impôt pour dépenses de production déléguée d'œuvres cinématographiques ou audiovisuelles (art. D331-1 à D331-18)](#191)
-            - [Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles (art. D331-1 à D331-5)](#192)
-              - [Paragraphe 1 : Conditions relatives à l'entreprise de production (art. D331-1)](#193)
-              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-2 à D331-5)](#194)
-            - [Sous-section 2 : Délivrance des agréments (art. A331-7 à D331-17)](#195)
-              - [Paragraphe 1 : Comité d'experts (art. A331-7 à D331-6)](#196)
-              - [Paragraphe 2 : Agrément provisoire (art. D331-10 à D331-12)](#197)
-              - [Paragraphe 3 : Agrément définitif (art. D331-13 à D331-16)](#198)
-              - [Paragraphe 4 : Dispositions relatives aux œuvres cinématographiques ou audiovisuelles difficiles et à petit budget (art. D331-17)](#199)
-            - [Sous-section 3 : Dépenses de production éligibles (art. D331-18)](#200)
-          - [Section 2 : Crédit d'impôt pour dépenses de création de jeux vidéo (art. D331-19 à D331-37)](#201)
-            - [Sous-section 1 : Jeux vidéo éligibles (art. D331-19 à D331-25)](#202)
-              - [Paragraphe 1 : Conditions relatives à l'entreprise de jeux vidéo et aux jeux vidéo (art. D331-19 à D331-21)](#203)
-              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-22 à D331-25)](#204)
-            - [Sous-section 2 : Délivrance des agréments (art. A331-27 à D331-36)](#205)
-              - [Paragraphe 1 : Comité d'experts (art. A331-27 à D331-26)](#206)
-              - [Paragraphe 2 : Agrément provisoire (art. D331-30 à D331-32)](#207)
-              - [Paragraphe 3 : Agrément définitif (art. D331-33 à D331-36)](#208)
-            - [Sous-section 3 : Dépenses de création éligibles (art. D331-37)](#209)
-          - [Section 3 : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques ou audiovisuelles étrangères (art. D331-38 à D331-64)](#210)
-            - [Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles (art. D331-38 à D331-51)](#211)
-              - [Paragraphe 1 : Conditions relatives aux entreprises de production et aux œuvres cinématographiques ou audiovisuelles (art. D331-38 à D331-39)](#212)
-              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-40 à D331-51)](#213)
-                - [Sous-Paragraphe 1 : Barème de points des œuvres appartenant au genre de la fiction (art. D331-42 à D331-46)](#214)
-                - [Sous-Paragraphe 2 : Barème de points des œuvres appartenant au genre de l'animation (art. D331-47 à D331-51)](#215)
-            - [Sous-section 2 : Délivrance des agréments (art. A331-53 à D331-63)](#216)
-              - [Paragraphe 1 : Comité d'experts (art. A331-53 à D331-52)](#217)
-              - [Paragraphe 2 : Agrément provisoire (art. D331-57 à D331-59)](#218)
-              - [Paragraphe 3 : Agrément définitif (art. D331-60 à D331-62)](#219)
-              - [Paragraphe 4 : Dispositions diverses (art. D331-63)](#220)
-            - [Sous-section 3 : Dépenses de production éligibles (art. D331-64)](#221)
-        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. D332-1 à D332-6)](#222)
-          - [Section 1 : Société de financement de l'industrie cinématographique et audiovisuelle (art. D332-1)](#223)
-          - [Section 2 : Agrément des œuvres (art. D332-2 à D332-6)](#224)
-        - [Chapitre III : Déductions fiscales et réductions d'impôts au titre des investissements outre-mer (art. A333-2 à D333-1)](#225)
-        - [Chapitre VI : Dispositions diverses (art. D336-1 à D336-2)](#226)
-          - [Section 1 : Prélèvement spécial sur les œuvres à caractère pornographique ou d'incitation à la violence (art. D336-1)](#227)
-          - [Section 2 : Taxe sur les ventes et locations de vidéogrammes (art. D336-2)](#228)
-    - [Livre IV : Contrôles et sanctions (art. R411-1 à R432-4)](#229)
-      - [Titre Ier : Procédures de contrôle (art. R411-1 à R414-2)](#230)
-        - [Chapitre Ier : Compétence des agents de contrôle (art. R411-1 à R411-5)](#231)
-        - [Chapitre II : Prérogatives et moyens d'intervention (art. R412-1 à R412-3)](#232)
-        - [Chapitre IV : Constatation des manquements et des infractions (art. R414-1 à R414-2)](#233)
-      - [Titre II : Sanctions administratives (art. R421-1 à R423-18)](#234)
-        - [Chapitre Ier : Champ d'application (art. R421-1)](#235)
-        - [Chapitre III : Décisions de sanction (art. R423-1 à R423-18)](#236)
-          - [Section 1 : Commission du contrôle de la réglementation (art. R423-1 à R423-8)](#237)
-          - [Section 2 : Procédure de sanction (art. R423-9 à R423-15)](#238)
-          - [Section 3 : Sanction, voie de recours et publication (art. R423-16 à R423-18)](#239)
-      - [Titre III : Dispositions pénales (art. R432-1 à R432-4)](#240)
-        - [Chapitre II : Infractions aux dispositions relatives au visa d'exploitation cinématographique (art. R432-1 à R432-4)](#241)
-          - [Section 1 : Infractions aux obligations d'information du public concernant les interdictions aux mineurs (art. R432-1 à R432-2)](#242)
-          - [Section 2 : Infractions aux obligations de contrôle de l'accès des mineurs aux salles de spectacles cinématographiques (art. R432-3 à R432-4)](#243)
+au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#87)
+        - [Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L433-1)](#88)
+        - [Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques (art. L434-1)](#89)
+      - [Titre IV : Actions en justice (art. L441-1 à L442-1)](#90)
+        - [Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L441-1)](#91)
+        - [Chapitre II : Délit de contrefaçon (art. L442-1)](#92)
+    - [Livre V : Dispositions relatives à l'outre-mer (art. L511-1 à L511-2)](#93)
+      - [Titre unique (art. L511-1 à L511-2)](#94)
+        - [Chapitre unique (art. L511-1 à L511-2)](#95)
+  - [Partie réglementaire (art. R112-1 à R432-4)](#96)
+    - [Livre Ier : Organisation administrative (art. R112-1 à D123-3)](#97)
+      - [Titre Ier : Centre national du cinéma et de l'image animée (art. R112-1 à R114-4)](#98)
+        - [Chapitre II : Organisation et fonctionnement (art. R112-1 à A112-36)](#99)
+          - [Section 1 : Conseil d'administration (art. R112-1 à D112-22)](#100)
+            - [Sous-section 1 : Composition et mandat (art. R112-1 à R112-3)](#101)
+            - [Sous-section 2 : Attributions (art. R112-4 à R112-6)](#102)
+            - [Sous-section 3 : Fonctionnement (art. R112-7 à R112-10)](#103)
+            - [Sous-section 4 : Election des représentants du personnel (art. D112-11 à D112-22)](#104)
+          - [Section 2 : Président (art. R112-23 à R112-25)](#105)
+          - [Section 3 : Bulletin officiel du cinéma et de l'image animée (art. D112-26 à A112-36)](#106)
+            - [Sous-section 1 : Dispositions générales (art. D112-26 à D112-29)](#107)
+            - [Sous-section 2 : Publication des actes du Centre national du cinéma et de l'image animée et de son président (art. A112-30 à A112-35)](#108)
+            - [Sous-section 3 : Publication des actes d'autres autorités et organes administratifs (art. A112-36)](#109)
+        - [Chapitre III : Recrutement et statut des agents contractuels (art. A113-3 à R113-1)](#110)
+        - [Chapitre IV : Dispositions financières et comptables (art. R114-1 à R114-4)](#111)
+      - [Titre II : Registres du cinéma et de l'audiovisuel (art. D123-1 à D123-3)](#112)
+        - [Chapitre III : Inscription et publication des actes, conventions et jugements (art. D123-1 à D123-3)](#113)
+    - [Livre II : Professions et activités (art. D210-1 à R241-1)](#114)
+      - [Titre Ier : Exercice des professions et activités du cinéma (art. D210-1 à D214-11)](#115)
+        - [Section préliminaire : Les œuvres cinématographiques (art. D210-1 à A210-11)](#116)
+          - [Sous-section 1 : Caractéristiques des œuvres cinématographiques (art. D210-1 à D210-7)](#117)
+            - [Paragraphe 1 : Œuvres cinématographiques de longue et de courte durée (art. D210-1 à D210-2)](#118)
+            - [Paragraphe 2 : Œuvres cinématographiques d'art et d'essai (art. D210-3 à D210-5)](#119)
+            - [Paragraphe 3 : Œuvres cinématographiques à caractère publicitaire (art. D210-6 à D210-7)](#120)
+          - [Sous-section 2 : Sécurité du support pellicule des œuvres cinématographiques (art. D210-8 à D210-10)](#121)
+          - [Sous-section 3 : Dispositions diverses (art. A210-11)](#122)
+        - [Chapitre Ier : Visa d'exploitation cinématographique (art. R211-1 à R211-49)](#123)
+          - [Section 1 : Délivrance du visa d'exploitation cinématographique (art. R211-1 à R211-15)](#124)
+            - [Sous-section 1 : Demande de visa d'exploitation cinématographique (art. R211-1 à R211-3)](#125)
+            - [Sous-section 2 : Rapport des comités de classification et avis de la commission de classification (art. R211-4 à R211-9)](#126)
+            - [Sous-section 3 : Décision du ministre chargé de la culture (art. D211-16 à R211-15)](#127)
+          - [Section 2 : Obligations liées à la délivrance du visa d'exploitation cinématographique (art. R211-17 à R211-25)](#128)
+          - [Section 3 : Organisation et fonctionnement des instances consultatives (art. R211-26 à R211-43)](#129)
+            - [Sous-section 1 : Comités de classification (art. R211-26 à R211-28)](#130)
+            - [Sous-section 2 : Commission de classification (art. R211-29 à R211-38)](#131)
+              - [Paragraphe 1 : Composition de la commission de classification (art. R211-29 à R211-35)](#132)
+              - [Paragraphe 2 : Fonctionnement de la commission de classification (art. R211-36 à R211-38)](#133)
+            - [Sous-section 3 : Dispositions communes (art. D211-44 à R211-43)](#134)
+          - [Section 4 : Dispositions particulières relatives à certaines représentations cinématographiques (art. R211-45 à R211-49)](#135)
+            - [Sous-section 1 : Représentation cinématographique locale (art. R211-45 à R211-47)](#136)
+            - [Sous-section 2 : Représentation cinématographique d'une œuvre à caractère publicitaire dans un seul département (art. R211-48)](#137)
+            - [Sous-section 3 : Représentation cinématographique dans un établissement scolaire ou universitaire (art. R211-49)](#138)
+        - [Chapitre II : Secteur de l'exploitation cinématographique (art. R212-1 à D212-97)](#139)
+          - [Section 1 : Autorisation d'exercice de la profession d'exploitant d'établissement de spectacles cinématographiques (art. R212-1 à R212-5)](#140)
+            - [Sous-section 1 : Autorisation d'exploiter au titre d'une salle (art. R212-1)](#141)
+            - [Sous-section 2 : Autorisation d'exploiter sous la forme d'une activité itinérante (art. R212-2 à R212-3)](#142)
+            - [Sous-section 3 : Dispositions communes (art. R212-4 à R212-5)](#143)
+          - [Section 2 : Implantation et construction des établissements de spectacles cinématographiques (art. A212-7 à R212-9)](#144)
+            - [Sous-section 1 : Implantation des établissements de spectacles cinématographiques (art. A212-7 à R212-6)](#145)
+            - [Sous-section 2 : Construction des établissements de spectacles cinématographiques (art. R212-9)](#146)
+          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. R212-10 à R212-13)](#147)
+          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. D212-14 à D212-16)](#148)
+          - [Section 5 : Groupements, ententes et engagements de programmation cinématographique (art. R212-17 à R212-43)](#149)
+            - [Sous-section 1 : Agrément des groupements et ententes de programmation (art. R212-17 à R212-29)](#150)
+              - [Paragraphe 1 : Conditions de l'agrément (art. R212-18 à R212-21)](#151)
+              - [Paragraphe 2 : Délivrance de l'agrément (art. R212-22 à R212-29)](#152)
+            - [Sous-section 2 : Engagements de programmation (art. R212-30 à R212-43)](#153)
+              - [Paragraphe 1 : Engagements de programmation soumis à homologation (art. R212-30 à R212-39)](#154)
+              - [Paragraphe 2 : Projets de programmation valant engagements de programmation (art. R212-40 à R212-43)](#155)
+          - [Section 6 : Formules d'accès au cinéma (art. R212-44 à R212-66)](#156)
+            - [Sous-section 1 : Conditions de l'agrément (art. R212-44 à R212-50)](#157)
+            - [Sous-section 2 : Demande d'agrément (art. R212-51 à R212-57)](#158)
+            - [Sous-section 3 : Commission d'agrément des formules d'accès au cinéma (art. R212-58 à R212-65)](#159)
+            - [Sous-section 4 : Retrait de l'agrément (art. R212-66)](#160)
+          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. D212-67 à D212-89)](#161)
+            - [Sous-section 1 : Délivrance des droits d'entrée dans les établissements de spectacles cinématographiques (art. D212-68 à D212-84)](#162)
+              - [Paragraphe 1 : Dispositions générales (art. D212-68 à D212-71)](#163)
+              - [Paragraphe 2 : Dispositions particulières aux billets imprimerie (art. D212-72 à D212-78)](#164)
+              - [Paragraphe 3 : Dispositions particulières aux billets informatiques et aux droits d'entrée dématérialisés (art. D212-79 à D212-84)](#165)
+                - [Sous-Paragraphe 1 : Caractéristiques et homologation des systèmes informatisés de billetterie (art. D212-79)](#166)
+                - [Sous-Paragraphe 2 : Installation et utilisation des systèmes informatisés de billetterie (art. D212-80 à D212-84)](#167)
+            - [Sous-section 2 : Relevés des informations relatives aux recettes réalisées dans les établissements de spectacles cinématographiques (art. D212-85 à D212-87)](#168)
+            - [Sous-section 3 : Déclaration des recettes réalisées dans les établissements de spectacles cinématographiques (art. D212-88 à D212-89)](#169)
+          - [Section 8 : Etablissements de spectacles cinématographiques d'art et d'essai (art. D212-90 à D212-97)](#170)
+            - [Sous-section 1 : Classement des établissements d'art et d'essai (art. D212-90 à D212-93)](#171)
+            - [Sous-section 2 : Commission du cinéma d'art et d'essai (art. D212-94 à D212-97)](#172)
+        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. R213-1 à R213-11)](#173)
+          - [Section unique :  Médiateur du cinéma (art. R213-1 à R213-11)](#174)
+        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. D214-1 à D214-11)](#175)
+          - [Section 1 : Dispositions relatives aux séances organisées exceptionnellement par les associations ou groupements à but non lucratif (art. D214-1 à D214-3)](#176)
+          - [Section 2 : Dispositions relatives aux séances de ciné-club (art. D214-4 à D214-7)](#177)
+          - [Section 3 : Dispositions relatives aux séances en plein air (art. D214-8 à D214-10)](#178)
+          - [Section 4 : Dispositions communes (art. D214-11)](#179)
+      - [Titre II : Édition vidéographique et services de médias audiovisuels à la demande (art. A221-3 à D222-3)](#180)
+        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. A221-3 à R221-4)](#181)
+        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. A222-2 à D222-3)](#182)
+      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. D231-1 à D231-5)](#183)
+        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. D231-1 à D231-5)](#184)
+      - [Titre IV : Dispositions diverses (art. A241-2 à R241-1)](#185)
+        - [Chapitre unique :  Obligation de dépôt légal (art. A241-2 à R241-1)](#186)
+    - [Livre III : Financement et fiscalité (art. D311-1 à D336-2)](#187)
+      - [Titre Ier : Aides du centre national du cinéma et de l'image animée (art. D311-1 à D312-1)](#188)
+        - [Chapitre Ier : Dispositions générales (art. D311-1 à D311-12)](#189)
+          - [Section 1 : Attribution des aides financières (art. D311-1 à D311-3)](#190)
+          - [Section 2 : Exclusion du bénéfice des aides financières (art. D311-4 à D311-12)](#191)
+            - [Sous-section 1 : Exclusion des œuvres ou documents à caractère pornographique ou d'incitation à la violence (art. D311-4)](#192)
+            - [Sous-section 2 : Exclusion des établissements de spectacles cinématographiques représentant des œuvres à caractère pornographique (art. D311-5 à D311-12)](#193)
+              - [Paragraphe 1 : Exclusion des établissements de spectacles cinématographiques spécialisés (art. D311-5 à D311-10)](#194)
+              - [Paragraphe 2 : Exclusion des établissements de spectacles cinématographiques non spécialisés (art. D311-11 à D311-12)](#195)
+        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. D312-1)](#196)
+      - [Titre II : Aides des collectivités territoriales (art. R321-1)](#197)
+        - [Chapitre unique :  Subventions aux exploitants d'établissements de spectacles cinématographiques (art. R321-1)](#198)
+      - [Titre III : Incitations fiscales (art. D331-1 à D336-2)](#199)
+        - [Chapitre Ier : Crédits d'impôt (art. D331-1 à D331-64)](#200)
+          - [Section 1 : Crédit d'impôt pour dépenses de production déléguée d'œuvres cinématographiques ou audiovisuelles (art. D331-1 à D331-18)](#201)
+            - [Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles (art. D331-1 à D331-5)](#202)
+              - [Paragraphe 1 : Conditions relatives à l'entreprise de production (art. D331-1)](#203)
+              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-2 à D331-5)](#204)
+            - [Sous-section 2 : Délivrance des agréments (art. A331-7 à D331-17)](#205)
+              - [Paragraphe 1 : Comité d'experts (art. A331-7 à D331-6)](#206)
+              - [Paragraphe 2 : Agrément provisoire (art. D331-10 à D331-12)](#207)
+              - [Paragraphe 3 : Agrément définitif (art. D331-13 à D331-16)](#208)
+              - [Paragraphe 4 : Dispositions relatives aux œuvres cinématographiques ou audiovisuelles difficiles et à petit budget (art. D331-17)](#209)
+            - [Sous-section 3 : Dépenses de production éligibles (art. D331-18)](#210)
+          - [Section 2 : Crédit d'impôt pour dépenses de création de jeux vidéo (art. D331-19 à D331-37)](#211)
+            - [Sous-section 1 : Jeux vidéo éligibles (art. D331-19 à D331-25)](#212)
+              - [Paragraphe 1 : Conditions relatives à l'entreprise de jeux vidéo et aux jeux vidéo (art. D331-19 à D331-21)](#213)
+              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-22 à D331-25)](#214)
+            - [Sous-section 2 : Délivrance des agréments (art. A331-27 à D331-36)](#215)
+              - [Paragraphe 1 : Comité d'experts (art. A331-27 à D331-26)](#216)
+              - [Paragraphe 2 : Agrément provisoire (art. D331-30 à D331-32)](#217)
+              - [Paragraphe 3 : Agrément définitif (art. D331-33 à D331-36)](#218)
+            - [Sous-section 3 : Dépenses de création éligibles (art. D331-37)](#219)
+          - [Section 3 : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques ou audiovisuelles étrangères (art. D331-38 à D331-64)](#220)
+            - [Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles (art. D331-38 à D331-51)](#221)
+              - [Paragraphe 1 : Conditions relatives aux entreprises de production et aux œuvres cinématographiques ou audiovisuelles (art. D331-38 à D331-39)](#222)
+              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-40 à D331-51)](#223)
+                - [Sous-Paragraphe 1 : Barème de points des œuvres appartenant au genre de la fiction (art. D331-42 à D331-46)](#224)
+                - [Sous-Paragraphe 2 : Barème de points des œuvres appartenant au genre de l'animation (art. D331-47 à D331-51)](#225)
+            - [Sous-section 2 : Délivrance des agréments (art. A331-53 à D331-63)](#226)
+              - [Paragraphe 1 : Comité d'experts (art. A331-53 à D331-52)](#227)
+              - [Paragraphe 2 : Agrément provisoire (art. D331-57 à D331-59)](#228)
+              - [Paragraphe 3 : Agrément définitif (art. D331-60 à D331-62)](#229)
+              - [Paragraphe 4 : Dispositions diverses (art. D331-63)](#230)
+            - [Sous-section 3 : Dépenses de production éligibles (art. D331-64)](#231)
+        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. D332-1 à D332-6)](#232)
+          - [Section 1 : Société de financement de l'industrie cinématographique et audiovisuelle (art. D332-1)](#233)
+          - [Section 2 : Agrément des œuvres (art. D332-2 à D332-6)](#234)
+        - [Chapitre III : Déductions fiscales et réductions d'impôts au titre des investissements outre-mer (art. A333-2 à D333-1)](#235)
+        - [Chapitre VI : Dispositions diverses (art. D336-1 à D336-2)](#236)
+          - [Section 1 : Prélèvement spécial sur les œuvres à caractère pornographique ou d'incitation à la violence (art. D336-1)](#237)
+          - [Section 2 : Taxe sur les ventes et locations de vidéogrammes (art. D336-2)](#238)
+    - [Livre IV : Contrôles et sanctions (art. R411-1 à R432-4)](#239)
+      - [Titre Ier : Procédures de contrôle (art. R411-1 à R414-2)](#240)
+        - [Chapitre Ier : Compétence des agents de contrôle (art. R411-1 à R411-5)](#241)
+        - [Chapitre II : Prérogatives et moyens d'intervention (art. R412-1 à R412-3)](#242)
+        - [Chapitre IV : Constatation des manquements et des infractions (art. R414-1 à R414-2)](#243)
+      - [Titre II : Sanctions administratives (art. R421-1 à R423-18)](#244)
+        - [Chapitre Ier : Champ d'application (art. R421-1)](#245)
+        - [Chapitre III : Décisions de sanction (art. R423-1 à R423-18)](#246)
+          - [Section 1 : Commission du contrôle de la réglementation (art. R423-1 à R423-8)](#247)
+          - [Section 2 : Procédure de sanction (art. R423-9 à R423-15)](#248)
+          - [Section 3 : Sanction, voie de recours et publication (art. R423-16 à R423-18)](#249)
+      - [Titre III : Dispositions pénales (art. R432-1 à R432-4)](#250)
+        - [Chapitre II : Infractions aux dispositions relatives au visa d'exploitation cinématographique (art. R432-1 à R432-4)](#251)
+          - [Section 1 : Infractions aux obligations d'information du public concernant les interdictions aux mineurs (art. R432-1 à R432-2)](#252)
+          - [Section 2 : Infractions aux obligations de contrôle de l'accès des mineurs aux salles de spectacles cinématographiques (art. R432-3 à R432-4)](#253)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Organisation administrative<a id=2></a>
@@ -654,9 +664,9 @@ _Anciens textes_:
 ###### Article L115-1
 
 Est affecté au Centre national du cinéma et de l'image animée le produit d'une taxe assise sur le prix des entrées aux
-séances organisées par les exploitants d'établissements de spectacles cinématographiques situés en France métropolitaine,
-quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres ou documents cinématographiques
-ou audiovisuels qui y sont représentés. 
+séances organisées par les exploitants d'établissements de spectacles cinématographiques situés en France métropolitaine ou
+dans les départements d'outre-mer, quels que soient le procédé de fixation ou de transmission et la nature du support des
+œuvres ou documents cinématographiques ou audiovisuels qui y sont représentés. 
 
 Les exploitants et les représentations concernés sont ceux soumis au présent code. 
 
@@ -666,10 +676,6 @@ la base de la répartition des recettes entre l'exploitant de l'établissement d
 distributeur et les ayants droit de chaque œuvre ou document cinématographique ou audiovisuel.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 _Cité par_:
 
@@ -701,13 +707,17 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L311-2 (V)
   - Livre des procédures fiscales - art. L163 (VD)
 
+_Modifié par_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 117
+
 _Anciens textes_:
 
   - Code de l'industrie cinématographique - art. 45 (VT)
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L212-23 (V)
+  - Code du cinéma et de l'image animée - art. L212-23
 
 
 ###### Article L115-2
@@ -2403,17 +2413,20 @@ Les créations, extensions et réouvertures au public d'établissements de spect
 exigences de diversité de l'offre cinématographique, d'aménagement culturel du territoire, de protection de l'environnement
 et de qualité de l'urbanisme, en tenant compte de la nature spécifique des œuvres cinématographiques. Elles doivent
 contribuer à la modernisation des établissements de spectacles cinématographiques et à la satisfaction des intérêts du
-spectateur tant en ce qui concerne la programmation d'une offre diversifiée que la qualité des services offerts.
+spectateur tant en ce qui concerne la programmation d'une offre diversifiée, le maintien et la protection du pluralisme dans
+le secteur de l'exploitation cinématographique que la qualité des services offerts.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-_Anciens textes_:
-
-  - Code de l'industrie cinématographique - art. 30-1 (Ab)
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 _Cité par_:
 
@@ -2422,10 +2435,279 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L212-9 (VD)
 
 
+##### Sous-section 1 : Commissions d'aménagement cinématographique<a id=27></a>
+
+##### Paragraphe 1 : Commission départementale d'aménagement cinématographique<a id=28></a>
+
+###### Article L212-6-1
+
+Une commission départementale d'aménagement cinématographique statue sur les demandes d'autorisation d'aménagement
+cinématographique qui lui sont présentées en application des articles L. 212-7 à L. 212-9.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-6-2
+
+I.-La commission départementale d'aménagement cinématographique est présidée par le représentant de l'Etat dans le
+département. 
+
+II.-La commission est composée : 
+
+1° Des cinq élus suivants : 
+
+a) Le maire de la commune d'implantation du projet d'aménagement cinématographique ; 
+
+b) Le président de l'établissement public de coopération intercommunale compétent en matière d'aménagement de l'espace et de
+développement dont est membre la commune d'implantation ou, à défaut, le conseiller général du canton d'implantation ; 
+
+c) Le maire de la commune la plus peuplée de l'arrondissement, autre que la commune d'implantation ; à l'exception des
+communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et des communes de l'Essonne, du Val-
+d'Oise, des Yvelines et de Seine-et-Marne appartenant à l'agglomération parisienne au sens de l'Institut national de la
+statistique et des études économiques, dans le cas où la commune d'implantation appartient à une agglomération comportant au
+moins cinq communes, le maire de la commune la plus peuplée est choisi parmi les maires des communes de ladite
+agglomération ; 
+
+d) Le président du conseil général ou son représentant ; 
+
+e) Le président du syndicat mixte ou de l'établissement public de coopération intercommunale chargé du schéma de cohérence
+territoriale auquel adhère la commune d'implantation ou son représentant ou, à défaut, un adjoint au maire de la commune
+d'implantation. 
+
+Lorsque l'un des élus détient plusieurs des mandats mentionnés au présent 1°, le représentant de l'Etat dans le département
+désigne pour le remplacer un ou plusieurs maires de communes situées dans la zone d'influence cinématographique concernée ; 
+
+2° De trois personnalités qualifiées, respectivement, en matière de distribution et d'exploitation cinématographiques, de
+développement durable et d'aménagement du territoire. 
+
+Lorsque la zone d'influence cinématographique du projet dépasse les limites du département, le représentant de l'Etat dans le
+département complète la composition de la commission en désignant au moins un élu et une personnalité qualifiée de chaque
+autre département concerné. 
+
+La commission entend toute personne susceptible d'éclairer sa décision. 
+
+III.-A Paris, la commission est composée : 
+
+1° Des cinq élus suivants : 
+
+a) Le maire de Paris ou son représentant ; 
+
+b) Le maire de l'arrondissement du lieu d'implantation du projet d'aménagement cinématographique ou son représentant ; 
+
+c) Un conseiller d'arrondissement désigné par le conseil de Paris ; 
+
+d) Un adjoint au maire de Paris ; 
+
+e) Un conseiller régional désigné par le conseil régional d'Ile-de-France ; 
+
+2° De trois personnalités qualifiées, respectivement, en matière de distribution et d'exploitation cinématographiques, de
+développement durable et d'aménagement du territoire. 
+
+La commission entend toute personne susceptible d'éclairer sa décision. 
+
+IV.-La personnalité qualifiée en matière de distribution et d'exploitation cinématographiques mentionnée au 2° des II et III
+est proposée par le président du Centre national du cinéma et de l'image animée sur une liste établie par lui.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L212-10-3 (V)
+  - Code du cinéma et de l'image animée - art. R212-6-6 (V)
+
+
+###### Article L212-6-3
+
+Tout membre de la commission départementale d'aménagement cinématographique informe le représentant de l'Etat dans le
+département des intérêts qu'il détient et de l'activité économique qu'il exerce. 
+
+Aucun membre de la commission départementale d'aménagement cinématographique ne peut délibérer dans une affaire où il a un
+intérêt personnel ou s'il représente ou a représenté une ou plusieurs parties.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. R212-6-7 (V)
+
+
+###### Article L212-6-4
+
+Les conditions de désignation des membres de la commission départementale d'aménagement cinématographique et les modalités de
+son fonctionnement sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+##### Paragraphe 2 : Commission nationale d'aménagement cinématographique<a id=29></a>
+
+###### Article L212-6-5
+
+La Commission nationale d'aménagement cinématographique comprend neuf membres nommés, pour une durée de six ans non
+renouvelable, par décret.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-6-6
+
+La Commission nationale d'aménagement cinématographique est composée : 
+
+1° D'un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat, président ; 
+
+2° D'un membre de la Cour des comptes désigné par le premier président de la Cour des comptes ; 
+
+3° D'un membre de l'inspection générale des finances désigné par le chef de ce service ; 
+
+4° D'un membre du corps de l'inspection générale des affaires culturelles ; 
+
+5° De deux personnalités qualifiées en matière de distribution et d'exploitation cinématographiques, dont une proposée par le
+président du Centre national du cinéma et de l'image animée, désignées par le ministre chargé de la culture ; 
+
+6° De trois personnalités désignées pour leur compétence, respectivement, en matière de consommation, d'urbanisme, de
+développement durable, d'aménagement du territoire ou d'emploi. Le président de l'Assemblée nationale, le président du Sénat
+et le ministre chargé de l'urbanisme désignent chacun une de ces trois personnalités.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-6-7
+
+Les membres de la Commission nationale d'aménagement cinématographique se conforment aux obligations de dépôt des
+déclarations prévues au 6° du I de l'article 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie
+publique. Leurs déclarations d'intérêts sont tenues à la disposition de l'ensemble des autres membres de la Commission
+nationale d'aménagement cinématographique par le président. 
+
+Aucun membre de la Commission nationale d'aménagement cinématographique ne peut participer à des débats ou à une délibération
+dans une affaire dans laquelle lui-même ou une personne morale au sein de laquelle il a, au cours des trois années précédant
+la délibération, exercé des fonctions ou détenu un mandat a eu un intérêt ou représenté une partie intéressée au cours de la
+même période. 
+
+La Commission nationale d'aménagement cinématographique peut suspendre le mandat d'un de ses membres ou y mettre fin si elle
+constate, à la majorité des trois quarts des autres membres, qu'il se trouve dans une situation d'incompatibilité, qu'il est
+empêché d'exercer ses fonctions ou qu'il a manqué à ses obligations.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2013-907 du 11 octobre 2013 - art. 11 (V)
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-6-8
+
+Les conditions de désignation des membres de la Commission nationale d'aménagement cinématographique et de son président,
+ainsi que les modalités de son fonctionnement, sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+##### Paragraphe 3 : Dispositions communes<a id=30></a>
+
+###### Article L212-6-9
+
+Les commissions d'aménagement cinématographique autorisent ou refusent les projets dans leur totalité.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+##### Sous-section 2 : Autorisation d'aménagement cinématographique<a id=31></a>
+
+##### Paragraphe 1 : Projets soumis à autorisation<a id=32></a>
+
 ###### Article L212-7
 
-Sont soumis à autorisation, préalablement à la délivrance du permis de construire s'il y a lieu et avant réalisation si le
-permis de construire n'est pas exigé, les projets ayant pour objet :
+Sont soumis à autorisation les projets ayant pour objet :
 
 1° La création d'un établissement de spectacles cinématographiques comportant plusieurs salles et plus de 300 places et
 résultant soit d'une construction nouvelle, soit de la transformation d'un immeuble existant ;
@@ -2437,18 +2719,31 @@ places existantes et s'effectuant plus de cinq ans après la mise en exploitatio
 3° L'extension d'un établissement de spectacles cinématographiques comportant plusieurs salles et ayant déjà atteint le seuil
 de 1 500 places ou devant le dépasser par la réalisation du projet ;
 
+3° bis L'extension d'un établissement de spectacles cinématographiques comportant déjà huit salles au moins ou devant
+dépasser ce seuil par la réalisation du projet ; 
+
 4° La réouverture au public, sur le même emplacement, d'un établissement de spectacles cinématographiques comportant
 plusieurs salles et plus de 300 places et dont les locaux ont cessé d'être exploités pendant deux années consécutives.
 
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+Conformément à l'article 57 III, les demandes d'autorisation déposées en application de l'article L. 212-7 du code du cinéma
+et de l'image animée avant la date d'entrée en vigueur de la présente loi demeurent soumises aux dispositions applicables à
+la date de leur dépôt.
+
+Les membres de la Commission nationale d'aménagement commercial, dans sa composition spéciale pour statuer sur les projets
+d'aménagement cinématographique à la date d'entrée en vigueur du présent article, deviennent membres de la Commission
+nationale d'aménagement cinématographique pour la durée de leur mandat restant à courir.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-_Anciens textes_:
-
-  - Code de l'industrie cinématographique - art. 30-2, ( I )  (Ab)
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 _Cité par_:
 
@@ -2499,18 +2794,14 @@ commun.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 _Cite_:
 
-  - Code de commerce. - art. L233-16 (V)
-  - Code du cinéma et de l'image animée - art. L212-7 (V)
-
-_Anciens textes_:
-
-  - Code de l'industrie cinématographique - art. 30-2, ( II ) (Ab)
+  - Code de commerce - art. L233-16
+  - Code du cinéma et de l'image animée - art. L212-7
 
 _Cité par_:
 
@@ -2519,10 +2810,31 @@ _Cité par_:
   - Code de l'urbanisme - art. L142-4 (VD)
 
 
+###### Article L212-8-1
+
+Les projets d'aménagement cinématographique ne sont soumis à l'examen de la commission départementale d'aménagement
+cinématographique qu'à la condition d'être accompagnés de l'indication de la personne qui sera titulaire de l'autorisation
+d'exercice délivrée en application des articles L. 212-2 à L. 212-5.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+##### Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique<a id=33></a>
+
 ###### Article L212-9
 
-Dans le cadre des principes définis à l'article L. 212-6, les commissions d'aménagement commercial statuant en matière
-cinématographique se prononcent sur les deux critères suivants : 
+Dans le cadre des principes définis à l'article L. 212-6, la commission départementale d'aménagement cinématographique se
+prononce sur les deux critères suivants : 
 
 1° L'effet potentiel sur la diversité cinématographique offerte aux spectateurs dans la zone d'influence cinématographique
 concernée, évalué au moyen des indicateurs suivants : 
@@ -2550,20 +2862,31 @@ desserte routière, des parcs de stationnement ;
 
 d) L'insertion du projet dans son environnement ; 
 
-e) La localisation du projet.
+e) La localisation du projet, notamment au regard des schémas de cohérence territoriale et des plans locaux d'urbanisme.
+
+Lorsqu'une autorisation s'appuie notamment sur le projet de programmation cinématographique, ce projet fait l'objet d'un
+engagement de programmation cinématographique souscrit en application du 3° de l'article L. 212-23. 
+
+Lorsque le projet présenté concerne l'extension d'un établissement définie aux 2°, 3° ou 3° bis de l'article L. 212-7, le
+respect de l'engagement de programmation cinématographique souscrit par l'exploitant de l'établissement de spectacles
+cinématographiques en application de l'article L. 212-23 fait l'objet d'un contrôle du Centre national du cinéma et de
+l'image animée, transmis à la commission d'aménagement cinématographique compétente pour l'instruction du dossier.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-_Anciens textes_:
-
-  - Code de l'industrie cinématographique - art. 30-3 (Ab)
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 _Cité par_:
 
+  - Code de commerce - art. L752-7 (VT)
   - Code du cinéma et de l'image animée - art. A212-7 (Ab)
   - Code du cinéma et de l'image animée - art. A212-7-3-1 (V)
   - Code du cinéma et de l'image animée - art. L212-21 (V)
@@ -2572,31 +2895,250 @@ _Cité par_:
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L212-19 (V)
-  - Code du cinéma et de l'image animée - art. L212-6 (V)
+  - Code du cinéma et de l'image animée - art. L212-19
+  - Code du cinéma et de l'image animée - art. L212-6
 
 
 ###### Article L212-10
 
-Les règles relatives aux commissions d'aménagement commercial statuant en matière cinématographique et aux modalités de
-délivrance de l'autorisation prévue par les dispositions de la présente section sont fixées par les articles L. 751-1 à L.
-751-7, L. 752-3-1, L. 752-7 et L. 752-14 à L. 752-22 du code de commerce.
+L'instruction des demandes d'autorisation est faite par les services déconcentrés de l'Etat.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+_Cite_:
+
+  - Code de commerce - art. L751-1
+  - Code de commerce - art. L752-14
+  - Code de commerce - art. L752-3-1
+  - Code de commerce - art. L752-7
+
+
+###### Article L212-10-1
+
+I.-La commission départementale d'aménagement cinématographique autorise les projets par un vote à la majorité absolue des
+membres présents. Le procès-verbal indique le sens du vote émis par chacun de ces membres. 
+
+Le représentant de l'Etat dans le département ne prend pas part au vote. 
+
+II.-La commission départementale d'aménagement cinématographique se prononce dans un délai de deux mois à compter de sa
+saisine. 
+
+Passé ce délai, la décision est réputée favorable. 
+
+Les membres de la commission départementale d'aménagement cinématographique ont connaissance des demandes d'autorisation
+déposées au moins dix jours avant d'avoir à statuer. 
+
+La décision est notifiée dans les dix jours au maire et au pétitionnaire. Elle est également notifiée au médiateur du cinéma.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. R212-7-20 (V)
+
+
+###### Article L212-10-2
+
+L'autorisation d'aménagement cinématographique est délivrée préalablement à la délivrance du permis de construire s'il y a
+lieu, ou avant la réalisation du projet si le permis de construire n'est pas exigé. 
+
+L'autorisation est accordée pour un nombre déterminé de salles et de places de spectateur. 
+
+Une nouvelle demande d'autorisation est nécessaire lorsque le projet, en cours d'instruction ou de réalisation, subit des
+modifications substantielles concernant le nombre de salles et de places de spectateur. Il en est de même en cas de
+modification de la ou des enseignes désignées par le pétitionnaire. 
+
+L'autorisation d'aménagement cinématographique n'est ni cessible, ni transmissible tant que la mise en exploitation de
+l'établissement de spectacles cinématographiques n'est pas intervenue.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L414-4 (V)
+  - Code du cinéma et de l'image animée - art. R212-7-11 (V)
+
+
+##### Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique<a id=34></a>
+
+###### Article L212-10-3
+
+A l'initiative du représentant de l'Etat dans le département, du maire de la commune d'implantation, du président de
+l'établissement public de coopération intercommunale mentionné au b du 1° du II de l'article L. 212-6-2, de celui mentionné
+au e du même 1° ou du président du syndicat mixte mentionné au même e et de toute personne ayant intérêt à agir, la décision
+de la commission départementale d'aménagement cinématographique peut, dans un délai d'un mois, faire l'objet d'un recours
+devant la Commission nationale d'aménagement cinématographique. La Commission nationale d'aménagement cinématographique se
+prononce dans un délai de quatre mois à compter de sa saisine. 
+
+La saisine de la Commission nationale d'aménagement cinématographique est un préalable obligatoire à un recours contentieux,
+à peine d'irrecevabilité de ce dernier. 
+
+Ce recours est également ouvert au médiateur du cinéma.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+_Cité par_:
+
+  - Code de justice administrative - art. R311-3 (V)
+  - Code du cinéma et de l'image animée - art. R212-7-20 (V)
+  - Code du cinéma et de l'image animée - art. R212-7-21 (V)
+  - Code du cinéma et de l'image animée - art. R212-7-24 (V)
+  - Code du cinéma et de l'image animée - art. R212-7-31 (V)
 
 _Cite_:
 
-  - Code de commerce. - art. L751-1 (V)
-  - Code de commerce. - art. L752-14 (V)
-  - Code de commerce. - art. L752-3-1 (V)
-  - Code de commerce. - art. L752-7 (V)
+  - Code du cinéma et de l'image animée - art. L212-6-2 (VT)
 
 
-##### Sous-section 3 : Dispositions diverses<a id=27></a>
+###### Article L212-10-4
+
+Avant l'expiration du délai de recours ou, en cas de recours, avant la décision de la Commission nationale d'aménagement
+cinématographique, le permis de construire ne peut être accordé ni la réalisation entreprise et aucune nouvelle demande ne
+peut être déposée pour le même terrain d'assiette auprès de la commission départementale d'aménagement cinématographique.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-10-5
+
+Le maire de la commune d'implantation membre de la commission départementale d'aménagement cinématographique dont la décision
+fait l'objet du recours est entendu, lorsqu'il le demande, par la Commission nationale d'aménagement cinématographique.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-10-6
+
+Un commissaire du Gouvernement nommé par le ministre chargé de la culture assiste aux séances de la Commission nationale
+d'aménagement cinématographique.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-10-7
+
+Le président de la Commission nationale d'aménagement cinématographique a voix prépondérante en cas de partage égal des voix.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-10-8
+
+En cas de rejet pour un motif de fond de la demande d'autorisation par la Commission nationale d'aménagement
+cinématographique, il ne peut être déposé de nouvelle demande par le même pétitionnaire, pour un même projet et sur le même
+terrain, pendant une période d'un an à compter de la date de la décision de la commission nationale.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+###### Article L212-10-9
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent paragraphe.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+
+##### Sous-section 3 : Dispositions diverses<a id=35></a>
 
 ###### Article L212-11
 
@@ -2653,7 +3195,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-7
 
 
-##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=28></a>
+##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=36></a>
 
 ###### Article L212-14
 
@@ -2736,7 +3278,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L111-3 (V)
 
 
-##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=29></a>
+##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=37></a>
 
 ###### Article L212-18
 
@@ -2761,7 +3303,7 @@ _Cité par_:
 
 
 ##### Section 5 : Groupements, ententes et engagements 
-de programmation cinématographique<a id=30></a>
+de programmation cinématographique<a id=38></a>
 
 ###### Article L212-19
 
@@ -2856,10 +3398,16 @@ et uniquement la programmation des établissements de spectacles cinématographi
 et homologués par le président du Centre national du cinéma et de l'image animée ; 
 
 3° Les projets de programmation, mentionnés à l'article L. 212-9, sur la base desquels les commissions d'aménagement
-commercial statuant en matière cinématographique ont accordé des autorisations en application de l'article L. 212-7 ; 
+cinématographique ont accordé des autorisations en application de l'article L. 212-7 ; 
 
 4° Tout projet de programmation sur la base duquel un exploitant d'établissement de spectacles cinématographiques a bénéficié
 d'une aide financière du Centre national du cinéma et de l'image animée attribuée sous forme sélective.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
@@ -2883,7 +3431,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 1
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 _Anciens textes_:
 
@@ -2893,7 +3441,7 @@ _Cite_:
 
   - Code du cinéma et de l'image animée - art. L212-19
   - Code du cinéma et de l'image animée - art. L212-7
-  - Code du cinéma et de l'image animée - art. L212-9 (V)
+  - Code du cinéma et de l'image animée - art. L212-9
 
 
 ###### Article L212-24
@@ -2982,7 +3530,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L441-1 (V)
 
 
-##### Section 6 : Formules d'accès au cinéma<a id=31></a>
+##### Section 6 : Formules d'accès au cinéma<a id=39></a>
 
 ###### Article L212-27
 
@@ -3142,7 +3690,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-29
 
 
-##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=32></a>
+##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=40></a>
 
 ###### Article L212-32
 
@@ -3201,9 +3749,9 @@ _Anciens textes_:
   - Code du cinéma et de l'image animée - art. L212-26 (T)
 
 
-#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=33></a>
+#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=41></a>
 
-##### Section 1 : Médiateur du cinéma<a id=34></a>
+##### Section 1 : Médiateur du cinéma<a id=42></a>
 
 ###### Article L213-1
 
@@ -3381,7 +3929,7 @@ _Créé par_:
   - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
 
 
-##### Section 2 : Concession des droits de représentation cinématographique<a id=35></a>
+##### Section 2 : Concession des droits de représentation cinématographique<a id=43></a>
 
 ###### Article L213-9
 
@@ -3508,7 +4056,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L213-12
 
 
-##### Section 3 : Contrat de concession des droits de représentation cinématographique<a id=36></a>
+##### Section 3 : Contrat de concession des droits de représentation cinématographique<a id=44></a>
 
 ###### Article L213-14
 
@@ -3555,7 +4103,7 @@ _Cite_:
 
 
 ##### Section 4 : Equipement numérique des établissements 
-de spectacles cinématographiques<a id=37></a>
+de spectacles cinématographiques<a id=45></a>
 
 ###### Article L213-16
 
@@ -3799,7 +4347,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-23
 
 
-#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=38></a>
+#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=46></a>
 
 ###### Article L214-1
 
@@ -4024,9 +4572,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L214-1 (V)
 
 
-### Titre II : Edition vidéographique et services de médias audiovisuels à la demande<a id=39></a>
+### Titre II : Edition vidéographique et services de médias audiovisuels à la demande<a id=47></a>
 
-#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=40></a>
+#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=48></a>
 
 ###### Article L221-1
 
@@ -4061,7 +4609,7 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=41></a>
+#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=49></a>
 
 ###### Article L222-1
 
@@ -4094,7 +4642,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L441-1 (V)
 
 
-#### Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande<a id=42></a>
+#### Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande<a id=50></a>
 
 ###### Article L223-1
 
@@ -4134,9 +4682,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L223-1
 
 
-### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=43></a>
+### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=51></a>
 
-#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=44></a>
+#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=52></a>
 
 ###### Article L231-1
 
@@ -4175,7 +4723,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
-#### Chapitre II : Exploitation sur les services de médias audiovisuels à la demande<a id=45></a>
+#### Chapitre II : Exploitation sur les services de médias audiovisuels à la demande<a id=53></a>
 
 ###### Article L232-1
 
@@ -4217,7 +4765,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
-#### Chapitre III : Exploitation sur les services de télévision<a id=46></a>
+#### Chapitre III : Exploitation sur les services de télévision<a id=54></a>
 
 ###### Article L233-1
 
@@ -4245,7 +4793,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L234-1 (V)
 
 
-#### Chapitre IV : Dispositions communes<a id=47></a>
+#### Chapitre IV : Dispositions communes<a id=55></a>
 
 ###### Article L234-1
 
@@ -4296,9 +4844,9 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 30-7, alinéa 5 (Ab)
 
 
-### Titre IV : Dispositions diverses<a id=48></a>
+### Titre IV : Dispositions diverses<a id=56></a>
 
-#### Chapitre unique : Obligation de dépôt légal<a id=49></a>
+#### Chapitre unique : Obligation de dépôt légal<a id=57></a>
 
 ###### Article L241-1
 
@@ -4313,11 +4861,11 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-## Livre III : Financement et fiscalité<a id=50></a>
+## Livre III : Financement et fiscalité<a id=58></a>
 
-### Titre Ier : Aides du Centre national du cinéma et de l'image animée<a id=51></a>
+### Titre Ier : Aides du Centre national du cinéma et de l'image animée<a id=59></a>
 
-#### Chapitre Ier : Dispositions générales<a id=52></a>
+#### Chapitre Ier : Dispositions générales<a id=60></a>
 
 ###### Article L311-1
 
@@ -4392,7 +4940,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L115-1 (VD)
 
 
-#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=53></a>
+#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=61></a>
 
 ###### Article L312-1
 
@@ -4536,7 +5084,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 70 (Ab)
 
 
-#### Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer<a id=54></a>
+#### Chapitre III : Aides à la production des œuvres cinématographiques intéressant l'outre-mer<a id=62></a>
 
 ###### Article L313-1
 
@@ -4561,9 +5109,9 @@ _Abrogé par_:
   - Ordonnance n°2017-762 du 4 mai 2017 - art. 23
 
 
-### Titre II : Aides des collectivités territoriales<a id=55></a>
+### Titre II : Aides des collectivités territoriales<a id=63></a>
 
-#### Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=56></a>
+#### Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=64></a>
 
 ###### Article L321-1
 
@@ -4614,9 +5162,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4211-1 (V)
 
 
-### Titre III : Incitations fiscales<a id=57></a>
+### Titre III : Incitations fiscales<a id=65></a>
 
-#### Chapitre Ier : Crédits d'impôt<a id=58></a>
+#### Chapitre Ier : Crédits d'impôt<a id=66></a>
 
 ###### Article L331-1
 
@@ -4696,7 +5244,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 quaterdecies (VT)
 
 
-#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=59></a>
+#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=67></a>
 
 ###### Article L332-1
 
@@ -4732,7 +5280,7 @@ _Cite_:
 
 
 #### Chapitre III : Déductions fiscales et réductions d'impôt
-au titre des investissements outre-mer<a id=60></a>
+au titre des investissements outre-mer<a id=68></a>
 
 ###### Article L333-1
 
@@ -4792,7 +5340,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 217 duodecies (V)
 
 
-#### Chapitre IV : Taxe sur la valeur ajoutée<a id=61></a>
+#### Chapitre IV : Taxe sur la valeur ajoutée<a id=69></a>
 
 ###### Article L334-2
 
@@ -4858,7 +5406,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 279 bis (V)
 
 
-#### Chapitre V : Contribution économique territoriale<a id=62></a>
+#### Chapitre V : Contribution économique territoriale<a id=70></a>
 
 ###### Article L335-1
 
@@ -4895,7 +5443,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1586 nonies (V)
 
 
-#### Chapitre VI : Dispositions diverses<a id=63></a>
+#### Chapitre VI : Dispositions diverses<a id=71></a>
 
 ###### Article L336-1
 
@@ -4932,11 +5480,11 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L116-2 (V)
 
 
-## Livre IV : Contrôles et sanctions<a id=64></a>
+## Livre IV : Contrôles et sanctions<a id=72></a>
 
-### Titre Ier : Procédures de contrôle<a id=65></a>
+### Titre Ier : Procédures de contrôle<a id=73></a>
 
-#### Chapitre Ier : Compétence des agents de contrôle<a id=66></a>
+#### Chapitre Ier : Compétence des agents de contrôle<a id=74></a>
 
 ###### Article L411-1
 
@@ -4996,7 +5544,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-24 (VD)
 
 
-#### Chapitre II : Prérogatives et moyens d'intervention<a id=67></a>
+#### Chapitre II : Prérogatives et moyens d'intervention<a id=75></a>
 
 ###### Article L412-1
 
@@ -5074,7 +5622,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R414-1 (V)
 
 
-#### Chapitre III : Echanges d'informations<a id=68></a>
+#### Chapitre III : Echanges d'informations<a id=76></a>
 
 ###### Article L413-1
 
@@ -5161,7 +5709,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L163 (VT)
 
 
-#### Chapitre IV : Constatation des manquements et des infractions<a id=69></a>
+#### Chapitre IV : Constatation des manquements et des infractions<a id=77></a>
 
 ###### Article L414-1
 
@@ -5259,7 +5807,35 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R414-1 (V)
 
 
-#### Chapitre V : Secret professionnel<a id=70></a>
+###### Article L414-4
+
+Les agents mentionnés à l'article L. 411-1 qui constatent l'exploitation illicite d'un nombre de salles ou de places de
+spectateur, au regard de l'article L. 212-10-2, établissent un rapport qu'ils transmettent au représentant de l'Etat dans le
+département d'implantation de l'établissement de spectacles cinématographiques concerné.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L212-10-2 (V)
+  - Code du cinéma et de l'image animée - art. L411-1 (V)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L425-1 (M)
+
+
+#### Chapitre V : Secret professionnel<a id=78></a>
 
 ###### Article L415-1
 
@@ -5284,9 +5860,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R412-1 (V)
 
 
-### Titre II : Sanctions administratives<a id=71></a>
+### Titre II : Sanctions administratives<a id=79></a>
 
-#### Chapitre Ier : Champ d'application<a id=72></a>
+#### Chapitre Ier : Champ d'application<a id=80></a>
 
 ###### Article L421-1
 
@@ -5384,7 +5960,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L311-1
 
 
-#### Chapitre II : Nature des sanctions administratives<a id=73></a>
+#### Chapitre II : Nature des sanctions administratives<a id=81></a>
 
 ###### Article L422-1
 
@@ -5495,7 +6071,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R423-2 (M)
 
 
-#### Chapitre III : Décisions de sanction<a id=74></a>
+#### Chapitre III : Décisions de sanction<a id=82></a>
 
 ###### Article L423-1
 
@@ -5532,7 +6108,7 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-#### Chapitre IV : Dispositions diverses<a id=75></a>
+#### Chapitre IV : Dispositions diverses<a id=83></a>
 
 ###### Article L424-1
 
@@ -5546,9 +6122,43 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-### Titre III : Dispositions pénales<a id=76></a>
+#### Chapitre V : Dispositions particulières relatives à l'implantation des établissements de spectacles cinématographiques<a id=84></a>
 
-#### Chapitre Ier : Dispositions générales<a id=77></a>
+###### Article L425-1
+
+Le représentant de l'Etat dans le département peut, dans un délai d'un mois après réception du rapport mentionné à l'article
+L. 414-4, mettre en demeure l'exploitant de l'établissement de spectacles cinématographiques concerné de ramener le nombre de
+salles ou de places de spectateur au nombre figurant dans l'autorisation d'aménagement cinématographique accordée par la
+commission d'aménagement cinématographique compétente. Il peut, à défaut, prendre un arrêté ordonnant, dans un délai de
+quinze jours, la fermeture au public de l'établissement exploité illicitement, jusqu'à régularisation effective. Ces mesures
+sont assorties d'une astreinte journalière de 150 € par place de spectateur. 
+
+Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L414-4 (V)
+
+_Cité par_:
+
+  - Code du cinéma et de l'image animée - art. L434-1 (V)
+
+
+### Titre III : Dispositions pénales<a id=85></a>
+
+#### Chapitre Ier : Dispositions générales<a id=86></a>
 
 ###### Article L431-1
 
@@ -5568,7 +6178,7 @@ _Cite_:
 
 
 #### Chapitre II : Infractions aux dispositions relatives 
-au visa d'exploitation cinématographique<a id=78></a>
+au visa d'exploitation cinématographique<a id=87></a>
 
 ###### Article L432-1
 
@@ -5640,7 +6250,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 22, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=79></a>
+#### Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=88></a>
 
 ###### Article L433-1
 
@@ -5662,9 +6272,33 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1
 
 
-### Titre IV : Actions en justice<a id=80></a>
+#### Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques<a id=89></a>
 
-#### Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=81></a>
+###### Article L434-1
+
+Est puni d'une amende de 15 000 € le fait de ne pas exécuter les mesures prises par le représentant de l'Etat dans le
+département prévues à l'article L. 425-1.
+
+**Nota:**
+
+Conformément à la loi n° 2014-626 du 18 juin 2014, article 57 IV, le présent article entre en vigueur à compter de la date
+d'entrée en vigueur du décret pris pour son application modifiant la partie réglementaire du code du cinéma et de l'image
+animée, et au plus tard le 1er janvier 2015.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-626 du 18 juin 2014 - art. 57
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L425-1 (V)
+
+
+### Titre IV : Actions en justice<a id=90></a>
+
+#### Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=91></a>
 
 ###### Article L441-1
 
@@ -5686,7 +6320,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1
 
 
-#### Chapitre II : Délit de contrefaçon<a id=82></a>
+#### Chapitre II : Délit de contrefaçon<a id=92></a>
 
 ###### Article L442-1
 
@@ -5701,11 +6335,11 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-## Livre V : Dispositions relatives à l'outre-mer<a id=83></a>
+## Livre V : Dispositions relatives à l'outre-mer<a id=93></a>
 
-### Titre unique<a id=84></a>
+### Titre unique<a id=94></a>
 
-#### Chapitre unique<a id=85></a>
+#### Chapitre unique<a id=95></a>
 
 ###### Article L511-1
 
@@ -5735,17 +6369,17 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-# Partie réglementaire<a id=86></a>
+# Partie réglementaire<a id=96></a>
 
-## Livre Ier : Organisation administrative<a id=87></a>
+## Livre Ier : Organisation administrative<a id=97></a>
 
-### Titre Ier : Centre national du cinéma et de l'image animée<a id=88></a>
+### Titre Ier : Centre national du cinéma et de l'image animée<a id=98></a>
 
-#### Chapitre II : Organisation et fonctionnement<a id=89></a>
+#### Chapitre II : Organisation et fonctionnement<a id=99></a>
 
-##### Section 1 : Conseil d'administration<a id=90></a>
+##### Section 1 : Conseil d'administration<a id=100></a>
 
-##### Sous-section 1 : Composition et mandat<a id=91></a>
+##### Sous-section 1 : Composition et mandat<a id=101></a>
 
 ###### Article R112-1
 
@@ -5856,7 +6490,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Attributions<a id=92></a>
+##### Sous-section 2 : Attributions<a id=102></a>
 
 ###### Article R112-4
 
@@ -5997,7 +6631,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. D311-1 (V)
 
 
-##### Sous-section 3 : Fonctionnement<a id=93></a>
+##### Sous-section 3 : Fonctionnement<a id=103></a>
 
 ###### Article R112-7
 
@@ -6098,7 +6732,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 4 : Election des représentants du personnel<a id=94></a>
+##### Sous-section 4 : Election des représentants du personnel<a id=104></a>
 
 ###### Article D112-11
 
@@ -6404,7 +7038,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 2 : Président<a id=95></a>
+##### Section 2 : Président<a id=105></a>
 
 ###### Article R112-23
 
@@ -6522,9 +7156,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 3 : Bulletin officiel du cinéma et de l'image animée<a id=96></a>
+##### Section 3 : Bulletin officiel du cinéma et de l'image animée<a id=106></a>
 
-##### Sous-section 1 : Dispositions générales<a id=97></a>
+##### Sous-section 1 : Dispositions générales<a id=107></a>
 
 ###### Article D112-26
 
@@ -6623,7 +7257,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D112-28 (V)
 
 
-##### Sous-section 2 : Publication des actes du Centre national du cinéma et de l'image animée et de son président<a id=98></a>
+##### Sous-section 2 : Publication des actes du Centre national du cinéma et de l'image animée et de son président<a id=108></a>
 
 ###### Article A112-30
 
@@ -6829,7 +7463,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Publication des actes d'autres autorités et organes administratifs<a id=99></a>
+##### Sous-section 3 : Publication des actes d'autres autorités et organes administratifs<a id=109></a>
 
 ###### Article A112-36
 
@@ -6867,7 +7501,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R423-18 (V)
 
 
-#### Chapitre III : Recrutement et statut des agents contractuels<a id=100></a>
+#### Chapitre III : Recrutement et statut des agents contractuels<a id=110></a>
 
 ###### Article A113-3
 
@@ -6975,7 +7609,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-#### Chapitre IV : Dispositions financières et comptables<a id=101></a>
+#### Chapitre IV : Dispositions financières et comptables<a id=111></a>
 
 ###### Article R114-1
 
@@ -7104,9 +7738,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-### Titre II : Registres du cinéma et de l'audiovisuel<a id=102></a>
+### Titre II : Registres du cinéma et de l'audiovisuel<a id=112></a>
 
-#### Chapitre III : Inscription et publication des actes, conventions et jugements<a id=103></a>
+#### Chapitre III : Inscription et publication des actes, conventions et jugements<a id=113></a>
 
 ###### Article D123-1
 
@@ -7220,15 +7854,15 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L123-1 (V)
 
 
-## Livre II : Professions et activités<a id=104></a>
+## Livre II : Professions et activités<a id=114></a>
 
-### Titre Ier : Exercice des professions et activités du cinéma<a id=105></a>
+### Titre Ier : Exercice des professions et activités du cinéma<a id=115></a>
 
-#### Section préliminaire : Les œuvres cinématographiques<a id=106></a>
+#### Section préliminaire : Les œuvres cinématographiques<a id=116></a>
 
-##### Sous-section 1 : Caractéristiques des œuvres cinématographiques<a id=107></a>
+##### Sous-section 1 : Caractéristiques des œuvres cinématographiques<a id=117></a>
 
-##### Paragraphe 1 : Œuvres cinématographiques de longue et de courte durée<a id=108></a>
+##### Paragraphe 1 : Œuvres cinématographiques de longue et de courte durée<a id=118></a>
 
 ###### Article D210-1
 
@@ -7278,7 +7912,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 2 : Œuvres cinématographiques d'art et d'essai<a id=109></a>
+##### Paragraphe 2 : Œuvres cinématographiques d'art et d'essai<a id=119></a>
 
 ###### Article D210-3
 
@@ -7368,7 +8002,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. D212-92 (V)
 
 
-##### Paragraphe 3 : Œuvres cinématographiques à caractère publicitaire<a id=110></a>
+##### Paragraphe 3 : Œuvres cinématographiques à caractère publicitaire<a id=120></a>
 
 ###### Article D210-6
 
@@ -7406,7 +8040,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Sécurité du support pellicule des œuvres cinématographiques<a id=111></a>
+##### Sous-section 2 : Sécurité du support pellicule des œuvres cinématographiques<a id=121></a>
 
 ###### Article D210-8
 
@@ -7461,7 +8095,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Dispositions diverses<a id=112></a>
+##### Sous-section 3 : Dispositions diverses<a id=122></a>
 
 ###### Article A210-11
 
@@ -7492,11 +8126,11 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L111-3 (V)
 
 
-#### Chapitre Ier : Visa d'exploitation cinématographique<a id=113></a>
+#### Chapitre Ier : Visa d'exploitation cinématographique<a id=123></a>
 
-##### Section 1 : Délivrance du visa d'exploitation cinématographique<a id=114></a>
+##### Section 1 : Délivrance du visa d'exploitation cinématographique<a id=124></a>
 
-##### Sous-section 1 : Demande de visa d'exploitation cinématographique<a id=115></a>
+##### Sous-section 1 : Demande de visa d'exploitation cinématographique<a id=125></a>
 
 ###### Article R211-1
 
@@ -7594,7 +8228,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L211-2 (V)
 
 
-##### Sous-section 2 : Rapport des comités de classification et avis de la commission de classification<a id=116></a>
+##### Sous-section 2 : Rapport des comités de classification et avis de la commission de classification<a id=126></a>
 
 ###### Article R211-4
 
@@ -7758,7 +8392,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Décision du ministre chargé de la culture<a id=117></a>
+##### Sous-section 3 : Décision du ministre chargé de la culture<a id=127></a>
 
 ###### Article D211-16
 
@@ -7954,7 +8588,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 2 : Obligations liées à la délivrance du visa d'exploitation cinématographique<a id=118></a>
+##### Section 2 : Obligations liées à la délivrance du visa d'exploitation cinématographique<a id=128></a>
 
 ###### Article R211-17
 
@@ -8168,9 +8802,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 3 : Organisation et fonctionnement des instances consultatives<a id=119></a>
+##### Section 3 : Organisation et fonctionnement des instances consultatives<a id=129></a>
 
-##### Sous-section 1 : Comités de classification<a id=120></a>
+##### Sous-section 1 : Comités de classification<a id=130></a>
 
 ###### Article R211-26
 
@@ -8231,9 +8865,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Commission de classification<a id=121></a>
+##### Sous-section 2 : Commission de classification<a id=131></a>
 
-##### Paragraphe 1 : Composition de la commission de classification<a id=122></a>
+##### Paragraphe 1 : Composition de la commission de classification<a id=132></a>
 
 ###### Article R211-29
 
@@ -8454,7 +9088,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 2 : Fonctionnement de la commission de classification<a id=123></a>
+##### Paragraphe 2 : Fonctionnement de la commission de classification<a id=133></a>
 
 ###### Article R211-36
 
@@ -8537,7 +9171,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Dispositions communes<a id=124></a>
+##### Sous-section 3 : Dispositions communes<a id=134></a>
 
 ###### Article D211-44
 
@@ -8665,9 +9299,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 4 : Dispositions particulières relatives à certaines représentations cinématographiques<a id=125></a>
+##### Section 4 : Dispositions particulières relatives à certaines représentations cinématographiques<a id=135></a>
 
-##### Sous-section 1 : Représentation cinématographique locale<a id=126></a>
+##### Sous-section 1 : Représentation cinématographique locale<a id=136></a>
 
 ###### Article R211-45
 
@@ -8756,7 +9390,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Représentation cinématographique d'une œuvre à caractère publicitaire dans un seul département<a id=127></a>
+##### Sous-section 2 : Représentation cinématographique d'une œuvre à caractère publicitaire dans un seul département<a id=137></a>
 
 ###### Article R211-48
 
@@ -8779,7 +9413,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Représentation cinématographique dans un établissement scolaire ou universitaire<a id=128></a>
+##### Sous-section 3 : Représentation cinématographique dans un établissement scolaire ou universitaire<a id=138></a>
 
 ###### Article R211-49
 
@@ -8804,11 +9438,11 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-#### Chapitre II : Secteur de l'exploitation cinématographique<a id=129></a>
+#### Chapitre II : Secteur de l'exploitation cinématographique<a id=139></a>
 
-##### Section 1 : Autorisation d'exercice de la profession d'exploitant d'établissement de spectacles cinématographiques<a id=130></a>
+##### Section 1 : Autorisation d'exercice de la profession d'exploitant d'établissement de spectacles cinématographiques<a id=140></a>
 
-##### Sous-section 1 : Autorisation d'exploiter au titre d'une salle<a id=131></a>
+##### Sous-section 1 : Autorisation d'exploiter au titre d'une salle<a id=141></a>
 
 ###### Article R212-1
 
@@ -8854,7 +9488,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R212-3 (M)
 
 
-##### Sous-section 2 : Autorisation d'exploiter sous la forme d'une activité itinérante<a id=132></a>
+##### Sous-section 2 : Autorisation d'exploiter sous la forme d'une activité itinérante<a id=142></a>
 
 ###### Article R212-2
 
@@ -8934,7 +9568,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-1 (V)
 
 
-##### Sous-section 3 : Dispositions communes<a id=133></a>
+##### Sous-section 3 : Dispositions communes<a id=143></a>
 
 ###### Article R212-4
 
@@ -8986,9 +9620,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-2 (V)
 
 
-##### Section 2 : Implantation et construction des établissements de spectacles cinématographiques<a id=134></a>
+##### Section 2 : Implantation et construction des établissements de spectacles cinématographiques<a id=144></a>
 
-##### Sous-section 1 : Implantation des établissements de spectacles cinématographiques<a id=135></a>
+##### Sous-section 1 : Implantation des établissements de spectacles cinématographiques<a id=145></a>
 
 ###### Article A212-7
 
@@ -9139,7 +9773,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-7 (VT)
 
 
-##### Sous-section 2 : Construction des établissements de spectacles cinématographiques<a id=136></a>
+##### Sous-section 2 : Construction des établissements de spectacles cinématographiques<a id=146></a>
 
 ###### Article R212-9
 
@@ -9175,7 +9809,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*510-6
 
 
-##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=137></a>
+##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=147></a>
 
 ###### Article R212-10
 
@@ -9286,7 +9920,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=138></a>
+##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=148></a>
 
 ###### Article D212-14
 
@@ -9380,9 +10014,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D212-14 (V)
 
 
-##### Section 5 : Groupements, ententes et engagements de programmation cinématographique<a id=139></a>
+##### Section 5 : Groupements, ententes et engagements de programmation cinématographique<a id=149></a>
 
-##### Sous-section 1 : Agrément des groupements et ententes de programmation<a id=140></a>
+##### Sous-section 1 : Agrément des groupements et ententes de programmation<a id=150></a>
 
 ###### Article R212-17
 
@@ -9406,7 +10040,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 1 : Conditions de l'agrément<a id=141></a>
+##### Paragraphe 1 : Conditions de l'agrément<a id=151></a>
 
 ###### Article R212-18
 
@@ -9522,7 +10156,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 2 : Délivrance de l'agrément<a id=142></a>
+##### Paragraphe 2 : Délivrance de l'agrément<a id=152></a>
 
 ###### Article R212-22
 
@@ -9706,9 +10340,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Engagements de programmation<a id=143></a>
+##### Sous-section 2 : Engagements de programmation<a id=153></a>
 
-##### Paragraphe 1 : Engagements de programmation soumis à homologation<a id=144></a>
+##### Paragraphe 1 : Engagements de programmation soumis à homologation<a id=154></a>
 
 ###### Article R212-30
 
@@ -10003,7 +10637,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-23 (VT)
 
 
-##### Paragraphe 2 : Projets de programmation valant engagements de programmation<a id=145></a>
+##### Paragraphe 2 : Projets de programmation valant engagements de programmation<a id=155></a>
 
 ###### Article R212-40
 
@@ -10129,9 +10763,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-40 (V)
 
 
-##### Section 6 : Formules d'accès au cinéma<a id=146></a>
+##### Section 6 : Formules d'accès au cinéma<a id=156></a>
 
-##### Sous-section 1 : Conditions de l'agrément<a id=147></a>
+##### Sous-section 1 : Conditions de l'agrément<a id=157></a>
 
 ###### Article R212-44
 
@@ -10343,7 +10977,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R212-55 (V)
 
 
-##### Sous-section 2 : Demande d'agrément<a id=148></a>
+##### Sous-section 2 : Demande d'agrément<a id=158></a>
 
 ###### Article R212-51
 
@@ -10577,7 +11211,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-55 (V)
 
 
-##### Sous-section 3 : Commission d'agrément des formules d'accès au cinéma<a id=149></a>
+##### Sous-section 3 : Commission d'agrément des formules d'accès au cinéma<a id=159></a>
 
 ###### Article R212-58
 
@@ -10786,7 +11420,7 @@ _Abrogé par_:
   - Décret n°2017-841 du 5 mai 2017 - art. 4
 
 
-##### Sous-section 4 : Retrait de l'agrément<a id=150></a>
+##### Sous-section 4 : Retrait de l'agrément<a id=160></a>
 
 ###### Article R212-66
 
@@ -10808,7 +11442,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=151></a>
+##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=161></a>
 
 ###### Article D212-67
 
@@ -10852,9 +11486,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. D311-6 (V)
 
 
-##### Sous-section 1 : Délivrance des droits d'entrée dans les établissements de spectacles cinématographiques<a id=152></a>
+##### Sous-section 1 : Délivrance des droits d'entrée dans les établissements de spectacles cinématographiques<a id=162></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=153></a>
+##### Paragraphe 1 : Dispositions générales<a id=163></a>
 
 ###### Article D212-68
 
@@ -10960,7 +11594,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 2 : Dispositions particulières aux billets imprimerie<a id=154></a>
+##### Paragraphe 2 : Dispositions particulières aux billets imprimerie<a id=164></a>
 
 ###### Article D212-72
 
@@ -11176,9 +11810,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 3 : Dispositions particulières aux billets informatiques et aux droits d'entrée dématérialisés<a id=155></a>
+##### Paragraphe 3 : Dispositions particulières aux billets informatiques et aux droits d'entrée dématérialisés<a id=165></a>
 
-##### Sous-Paragraphe 1 : Caractéristiques et homologation des systèmes informatisés de billetterie<a id=156></a>
+##### Sous-Paragraphe 1 : Caractéristiques et homologation des systèmes informatisés de billetterie<a id=166></a>
 
 ###### Article D212-79
 
@@ -11213,7 +11847,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-Paragraphe 2 : Installation et utilisation des systèmes informatisés de billetterie<a id=157></a>
+##### Sous-Paragraphe 2 : Installation et utilisation des systèmes informatisés de billetterie<a id=167></a>
 
 ###### Article D212-80
 
@@ -11353,7 +11987,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Relevés des informations relatives aux recettes réalisées dans les établissements de spectacles cinématographiques<a id=158></a>
+##### Sous-section 2 : Relevés des informations relatives aux recettes réalisées dans les établissements de spectacles cinématographiques<a id=168></a>
 
 ###### Article D212-85
 
@@ -11465,7 +12099,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D212-85 (V)
 
 
-##### Sous-section 3 : Déclaration des recettes réalisées dans les établissements de spectacles cinématographiques<a id=159></a>
+##### Sous-section 3 : Déclaration des recettes réalisées dans les établissements de spectacles cinématographiques<a id=169></a>
 
 ###### Article D212-88
 
@@ -11551,9 +12185,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 8 : Etablissements de spectacles cinématographiques d'art et d'essai<a id=160></a>
+##### Section 8 : Etablissements de spectacles cinématographiques d'art et d'essai<a id=170></a>
 
-##### Sous-section 1 : Classement des établissements d'art et d'essai<a id=161></a>
+##### Sous-section 1 : Classement des établissements d'art et d'essai<a id=171></a>
 
 ###### Article D212-90
 
@@ -11724,7 +12358,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D212-92 (V)
 
 
-##### Sous-section 2 : Commission du cinéma d'art et d'essai<a id=162></a>
+##### Sous-section 2 : Commission du cinéma d'art et d'essai<a id=172></a>
 
 ###### Article D212-94
 
@@ -11848,9 +12482,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=163></a>
+#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=173></a>
 
-##### Section unique :  Médiateur du cinéma<a id=164></a>
+##### Section unique :  Médiateur du cinéma<a id=174></a>
 
 ###### Article R213-1
 
@@ -12123,9 +12757,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=165></a>
+#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=175></a>
 
-##### Section 1 : Dispositions relatives aux séances organisées exceptionnellement par les associations ou groupements à but non lucratif<a id=166></a>
+##### Section 1 : Dispositions relatives aux séances organisées exceptionnellement par les associations ou groupements à but non lucratif<a id=176></a>
 
 ###### Article D214-1
 
@@ -12220,7 +12854,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L411-1 (V)
 
 
-##### Section 2 : Dispositions relatives aux séances de ciné-club<a id=167></a>
+##### Section 2 : Dispositions relatives aux séances de ciné-club<a id=177></a>
 
 ###### Article D214-4
 
@@ -12316,7 +12950,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 3 : Dispositions relatives aux séances en plein air<a id=168></a>
+##### Section 3 : Dispositions relatives aux séances en plein air<a id=178></a>
 
 ###### Article D214-8
 
@@ -12389,7 +13023,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 4 : Dispositions communes<a id=169></a>
+##### Section 4 : Dispositions communes<a id=179></a>
 
 ###### Article D214-11
 
@@ -12425,9 +13059,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L214-7 (V)
 
 
-### Titre II : Édition vidéographique et services de médias audiovisuels à la demande<a id=170></a>
+### Titre II : Édition vidéographique et services de médias audiovisuels à la demande<a id=180></a>
 
-#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=171></a>
+#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=181></a>
 
 ###### Article A221-3
 
@@ -12548,7 +13182,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=172></a>
+#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=182></a>
 
 ###### Article A222-2
 
@@ -12632,9 +13266,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=173></a>
+### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=183></a>
 
-#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=174></a>
+#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=184></a>
 
 ###### Article D231-1
 
@@ -12786,9 +13420,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L231-1 (V)
 
 
-### Titre IV : Dispositions diverses<a id=175></a>
+### Titre IV : Dispositions diverses<a id=185></a>
 
-#### Chapitre unique :  Obligation de dépôt légal<a id=176></a>
+#### Chapitre unique :  Obligation de dépôt légal<a id=186></a>
 
 ###### Article A241-2
 
@@ -12853,13 +13487,13 @@ _Cite_:
   - Code du patrimoine - art. R133-1 (V)
 
 
-## Livre III : Financement et fiscalité<a id=177></a>
+## Livre III : Financement et fiscalité<a id=187></a>
 
-### Titre Ier : Aides du centre national du cinéma et de l'image animée<a id=178></a>
+### Titre Ier : Aides du centre national du cinéma et de l'image animée<a id=188></a>
 
-#### Chapitre Ier : Dispositions générales<a id=179></a>
+#### Chapitre Ier : Dispositions générales<a id=189></a>
 
-##### Section 1 : Attribution des aides financières<a id=180></a>
+##### Section 1 : Attribution des aides financières<a id=190></a>
 
 ###### Article D311-1
 
@@ -12990,9 +13624,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 723-1 (V)
 
 
-##### Section 2 : Exclusion du bénéfice des aides financières<a id=181></a>
+##### Section 2 : Exclusion du bénéfice des aides financières<a id=191></a>
 
-##### Sous-section 1 : Exclusion des œuvres ou documents à caractère pornographique ou d'incitation à la violence<a id=182></a>
+##### Sous-section 1 : Exclusion des œuvres ou documents à caractère pornographique ou d'incitation à la violence<a id=192></a>
 
 ###### Article D311-4
 
@@ -13021,9 +13655,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 122-27 (V)
 
 
-##### Sous-section 2 : Exclusion des établissements de spectacles cinématographiques représentant des œuvres à caractère pornographique<a id=183></a>
+##### Sous-section 2 : Exclusion des établissements de spectacles cinématographiques représentant des œuvres à caractère pornographique<a id=193></a>
 
-##### Paragraphe 1 : Exclusion des établissements de spectacles cinématographiques spécialisés<a id=184></a>
+##### Paragraphe 1 : Exclusion des établissements de spectacles cinématographiques spécialisés<a id=194></a>
 
 ###### Article D311-5
 
@@ -13187,7 +13821,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-5 (V)
 
 
-##### Paragraphe 2 : Exclusion des établissements de spectacles cinématographiques non spécialisés<a id=185></a>
+##### Paragraphe 2 : Exclusion des établissements de spectacles cinématographiques non spécialisés<a id=195></a>
 
 ###### Article D311-11
 
@@ -13253,7 +13887,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L411-1 (V)
 
 
-#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=186></a>
+#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=196></a>
 
 ###### Article D312-1
 
@@ -13305,9 +13939,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L312-2 (V)
 
 
-### Titre II : Aides des collectivités territoriales<a id=187></a>
+### Titre II : Aides des collectivités territoriales<a id=197></a>
 
-#### Chapitre unique :  Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=188></a>
+#### Chapitre unique :  Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=198></a>
 
 ###### Article R321-1
 
@@ -13330,15 +13964,15 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1511-40 (V)
 
 
-### Titre III : Incitations fiscales<a id=189></a>
+### Titre III : Incitations fiscales<a id=199></a>
 
-#### Chapitre Ier : Crédits d'impôt<a id=190></a>
+#### Chapitre Ier : Crédits d'impôt<a id=200></a>
 
-##### Section 1 : Crédit d'impôt pour dépenses de production déléguée d'œuvres cinématographiques ou audiovisuelles<a id=191></a>
+##### Section 1 : Crédit d'impôt pour dépenses de production déléguée d'œuvres cinématographiques ou audiovisuelles<a id=201></a>
 
-##### Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles<a id=192></a>
+##### Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles<a id=202></a>
 
-##### Paragraphe 1 : Conditions relatives à l'entreprise de production<a id=193></a>
+##### Paragraphe 1 : Conditions relatives à l'entreprise de production<a id=203></a>
 
 ###### Article D331-1
 
@@ -13379,7 +14013,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. D331-5 (V)
 
 
-##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=194></a>
+##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=204></a>
 
 ###### Article D331-2
 
@@ -13535,9 +14169,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-1 (V)
 
 
-##### Sous-section 2 : Délivrance des agréments<a id=195></a>
+##### Sous-section 2 : Délivrance des agréments<a id=205></a>
 
-##### Paragraphe 1 : Comité d'experts<a id=196></a>
+##### Paragraphe 1 : Comité d'experts<a id=206></a>
 
 ###### Article A331-7
 
@@ -13633,7 +14267,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 sexies (V)
 
 
-##### Paragraphe 2 : Agrément provisoire<a id=197></a>
+##### Paragraphe 2 : Agrément provisoire<a id=207></a>
 
 ###### Article D331-10
 
@@ -13730,7 +14364,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-11 (V)
 
 
-##### Paragraphe 3 : Agrément définitif<a id=198></a>
+##### Paragraphe 3 : Agrément définitif<a id=208></a>
 
 ###### Article D331-13
 
@@ -13853,7 +14487,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 4 : Dispositions relatives aux œuvres cinématographiques ou audiovisuelles difficiles et à petit budget<a id=199></a>
+##### Paragraphe 4 : Dispositions relatives aux œuvres cinématographiques ou audiovisuelles difficiles et à petit budget<a id=209></a>
 
 ###### Article D331-17
 
@@ -13891,7 +14525,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 sexies (V)
 
 
-##### Sous-section 3 : Dépenses de production éligibles<a id=200></a>
+##### Sous-section 3 : Dépenses de production éligibles<a id=210></a>
 
 ###### Article D331-18
 
@@ -13914,11 +14548,11 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YL (V)
 
 
-##### Section 2 : Crédit d'impôt pour dépenses de création de jeux vidéo<a id=201></a>
+##### Section 2 : Crédit d'impôt pour dépenses de création de jeux vidéo<a id=211></a>
 
-##### Sous-section 1 : Jeux vidéo éligibles<a id=202></a>
+##### Sous-section 1 : Jeux vidéo éligibles<a id=212></a>
 
-##### Paragraphe 1 : Conditions relatives à l'entreprise de jeux vidéo et aux jeux vidéo<a id=203></a>
+##### Paragraphe 1 : Conditions relatives à l'entreprise de jeux vidéo et aux jeux vidéo<a id=213></a>
 
 ###### Article D331-19
 
@@ -13997,7 +14631,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 terdecies (V)
 
 
-##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=204></a>
+##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=214></a>
 
 ###### Article D331-22
 
@@ -14158,9 +14792,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Délivrance des agréments<a id=205></a>
+##### Sous-section 2 : Délivrance des agréments<a id=215></a>
 
-##### Paragraphe 1 : Comité d'experts<a id=206></a>
+##### Paragraphe 1 : Comité d'experts<a id=216></a>
 
 ###### Article A331-27
 
@@ -14252,7 +14886,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 terdecies (V)
 
 
-##### Paragraphe 2 : Agrément provisoire<a id=207></a>
+##### Paragraphe 2 : Agrément provisoire<a id=217></a>
 
 ###### Article D331-30
 
@@ -14359,7 +14993,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-31 (V)
 
 
-##### Paragraphe 3 : Agrément définitif<a id=208></a>
+##### Paragraphe 3 : Agrément définitif<a id=218></a>
 
 ###### Article D331-33
 
@@ -14490,7 +15124,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Dépenses de création éligibles<a id=209></a>
+##### Sous-section 3 : Dépenses de création éligibles<a id=219></a>
 
 ###### Article D331-37
 
@@ -14512,11 +15146,11 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YZG (V)
 
 
-##### Section 3 : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques ou audiovisuelles étrangères<a id=210></a>
+##### Section 3 : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques ou audiovisuelles étrangères<a id=220></a>
 
-##### Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles<a id=211></a>
+##### Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles<a id=221></a>
 
-##### Paragraphe 1 : Conditions relatives aux entreprises de production et aux œuvres cinématographiques ou audiovisuelles<a id=212></a>
+##### Paragraphe 1 : Conditions relatives aux entreprises de production et aux œuvres cinématographiques ou audiovisuelles<a id=222></a>
 
 ###### Article D331-38
 
@@ -14583,7 +15217,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-58 (V)
 
 
-##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=213></a>
+##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=223></a>
 
 ###### Article D331-40
 
@@ -14646,7 +15280,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-Paragraphe 1 : Barème de points des œuvres appartenant au genre de la fiction<a id=214></a>
+##### Sous-Paragraphe 1 : Barème de points des œuvres appartenant au genre de la fiction<a id=224></a>
 
 ###### Article D331-42
 
@@ -14814,17 +15448,17 @@ b) Ou lorsque entre 30 % et 50 % des jours de tournage sont réalisés en France
 
 c) Ou lorsque entre 15 % et 30 % des jours de tournage sont réalisés en France : 1 point ; 
 
-2° Plus de 50 % des dépenses liées à la réalisation des effets spéciaux de plateau sont effectuées auprès de prestataires
+2° Au moins 50 % des dépenses liées à la réalisation des effets spéciaux de plateau sont effectuées auprès de prestataires
 établis en France, pour les scènes tournées en France : 1 point ; 
 
-3° Plus de 50 % des dépenses liées à la location de matériels de tournage (prises de vues, machinerie, éclairage, prise de
+3° Au moins 50 % des dépenses liées à la location de matériels de tournage (prises de vues, machinerie, éclairage, prise de
 son) sont effectuées auprès de prestataires établis en France, pour les scènes tournées en France : 1 point ; 
 
-4° Plus de 50 % des dépenses liées aux travaux de laboratoire sont effectuées auprès de prestataires établis en France, pour
+4° Au moins 50 % des dépenses liées aux travaux de laboratoire sont effectuées auprès de prestataires établis en France, pour
 les scènes tournées en France : 1 point ; 
 
-5° Plus de 50 % des dépenses liées à l'étalonnage ou au mixage son, ou la fabrication d'effets visuels numériques de plus de
-10 plans sont effectuées auprès de prestataires établis en France : 2 points.
+5° Au moins 50 % des dépenses liées à l'étalonnage ou au mixage son, ou la fabrication d'effets visuels numériques de au
+moins 10 plans sont effectuées auprès de prestataires établis en France : 2 points.
 
 **Liens relatifs à cet article**
 
@@ -14832,12 +15466,12 @@ _Codifié par_:
 
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Décret n°2014-1749 du 30 décembre 2014 - art. 1
 
 
-##### Sous-Paragraphe 2 : Barème de points des œuvres appartenant au genre de l'animation<a id=215></a>
+##### Sous-Paragraphe 2 : Barème de points des œuvres appartenant au genre de l'animation<a id=225></a>
 
 ###### Article D331-47
 
@@ -14977,35 +15611,35 @@ _Créé par_:
 
 Pour le groupe " Infrastructures de création ", les points, au nombre de 31 au plus, sont affectés comme suit : 
 
-1° Plus de 50 % des dépenses liées au scénarimage et/ ou à la mise en place des décors et de l'animation et/ ou à la
+1° Au moins 50 % des dépenses liées au scénarimage et/ ou à la mise en place des décors et de l'animation et/ ou à la
 prévisualisation 3D sont effectuées auprès de prestataires établis en France : 1 point ; 
 
-2° Plus de 50 % des dépenses liées à la conception des personnages sont effectuées auprès de prestataires établis en France :
-1 point ; 
+2° Au moins 50 % des dépenses liées à la conception des personnages sont effectuées auprès de prestataires établis en
+France : 1 point ; 
 
-3° Plus de 50 % des dépenses liées à la conception des décors sont effectuées auprès de prestataires établis en France : 1
+3° Au moins 50 % des dépenses liées à la conception des décors sont effectuées auprès de prestataires établis en France : 1
 point ; 
 
 4° Au moins 10 % des dépenses liées à la modélisation incluant les décors numériques et/ ou à la rotoscopie et/ ou au suivi
-de mouvement sont effectuées auprès de prestataires établis en France : 0,5 point par tranche de 10 %, soit entre 0,5 et 5
+de mouvement sont effectuées auprès de prestataires établis en France : 1 point par tranche de 10 %, soit entre 1 et 5
 points ; 
 
 5° Au moins 10 % des dépenses liées à l'animation (personnages et caméras) et/ ou à la capture de mouvement sont effectuées
-auprès de prestataires établis en France : 1 point par tranche de 10 %, soit entre 1 et 10 points ; 
+auprès de prestataires établis en France : 2 points par tranche de 10 %, soit entre 2 et 10 points ; 
 
 6° Au moins 10 % des dépenses liées au rendu et/ ou à l'éclairage et/ ou à la trace et/ ou à la mise en couleurs sont
-effectuées auprès de prestataires établis en France : 0,5 point par tranche de 10 %, soit entre 0,5 et 5 points ; 
+effectuées auprès de prestataires établis en France : 1 point par tranche de 10 %, soit entre 1 et 5 points ; 
 
-7° Au moins 10 % des dépenses liées à l'assemblage numérique sont effectuées auprès de prestataires établis en France : 0,5
-point par tranche de 10 %, soit entre 0,5 et 5 points ; 
+7° Au moins 10 % des dépenses liées à l'assemblage numérique sont effectuées auprès de prestataires établis en France : 1
+point par tranche de 10 %, soit entre 1 et 5 points ; 
 
-8° Plus de 50 % des dépenses liées à la création sonore et au montage son sont effectuées auprès de prestataires établis en
+8° Au moins 50 % des dépenses liées à la création sonore et au montage son sont effectuées auprès de prestataires établis en
 France : 1 point ; 
 
-9° Plus de 50 % des dépenses liées à l'enregistrement de la musique sont effectuées auprès de prestataires établis en
+9° Au moins 50 % des dépenses liées à l'enregistrement de la musique sont effectuées auprès de prestataires établis en
 France : 1 point ; 
 
-10° Plus de 50 % des dépenses liées à l'enregistrement des voix et au montage des dialogues sont effectuées auprès de
+10° Au moins 50 % des dépenses liées à l'enregistrement des voix et au montage des dialogues sont effectuées auprès de
 prestataires établis en France : 1 point.
 
 **Liens relatifs à cet article**
@@ -15014,14 +15648,14 @@ _Codifié par_:
 
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Décret n°2014-1749 du 30 décembre 2014 - art. 1
 
 
-##### Sous-section 2 : Délivrance des agréments<a id=216></a>
+##### Sous-section 2 : Délivrance des agréments<a id=226></a>
 
-##### Paragraphe 1 : Comité d'experts<a id=217></a>
+##### Paragraphe 1 : Comité d'experts<a id=227></a>
 
 ###### Article A331-53
 
@@ -15129,7 +15763,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 quaterdecies (VT)
 
 
-##### Paragraphe 2 : Agrément provisoire<a id=218></a>
+##### Paragraphe 2 : Agrément provisoire<a id=228></a>
 
 ###### Article D331-57
 
@@ -15244,7 +15878,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-58 (V)
 
 
-##### Paragraphe 3 : Agrément définitif<a id=219></a>
+##### Paragraphe 3 : Agrément définitif<a id=229></a>
 
 ###### Article D331-60
 
@@ -15366,7 +16000,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-61 (V)
 
 
-##### Paragraphe 4 : Dispositions diverses<a id=220></a>
+##### Paragraphe 4 : Dispositions diverses<a id=230></a>
 
 ###### Article D331-63
 
@@ -15389,7 +16023,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Dépenses de production éligibles<a id=221></a>
+##### Sous-section 3 : Dépenses de production éligibles<a id=231></a>
 
 ###### Article D331-64
 
@@ -15412,9 +16046,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZY bis (V)
 
 
-#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=222></a>
+#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=232></a>
 
-##### Section 1 : Société de financement de l'industrie cinématographique et audiovisuelle<a id=223></a>
+##### Section 1 : Société de financement de l'industrie cinématographique et audiovisuelle<a id=233></a>
 
 ###### Article D332-1
 
@@ -15436,7 +16070,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies A (V)
 
 
-##### Section 2 : Agrément des œuvres<a id=224></a>
+##### Section 2 : Agrément des œuvres<a id=234></a>
 
 ###### Article D332-2
 
@@ -15554,7 +16188,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 238 bis HG (V)
 
 
-#### Chapitre III : Déductions fiscales et réductions d'impôts au titre des investissements outre-mer<a id=225></a>
+#### Chapitre III : Déductions fiscales et réductions d'impôts au titre des investissements outre-mer<a id=235></a>
 
 ###### Article A333-2
 
@@ -15607,9 +16241,9 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 S (V)
 
 
-#### Chapitre VI : Dispositions diverses<a id=226></a>
+#### Chapitre VI : Dispositions diverses<a id=236></a>
 
-##### Section 1 : Prélèvement spécial sur les œuvres à caractère pornographique ou d'incitation à la violence<a id=227></a>
+##### Section 1 : Prélèvement spécial sur les œuvres à caractère pornographique ou d'incitation à la violence<a id=237></a>
 
 ###### Article D336-1
 
@@ -15633,7 +16267,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1605 sexies (V)
 
 
-##### Section 2 : Taxe sur les ventes et locations de vidéogrammes<a id=228></a>
+##### Section 2 : Taxe sur les ventes et locations de vidéogrammes<a id=238></a>
 
 ###### Article D336-2
 
@@ -15655,11 +16289,11 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 331 M bis (V)
 
 
-## Livre IV : Contrôles et sanctions<a id=229></a>
+## Livre IV : Contrôles et sanctions<a id=239></a>
 
-### Titre Ier : Procédures de contrôle<a id=230></a>
+### Titre Ier : Procédures de contrôle<a id=240></a>
 
-#### Chapitre Ier : Compétence des agents de contrôle<a id=231></a>
+#### Chapitre Ier : Compétence des agents de contrôle<a id=241></a>
 
 ###### Article R411-1
 
@@ -15799,7 +16433,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R411-1 (V)
 
 
-#### Chapitre II : Prérogatives et moyens d'intervention<a id=232></a>
+#### Chapitre II : Prérogatives et moyens d'intervention<a id=242></a>
 
 ###### Article R412-1
 
@@ -15897,7 +16531,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L412-3 (V)
 
 
-#### Chapitre IV : Constatation des manquements et des infractions<a id=233></a>
+#### Chapitre IV : Constatation des manquements et des infractions<a id=243></a>
 
 ###### Article R414-1
 
@@ -15966,9 +16600,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L414-2 (V)
 
 
-### Titre II : Sanctions administratives<a id=234></a>
+### Titre II : Sanctions administratives<a id=244></a>
 
-#### Chapitre Ier : Champ d'application<a id=235></a>
+#### Chapitre Ier : Champ d'application<a id=245></a>
 
 ###### Article R421-1
 
@@ -16012,9 +16646,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1 (V)
 
 
-#### Chapitre III : Décisions de sanction<a id=236></a>
+#### Chapitre III : Décisions de sanction<a id=246></a>
 
-##### Section 1 : Commission du contrôle de la réglementation<a id=237></a>
+##### Section 1 : Commission du contrôle de la réglementation<a id=247></a>
 
 ###### Article R423-1
 
@@ -16283,7 +16917,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 2 : Procédure de sanction<a id=238></a>
+##### Section 2 : Procédure de sanction<a id=248></a>
 
 ###### Article R423-9
 
@@ -16446,7 +17080,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 3 : Sanction, voie de recours et publication<a id=239></a>
+##### Section 3 : Sanction, voie de recours et publication<a id=249></a>
 
 ###### Article R423-16
 
@@ -16520,11 +17154,11 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. A112-36 (V)
 
 
-### Titre III : Dispositions pénales<a id=240></a>
+### Titre III : Dispositions pénales<a id=250></a>
 
-#### Chapitre II : Infractions aux dispositions relatives au visa d'exploitation cinématographique<a id=241></a>
+#### Chapitre II : Infractions aux dispositions relatives au visa d'exploitation cinématographique<a id=251></a>
 
-##### Section 1 : Infractions aux obligations d'information du public concernant les interdictions aux mineurs<a id=242></a>
+##### Section 1 : Infractions aux obligations d'information du public concernant les interdictions aux mineurs<a id=252></a>
 
 ###### Article R432-1
 
@@ -16575,7 +17209,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R211-20 (V)
 
 
-##### Section 2 : Infractions aux obligations de contrôle de l'accès des mineurs aux salles de spectacles cinématographiques<a id=243></a>
+##### Section 2 : Infractions aux obligations de contrôle de l'accès des mineurs aux salles de spectacles cinématographiques<a id=253></a>
 
 ###### Article R432-3
 
