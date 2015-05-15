@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2015-04-26
+Version Consolidée au 2015-05-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -15,12 +15,12 @@ Version Consolidée au 2015-04-26
           - [Section 4 : Recouvrement et contrôle (art. L115-16 à L115-27)](#12)
         - [Chapitre VI : Taxes, prélèvements et autres produits affectés au Centre national du cinéma et de l'image animée (art. L116-1 à L116-5)](#13)
       - [Titre II : Registres du cinéma et de l'audiovisuel (art. L121-1 à L126-3)](#14)
-        - [Chapitre Ier : Principes généraux (art. L121-1 à L121-2)](#15)
+        - [Chapitre Ier : Principes généraux (art. L121-1)](#15)
         - [Chapitre II : Dépôt du titre et immatriculation des œuvres (art. L122-1 à L122-2)](#16)
         - [Chapitre III : Inscription et publication des actes, 
 conventions et jugements (art. L123-1 à L123-6)](#17)
         - [Chapitre IV : Privilège et réalisation du nantissement (art. L124-1 à L124-4)](#18)
-        - [Chapitre V : Attributions et rémunération du conservateur (art. L125-1 à L125-2)](#19)
+        - [Chapitre V : Obligations et responsabilité du Centre national du cinéma et de l'image animée (art. L125-1)](#19)
         - [Chapitre VI : Communication de renseignements relatifs aux recettes (art. L126-1 à L126-3)](#20)
     - [Livre II : Professions et activités (art. L211-1 à L241-1)](#21)
       - [Titre Ier : Exercice des professions et activités du cinéma (art. L211-1 à L214-9)](#22)
@@ -1024,12 +1024,12 @@ _Anciens textes_:
 Les ressources du Centre national du cinéma et de l'image animée comprennent notamment : 
 
 1° Les ressources provenant des taxes, prélèvements et autres produits qu'il perçoit ou qui lui sont affectés en application
-des dispositions du présent livre (1) ; 
+des dispositions du présent livre ; 
 
 2° Le produit des cotisations professionnelles établies à son profit en application des dispositions du présent livre ; 
 
-3° Une part des émoluments versés au conservateur des registres du cinéma et de l'audiovisuel en application de l'article L.
-125-2 ; 
+3° Le produit des redevances qu'il perçoit à l'occasion de l'exercice de sa mission de tenue des registres du cinéma et de
+l'audiovisuel prévue au 4° de l'article L. 111-2 ; 
 
 4° Le produit du droit perçu lors de la délivrance du visa d'exploitation cinématographique prévu à l'article L. 211-1 ; 
 
@@ -1043,34 +1043,23 @@ des dispositions du présent livre (1) ;
 
 9° Les subventions de l'Etat ou des collectivités territoriales.
 
-**Nota:**
-
-(1) Ordonnance n° 2009-901 du 24 juillet 2009 article 11 6° : Le 1° de l'article L. 114-1 entre en vigueur le 1er janvier
-2010.
-
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 _Cité par_:
 
   - Ordonnance n°2009-901 du 24 juillet 2009 - art. 11 (V)
   - Code du cinéma et de l'image animée - art. R114-1 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'industrie cinématographique - art. 44-1, I (VT)
-  - Code de l'industrie cinématographique - art. 8. 1°, 2°, 5°, 6°,7° et 8 (Ab)
+  - Loi n°2015-177 du 16 février 2015 - art. 18 (V)
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L111-2 (V)
-  - Code du cinéma et de l'image animée - art. L125-2 (V)
-  - Code du cinéma et de l'image animée - art. L211-1 (V)
-  - Code du cinéma et de l'image animée - art. L212-2 (V)
-  - Code du cinéma et de l'image animée - art. L422-1 (V)
+  - Code du cinéma et de l'image animée - art. L111-2
+  - Code du cinéma et de l'image animée - art. L211-1
+  - Code du cinéma et de l'image animée - art. L212-2
+  - Code du cinéma et de l'image animée - art. L422-1
 
 
 ###### Article L114-2
@@ -2117,27 +2106,6 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 31 (Ab)
 
 
-###### Article L121-2
-
-Au regard des articles 5 à 11 de la loi du 21 ventôse an VII et des textes qui ont modifié ou complété ces articles, la
-conservation des registres du cinéma et de l'audiovisuel est assimilée à une conservation des hypothèques en ce qui concerne
-le cautionnement à fournir par le préposé.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-_Abrogé par_:
-
-  - Loi n°2015-177 du 16 février 2015 - art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'industrie cinématographique - art. 40, alinéa 2 (Ab)
-
-
 #### Chapitre II : Dépôt du titre et immatriculation des œuvres<a id=16></a>
 
 ###### Article L122-1
@@ -2149,8 +2117,8 @@ destinée à la représentation publique en France est obligatoire. Sauf disposi
 Le dépôt du titre est effectué à la requête du producteur ou de son représentant qui remet à l'appui une copie du contrat ou
 une simple déclaration émanant du ou des auteurs de l'œuvre originale dont l'œuvre cinématographique ou audiovisuelle a été
 tirée ou de leurs ayants droit, justifiant de l'autorisation de réaliser ladite œuvre d'après l'œuvre originale et précisant
-le délai pour lequel l'autorisation de l'exploiter est conférée. Le conservateur des registres du cinéma et de l'audiovisuel
-attribue un numéro d'ordre à l'œuvre cinématographique ou audiovisuelle dont le titre est ainsi déposé. 
+le délai pour lequel l'autorisation de l'exploiter est conférée. Le Centre national du cinéma et de l'image animée attribue
+un numéro d'ordre à l'œuvre cinématographique ou audiovisuelle dont le titre est ainsi déposé. 
 
 Si le producteur d'une œuvre cinématographique s'abstient d'effectuer le dépôt, il peut être mis en demeure d'avoir à le
 faire par les personnes ayant qualité pour demander l'inscription d'un acte, d'une convention ou d'un jugement énumérés à
@@ -2160,19 +2128,14 @@ cas échéant sous astreinte.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°85-660 du 3 juillet 1985 - art. 54, alinéa 2 (Ab)
-  - Code de l'industrie cinématographique - art. 32 (Ab)
-
-_Créé par_:
-
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2015-177 du 16 février 2015 - art. 18 (V)
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. D123-3 (V)
-  - Code du cinéma et de l'image animée - art. L122-2 (V)
+  - Code du cinéma et de l'image animée - art. L122-2 (VD)
   - Code du cinéma et de l'image animée - art. L123-1 (V)
   - Code du cinéma et de l'image animée - art. L123-2 (V)
   - Code du cinéma et de l'image animée - art. L123-3 (V)
@@ -2184,7 +2147,7 @@ _Cité par_:
 Le titre d'une œuvre littéraire peut être déposé au registre des options à la requête du producteur ou de son représentant
 qui remet à l'appui une copie du contrat par lequel l'auteur de cette œuvre ou son ayant droit lui a accordé une option pour
 l'achat des droits d'adaptation et de réalisation de cette œuvre et qui justifie du versement des sommes dues au titre de ce
-contrat. Le conservateur des registres du cinéma et de l'audiovisuel attribue un numéro d'ordre au projet d'œuvre
+contrat.          Le Centre national du cinéma et de l'image animée  attribue un numéro d'ordre au projet d'œuvre
 cinématographique ou audiovisuelle dont le titre est ainsi déposé. 
 
 Lorsque le producteur exerce l'option mentionnée au premier alinéa, il dépose le titre de l'œuvre cinématographique ou
@@ -2192,17 +2155,13 @@ audiovisuelle au registre public du cinéma et de l'audiovisuel dans les conditi
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-_Anciens textes_:
-
-  - Code de l'industrie cinématographique - art. 33-1 (Ab)
+  - Loi n°2015-177 du 16 février 2015 - art. 18 (V)
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L122-1 (V)
+  - Code du cinéma et de l'image animée - art. L122-1 (VD)
 
 _Cité par_:
 
@@ -2342,25 +2301,21 @@ _Cite_:
 
 S'il est rédigé dans une langue usuelle dans l'industrie cinématographique et audiovisuelle autre que le français, l'acte, la
 convention ou le jugement peut, à la demande du requérant, être remis dans sa version originale. Il est en ce cas accompagné
-d'une traduction intégrale ou d'un résumé rédigés en français dans des conditions déterminées par décret. Le conservateur des
-registres du cinéma et de l'audiovisuel s'assure que le document remis dans sa version originale est accompagné de la
+d'une traduction intégrale ou d'un résumé rédigés en français dans des conditions déterminées par décret.          Le Centre
+national du cinéma et de l'image animée  s'assure que le document remis dans sa version originale est accompagné de la
 traduction ou du résumé présentant les garanties requises. Il peut, s'il l'estime nécessaire pour procéder à un examen
 éclairé, en vue notamment de vérifier que l'acte, la convention ou le jugement peut être inscrit ou publié au titre des
 articles L. 123-1, L. 123-2 ou L. 123-3, demander la traduction intégrale de celui-ci.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-_Anciens textes_:
-
-  - Code de l'industrie cinématographique - art. 33-4 (Ab)
+  - Loi n°2015-177 du 16 février 2015 - art. 18 (V)
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L123-1 (V)
+  - Code du cinéma et de l'image animée - art. L123-1
 
 
 ###### Article L123-5
@@ -2511,76 +2466,46 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 43 (Ab)
 
 
-#### Chapitre V : Attributions et rémunération du conservateur<a id=19></a>
+#### Chapitre V : Obligations et responsabilité du Centre national du cinéma et de l'image animée<a id=19></a>
 
 ###### Article L125-1
 
-Le conservateur des registres du cinéma et de l'audiovisuel délivre à tous ceux qui le requièrent copie ou extrait des
+Le Centre national du cinéma et de l'image animée délivre à tous ceux qui le requièrent soit une copie ou un extrait des
 énonciations portées au registre public du cinéma et de l'audiovisuel ou au registre des options et des pièces remises à
-l'appui des inscriptions ou des publications, ou un certificat s'il n'existe pas d'inscription ni de publication. Toutefois,
-pour les contrats d'option inscrits au titre de l'article L. 123-2, il ne délivre que le nom de l'œuvre littéraire, le nom de
-l'auteur et de son ayant droit, le nom du producteur, la période de validité de l'option et l'indication que cette période
-est renouvelable. 
+l'appui des inscriptions ou des publications, soit un certificat s'il n'existe ni inscription ni publication. Toutefois, pour
+les contrats d'option inscrits au titre de l'article L. 123-2, il ne délivre que le nom de l'œuvre littéraire, le nom de
+l'auteur et celui de son ayant droit, le nom du producteur, la période de validité de l'option et l'indication que cette
+période est renouvelable. 
 
-Il est responsable du préjudice résultant tant de l'omission sur le registre public du cinéma et de l'audiovisuel ou sur le
-registre des options des inscriptions ou des publications requises en son bureau que du défaut de mention dans les états ou
-certificats qu'il délivre d'une ou plusieurs inscriptions ou publications existantes à moins que l'erreur ne provienne de
-désignations insuffisantes qui ne pourraient lui être imputées. 
+Le Centre national du cinéma et de l'image animée est responsable du préjudice résultant des fautes commises dans l'exercice
+de sa mission de tenue des registres du cinéma et de l'audiovisuel, notamment : 
 
-Le conservateur est tenu d'avoir un registre sur lequel il inscrit, jour par jour et dans l'ordre des demandes, les remises
-d'actes qui lui sont faites en vue de leur inscription ou publication, laquelle ne peut être portée qu'à la date et dans
-l'ordre desdites remises. 
+1° De l'omission, sur le registre public du cinéma et de l'audiovisuel ou sur le registre des options, des inscriptions ou
+des publications requises auprès de lui ; 
 
-Le conservateur est tenu de se conformer, dans l'exercice de ses fonctions, à toutes les dispositions du présent chapitre à
-peine des sanctions et dommages-intérêts prévus par l'article 2455 du code civil à l'encontre des conservateurs des
-hypothèques.
+2° Du défaut de mention, dans les états ou certificats qu'il délivre, d'une ou plusieurs inscriptions ou publications
+existantes à moins que l'erreur ne provienne de désignations insuffisantes qui ne pourraient lui être imputées. 
+
+L'action en responsabilité est exercée devant le juge judiciaire dans le délai de dix ans suivant le jour où la faute a été
+commise, à peine de forclusion. 
+
+Le Centre national du cinéma et de l'image animée tient un registre sur lequel sont inscrites, jour par jour et dans l'ordre
+des demandes, les remises d'actes qui lui sont faites en vue de leur inscription ou publication, laquelle ne peut être portée
+qu'à la date et dans l'ordre de ces remises.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2015-177 du 16 février 2015 - art. 18 (V)
 
 _Cite_:
 
-  - Code civil - art. 2455 (Ab)
-  - Code du cinéma et de l'image animée - art. L123-2 (V)
-
-_Anciens textes_:
-
-  - Code de l'industrie cinématographique - art. 37 (Ab)
+  - Code du cinéma et de l'image animée - art. L123-2
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. L124-2 (V)
-
-
-###### Article L125-2
-
-Toute requête aux fins d'inscription ou publication, toute demande de renseignements, toute délivrance d'états, certificats,
-copies ou extraits donnent lieu à la perception d'un émolument dont le taux et les conditions de perception sont fixées par
-décret.
-
-Ce décret fixe également le taux et les modalités du prélèvement effectué au profit du Centre national du cinéma et de
-l'image animée sur les émoluments versés au conservateur ainsi que les modalités de rémunération de ce dernier.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-
-_Abrogé par_:
-
-  - Loi n°2015-177 du 16 février 2015 - art. 18 (V)
-
-_Anciens textes_:
-
-  - Code de l'industrie cinématographique - art. 39 (Ab)
-
-_Cité par_:
-
-  - Code du cinéma et de l'image animée - art. L114-1 (V)
 
 
 #### Chapitre VI : Communication de renseignements relatifs aux recettes<a id=20></a>
