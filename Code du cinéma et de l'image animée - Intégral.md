@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2015-05-16
+Version Consolidée au 2015-06-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -228,9 +228,9 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#87)
               - [Paragraphe 4 : Dispositions relatives aux œuvres cinématographiques ou audiovisuelles difficiles et à petit budget (art. D331-17)](#220)
             - [Sous-section 3 : Dépenses de production éligibles (art. D331-18)](#221)
           - [Section 2 : Crédit d'impôt pour dépenses de création de jeux vidéo (art. D331-19 à D331-37)](#222)
-            - [Sous-section 1 : Jeux vidéo éligibles (art. D331-19 à D331-25)](#223)
+            - [Sous-section 1 : Jeux vidéo éligibles (art. D331-19 à D331-25-1)](#223)
               - [Paragraphe 1 : Conditions relatives à l'entreprise de jeux vidéo et aux jeux vidéo (art. D331-19 à D331-21)](#224)
-              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-22 à D331-25)](#225)
+              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-22 à D331-25-1)](#225)
             - [Sous-section 2 : Délivrance des agréments (art. A331-27 à D331-36)](#226)
               - [Paragraphe 1 : Comité d'experts (art. A331-27 à D331-26)](#227)
               - [Paragraphe 2 : Agrément provisoire (art. D331-30 à D331-32)](#228)
@@ -15864,29 +15864,28 @@ _Cite_:
 
 Le respect des conditions de création des jeux vidéo prévues aux 3° et 4° du 1 du III de l'article 220 terdecies du code
 général des impôts est vérifié au moyen d'un barème de points. Ce barème est composé d'un groupe " Auteurs et collaborateurs
-de création " et d'un groupe " Contribution au développement de la création ". 
+de création " d'un groupe " Contribution au développement de la création " et, pour les jeux vidéo spécifiquement destinés à
+un public d'adultes et qui sont commercialisés comme tels, d'un groupe " Contextualisation de la violence ". 
 
 Sont considérés comme répondant aux conditions de création mentionnées à l'alinéa précédent les jeux vidéo ayant obtenu
-cumulativement un nombre de 11 points au moins au titre du groupe " Auteurs et collaborateurs de création " et un nombre de
-14 points au moins au titre du groupe " Contribution au développement de la création ".
+cumulativement un nombre de 11 points au moins au titre du groupe " Auteurs et collaborateurs de création ", un nombre de 14
+points au moins au titre du groupe " Contribution au développement de la création " et, pour les jeux vidéo spécifiquement
+destinés à un public d'adultes et qui sont commercialisés comme tels, un nombre de 3 points au plus pour chacune de leurs
+séquences au titre du groupe " Contextualisation de la violence " .
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2008-508 du 29 mai 2008 - art. 5, I alinéa 17 (Ab)
 
 _Codifié par_:
 
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Décret n°2015-722 du 23 juin 2015 - art. 2
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 220 terdecies (V)
+  - Code général des impôts, CGI. - art. 220 terdecies
 
 
 ###### Article D331-23
@@ -15959,7 +15958,7 @@ Pour le groupe " Contribution au développement de la création ", les points so
 
 1° Il est affecté au sous-groupe " Création d'origine patrimoniale " un nombre total de 2 points ou de 4 points selon que : 
 
-a) Le jeu vidéo est inspiré d'une œuvre reconnue du patrimoine historique, artistique et scientifique européen : 4 points ; 
+a) Le jeu vidéo est inspiré du patrimoine historique, artistique et scientifique européen : 4 points ; 
 
 b) Le jeu vidéo est adapté d'une œuvre cinématographique, d'une œuvre audiovisuelle, d'une œuvre littéraire ou artistique ou
 d'une bande dessinée : 2 points ; 
@@ -16008,15 +16007,50 @@ b) Lorsque le jeu vidéo comporte deux innovations : 2 points ;
 
 c) Lorsque le jeu vidéo comporte au moins trois innovations : 3 points.
 
+Pour les jeux vidéo spécifiquement destinés à un public d'adultes et qui sont commercialisés comme tels, le comité d'experts
+prévu au 
+2 du IV de l'article 220 terdecies du code général des impôts
+s'assure, pour l'obtention des points, du caractère particulièrement significatif de la contribution du jeu au développement
+et à la diversité de la création française et européenne au titre de chacun des sous-groupes précités.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
+_Modifié par_:
+
+  - Décret n°2015-722 du 23 juin 2015 - art. 3
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 220 terdecies
+
+
+###### Article D331-25-1
+
+Pour le groupe  "   Contextualisation de la violence ", les points, pour chacune des séquences du jeu, sont affectés comme
+suit : 
+
+1° La violence présente un caractère disproportionné et gratuit : 1 point ; 
+
+2° La violence présente un caractère cru et détaillé dans un environnement visuellement réaliste : 1 point ; 
+
+3° Dans le cas où la séquence ferait état d'une violence répondant aux deux précédents critères, la violence dans cette
+séquence est quantitativement accentuée : 1 point ; 
+
+4° La violence ne peut pas être contournée : 1 point ; 
+
+5° La violence est encouragée : 1 point. 
+
+Leur obtention s'apprécie au regard des problématiques politiques, sociales ou culturelles traitées.
+
+**Liens relatifs à cet article**
+
 _Créé par_:
 
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Décret n°2015-722 du 23 juin 2015 - art. 4
 
 
 ##### Sous-section 2 : Délivrance des agréments<a id=226></a>
@@ -16035,8 +16069,7 @@ représentant ;
 3° Le chef de la mission de contrôle général économique et financier auprès du Centre national du cinéma et de l'image animée
 ou son représentant ; 
 
-4° Le chef du service des technologies et de la société de l'information du ministère chargé de l'industrie ou son
-représentant.
+4° Le chef du service chargé du multimédia du ministère chargé de l'industrie ou son représentant.
 
 **Liens relatifs à cet article**
 
@@ -16044,13 +16077,13 @@ _Codifié par_:
 
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Arrêté du 23 juin 2015 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 220 terdecies (V)
+  - Code général des impôts, CGI. - art. 220 terdecies
 
 
 ###### Article A331-28
@@ -16165,25 +16198,27 @@ auteurs participant à la création du jeu vidéo ;
 deuxième alinéa du I de l'article 220 terdecies du code général des impôts ; 
 
 9° La prévision de classification du jeu vidéo au regard des systèmes de classification en usage dans la profession visant à
-en limiter la mise à disposition à certaines catégories de mineurs, ainsi que les éléments permettant d'en justifier.
+en limiter la mise à disposition à certaines catégories de mineurs, ainsi que les éléments permettant d'en justifier ;
+
+10° Pour les jeux vidéo spécifiquement destinés à un public d'adultes et qui sont commercialisés comme tels, une attestation
+sur l'honneur de l'entreprise de création de jeux vidéo indiquant que le jeu n'obtient pas plus de 3 points, pour chacune de
+ses séquences, au titre du groupe  "   Contextualisation de la violence ", ainsi qu'une note d'intention exposant la nature
+et l'importance de la contribution du jeu au développement et à la diversité de la création française et européenne au regard
+notamment des critères énumérés à l'article D. 331-25.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°2008-508 du 29 mai 2008 - art. 7, I alinéas 2 à 11 (Ab)
 
 _Codifié par_:
 
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Décret n°2015-722 du 23 juin 2015 - art. 5
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 220 terdecies (V)
+  - Code général des impôts, CGI. - art. 220 terdecies
 
 _Cité par_:
 
