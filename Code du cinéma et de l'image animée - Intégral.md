@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2015-07-01
+Version Consolidée au 2015-07-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -8469,12 +8469,16 @@ _Créé par_:
 L'œuvre cinématographique de longue durée représentant le cinéma français pour l'attribution de l'Oscar du film en langue
 étrangère est sélectionnée par une commission composée : 
 
-1° Du délégué général de l'Association française du festival international du film (AFFIF) ; 
+1° Du délégué général de l'association dénommée " Association française du festival international du film " ; 
 
-2° De cinq personnalités qualifiées nommées chaque année par le ministre chargé de la culture ; 
+2° Du président de l'association dénommée " Unifrance Films International " ou son représentant ; 
 
-3° D'une personnalité qualifiée désignée par le président du Centre national du cinéma et de l'image animée dans les
-conditions du 2° de l'article L. 111-3. 
+3° Du président de l'association dénommée " Académie des arts et techniques du cinéma " ou son représentant ; 
+
+4° D'une personnalité qualifiée désignée par le président du Centre national du cinéma et de l'image animée dans les
+conditions du 2° de l'article L. 111-3 ; 
+
+5° De trois personnalités qualifiées nommées chaque année par le ministre chargé de la culture. 
 
 Le secrétariat de la commission est assuré par le Centre national du cinéma et de l'image animée.
 
@@ -8484,13 +8488,13 @@ _Codifié par_:
 
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Arrêté du 9 juillet 2015 - art. 1
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L111-3 (V)
+  - Code du cinéma et de l'image animée - art. L111-3
 
 
 #### Chapitre Ier : Visa d'exploitation cinématographique<a id=123></a>
