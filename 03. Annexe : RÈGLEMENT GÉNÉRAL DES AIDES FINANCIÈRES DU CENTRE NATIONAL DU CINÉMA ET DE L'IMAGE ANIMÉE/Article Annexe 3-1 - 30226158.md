@@ -20,7 +20,9 @@ Liste des postes (article 311-18)
 
 - Le chef layout ;
 
-- Le chef décorateur. 
+- Le chef décorateur ;
+
+- Le directeur d'écriture. 
 
 3° Documentaire de création et magazine :
 
@@ -58,9 +60,13 @@ Liste des postes (article 311-18)
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
+
+_Abrogé par_:
+
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 49, v. init.
 
 _Cite_:
 
