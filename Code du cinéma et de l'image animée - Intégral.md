@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-03-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -1278,19 +1278,18 @@ Tout éditeur de services de télévision, redevable à ce titre de la taxe ment
 fait appel à une rémunération de la part des usagers et qui encaisse directement le produit des abonnements acquittés par ces
 usagers, est en outre redevable de cette taxe au titre de son activité de distributeur de services de télévision. 
 
+Pour l'application de cette taxe, est regardée comme un éditeur de services de télévision toute personne qui encaisse les
+revenus liés aux services de télévision diffusés par un éditeur mentionné au premier alinéa, ainsi qu'à leurs activités
+connexes, notamment les services de télévision de rattrapage, directement ou par l'intermédiaire d'un régisseur de messages
+publicitaires et de parrainage ou d'un opérateur de communications électroniques mentionné au c du 1° de l'article L. 115-7. 
+
 Le produit de la taxe acquittée par les éditeurs de services de télévision est affecté au Centre national du cinéma et de
 l'image animée. Le produit de la taxe acquittée par les distributeurs de services de télévision est affecté à ce même
 établissement. 
 
 Est également regardée comme distributeur de services de télévision toute personne proposant un accès à des services de
 communication au public en ligne ou à des services de téléphonie, dès lors que la souscription à ces services permet de
-recevoir, au titre de cet accès, des services de télévision (1).
-
-**Nota:**
-
-(1) Conformément à la loi n° 2011-1977 du 28 décembre 2011, article 20 II, modifié par la loi n° 2012-1510 du 29 décembre
-2012, article 79, les dispositions du dernier alinéa entrent en vigueur à une date fixée par décret qui ne peut être
-postérieure au 1er janvier 2014.
+recevoir, au titre de cet accès, des services de télévision.
 
 **Liens relatifs à cet article**
 
@@ -1318,9 +1317,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 79
-  - Loi n°2012-1509 du 29 décembre 2012 - art. 39 (VD)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 115
+  - Décret n°2016-302 du 14 mars 2016 - art. 1 (V)
 
 _Anciens textes_:
 
@@ -1331,7 +1330,8 @@ _Anciens textes_:
 
 La taxe est assise sur le montant hors taxe sur la valeur ajoutée :
 
-1° Pour les éditeurs de services de télévision, au titre de chacun des services de télévision édités :
+1° Pour les éditeurs de services de télévision, au titre de chacun des services de télévision édités et de leurs activités
+connexes :
 
 a) Des sommes versées par les annonceurs et les parrains, pour la diffusion de leurs messages publicitaires et de parrainage
 y compris sur les services de télévision de rattrapage, aux redevables concernés ou aux régisseurs de messages publicitaires
@@ -1356,18 +1356,12 @@ destinées au grand public, composites ou de toute autre nature, donnant accès 
 ligne ou à des services de téléphonie, dès lors que la souscription à ces services permet de recevoir, au titre de cet accès,
 des services de télévision. Le produit de ces abonnements et autres sommes fait l'objet d'une déduction de 66 %.
 
-**Nota:**
-
-Décision n° 2013-362 QPC du 6 février 2014 du Conseil constitutionnel : Les termes : ", ou aux personnes en assurant
-l'encaissement," figurant au c du 1° de l'article L. 115-7 du code du cinéma et de l'image animée sont contraires à la
-Constitution. La déclaration d'inconstitutionnalité de l'article 1er prend effet à compter de la publication de la présente
-décision.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décision n°2013-362 QPC du 6 février 2014, v. init.
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 115
+  - Décret n°2016-302 du 14 mars 2016 - art. 1 (V)
 
 _Anciens textes_:
 
@@ -1406,10 +1400,12 @@ _Cite_:
 
 La taxe est calculée comme suit : 
 
-1° Pour les éditeurs de services de télévision, la taxe est calculée en appliquant un taux de 5,5 % à la fraction du montant
-des versements et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service, qui excède 11 000 000 €.
-Ce seuil est fixé à 16 000 000 € pour les éditeurs de services de télévision qui ne bénéficient pas de ressources procurées
-par la diffusion de messages publicitaires. 
+1° Pour les éditeurs de services de télévision, la taxe est calculée en appliquant un taux de 5,5 % au montant des versements
+et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service. Le montant cumulé des sommes
+mentionnées au a du 1° de l'article L. 115-7, à l'exception de celles relatives aux services de télévision de rattrapage, et
+des sommes mentionnées au b du 1° du même article fait l'objet d'un abattement de 11 000 000 €. Cet abattement est fixé à 16
+000 000 € pour les éditeurs de services de télévision qui ne bénéficient pas de ressources procurées par la diffusion de
+messages publicitaires. 
 
 Le montant de la taxe résultant de l'application des dispositions précédentes est réduit de 50 % pour la société nationale de
 programme France Télévisions au titre de ses services de télévision spécifiques à l'outre-mer et pour les services de
@@ -1426,7 +1422,7 @@ versements et encaissements de l'année considérée.
 2° Pour les distributeurs de services, la taxe est calculée en appliquant à la fraction de chaque part du montant des
 encaissements annuels, hors taxe sur la valeur ajoutée, qui excède 10 000 000 euros les taux de : 
 
-a) (1) 0,5 % pour la fraction supérieure à 10 000 000 € et inférieure ou égale à 250 000 000 € ; 
+a) 0,5 % pour la fraction supérieure à 10 000 000 € et inférieure ou égale à 250 000 000 € ; 
 
 b) 2,10 % pour la fraction supérieure à 250 000 000 € et inférieure ou égale à 500 000 000 € ; 
 
@@ -1436,19 +1432,14 @@ d) 3,50 % pour la fraction supérieure à 750 000 000 € ;
 
 3° Dans le cas mentionné au deuxième alinéa de l'article L. 115-6, la taxe due en tant qu'éditeur de services est calculée
 selon les modalités mentionnées au 1° et la taxe due en tant que distributeur de services selon les modalités mentionnées au
-2°. Toutefois, le taux mentionné au d du 2° est majoré de  3,75.
-
-**Nota:**
-
-(1) Conformément à la loi n° 2011-1977 du 28 décembre 2011, article 20 II, modifié par la loi n° 2012-1510 du 29 décembre
-2012, article 79, et par la loi n° 2013-1279 du 29 décembre 2013, article 29-V, les dispositions des a) à d) entrent en
-vigueur le 1er janvier 2014.
+2°. Toutefois, le taux mentionné au d du 2° est majoré de 3,75.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 31 (V)
+  - Loi n°2015-1785 du 29 décembre 2015 - art. 115
+  - Décret n°2016-302 du 14 mars 2016 - art. 1 (V)
 
 _Anciens textes_:
 
@@ -1456,7 +1447,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L115-6
+  - Code du cinéma et de l'image animée - art. L115-6 (M)
 
 
 ###### Article L115-10
