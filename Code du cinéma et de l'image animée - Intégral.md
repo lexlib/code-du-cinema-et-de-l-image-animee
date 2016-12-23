@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2016-12-17
+Version Consolidée au 2016-12-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -743,46 +743,43 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#104)
       - [ANNEXES AU LIVRE VI (art. Annexe 6-1 à Annexe 6-16)](#735)
     - [Livre VII : Soutien à la coopération et à la diffusion internationale et européenne (art. 711-1 à Annexe 7-8)](#736)
       - [Titre Ier : Aides financières au développement des coproductions internationales (art. 711-1 à 712-1)](#737)
-        - [Chapitre Ier : Aides financières aux projets de coproductions internationales (art. 711-1 à 711-2)](#738)
+        - [Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales (art. 711-1 à 711-3)](#738)
           - [Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux (art. 711-1)](#739)
           - [Section 2 : Dispositifs d'aides institués par des accords administratifs (art. 711-2)](#740)
-        - [Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales (art.  à 711-3)](#741)
-          - [Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux (art.  à 711-2)](#742)
-          - [Section 2 : Dispositifs d'aides institués par des accords administratifs (art.  à 711-2)](#743)
-          - [Section 3 : Dispositions communes (art. 711-3)](#744)
-        - [Chapitre II : Aides financières aux cinémas du monde (art. 712-1)](#745)
-      - [Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles (art. 721-1 à 723-11)](#746)
-        - [Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques (art. 721-1 à 721-30)](#747)
-          - [Section 1 : Dispositions générales (art. 721-1 à 721-5)](#748)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 721-2 à 721-3)](#749)
-            - [Sous-section 2 : Conditions relatives aux œuvres (art. 721-4 à 721-5)](#750)
-          - [Section 2 : Aides financières automatiques (art. 721-6 à 721-13)](#751)
-            - [Sous-section 1 : Allocations directes (art. 721-7 à 721-13)](#752)
-              - [Paragraphe 1 : Allocations directes au doublage (art. 721-7 à 721-10)](#753)
-                - [Sous-Paragraphe 1 : Objet et conditions d'attribution (art. 721-7 à 721-8)](#754)
-                - [Sous-Paragraphe 2 : Procédure et modalités d'attribution (art. 721-9 à 721-10)](#755)
-              - [Paragraphe 2 : Allocations directes au sous-titrage (art. 721-11 à 721-13)](#756)
-                - [Sous-Paragraphe 1 : Objet et conditions d'attribution (art. 721-11)](#757)
-                - [Sous-Paragraphe 2 : Procédure et modalités d'attribution (art. 721-12 à 721-13)](#758)
-          - [Section 3 : Aides financières sélectives (art. 721-14 à 721-30)](#759)
-            - [Sous-section 1 : Aides à la promotion à l'étranger d'œuvres déterminées (art. 721-14 à 721-21)](#760)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 721-14 à 721-15)](#761)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 721-16 à 721-21)](#762)
-            - [Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises (art. 721-22 à 721-29)](#763)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 721-22 à 721-23)](#764)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 721-24 à 721-29)](#765)
-            - [Sous-section 3 : Commission consultative (art. 721-30)](#766)
-        - [Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles (art. 722-1 à 722-16)](#767)
-          - [Section 1 : Aides financières sélectives (art. 722-1 à 722-16)](#768)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 722-2 à 722-10)](#769)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 722-11 à 722-15)](#770)
-            - [Sous-section 3 : Commission consultative (art. 722-16)](#771)
-        - [Chapitre III : Aides financières aux cinémas du monde (art. 723-1 à 723-11)](#772)
-          - [Section unique : Aides financières sélectives (art. 723-1 à 723-11)](#773)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 723-1 à 723-6)](#774)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 723-7 à 723-10)](#775)
-            - [Sous-section 3 : Commission consultative (art. 723-11)](#776)
-      - [ANNEXES AU LIVRE VII (art. Annexe 7-1 à Annexe 7-8)](#777)
+          - [Section 3 : Dispositions communes (art. 711-3)](#741)
+        - [Chapitre II : Aides financières aux cinémas du monde (art. 712-1)](#742)
+      - [Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles (art. 721-1 à 723-11)](#743)
+        - [Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques (art. 721-1 à 721-30)](#744)
+          - [Section 1 : Dispositions générales (art. 721-1 à 721-5)](#745)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 721-2 à 721-3)](#746)
+            - [Sous-section 2 : Conditions relatives aux œuvres (art. 721-4 à 721-5)](#747)
+          - [Section 2 : Aides financières automatiques (art. 721-6 à 721-13)](#748)
+            - [Sous-section 1 : Allocations directes (art. 721-7 à 721-13)](#749)
+              - [Paragraphe 1 : Allocations directes au doublage (art. 721-7 à 721-10)](#750)
+                - [Sous-Paragraphe 1 : Objet et conditions d'attribution (art. 721-7 à 721-8)](#751)
+                - [Sous-Paragraphe 2 : Procédure et modalités d'attribution (art. 721-9 à 721-10)](#752)
+              - [Paragraphe 2 : Allocations directes au sous-titrage (art. 721-11 à 721-13)](#753)
+                - [Sous-Paragraphe 1 : Objet et conditions d'attribution (art. 721-11)](#754)
+                - [Sous-Paragraphe 2 : Procédure et modalités d'attribution (art. 721-12 à 721-13)](#755)
+          - [Section 3 : Aides financières sélectives (art. 721-14 à 721-30)](#756)
+            - [Sous-section 1 : Aides à la promotion à l'étranger d'œuvres déterminées (art. 721-14 à 721-21)](#757)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 721-14 à 721-15)](#758)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 721-16 à 721-21)](#759)
+            - [Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises (art. 721-22 à 721-29)](#760)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 721-22 à 721-23)](#761)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 721-24 à 721-29)](#762)
+            - [Sous-section 3 : Commission consultative (art. 721-30)](#763)
+        - [Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles (art. 722-1 à 722-16)](#764)
+          - [Section 1 : Aides financières sélectives (art. 722-1 à 722-16)](#765)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 722-2 à 722-10)](#766)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 722-11 à 722-15)](#767)
+            - [Sous-section 3 : Commission consultative (art. 722-16)](#768)
+        - [Chapitre III : Aides financières aux cinémas du monde (art. 723-1 à 723-11)](#769)
+          - [Section unique : Aides financières sélectives (art. 723-1 à 723-11)](#770)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 723-1 à 723-6)](#771)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 723-7 à 723-10)](#772)
+            - [Sous-section 3 : Commission consultative (art. 723-11)](#773)
+      - [ANNEXES AU LIVRE VII (art. Annexe 7-1 à Annexe 7-8)](#774)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Organisation administrative<a id=2></a>
@@ -4141,12 +4138,12 @@ l'article L. 102 B du livre des procédures fiscales ;
 3° Les exploitants d'établissements de spectacles cinématographiques adressent, à la fin de chaque semaine cinématographique,
 au Centre national du cinéma et de l'image animée une déclaration des recettes réalisées pour chaque programme
 cinématographique représenté dans les salles de leurs établissements. Cette déclaration est transmise par voie électronique.
-Ils communiquent également cette déclaration de recettes aux distributeurs et à une société de perception et de répartition
-des droits relevant du titre II du livre III de la première partie du code de la propriété intellectuelle chargée des droits
-musicaux lorsqu'il existe un accord entre une telle société et les exploitants d'établissements de spectacles
-cinématographiques ou leurs représentants. Toutefois, le Centre national du cinéma et de l'image animée peut se charger, en
-lieu et place des exploitants, de la transmission de la déclaration de recettes, sous quelque forme que ce soit, aux
-distributeurs et, le cas échéant, à la société de perception et de répartition des droits précitée ; 
+Ils communiquent également cette déclaration de recettes aux distributeurs et à un organisme de gestion collective relevant
+du titre II du livre III de la première partie du code de la propriété intellectuelle chargé des droits musicaux lorsqu'il
+existe un accord entre un tel organisme  et les exploitants d'établissements de spectacles cinématographiques ou leurs
+représentants. Toutefois, le Centre national du cinéma et de l'image animée peut se charger, en lieu et place des
+exploitants, de la transmission de la déclaration de recettes, sous quelque forme que ce soit, aux distributeurs et, le cas
+échéant, à l'organisme de gestion collective précité  ; 
 
 4° Les fabricants, les importateurs ou les marchands de billets d'entrée déclarent au Centre national du cinéma et de l'image
 animée la livraison de ces billets aux établissements de spectacles cinématographiques ; 
@@ -4188,11 +4185,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 27
+  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 _Cite_:
 
-  - Code de la propriété intellectuelle -  Titre II : Sociétés de perception et de réparti... (V)
+  - Code de la propriété intellectuelle
   - Livre des procédures fiscales - art. L102 B
 
 
@@ -4890,10 +4887,10 @@ Le compte de production est également transmis à toute autre personne physique
 a conclu un contrat lui conférant un intéressement aux recettes d'exploitation de l'œuvre, conditionné à l'amortissement du
 coût de production. Lorsqu'il existe une convention collective ou un accord spécifique rendu obligatoire sur le fondement de
 l'article L. 212-8 du même code prévoyant, au profit des artistes-interprètes, une rémunération conditionnée à
-l'amortissement du coût de production de l'œuvre, le producteur délégué transmet le compte de production à ces derniers ou à
-une société de perception et de répartition des droits des artistes-interprètes mentionnée au titre II du livre III de la
-première partie dudit code désignée à cet effet. Lorsqu'un intéressement aux recettes d'exploitation de l'œuvre est déterminé
-en fonction de l'amortissement de certains éléments du coût de production, le producteur délégué transmet ces éléments, ainsi
+l'amortissement du coût de production de l'œuvre, le producteur délégué transmet le compte de production à ces derniers ou
+à un organisme de gestion collective des droits des artistes-interprètes mentionné au titre II du livre III de la première
+partie dudit code désigné à cet effet. Lorsqu'un intéressement aux recettes d'exploitation de l'œuvre est déterminé en
+fonction de l'amortissement de certains éléments du coût de production, le producteur délégué transmet ces éléments, ainsi
 que le coût de production, au bénéficiaire de l'intéressement. 
 
 Le compte de production comprend l'ensemble des dépenses engagées pour la préparation, la réalisation et la postproduction de
@@ -4901,19 +4898,19 @@ l'œuvre, en arrête le coût définitif et indique les moyens de son financemen
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L113-7 (V)
-  - Code de la propriété intellectuelle - art. L212-8 (V)
+  - Code de la propriété intellectuelle - art. L113-7
+  - Code de la propriété intellectuelle - art. L212-8
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. L213-26 (V)
-  - Code du cinéma et de l'image animée - art. L213-27 (M)
+  - Code du cinéma et de l'image animée - art. L213-27 (V)
   - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
@@ -4921,10 +4918,10 @@ _Cité par_:
 
 La forme du compte de production, la définition des différentes catégories de dépenses qui le composent ainsi que la nature
 des moyens de financement sont déterminées par accord professionnel conclu entre les organisations professionnelles
-représentatives des producteurs d'œuvres cinématographiques de longue durée, les organismes professionnels d'auteurs et les
-sociétés de perception et de répartition des droits des auteurs mentionnées au titre II du livre III de la première partie du
-code de la propriété intellectuelle. L'accord peut être rendu obligatoire pour l'ensemble des intéressés du secteur
-d'activité concerné par arrêté de l'autorité compétente de l'Etat. 
+représentatives des producteurs d'œuvres cinématographiques de longue durée, les organismes professionnels d'auteurs et
+les organismes de gestion collective des droits des auteurs mentionnés au titre II du livre III de la première partie du code
+de la propriété intellectuelle. L'accord peut être rendu obligatoire pour l'ensemble des intéressés du secteur d'activité
+concerné par arrêté de l'autorité compétente de l'Etat. 
 
 A défaut d'accord professionnel rendu obligatoire dans le délai d'un an à compter de la promulgation de la loi n° 2016-925 du
 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la forme du compte de production, la
@@ -4935,11 +4932,11 @@ financement sont fixées par décret en Conseil d'Etat.
 
 _Cite_:
 
-  - Loi n°2016-925 du 7 juillet 2016 (V)
+  - Loi n°2016-925 du 7 juillet 2016
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 _Cité par_:
 
@@ -4988,11 +4985,11 @@ physique ou morale avec laquelle le producteur délégué a conclu un contrat lu
 d'exploitation de l'œuvre, conditionné à l'amortissement du coût de production. Lorsqu'il existe une convention collective ou
 un accord spécifique rendu obligatoire sur le fondement de l'article L. 212-8 du même code prévoyant, au profit des artistes-
 interprètes, une rémunération conditionnée à l'amortissement du coût de production de l'œuvre, le Centre national du cinéma
-et de l'image animée transmet le rapport d'audit définitif à ces derniers ou à une société de perception et de répartition
-des droits des artistes-interprètes mentionnée au titre II du livre III de la première partie dudit code désignée à cet
-effet. Lorsqu'un intéressement aux recettes d'exploitation de l'œuvre est déterminé en fonction de l'amortissement de
-certains éléments du coût de production, le Centre national du cinéma et de l'image animée transmet les informations
-relatives à ces éléments et au coût de production au bénéficiaire de l'intéressement. 
+et de l'image animée transmet le rapport d'audit définitif à ces derniers ou                              à un organisme de
+gestion collective des droits des artistes-interprètes mentionné au titre II du livre III de la première partie dudit code
+désigné à cet effet. Lorsqu'un intéressement aux recettes d'exploitation de l'œuvre est déterminé en fonction de
+l'amortissement de certains éléments du coût de production, le Centre national du cinéma et de l'image animée transmet les
+informations relatives à ces éléments et au coût de production au bénéficiaire de l'intéressement. 
 
 Lorsque le rapport d'audit révèle l'existence d'une fausse déclaration pour le bénéfice des aides financières à la production
 du Centre national du cinéma et de l'image animée, celui-ci peut procéder au retrait de l'aide attribuée après que le
@@ -5001,14 +4998,14 @@ mentionné à l'article L. 421-1 du présent code, celui-ci est constaté et san
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L113-7 (V)
-  - Code de la propriété intellectuelle - art. L212-8 (V)
+  - Code de la propriété intellectuelle - art. L113-7
+  - Code de la propriété intellectuelle - art. L212-8
   - Code du cinéma et de l'image animée - art. L213-24 (V)
 
 _Cité par_:
@@ -5055,9 +5052,10 @@ _Cité par_:
 La forme du compte d'exploitation ainsi que la définition des encaissements bruts, des coûts d'exploitation et des frais
 généraux d'exploitation sont déterminées par accord professionnel conclu entre les organisations représentatives des
 producteurs d'œuvres cinématographiques de longue durée, les organisations professionnelles représentatives des distributeurs
-de ces œuvres, les organismes professionnels d'auteurs et les sociétés de perception et de répartition des droits des auteurs
-mentionnées au titre II du livre III de la première partie du code de la propriété intellectuelle. L'accord peut être rendu
-obligatoire pour l'ensemble des intéressés du secteur d'activité concerné par arrêté de l'autorité compétente de l'Etat. 
+de ces œuvres, les organismes professionnels d'auteurs et           les organismes de gestion collective des droits des
+auteurs mentionnés au titre II du livre III de la première partie du code de la propriété intellectuelle. L'accord peut être
+rendu obligatoire pour l'ensemble des intéressés du secteur d'activité concerné par arrêté de l'autorité compétente de
+l'Etat. 
 
 A défaut d'accord professionnel rendu obligatoire dans le délai d'un an à compter de la promulgation de la loi n° 2016-925 du
 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la forme du compte d'exploitation
@@ -5068,11 +5066,11 @@ par décret en Conseil d'Etat.
 
 _Cite_:
 
-  - Loi n°2016-925 du 7 juillet 2016 (V)
+  - Loi n°2016-925 du 7 juillet 2016
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 21
+  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 _Cité par_:
 
@@ -5851,10 +5849,10 @@ ainsi que les modalités d'amortissement du coût de production sont déterminé
 conclus entre les organisations professionnelles représentatives des producteurs d'œuvres audiovisuelles et, ensemble ou
 séparément, les organisations professionnelles représentatives des distributeurs de ces œuvres, les organisations
 professionnelles représentatives des éditeurs de services de télévision, ou un ensemble d'éditeurs de services de télévision
-représentatifs, les organismes professionnels d'auteurs et les sociétés de perception et de répartition des droits des
-auteurs mentionnées au titre II du livre III de la première partie du code de la propriété intellectuelle. Les accords
-peuvent être rendus obligatoires pour l'ensemble des intéressés des secteurs d'activité concernés par arrêté de l'autorité
-compétente de l'Etat. 
+représentatifs, les organismes professionnels d'auteurs et           les organismes de gestion collective des droits des
+auteurs mentionnés au titre II du livre III de la première partie du code de la propriété intellectuelle. Les accords peuvent
+être rendus obligatoires pour l'ensemble des intéressés des secteurs d'activité concernés par arrêté de l'autorité compétente
+de l'Etat. 
 
 A défaut d'accords professionnels rendus obligatoires dans le délai d'un an à compter de la publication de la loi n° 2016-925
 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine, la forme du compte de production,
@@ -5865,12 +5863,12 @@ financement ainsi que les modalités d'amortissement du coût de production sont
 
 _Cite_:
 
-  - Loi n°2016-925 du 7 juillet 2016 (V)
-  - Code de la propriété intellectuelle -  Titre II : Sociétés de perception et de réparti... (V)
+  - Loi n°2016-925 du 7 juillet 2016
+  - Code de la propriété intellectuelle
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 _Cité par_:
 
@@ -5981,7 +5979,7 @@ dans lesquelles est négociée la commission opposable sont déterminées par un
 entre les organisations représentatives des producteurs d'œuvres audiovisuelles et, ensemble ou séparément, les organisations
 professionnelles représentatives des distributeurs de ces œuvres, les organisations professionnelles représentatives des
 éditeurs de services de télévision ou un ensemble d'éditeurs de services de télévision représentatifs, les organismes
-professionnels d'auteurs et les sociétés de perception et de répartition des droits des auteurs mentionnées au titre II du
+professionnels d'auteurs et           les organismes de gestion collective des droits des auteurs mentionnés au titre II du
 livre III de la première partie du code de la propriété intellectuelle. Les accords peuvent être rendus obligatoires pour
 l'ensemble des intéressés des secteurs d'activité concernés par arrêté de l'autorité compétente de l'Etat. 
 
@@ -5994,12 +5992,12 @@ commission opposable sont fixées par décret en Conseil d'Etat.
 
 _Cite_:
 
-  - Loi n°2016-925 du 7 juillet 2016 (V)
-  - Code de la propriété intellectuelle -  Titre II : Sociétés de perception et de réparti... (V)
+  - Loi n°2016-925 du 7 juillet 2016
+  - Code de la propriété intellectuelle
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 26
+  - Ordonnance n°2016-1823 du 22 décembre 2016 - art. 3
 
 _Cité par_:
 
@@ -47713,7 +47711,7 @@ _Cite_:
 
 ### Titre Ier : Aides financières au développement des coproductions internationales<a id=737></a>
 
-#### Chapitre Ier : Aides financières aux projets de coproductions internationales<a id=738></a>
+#### Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales<a id=738></a>
 
 ##### Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux<a id=739></a>
 
@@ -47772,13 +47770,7 @@ _Modifié par_:
   - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 9, v. init.
 
 
-#### Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales<a id=741></a>
-
-##### Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux<a id=742></a>
-
-##### Section 2 : Dispositifs d'aides institués par des accords administratifs<a id=743></a>
-
-##### Section 3 : Dispositions communes<a id=744></a>
+##### Section 3 : Dispositions communes<a id=741></a>
 
 ###### Article 711-3
 
@@ -47795,7 +47787,7 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 10, v. init.
 
 
-#### Chapitre II : Aides financières aux cinémas du monde<a id=745></a>
+#### Chapitre II : Aides financières aux cinémas du monde<a id=742></a>
 
 ###### Article 712-1
 
@@ -47820,11 +47812,11 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 723-1 (M)
 
 
-### Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles<a id=746></a>
+### Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles<a id=743></a>
 
-#### Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques<a id=747></a>
+#### Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques<a id=744></a>
 
-##### Section 1 : Dispositions générales<a id=748></a>
+##### Section 1 : Dispositions générales<a id=745></a>
 
 ###### Article 721-1
 
@@ -47861,7 +47853,7 @@ _Abrogé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=749></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=746></a>
 
 ###### Article 721-2
 
@@ -47914,7 +47906,7 @@ _Cite_:
   - Code de commerce - art. L233-3 (M)
 
 
-##### Sous-section 2 : Conditions relatives aux œuvres<a id=750></a>
+##### Sous-section 2 : Conditions relatives aux œuvres<a id=747></a>
 
 ###### Article 721-4
 
@@ -47967,7 +47959,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 721-4 (V)
 
 
-##### Section 2 : Aides financières automatiques<a id=751></a>
+##### Section 2 : Aides financières automatiques<a id=748></a>
 
 ###### Article 721-6
 
@@ -47985,11 +47977,11 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section 1 : Allocations directes<a id=752></a>
+##### Sous-section 1 : Allocations directes<a id=749></a>
 
-##### Paragraphe 1 : Allocations directes au doublage<a id=753></a>
+##### Paragraphe 1 : Allocations directes au doublage<a id=750></a>
 
-##### Sous-Paragraphe 1 : Objet et conditions d'attribution<a id=754></a>
+##### Sous-Paragraphe 1 : Objet et conditions d'attribution<a id=751></a>
 
 ###### Article 721-7
 
@@ -48015,7 +48007,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-Paragraphe 2 : Procédure et modalités d'attribution<a id=755></a>
+##### Sous-Paragraphe 2 : Procédure et modalités d'attribution<a id=752></a>
 
 ###### Article 721-9
 
@@ -48048,9 +48040,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Allocations directes au sous-titrage<a id=756></a>
+##### Paragraphe 2 : Allocations directes au sous-titrage<a id=753></a>
 
-##### Sous-Paragraphe 1 : Objet et conditions d'attribution<a id=757></a>
+##### Sous-Paragraphe 1 : Objet et conditions d'attribution<a id=754></a>
 
 ###### Article 721-11
 
@@ -48064,7 +48056,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-Paragraphe 2 : Procédure et modalités d'attribution<a id=758></a>
+##### Sous-Paragraphe 2 : Procédure et modalités d'attribution<a id=755></a>
 
 ###### Article 721-12
 
@@ -48097,11 +48089,11 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=759></a>
+##### Section 3 : Aides financières sélectives<a id=756></a>
 
-##### Sous-section 1 : Aides à la promotion à l'étranger d'œuvres déterminées<a id=760></a>
+##### Sous-section 1 : Aides à la promotion à l'étranger d'œuvres déterminées<a id=757></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=761></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=758></a>
 
 ###### Article 721-14
 
@@ -48142,7 +48134,7 @@ _Modifié par_:
   - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 36, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=762></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=759></a>
 
 ###### Article 721-16
 
@@ -48228,9 +48220,9 @@ _Modifié par_:
   - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 38, v. init.
 
 
-##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises<a id=763></a>
+##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises<a id=760></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=764></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=761></a>
 
 ###### Article 721-22
 
@@ -48266,7 +48258,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=765></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=762></a>
 
 ###### Article 721-24
 
@@ -48344,7 +48336,7 @@ _Modifié par_:
   - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 40, v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=766></a>
+##### Sous-section 3 : Commission consultative<a id=763></a>
 
 ###### Article 721-30
 
@@ -48358,9 +48350,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles<a id=767></a>
+#### Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles<a id=764></a>
 
-##### Section 1 : Aides financières sélectives<a id=768></a>
+##### Section 1 : Aides financières sélectives<a id=765></a>
 
 ###### Article 722-1
 
@@ -48396,7 +48388,7 @@ _Abrogé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=769></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=766></a>
 
 ###### Article 722-2
 
@@ -48577,7 +48569,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=770></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=767></a>
 
 ###### Article 722-11
 
@@ -48652,7 +48644,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=771></a>
+##### Sous-section 3 : Commission consultative<a id=768></a>
 
 ###### Article 722-16
 
@@ -48666,11 +48658,11 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre III : Aides financières aux cinémas du monde<a id=772></a>
+#### Chapitre III : Aides financières aux cinémas du monde<a id=769></a>
 
-##### Section unique : Aides financières sélectives<a id=773></a>
+##### Section unique : Aides financières sélectives<a id=770></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=774></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=771></a>
 
 ###### Article 723-1
 
@@ -48825,7 +48817,7 @@ _Créé par_:
   - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 7, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=775></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=772></a>
 
 ###### Article 723-7
 
@@ -48897,7 +48889,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 7-8 (V)
 
 
-##### Sous-section 3 : Commission consultative<a id=776></a>
+##### Sous-section 3 : Commission consultative<a id=773></a>
 
 ###### Article 723-11
 
@@ -48911,7 +48903,7 @@ _Créé par_:
   - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 7, v. init.
 
 
-### ANNEXES AU LIVRE VII<a id=777></a>
+### ANNEXES AU LIVRE VII<a id=774></a>
 
 ###### Article Annexe 7-1
 
