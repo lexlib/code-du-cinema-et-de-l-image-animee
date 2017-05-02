@@ -1,6 +1,6 @@
 # Article Annexe 2-34
 
-Aide art et essai-Coefficient minorateur Confort de la salle et qualité de projection (article 231-9) 
+Aide art et essai-Coefficient minorateur Confort de la salle et qualité de projection (article 231-22)
 
 <pre>
 ┏━━━━━━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━━━━┓
@@ -15,12 +15,17 @@ Aide art et essai-Coefficient minorateur Confort de la salle et qualité de proj
 </pre>
 
 
+**Nota:**
+
+Conformément à l'article 15 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
+d'attribution de classement, d'un label et d'une aide présentées à compter du 1er septembre 2018.
+
+Toutefois, pour le classement et l'attribution de l'aide en 2019, la période de référence, définie à l'alinéa 1er de
+l'article 231-17 dans sa rédaction issue de la présente délibération, court de la semaine cinématographique 27 de l'année
+2017 à la semaine cinématographique 26 de l'année 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 231-9 (V)
+  - Délibération n°2017/CA/02 - art. 4, v. init.
