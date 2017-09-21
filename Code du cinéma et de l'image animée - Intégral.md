@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2017-07-31
+Version Consolidée au 2017-09-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -2105,19 +2105,28 @@ _Cite_:
 
 ###### Article L116-1
 
-Est affecté au Centre national du cinéma et de l'image animée le produit de la taxe sur les ventes et locations de
-vidéogrammes destinés à l'usage privé du public et sur les opérations assimilées mentionnées à l'article 1609 sexdecies B du
-code général des impôts.
+Est affecté au Centre national du cinéma et de l'image animée le produit de la taxe sur la diffusion en vidéo physique et en
+ligne de contenus audiovisuels mentionnée  à l'article 1609 sexdecies B du code général des impôts.
+
+**Nota:**
+
+Aux termes de l'article 56 IV de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur à une
+date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la
+réponse de la Commission européenne permettant de regarder le dispositif législatif lui ayant été notifié comme conforme au
+droit de l'Union européenne en matière d'aides d'Etat.
+
+Le décret n° 2017-1364 du 20 septembre 2017 constitue le décret susmentionné et, en conséquence, la date d'entrée en vigueur
+du présent article est fixée au 22 septembre 2017.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 56 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1609 sexdecies B (V)
+  - Code général des impôts, CGI. - art. 1609 sexdecies B
 
 
 ###### Article L116-2
