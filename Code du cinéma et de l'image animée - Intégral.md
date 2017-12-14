@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2017-10-13
+Version Consolidée au 2017-12-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -501,7 +501,7 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#103)
     - [Livre III : Soutien à la création audiovisuelle et multimédia (art. 311-1 à Annexe 3-25)](#493)
       - [Titre Ier : Aides financières à la création des œuvres audiovisuelles (art. 311-1 à 312-60)](#494)
         - [Chapitre Ier : Aides financières à la production et à la préparation des œuvres audiovisuelles (art. 311-1 à 311-129)](#495)
-          - [Section 1 : Dispositions générales (art. 311-1 à 311-24-4)](#496)
+          - [Section 1 : Dispositions générales (art. 311-1 à 311-24-5)](#496)
             - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 311-2 à 311-4)](#497)
             - [Sous-section 2 : Conditions relatives aux œuvres (art. 311-5 à 311-18)](#498)
               - [Paragraphe 1 : Conditions générales (art. 311-5 à 311-7)](#499)
@@ -517,7 +517,7 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#103)
               - [Paragraphe 2 : Dispositions particulières aux adaptations audiovisuelles de spectacle vivant (art. 311-21)](#509)
             - [Sous-section 4 : Conditions relatives à l'intensité des aides (art. 311-22 à 311-23)](#510)
             - [Sous-section 5 : Dispositions relatives au contrôle du coût de production (art. 311-24)](#511)
-            - [Sous-section 6 : Dispositions diverses (art. 311-24-1 à 311-24-4)](#512)
+            - [Sous-section 6 : Dispositions diverses (art. 311-24-1 à 311-24-5)](#512)
           - [Section 2 : Aides financières automatiques (art. 311-25 à 311-90)](#513)
             - [Sous-section 1 : Allocations d'investissement (art. 311-26 à 311-90)](#514)
               - [Paragraphe 1 : Compte automatique des entreprises de production (art. 311-26 à 311-28)](#515)
@@ -674,166 +674,163 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#103)
               - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-42 à 422-47)](#666)
               - [Sous-paragraphe 2 : Procédure et modalités d'attribution (art. 422-48 à 422-50)](#667)
             - [Paragraphe 6 : Commission consultative (art. 422-51 à 422-53)](#668)
-      - [Titre III : Aides financières à la diffusion culturelle des œuvres cinématographiques, audiovisuelles et multimédias (art. 431-1 à 431-10)](#669)
-        - [Chapitre unique : Aides financières à la numérisation des lieux de festivals (art. 431-1 à 431-10)](#670)
-          - [Section unique : Aides financières sélectives (art. 431-1 à 431-10)](#671)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 431-2 à 431-6)](#672)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 431-7 à 431-10)](#673)
-      - [Titre IV : Aides financières à la création et à la diffusion sur les plateformes numériques (art. 441-1 à 441-27)](#674)
-        - [Chapitre unique : Aides financières sélectives (art. 441-1 à 441-27)](#675)
-          - [Section 1 : Dispositions communes (art. 441-2 à 441-4)](#676)
-          - [Section 2 : Aides à la création d'œuvres destinées aux plateformes numériques (art. 441-5 à 441-14)](#677)
-            - [Sous-section 1 : Objet et condition d'attribution (art. 441-5 à 441-9)](#678)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 441-10 à 441-14)](#679)
-          - [Section 3 : Aides à l'enrichissement et à l'éditorialisation des programmes des chaînes numériques (art. 441-15 à 441-24)](#680)
-            - [Sous-section 1 : Objet et condition d'attribution (art. 441-15 à 441-20)](#681)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 441-21 à 441-24)](#682)
-          - [Section 4 : Dispositions relatives aux cumuls d'aides (art. 441-25)](#683)
-          - [Section 5 : Commission consultative (art. 441-26 à 441-27)](#684)
-      - [ANNEXES AU LIVRE IV (art. Annexe 4-1 à Annexe 4-26)](#685)
-    - [Livre V : Soutien aux actions en faveur du patrimoine cinématographique (art. 511-1 à Annexe 5-2)](#686)
-      - [Titre unique : Aides financières à la préservation et à la valorisation du patrimoine cinématographique (art. 511-1 à 512-12)](#687)
-        - [Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine (art. 511-1 à 511-15)](#688)
-          - [Section unique : Aides financières sélectives (art. 511-1 à 511-15)](#689)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 511-2 à 511-10)](#690)
-              - [Paragraphe 1 : Conditions relatives aux bénéficiaires (art. 511-2 à 511-3)](#691)
-              - [Paragraphe 2 : Conditions relatives aux œuvres (art. 511-4 à 511-6)](#692)
-              - [Paragraphe 3 : Dépenses prises en compte (art. 511-7)](#693)
-              - [Paragraphe 4 : Conditions de numérisation (art. 511-8 à 511-9)](#694)
-              - [Paragraphe 5 : Critères d'attribution (art. 511-10)](#695)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 511-11 à 511-14)](#696)
-            - [Sous-section 3 : Commission consultative (art. 511-15)](#697)
-        - [Chapitre II : Aides financières aux actions de préservation patrimoniale des œuvres cinématographiques (art. 512-1 à 512-12)](#698)
-          - [Section unique : Aides financières automatiques (art. 512-1 à 512-12)](#699)
-            - [Sous-section unique : Allocations directes (art. 512-2 à 512-12)](#700)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 512-4 à 512-8)](#701)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 512-9 à 512-12)](#702)
-      - [ANNEXES AU LIVRE V (art. Annexe 5-1 à Annexe 5-2)](#703)
-    - [Livre VI : Soutien à la diffusion vidéographique et à l'innovation technologique (art. 611-1 à Annexe 6-16)](#704)
-      - [Titre Ier : Aides financières à la diffusion en vidéo physique et en ligne des œuvres cinématographiques et audiovisuelles (art. 611-1 à 612-34)](#705)
-        - [Chapitre Ier : Aides financières à l'édition vidéographique des œuvres cinématographiques et audiovisuelles (art. 611-1 à 611-32)](#706)
-          - [Section 1 : Dispositions générales (art. 611-1 à 611-7)](#707)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 611-2 à 611-6)](#708)
-            - [Sous-section 2 : Dispositions relatives à l'intensité des aides (art. 611-7)](#709)
-          - [Section 2 : Aides financières automatiques (art. 611-8 à 611-20-3)](#710)
-            - [Sous-section 1 : Allocations d'investissement (art. 611-9 à 611-20)](#711)
-              - [Paragraphe 1 : Compte automatique des éditeurs de vidéogrammes (art. 611-9 à 611-10)](#712)
-              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 611-11 à 611-14)](#713)
-              - [Paragraphe 3 : Affectation des sommes inscrites sur le compte (art. 611-15 à 611-16)](#714)
-              - [Paragraphe 4 : Investissement des sommes inscrites sur le compte (art. 611-17 à 611-19)](#715)
-              - [Paragraphe 5 : Péremption des sommes inscrites sur le compte (art. 611-20)](#716)
-            - [Sous-section 2 : Allocations directes (art. 611-20-1 à 611-20-3)](#717)
-          - [Section 3 : Aides financières sélectives (art. 611-21 à 611-32)](#718)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 611-21 à 611-25)](#719)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 611-26 à 611-31)](#720)
-            - [Sous-section 3 : Commission consultative (art. 611-32)](#721)
-        - [Chapitre II : Aides financières à la diffusion en ligne des œuvres cinématographiques et audiovisuelles (art. 612-1 à 612-34)](#722)
-          - [Section 1 : Dispositions générales (art. 612-1 à 612-8)](#723)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 612-3 à 612-7)](#724)
-            - [Sous-section 2 : Dispositions relatives à l'intensité des aides (art. 612-8)](#725)
-          - [Section 2 : Aides financières automatiques (art. 612-9 à 612-22-3)](#726)
-            - [Sous-section 1 : Allocations d'investissement (art. 612-10 à 612-22)](#727)
-              - [Paragraphe 1 : Compte automatique des éditeurs de services de médias audiovisuels à la demande (art. 612-10 à 612-11)](#728)
-              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 612-12 à 612-15)](#729)
-              - [Paragraphe 3 : Affectation des sommes inscrites sur le compte (art. 612-16 à 612-17)](#730)
-              - [Paragraphe 4 : Investissement des sommes inscrites sur le compte (art. 612-18 à 612-21)](#731)
-              - [Paragraphe 5 : Péremption des sommes inscrites sur le compte (art. 612-22)](#732)
-            - [Sous-section 2 : Allocations directes (art. 612-22-1 à 612-22-3)](#733)
-          - [Section 3 : Aides financières sélectives (art. 612-23 à 612-34)](#734)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 612-23 à 612-28)](#735)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 612-29 à 612-34)](#736)
-      - [Titre II : Aides financières à l'utilisation des technologies numériques de l'image et du son (art. 621-1 à 621-27)](#737)
-        - [Chapitre unique : Aides financières à la création visuelle ou sonore par l'utilisation des technologies numériques de l'image et du son (art. 621-1 à 621-27)](#738)
-          - [Section 1 : Dispositions générales (art. 621-1 à 621-4)](#739)
-          - [Section 2 : Aides financières automatiques (art. 621-5 à 621-17)](#740)
-            - [Sous-section unique : Allocations directes (art. 621-5 à 621-17)](#741)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 621-6 à 621-10)](#742)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 621-11 à 621-17)](#743)
-          - [Section 3 : Aides financières sélectives (art. 621-18 à 621-27)](#744)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 621-19 à 621-22)](#745)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 621-23 à 621-26)](#746)
-            - [Sous-section 3 : Commission consultative (art. 621-27)](#747)
-      - [Titre III : Aides financières à la modernisation des industries techniques et à l'innovation technologique (art. 631-1 à 633-1)](#748)
-        - [Chapitre Ier : Aides financières à la modernisation des industries techniques (art. 631-1 à 631-52)](#749)
-          - [Section 1 : Aides financières sélectives (art. 631-1 à 631-52)](#750)
-            - [Sous-section 1 : Aides à l'investissement dans des immobilisations (art. 631-2 à 631-8)](#751)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-2 à 631-5)](#752)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-6 à 631-8)](#753)
-            - [Sous-section 2 : Aides à l'investissement éco-responsable (art. 631-9 à 631-15)](#754)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-9 à 631-12)](#755)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-13 à 631-15)](#756)
-            - [Sous-section 3 : Aides à la formation liée à un investissement (art. 631-16 à 631-22)](#757)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-16 à 631-19)](#758)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-20 à 631-22)](#759)
-            - [Sous-section 4 : Aides à la propriété industrielle (art. 631-23 à 631-29)](#760)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-23 à 631-26)](#761)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-27 à 631-29)](#762)
-            - [Sous-section 5 : Aides aux services de conseils (art. 631-30 à 631-36)](#763)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-30 à 631-33)](#764)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-34 à 631-36)](#765)
-            - [Sous-section 6 : Aides à l'amélioration des outils et services de communication (art. 631-37 à 631-43)](#766)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-37 à 631-40)](#767)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-41 à 631-43)](#768)
-            - [Sous-section 7 : Aides à la participation aux foires (art. 631-44 à 631-50)](#769)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-44 à 631-47)](#770)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-48 à 631-50)](#771)
-            - [Sous-section 8 : Commission consultative (art. 631-51 à 631-52)](#772)
-        - [Chapitre II : Aides financières à l'innovation technologique (art. 632-1 à 632-19)](#773)
-          - [Section 1 : Aides financières sélectives (art. 632-1 à 632-19)](#774)
-            - [Sous-section 1 : Aides à la recherche industrielle et au développement expérimental (art. 632-2 à 632-9)](#775)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 632-2 à 632-6)](#776)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 632-7 à 632-9)](#777)
-            - [Sous-section 2 : Aides à l'innovation de procédé et d'organisation (art. 632-10 à 632-17)](#778)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 632-10 à 632-14)](#779)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 632-15 à 632-17)](#780)
-            - [Sous-section 3 : Commission consultative (art. 632-18 à 632-19)](#781)
-        - [Chapitre III : Fonds d'aide à l'innovation de Bpifrance Financement (art. 633-1)](#782)
-      - [ANNEXES AU LIVRE VI (art. Annexe 6-1 à Annexe 6-16)](#783)
-    - [Livre VII : Soutien à la coopération et à la diffusion internationale et européenne (art. 711-1 à Annexe 7-8)](#784)
-      - [Titre Ier : Aides financières au développement des coproductions internationales (art. 711-1 à 712-1)](#785)
-        - [Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales (art. 711-1 à 711-3)](#786)
-          - [Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux (art. 711-1)](#787)
-          - [Section 2 : Dispositifs d'aides institués par des accords administratifs (art. 711-2)](#788)
-          - [Section 3 : Dispositions communes (art. 711-3)](#789)
-        - [Chapitre II : Aides financières aux cinémas du monde (art. 712-1)](#790)
-      - [Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles (art. 721-1 à 723-11)](#791)
-        - [Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques (art. 721-1 à 721-30)](#792)
-          - [Section 1 : Dispositions générales (art. 721-1 à 721-9)](#793)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 721-3 à 721-5)](#794)
-            - [Sous-section 2 : Conditions relatives aux œuvres (art. 721-6 à 721-7)](#795)
-            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 721-8 à 721-9)](#796)
-          - [Section 2 : Aides financières automatiques (art. 721-10 à 721-24)](#797)
-            - [Sous-section unique : Allocations d'investissement (art. 721-10 à 721-24)](#798)
-              - [Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger (art. 721-11 à 721-12)](#799)
-              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 721-13 à 721-15)](#800)
-              - [Paragraphe 3 : Inscription des sommes sur le compte (art. 721-16)](#801)
-              - [Paragraphe 4 : Affectation des sommes inscrites sur le compte (art. 721-17 à 721-19)](#802)
-              - [Paragraphe 5 : Investissement des sommes inscrites sur le compte (art. 721-20 à 721-23)](#803)
-              - [Paragraphe 6 : Péremption des sommes inscrites sur le compte (art. 721-24)](#804)
-          - [Section 3 : Aides financières sélectives (art. 721-25 à 721-30)](#805)
-            - [Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises (art. 721-25 à 721-29)](#806)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 721-25 à 721-29)](#807)
-            - [Sous-section 3 : Commission consultative (art. 721-30)](#808)
-        - [Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles (art. 722-1 à 722-27)](#809)
-          - [Section 1 : Dispositions générales (art. 722-1 à 722-8)](#810)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 722-3 à 722-5)](#811)
-            - [Sous-section 2 : Conditions relatives aux œuvres (art. 722-6)](#812)
-            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 722-7)](#813)
-            - [Sous-section 4 : Conditions relatives au montant des aides (art. 722-8)](#814)
-          - [Section 2 : Aides financières automatiques (art. 722-9 à 722-18)](#815)
-            - [Sous-section unique : Allocations directes (art. 722-10 à 722-18)](#816)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 722-10 à 722-14)](#817)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 722-15 à 722-18)](#818)
-          - [Section 3 : Aides financières sélectives (art. 722-19 à 722-27)](#819)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 722-19 à 722-20)](#820)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 722-21 à 722-26)](#821)
-            - [Sous-section 3 : Commission consultative (art. 722-27)](#822)
-        - [Chapitre III : Aides financières aux cinémas du monde (art. 723-1 à 723-11)](#823)
-          - [Section unique : Aides financières sélectives (art. 723-1 à 723-11)](#824)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 723-1 à 723-6)](#825)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 723-7 à 723-10)](#826)
-            - [Sous-section 3 : Commission consultative (art. 723-11)](#827)
-      - [ANNEXES AU LIVRE VII (art. Annexe 7-1 à Annexe 7-8)](#828)
+      - [Titre IV : Aides financières à la création et à la diffusion sur les plateformes numériques (art. 441-1 à 441-27)](#669)
+        - [Chapitre unique : Aides financières sélectives (art. 441-1 à 441-27)](#670)
+          - [Section 1 : Dispositions communes (art. 441-2 à 441-4)](#671)
+          - [Section 2 : Aides à la création d'œuvres destinées aux plateformes numériques (art. 441-5 à 441-14)](#672)
+            - [Sous-section 1 : Objet et condition d'attribution (art. 441-5 à 441-9)](#673)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 441-10 à 441-14)](#674)
+          - [Section 3 : Aides à l'enrichissement et à l'éditorialisation des programmes des chaînes numériques (art. 441-15 à 441-24)](#675)
+            - [Sous-section 1 : Objet et condition d'attribution (art. 441-15 à 441-20)](#676)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 441-21 à 441-24)](#677)
+          - [Section 4 : Dispositions relatives aux cumuls d'aides (art. 441-25)](#678)
+          - [Section 5 : Commission consultative (art. 441-26 à 441-27)](#679)
+      - [ANNEXES AU LIVRE IV (art. Annexe 4-1 à Annexe 4-26)](#680)
+    - [Livre V : Soutien aux actions en faveur du patrimoine cinématographique (art. 511-1 à Annexe 5-2)](#681)
+      - [Titre unique : Aides financières à la préservation et à la valorisation du patrimoine cinématographique (art. 511-1 à 512-12)](#682)
+        - [Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine (art. 511-1 à 511-15)](#683)
+          - [Section unique : Aides financières sélectives (art. 511-1 à 511-15)](#684)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 511-2 à 511-10)](#685)
+              - [Paragraphe 1 : Conditions relatives aux bénéficiaires (art. 511-2 à 511-3)](#686)
+              - [Paragraphe 2 : Conditions relatives aux œuvres (art. 511-4 à 511-6)](#687)
+              - [Paragraphe 3 : Dépenses prises en compte (art. 511-7)](#688)
+              - [Paragraphe 4 : Conditions de numérisation (art. 511-8 à 511-9)](#689)
+              - [Paragraphe 5 : Critères d'attribution (art. 511-10)](#690)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 511-11 à 511-14)](#691)
+            - [Sous-section 3 : Commission consultative (art. 511-15)](#692)
+        - [Chapitre II : Aides financières aux actions de préservation patrimoniale des œuvres cinématographiques (art. 512-1 à 512-12)](#693)
+          - [Section unique : Aides financières automatiques (art. 512-1 à 512-12)](#694)
+            - [Sous-section unique : Allocations directes (art. 512-2 à 512-12)](#695)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 512-4 à 512-8)](#696)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 512-9 à 512-12)](#697)
+      - [ANNEXES AU LIVRE V (art. Annexe 5-1 à Annexe 5-2)](#698)
+    - [Livre VI : Soutien à la diffusion vidéographique et à l'innovation technologique (art. 611-1 à Annexe 6-16)](#699)
+      - [Titre Ier : Aides financières à la diffusion en vidéo physique et en ligne des œuvres cinématographiques et audiovisuelles (art. 611-1 à 612-34)](#700)
+        - [Chapitre Ier : Aides financières à l'édition vidéographique des œuvres cinématographiques et audiovisuelles (art. 611-1 à 611-32)](#701)
+          - [Section 1 : Dispositions générales (art. 611-1 à 611-7)](#702)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 611-2 à 611-6)](#703)
+            - [Sous-section 2 : Dispositions relatives à l'intensité des aides (art. 611-7)](#704)
+          - [Section 2 : Aides financières automatiques (art. 611-8 à 611-20-3)](#705)
+            - [Sous-section 1 : Allocations d'investissement (art. 611-9 à 611-20)](#706)
+              - [Paragraphe 1 : Compte automatique des éditeurs de vidéogrammes (art. 611-9 à 611-10)](#707)
+              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 611-11 à 611-14)](#708)
+              - [Paragraphe 3 : Affectation des sommes inscrites sur le compte (art. 611-15 à 611-16)](#709)
+              - [Paragraphe 4 : Investissement des sommes inscrites sur le compte (art. 611-17 à 611-19)](#710)
+              - [Paragraphe 5 : Péremption des sommes inscrites sur le compte (art. 611-20)](#711)
+            - [Sous-section 2 : Allocations directes (art. 611-20-1 à 611-20-3)](#712)
+          - [Section 3 : Aides financières sélectives (art. 611-21 à 611-32)](#713)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 611-21 à 611-25)](#714)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 611-26 à 611-31)](#715)
+            - [Sous-section 3 : Commission consultative (art. 611-32)](#716)
+        - [Chapitre II : Aides financières à la diffusion en ligne des œuvres cinématographiques et audiovisuelles (art. 612-1 à 612-34)](#717)
+          - [Section 1 : Dispositions générales (art. 612-1 à 612-8)](#718)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 612-3 à 612-7)](#719)
+            - [Sous-section 2 : Dispositions relatives à l'intensité des aides (art. 612-8)](#720)
+          - [Section 2 : Aides financières automatiques (art. 612-9 à 612-22-3)](#721)
+            - [Sous-section 1 : Allocations d'investissement (art. 612-10 à 612-22)](#722)
+              - [Paragraphe 1 : Compte automatique des éditeurs de services de médias audiovisuels à la demande (art. 612-10 à 612-11)](#723)
+              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 612-12 à 612-15)](#724)
+              - [Paragraphe 3 : Affectation des sommes inscrites sur le compte (art. 612-16 à 612-17)](#725)
+              - [Paragraphe 4 : Investissement des sommes inscrites sur le compte (art. 612-18 à 612-21)](#726)
+              - [Paragraphe 5 : Péremption des sommes inscrites sur le compte (art. 612-22)](#727)
+            - [Sous-section 2 : Allocations directes (art. 612-22-1 à 612-22-3)](#728)
+          - [Section 3 : Aides financières sélectives (art. 612-23 à 612-34)](#729)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 612-23 à 612-28)](#730)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 612-29 à 612-34)](#731)
+      - [Titre II : Aides financières à l'utilisation des technologies numériques de l'image et du son (art. 621-1 à 621-27)](#732)
+        - [Chapitre unique : Aides financières à la création visuelle ou sonore par l'utilisation des technologies numériques de l'image et du son (art. 621-1 à 621-27)](#733)
+          - [Section 1 : Dispositions générales (art. 621-1 à 621-4)](#734)
+          - [Section 2 : Aides financières automatiques (art. 621-5 à 621-17)](#735)
+            - [Sous-section unique : Allocations directes (art. 621-5 à 621-17)](#736)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 621-6 à 621-10)](#737)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 621-11 à 621-17)](#738)
+          - [Section 3 : Aides financières sélectives (art. 621-18 à 621-27)](#739)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 621-19 à 621-22)](#740)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 621-23 à 621-26)](#741)
+            - [Sous-section 3 : Commission consultative (art. 621-27)](#742)
+      - [Titre III : Aides financières à la modernisation des industries techniques et à l'innovation technologique (art. 631-1 à 633-1)](#743)
+        - [Chapitre Ier : Aides financières à la modernisation des industries techniques (art. 631-1 à 631-52)](#744)
+          - [Section 1 : Aides financières sélectives (art. 631-1 à 631-52)](#745)
+            - [Sous-section 1 : Aides à l'investissement dans des immobilisations (art. 631-2 à 631-8)](#746)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-2 à 631-5)](#747)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-6 à 631-8)](#748)
+            - [Sous-section 2 : Aides à l'investissement éco-responsable (art. 631-9 à 631-15)](#749)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-9 à 631-12)](#750)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-13 à 631-15)](#751)
+            - [Sous-section 3 : Aides à la formation liée à un investissement (art. 631-16 à 631-22)](#752)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-16 à 631-19)](#753)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-20 à 631-22)](#754)
+            - [Sous-section 4 : Aides à la propriété industrielle (art. 631-23 à 631-29)](#755)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-23 à 631-26)](#756)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-27 à 631-29)](#757)
+            - [Sous-section 5 : Aides aux services de conseils (art. 631-30 à 631-36)](#758)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-30 à 631-33)](#759)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-34 à 631-36)](#760)
+            - [Sous-section 6 : Aides à l'amélioration des outils et services de communication (art. 631-37 à 631-43)](#761)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-37 à 631-40)](#762)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-41 à 631-43)](#763)
+            - [Sous-section 7 : Aides à la participation aux foires (art. 631-44 à 631-50)](#764)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-44 à 631-47)](#765)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-48 à 631-50)](#766)
+            - [Sous-section 8 : Commission consultative (art. 631-51 à 631-52)](#767)
+        - [Chapitre II : Aides financières à l'innovation technologique (art. 632-1 à 632-19)](#768)
+          - [Section 1 : Aides financières sélectives (art. 632-1 à 632-19)](#769)
+            - [Sous-section 1 : Aides à la recherche industrielle et au développement expérimental (art. 632-2 à 632-9)](#770)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 632-2 à 632-6)](#771)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 632-7 à 632-9)](#772)
+            - [Sous-section 2 : Aides à l'innovation de procédé et d'organisation (art. 632-10 à 632-17)](#773)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 632-10 à 632-14)](#774)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 632-15 à 632-17)](#775)
+            - [Sous-section 3 : Commission consultative (art. 632-18 à 632-19)](#776)
+        - [Chapitre III : Fonds d'aide à l'innovation de Bpifrance Financement (art. 633-1)](#777)
+      - [ANNEXES AU LIVRE VI (art. Annexe 6-1 à Annexe 6-16)](#778)
+    - [Livre VII : Soutien à la coopération et à la diffusion internationale et européenne (art. 711-1 à Annexe 7-8)](#779)
+      - [Titre Ier : Aides financières au développement des coproductions internationales (art. 711-1 à 712-1)](#780)
+        - [Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales (art. 711-1 à 711-3)](#781)
+          - [Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux (art. 711-1)](#782)
+          - [Section 2 : Dispositifs d'aides institués par des accords administratifs (art. 711-2)](#783)
+          - [Section 3 : Dispositions communes (art. 711-3)](#784)
+        - [Chapitre II : Aides financières aux cinémas du monde (art. 712-1)](#785)
+      - [Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles (art. 721-1 à 723-11)](#786)
+        - [Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques (art. 721-1 à 721-30)](#787)
+          - [Section 1 : Dispositions générales (art. 721-1 à 721-9)](#788)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 721-3 à 721-5)](#789)
+            - [Sous-section 2 : Conditions relatives aux œuvres (art. 721-6 à 721-7)](#790)
+            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 721-8 à 721-9)](#791)
+          - [Section 2 : Aides financières automatiques (art. 721-10 à 721-24)](#792)
+            - [Sous-section unique : Allocations d'investissement (art. 721-10 à 721-24)](#793)
+              - [Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger (art. 721-11 à 721-12)](#794)
+              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 721-13 à 721-15)](#795)
+              - [Paragraphe 3 : Inscription des sommes sur le compte (art. 721-16)](#796)
+              - [Paragraphe 4 : Affectation des sommes inscrites sur le compte (art. 721-17 à 721-19)](#797)
+              - [Paragraphe 5 : Investissement des sommes inscrites sur le compte (art. 721-20 à 721-23)](#798)
+              - [Paragraphe 6 : Péremption des sommes inscrites sur le compte (art. 721-24)](#799)
+          - [Section 3 : Aides financières sélectives (art. 721-25 à 721-30)](#800)
+            - [Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises (art. 721-25 à 721-29)](#801)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 721-25 à 721-29)](#802)
+            - [Sous-section 3 : Commission consultative (art. 721-30)](#803)
+        - [Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles (art. 722-1 à 722-27)](#804)
+          - [Section 1 : Dispositions générales (art. 722-1 à 722-8)](#805)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 722-3 à 722-5)](#806)
+            - [Sous-section 2 : Conditions relatives aux œuvres (art. 722-6)](#807)
+            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 722-7)](#808)
+            - [Sous-section 4 : Conditions relatives au montant des aides (art. 722-8)](#809)
+          - [Section 2 : Aides financières automatiques (art. 722-9 à 722-18)](#810)
+            - [Sous-section unique : Allocations directes (art. 722-10 à 722-18)](#811)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 722-10 à 722-14)](#812)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 722-15 à 722-18)](#813)
+          - [Section 3 : Aides financières sélectives (art. 722-19 à 722-27)](#814)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 722-19 à 722-20)](#815)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 722-21 à 722-26)](#816)
+            - [Sous-section 3 : Commission consultative (art. 722-27)](#817)
+        - [Chapitre III : Aides financières aux cinémas du monde (art. 723-1 à 723-11)](#818)
+          - [Section unique : Aides financières sélectives (art. 723-1 à 723-11)](#819)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 723-1 à 723-6)](#820)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 723-7 à 723-10)](#821)
+            - [Sous-section 3 : Commission consultative (art. 723-11)](#822)
+        - [Chapitre III : Aides financières à la distribution à l'étranger des œuvres représentatives des cinématographies du monde (art.  à 723-11)](#823)
+          - [Section unique : Aides financières sélectives (art.  à 723-11)](#824)
+      - [ANNEXES AU LIVRE VII (art. Annexe 7-1 à Annexe 7-8)](#825)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Organisation administrative<a id=2></a>
@@ -21806,18 +21803,18 @@ _Créé par_:
 
 ###### Article 211-32-1
 
-Dans le cadre de l'expérimentation mentionnée à l'article 721-2-1, des  sommes sont calculées à raison de la représentation
-commerciale en  salles de spectacles cinématographiques, dans les pays et territoires  figurant en annexe 2 du livre VII, des
-œuvres cinématographiques  mentionnées à l'article 721-6.
+Dans le cadre de l'expérimentation mentionnée à l'article 721-2-1, des sommes sont calculées à raison de la représentation
+commerciale en salles de spectacles cinématographiques, dans les pays et territoires figurant en annexe 2 du livre VII, des
+œuvres cinématographiques mentionnées à l'article 721-6 pour lesquelles l'agrément de production a été délivré.
 
-Le calcul est effectué par application d'un  taux au montant des sommes inscrites à titre définitif sur le compte
-automatique de l'entreprise de vente à l'étranger conformément à  l'article 721-13.
+Le calcul est effectué par application d'un taux au montant des sommes inscrites à titre définitif sur le compte automatique
+de l'entreprise de vente à l'étranger conformément à l'article 721-13.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 3, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 7, v. init.
 
 
 ###### Article 211-32-2
@@ -22192,16 +22189,17 @@ _Créé par_:
 
 ###### Article 211-47
 
-La demande d'agrément des investissements ne peut être présentée initialement que par l'entreprise de production déléguée. 
+La demande d'agrément des investissements ne peut être présentée initialement que par l'entreprise de production déléguée.
 
 Cette demande peut être présentée jusqu'à la délivrance du visa d'exploitation cinématographique. Toutefois, dans les cas
-prévus à l'article 211-55, cette demande est présentée avant le début des prises de vues.
+prévus à l'article 211-55, cette demande est présentée avant le début des prises de vues. Pour les œuvres cinématographiques
+appartenant au genre documentaire, les repérages filmés ne sont pas considérés comme début des prises de vues.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 8, v. init.
 
 _Cite_:
 
@@ -32445,6 +32443,20 @@ _Créé par_:
   - Délibération n°2017/CA/23 - art. 4, v. init.
 
 
+###### Article 311-24-5
+
+Pour les œuvres appartenant au genre vidéomusique, l'attribution des aides financières à la production est soumise aux
+dispositions du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides
+compatibles avec le marché intérieur en application des articles 107 et 108 du traité, notamment celles prévues par le
+Chapitre Ier et l'article 54 de la Section 11 relatif aux régimes d'aides en faveur des œuvres audiovisuelles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 30, v. init.
+
+
 ##### Section 2 : Aides financières automatiques<a id=513></a>
 
 ###### Article 311-25
@@ -33158,8 +33170,8 @@ coproducteur a contracté.
 Dans ce cas, les coefficients sont augmentés de 0,1 lorsque le nombre de pays est supérieur ou égal à 3 et de 0,2 lorsque ce
 nombre est supérieur ou égal à 5.
 
-5° L'entreprise de production déléguée établie en France a obtenu, avant la date d'achèvement de l'œuvre, au moins deux
-financements en numéraire parmi les financements suivants :
+5° L'entreprise de production déléguée établie en France a obtenu, pour la production de l'œuvre et avant la date de son
+achèvement, au moins deux financements en numéraire parmi les financements suivants :
 
 a) Financement provenant d'un éditeur de services de télévision ou d'un éditeur de services à la demande, autre que ceux qui
 ont contribué à l'apport initial prévu aux articles 311-10 et 311-11 ou à l'article 311-12 et répondant aux conditions
@@ -33187,7 +33199,10 @@ e) Financement provenant de l'Union européenne, notamment dans le cadre du sous
 créative , prévu par le règlement (UE) n° 1295/2013 du Parlement européen et du Conseil du 11 décembre 2013 établissant le
 programme Europe créative (2014 à 2020) et abrogeant les décisions n° 1718/2006/CE, n° 1855/2006/CE et n° 1041/2009/CE et mis
 en œuvre par l'Agence exécutive Education, audiovisuel et culture instituée par la décision d'exécution de la Commission
-européenne n° 2013/776/UE du 18 décembre 2013.
+européenne n° 2013/776/UE du 18 décembre 2013 ;
+
+f) Financement provenant d'un organisme de gestion collective des droits d'auteur et des droits voisins mentionné au titre II
+du livre III de la première partie du code de la propriété intellectuelle.
 
 Le montant de chaque financement est au moins égal à 4 500 € pour une œuvre d'une durée d'une heure. Pour une œuvre d'une
 durée différente, le montant minimum est déterminé prorata temporis.
@@ -33282,7 +33297,7 @@ suivant celui de la date d'entrée en vigueur de la présente délibération.
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/02 - art. 7, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 41, v. init.
 
 _Cité par_:
 
@@ -43507,245 +43522,9 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-### Titre III : Aides financières à la diffusion culturelle des œuvres cinématographiques, audiovisuelles et multimédias<a id=669></a>
+### Titre IV : Aides financières à la création et à la diffusion sur les plateformes numériques<a id=669></a>
 
-#### Chapitre unique : Aides financières à la numérisation des lieux de festivals<a id=670></a>
-
-##### Section unique : Aides financières sélectives<a id=671></a>
-
-###### Article 431-1
-
-Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
-animée, afin de soutenir la numérisation de lieux accueillant du public dans le cadre de festivals de cinéma.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. D311-3 (V)
-
-
-##### Sous-section 1 : Objet et conditions d'attribution<a id=672></a>
-
-###### Article 431-2
-
-Les aides à la numérisation des lieux de festivals sont attribuées aux propriétaires des lieux.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-
-###### Article 431-3
-
-Les aides à la numérisation des lieux de festivals sont attribuées pour l'installation initiale d'équipements de projection
-numérique conformes aux normes internationales ISO relatives à la projection numérique en salles.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-
-###### Article 431-4
-
-I.-Les lieux de festivals répondent aux conditions suivantes : 
-
-1° Ne pas être des établissements de spectacles cinématographiques homologués dans les conditions prévues à l'article L.
-212-14 du code du cinéma et de l'image animée ; 
-
-2° Avoir accueilli l'organisation d'au moins 30 % du nombre total de séances programmées dans le cadre de la dernière édition
-d'un festival de cinéma qui : 
-
-a) Est organisé en France ; 
-
-b) A bénéficié, l'année précédant la demande, d'une aide financière du Centre national du cinéma et de l'image animée en
-application de l'article 112-1 ou d'une aide financière attribuée par la direction régionale des affaires culturelles ; 
-
-c) A réalisé, au titre de sa dernière édition, un nombre total d'entrées supérieur ou égal à 15 000. 
-
-II.-Il peut être dérogé à la proportion minimale de séances prévue au 2° du I compte tenu du caractère emblématique d'un lieu
-pour la programmation du festival considéré et de la réalisation dans ce lieu d'un nombre d'entrées significatif dans le
-cadre de la dernière édition du festival.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 112-1 (V)
-  - Code du cinéma et de l'image animée - art. L212-14 (V)
-
-
-###### Article 431-5
-
-Les aides à la numérisation des lieux de festivals sont attribuées en vue de contribuer à la prise en charge des dépenses
-relatives :
-
-1° Au projecteur ;
-
-2° A l'anamorphoseur et autres systèmes optiques ;
-
-3° Au serveur ;
-
-4° A l'onduleur ;
-
-5° A la chaîne sonore ;
-
-6° Au serveur central de stockage ;
-
-7° Au système d'automatisation des salles ;
-
-8° Au câblage internet et réseau informatique ;
-
-9° Au réseau électrique ;
-
-10° A la climatisation de la cabine de projection ;
-
-11° A l'extraction d'air ;
-
-12° Aux frais d'installation et aux extensions de garanties ;
-
-13° Aux frais financiers.
-
-Pour un même lieu, ces dépenses ne sont éligibles que dans la limite de 75 000 €.
-
-Sont exclues les dépenses relatives aux travaux de construction, d'amélioration, de réfection et d'aménagement des bâtiments
-rendus nécessaires par l'installation des équipements ainsi que les dépenses de maintenance et d'entretien de ces
-équipements.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-
-###### Article 431-6
-
-Le bénéfice des aides à la numérisation des lieux de festivals est subordonné au respect du règlement n° 1407/2013 de la
-Commission du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union
-européenne aux aides de minimis.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=673></a>
-
-###### Article 431-7
-
-Pour l'attribution d'une aide, le propriétaire du lieu remet un dossier comprenant :
-
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
-
-2° La liste des documents justificatifs figurant en annexe 21 du présent livre.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Délibération n°2016/CA/10 du 30 juin 2016 - art. 18, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-_Cité par_:
-
-  - Code du cinéma et de l'image animée - art. Annexe 4-16 (M)
-
-
-###### Article 431-8
-
-La décision d'attribution d'une aide est prise après expertise technique des dossiers effectuée par l'association dénommée
-"Commission supérieure technique de l'image et du son" .
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-
-###### Article 431-9
-
-Le montant de l'aide ne peut excéder 30 % des dépenses éligibles. Il peut être porté à 40 % de ces dépenses lorsque d'autres
-projets cinématographiques significatifs sont organisés dans le lieu considéré en dehors du festival.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-
-###### Article 431-10
-
-L'aide est attribuée sous forme de subvention.
-
-L'aide fait l'objet d'une convention établie avec le propriétaire du lieu. Cette convention fixe les modalités de versement
-de l'aide et les circonstances dans lesquelles elle donne lieu à reversement.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 5, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-
-### Titre IV : Aides financières à la création et à la diffusion sur les plateformes numériques<a id=674></a>
-
-#### Chapitre unique : Aides financières sélectives<a id=675></a>
+#### Chapitre unique : Aides financières sélectives<a id=670></a>
 
 ###### Article 441-1
 
@@ -43764,7 +43543,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-##### Section 1 : Dispositions communes<a id=676></a>
+##### Section 1 : Dispositions communes<a id=671></a>
 
 ###### Article 441-2
 
@@ -43825,9 +43604,9 @@ _Créé par_:
   - Délibération n°2017/CA/23 - art. 6, v. init.
 
 
-##### Section 2 : Aides à la création d'œuvres destinées aux plateformes numériques<a id=677></a>
+##### Section 2 : Aides à la création d'œuvres destinées aux plateformes numériques<a id=672></a>
 
-##### Sous-section 1 : Objet et condition d'attribution<a id=678></a>
+##### Sous-section 1 : Objet et condition d'attribution<a id=673></a>
 
 ###### Article 441-5
 
@@ -43941,7 +43720,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 441-5 (V)
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=679></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=674></a>
 
 ###### Article 441-10
 
@@ -44034,9 +43813,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 4-24 (V)
 
 
-##### Section 3 : Aides à l'enrichissement et à l'éditorialisation des programmes des chaînes numériques<a id=680></a>
+##### Section 3 : Aides à l'enrichissement et à l'éditorialisation des programmes des chaînes numériques<a id=675></a>
 
-##### Sous-section 1 : Objet et condition d'attribution<a id=681></a>
+##### Sous-section 1 : Objet et condition d'attribution<a id=676></a>
 
 ###### Article 441-15
 
@@ -44125,7 +43904,7 @@ _Créé par_:
   - Délibération n°2017/CA/23 - art. 6, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=682></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=677></a>
 
 ###### Article 441-21
 
@@ -44197,7 +43976,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 4-26 (V)
 
 
-##### Section 4 : Dispositions relatives aux cumuls d'aides<a id=683></a>
+##### Section 4 : Dispositions relatives aux cumuls d'aides<a id=678></a>
 
 ###### Article 441-25
 
@@ -44218,7 +43997,7 @@ _Créé par_:
   - Délibération n°2017/CA/23 - art. 6, v. init.
 
 
-##### Section 5 : Commission consultative<a id=684></a>
+##### Section 5 : Commission consultative<a id=679></a>
 
 ###### Article 441-26
 
@@ -44252,7 +44031,7 @@ _Créé par_:
   - Délibération n°2017/CA/23 - art. 6, v. init.
 
 
-### ANNEXES AU LIVRE IV<a id=685></a>
+### ANNEXES AU LIVRE IV<a id=680></a>
 
 ###### Article Annexe 4-1
 
@@ -45221,36 +45000,6 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 18, v. init.
 
 
-###### Article Annexe 4-21
-
-Aides à la numérisation des lieux de festivals (art. 431-7) 
-
-Liste des documents justificatifs : 
-
-1°  Le devis détaillé des dépenses d'installation initiale des équipements  de projection numérique, indiquant la conformité
-de ces équipements aux  normes internationales ISO ; 
-
-2° Les justificatifs des autres sources de financement des équipements de projection numérique ; 
-
-3° Le cas échant, une copie de la décision d'aide financière attribuée par la direction régionale des affaires culturelles ; 
-
-4° Une note détaillant les autres projets cinématographiques en dehors du festival.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Délibération n°2016/CA/10 du 30 juin 2016 - art. 18, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 50, v. init.
-
-_Anciens textes_:
-
-  - Code du cinéma et de l'image animée - art. Annexe 4-16 (M)
-
-
 ###### Article Annexe 4-22
 
 Liste des Festivals (article 441-7)
@@ -45455,13 +45204,13 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 441-24 (V)
 
 
-## Livre V : Soutien aux actions en faveur du patrimoine cinématographique<a id=686></a>
+## Livre V : Soutien aux actions en faveur du patrimoine cinématographique<a id=681></a>
 
-### Titre unique : Aides financières à la préservation et à la valorisation du patrimoine cinématographique<a id=687></a>
+### Titre unique : Aides financières à la préservation et à la valorisation du patrimoine cinématographique<a id=682></a>
 
-#### Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine<a id=688></a>
+#### Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine<a id=683></a>
 
-##### Section unique : Aides financières sélectives<a id=689></a>
+##### Section unique : Aides financières sélectives<a id=684></a>
 
 ###### Article 511-1
 
@@ -45490,9 +45239,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=690></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=685></a>
 
-##### Paragraphe 1 : Conditions relatives aux bénéficiaires<a id=691></a>
+##### Paragraphe 1 : Conditions relatives aux bénéficiaires<a id=686></a>
 
 ###### Article 511-2
 
@@ -45548,7 +45297,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Conditions relatives aux œuvres<a id=692></a>
+##### Paragraphe 2 : Conditions relatives aux œuvres<a id=687></a>
 
 ###### Article 511-4
 
@@ -45624,7 +45373,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 3 : Dépenses prises en compte<a id=693></a>
+##### Paragraphe 3 : Dépenses prises en compte<a id=688></a>
 
 ###### Article 511-7
 
@@ -45654,7 +45403,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 4 : Conditions de numérisation<a id=694></a>
+##### Paragraphe 4 : Conditions de numérisation<a id=689></a>
 
 ###### Article 511-8
 
@@ -45685,7 +45434,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 5 : Critères d'attribution<a id=695></a>
+##### Paragraphe 5 : Critères d'attribution<a id=690></a>
 
 ###### Article 511-10
 
@@ -45736,7 +45485,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L214-1 (V)
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=696></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=691></a>
 
 ###### Article 511-11
 
@@ -45827,7 +45576,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L111-2 (V)
 
 
-##### Sous-section 3 : Commission consultative<a id=697></a>
+##### Sous-section 3 : Commission consultative<a id=692></a>
 
 ###### Article 511-15
 
@@ -45857,9 +45606,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 612-32 (M)
 
 
-#### Chapitre II : Aides financières aux actions de préservation patrimoniale des œuvres cinématographiques<a id=698></a>
+#### Chapitre II : Aides financières aux actions de préservation patrimoniale des œuvres cinématographiques<a id=693></a>
 
-##### Section unique : Aides financières automatiques<a id=699></a>
+##### Section unique : Aides financières automatiques<a id=694></a>
 
 ###### Article 512-1
 
@@ -45877,7 +45626,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section unique : Allocations directes<a id=700></a>
+##### Sous-section unique : Allocations directes<a id=695></a>
 
 ###### Article 512-2
 
@@ -45909,7 +45658,7 @@ _Modifié par_:
   - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 34, v. init.
 
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=701></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=696></a>
 
 ###### Article 512-4
 
@@ -45984,7 +45733,7 @@ _Créé par_:
   - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=702></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=697></a>
 
 ###### Article 512-9
 
@@ -46049,7 +45798,7 @@ _Créé par_:
   - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
 
 
-### ANNEXES AU LIVRE V<a id=703></a>
+### ANNEXES AU LIVRE V<a id=698></a>
 
 ###### Article Annexe 5-1
 
@@ -46112,13 +45861,13 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 512-9 (V)
 
 
-## Livre VI : Soutien à la diffusion vidéographique et à l'innovation technologique<a id=704></a>
+## Livre VI : Soutien à la diffusion vidéographique et à l'innovation technologique<a id=699></a>
 
-### Titre Ier : Aides financières à la diffusion en vidéo physique et en ligne des œuvres cinématographiques et audiovisuelles<a id=705></a>
+### Titre Ier : Aides financières à la diffusion en vidéo physique et en ligne des œuvres cinématographiques et audiovisuelles<a id=700></a>
 
-#### Chapitre Ier : Aides financières à l'édition vidéographique des œuvres cinématographiques et audiovisuelles<a id=706></a>
+#### Chapitre Ier : Aides financières à l'édition vidéographique des œuvres cinématographiques et audiovisuelles<a id=701></a>
 
-##### Section 1 : Dispositions générales<a id=707></a>
+##### Section 1 : Dispositions générales<a id=702></a>
 
 ###### Article 611-1
 
@@ -46152,7 +45901,7 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 41, v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=708></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=703></a>
 
 ###### Article 611-2
 
@@ -46253,7 +46002,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L231-1 (M)
 
 
-##### Sous-section 2 : Dispositions relatives à l'intensité des aides<a id=709></a>
+##### Sous-section 2 : Dispositions relatives à l'intensité des aides<a id=704></a>
 
 ###### Article 611-7
 
@@ -46268,7 +46017,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Section 2 : Aides financières automatiques<a id=710></a>
+##### Section 2 : Aides financières automatiques<a id=705></a>
 
 ###### Article 611-8
 
@@ -46286,9 +46035,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section 1 : Allocations d'investissement<a id=711></a>
+##### Sous-section 1 : Allocations d'investissement<a id=706></a>
 
-##### Paragraphe 1 : Compte automatique des éditeurs de vidéogrammes<a id=712></a>
+##### Paragraphe 1 : Compte automatique des éditeurs de vidéogrammes<a id=707></a>
 
 ###### Article 611-9
 
@@ -46318,7 +46067,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=713></a>
+##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=708></a>
 
 ###### Article 611-11
 
@@ -46385,7 +46134,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-32 (V)
 
 
-##### Paragraphe 3 : Affectation des sommes inscrites sur le compte<a id=714></a>
+##### Paragraphe 3 : Affectation des sommes inscrites sur le compte<a id=709></a>
 
 ###### Article 611-15
 
@@ -46425,7 +46174,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 4 : Investissement des sommes inscrites sur le compte<a id=715></a>
+##### Paragraphe 4 : Investissement des sommes inscrites sur le compte<a id=710></a>
 
 ###### Article 611-17
 
@@ -46488,7 +46237,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 211-6 (V)
 
 
-##### Paragraphe 5 : Péremption des sommes inscrites sur le compte<a id=716></a>
+##### Paragraphe 5 : Péremption des sommes inscrites sur le compte<a id=711></a>
 
 ###### Article 611-20
 
@@ -46503,7 +46252,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Allocations directes<a id=717></a>
+##### Sous-section 2 : Allocations directes<a id=712></a>
 
 ###### Article 611-20-1
 
@@ -46550,9 +46299,9 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 34, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=718></a>
+##### Section 3 : Aides financières sélectives<a id=713></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=719></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=714></a>
 
 ###### Article 611-21
 
@@ -46657,7 +46406,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=720></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=715></a>
 
 ###### Article 611-26
 
@@ -46762,7 +46511,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=721></a>
+##### Sous-section 3 : Commission consultative<a id=716></a>
 
 ###### Article 611-32
 
@@ -46780,9 +46529,9 @@ _Abrogé par_:
   - Délibération n°2018/CA/13 - art. 7, v. init.
 
 
-#### Chapitre II : Aides financières à la diffusion en ligne des œuvres cinématographiques et audiovisuelles<a id=722></a>
+#### Chapitre II : Aides financières à la diffusion en ligne des œuvres cinématographiques et audiovisuelles<a id=717></a>
 
-##### Section 1 : Dispositions générales<a id=723></a>
+##### Section 1 : Dispositions générales<a id=718></a>
 
 ###### Article 612-1
 
@@ -46816,7 +46565,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=724></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=719></a>
 
 ###### Article 612-3
 
@@ -46933,7 +46682,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L234-1 (V)
 
 
-##### Sous-section 2 : Dispositions relatives à l'intensité des aides<a id=725></a>
+##### Sous-section 2 : Dispositions relatives à l'intensité des aides<a id=720></a>
 
 ###### Article 612-8
 
@@ -46948,7 +46697,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Section 2 : Aides financières automatiques<a id=726></a>
+##### Section 2 : Aides financières automatiques<a id=721></a>
 
 ###### Article 612-9
 
@@ -46966,9 +46715,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section 1 : Allocations d'investissement<a id=727></a>
+##### Sous-section 1 : Allocations d'investissement<a id=722></a>
 
-##### Paragraphe 1 : Compte automatique des éditeurs de services de médias audiovisuels à la demande<a id=728></a>
+##### Paragraphe 1 : Compte automatique des éditeurs de services de médias audiovisuels à la demande<a id=723></a>
 
 ###### Article 612-10
 
@@ -46999,7 +46748,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=729></a>
+##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=724></a>
 
 ###### Article 612-12
 
@@ -47104,7 +46853,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 3 : Affectation des sommes inscrites sur le compte<a id=730></a>
+##### Paragraphe 3 : Affectation des sommes inscrites sur le compte<a id=725></a>
 
 ###### Article 612-16
 
@@ -47152,7 +46901,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 4 : Investissement des sommes inscrites sur le compte<a id=731></a>
+##### Paragraphe 4 : Investissement des sommes inscrites sur le compte<a id=726></a>
 
 ###### Article 612-18
 
@@ -47210,7 +46959,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 5 : Péremption des sommes inscrites sur le compte<a id=732></a>
+##### Paragraphe 5 : Péremption des sommes inscrites sur le compte<a id=727></a>
 
 ###### Article 612-22
 
@@ -47226,7 +46975,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Allocations directes<a id=733></a>
+##### Sous-section 2 : Allocations directes<a id=728></a>
 
 ###### Article 612-22-1
 
@@ -47265,9 +47014,9 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 35, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=734></a>
+##### Section 3 : Aides financières sélectives<a id=729></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=735></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=730></a>
 
 ###### Article 612-23
 
@@ -47402,7 +47151,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=736></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=731></a>
 
 ###### Article 612-29
 
@@ -47509,11 +47258,11 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-### Titre II : Aides financières à l'utilisation des technologies numériques de l'image et du son<a id=737></a>
+### Titre II : Aides financières à l'utilisation des technologies numériques de l'image et du son<a id=732></a>
 
-#### Chapitre unique : Aides financières à la création visuelle ou sonore par l'utilisation des technologies numériques de l'image et du son<a id=738></a>
+#### Chapitre unique : Aides financières à la création visuelle ou sonore par l'utilisation des technologies numériques de l'image et du son<a id=733></a>
 
-##### Section 1 : Dispositions générales<a id=739></a>
+##### Section 1 : Dispositions générales<a id=734></a>
 
 ###### Article 621-1
 
@@ -47580,9 +47329,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 621-10 (M)
 
 
-##### Section 2 : Aides financières automatiques<a id=740></a>
+##### Section 2 : Aides financières automatiques<a id=735></a>
 
-##### Sous-section unique : Allocations directes<a id=741></a>
+##### Sous-section unique : Allocations directes<a id=736></a>
 
 ###### Article 621-5
 
@@ -47597,7 +47346,7 @@ _Modifié par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=742></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=737></a>
 
 ###### Article 621-6
 
@@ -47701,7 +47450,7 @@ _Modifié par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=743></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=738></a>
 
 ###### Article 621-11
 
@@ -47830,7 +47579,7 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=744></a>
+##### Section 3 : Aides financières sélectives<a id=739></a>
 
 ###### Article 621-18
 
@@ -47848,7 +47597,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=745></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=740></a>
 
 ###### Article 621-19
 
@@ -47940,7 +47689,7 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=746></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=741></a>
 
 ###### Article 621-23
 
@@ -48000,7 +47749,7 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=747></a>
+##### Sous-section 3 : Commission consultative<a id=742></a>
 
 ###### Article 621-27
 
@@ -48014,11 +47763,11 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-### Titre III : Aides financières à la modernisation des industries techniques et à l'innovation technologique<a id=748></a>
+### Titre III : Aides financières à la modernisation des industries techniques et à l'innovation technologique<a id=743></a>
 
-#### Chapitre Ier : Aides financières à la modernisation des industries techniques<a id=749></a>
+#### Chapitre Ier : Aides financières à la modernisation des industries techniques<a id=744></a>
 
-##### Section 1 : Aides financières sélectives<a id=750></a>
+##### Section 1 : Aides financières sélectives<a id=745></a>
 
 ###### Article 631-1
 
@@ -48036,9 +47785,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-##### Sous-section 1 : Aides à l'investissement dans des immobilisations<a id=751></a>
+##### Sous-section 1 : Aides à l'investissement dans des immobilisations<a id=746></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=752></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=747></a>
 
 ###### Article 631-2
 
@@ -48106,7 +47855,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=753></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=748></a>
 
 ###### Article 631-6
 
@@ -48152,9 +47901,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Aides à l'investissement éco-responsable<a id=754></a>
+##### Sous-section 2 : Aides à l'investissement éco-responsable<a id=749></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=755></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=750></a>
 
 ###### Article 631-9
 
@@ -48223,7 +47972,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=756></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=751></a>
 
 ###### Article 631-13
 
@@ -48269,9 +48018,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 3 : Aides à la formation liée à un investissement<a id=757></a>
+##### Sous-section 3 : Aides à la formation liée à un investissement<a id=752></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=758></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=753></a>
 
 ###### Article 631-16
 
@@ -48337,7 +48086,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=759></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=754></a>
 
 ###### Article 631-20
 
@@ -48383,9 +48132,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 4 : Aides à la propriété industrielle<a id=760></a>
+##### Sous-section 4 : Aides à la propriété industrielle<a id=755></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=761></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=756></a>
 
 ###### Article 631-23
 
@@ -48456,7 +48205,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=762></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=757></a>
 
 ###### Article 631-27
 
@@ -48502,9 +48251,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 5 : Aides aux services de conseils<a id=763></a>
+##### Sous-section 5 : Aides aux services de conseils<a id=758></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=764></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=759></a>
 
 ###### Article 631-30
 
@@ -48576,7 +48325,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=765></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=760></a>
 
 ###### Article 631-34
 
@@ -48622,9 +48371,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 6 : Aides à l'amélioration des outils et services de communication<a id=766></a>
+##### Sous-section 6 : Aides à l'amélioration des outils et services de communication<a id=761></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=767></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=762></a>
 
 ###### Article 631-37
 
@@ -48690,7 +48439,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=768></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=763></a>
 
 ###### Article 631-41
 
@@ -48736,9 +48485,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 7 : Aides à la participation aux foires<a id=769></a>
+##### Sous-section 7 : Aides à la participation aux foires<a id=764></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=770></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=765></a>
 
 ###### Article 631-44
 
@@ -48809,7 +48558,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=771></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=766></a>
 
 ###### Article 631-48
 
@@ -48855,7 +48604,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 8 : Commission consultative<a id=772></a>
+##### Sous-section 8 : Commission consultative<a id=767></a>
 
 ###### Article 631-51
 
@@ -48881,9 +48630,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre II : Aides financières à l'innovation technologique<a id=773></a>
+#### Chapitre II : Aides financières à l'innovation technologique<a id=768></a>
 
-##### Section 1 : Aides financières sélectives<a id=774></a>
+##### Section 1 : Aides financières sélectives<a id=769></a>
 
 ###### Article 632-1
 
@@ -48901,9 +48650,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-##### Sous-section 1 : Aides à la recherche industrielle et au développement expérimental<a id=775></a>
+##### Sous-section 1 : Aides à la recherche industrielle et au développement expérimental<a id=770></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=776></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=771></a>
 
 ###### Article 632-2
 
@@ -48989,7 +48738,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=777></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=772></a>
 
 ###### Article 632-7
 
@@ -49040,9 +48789,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Aides à l'innovation de procédé et d'organisation<a id=778></a>
+##### Sous-section 2 : Aides à l'innovation de procédé et d'organisation<a id=773></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=779></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=774></a>
 
 ###### Article 632-10
 
@@ -49130,7 +48879,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=780></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=775></a>
 
 ###### Article 632-15
 
@@ -49181,7 +48930,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=781></a>
+##### Sous-section 3 : Commission consultative<a id=776></a>
 
 ###### Article 632-18
 
@@ -49207,7 +48956,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre III : Fonds d'aide à l'innovation de Bpifrance Financement<a id=782></a>
+#### Chapitre III : Fonds d'aide à l'innovation de Bpifrance Financement<a id=777></a>
 
 ###### Article 633-1
 
@@ -49223,7 +48972,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-### ANNEXES AU LIVRE VI<a id=783></a>
+### ANNEXES AU LIVRE VI<a id=778></a>
 
 ###### Article Annexe 6-1
 
@@ -49905,13 +49654,13 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 632-15 (V)
 
 
-## Livre VII : Soutien à la coopération et à la diffusion internationale et européenne<a id=784></a>
+## Livre VII : Soutien à la coopération et à la diffusion internationale et européenne<a id=779></a>
 
-### Titre Ier : Aides financières au développement des coproductions internationales<a id=785></a>
+### Titre Ier : Aides financières au développement des coproductions internationales<a id=780></a>
 
-#### Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales<a id=786></a>
+#### Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales<a id=781></a>
 
-##### Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux<a id=787></a>
+##### Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux<a id=782></a>
 
 ###### Article 711-1
 
@@ -49940,7 +49689,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 9, v. init.
 
 
-##### Section 2 : Dispositifs d'aides institués par des accords administratifs<a id=788></a>
+##### Section 2 : Dispositifs d'aides institués par des accords administratifs<a id=783></a>
 
 ###### Article 711-2
 
@@ -49971,7 +49720,7 @@ _Modifié par_:
   - Délibération n°2017/CA/23 - art. 8, v. init.
 
 
-##### Section 3 : Dispositions communes<a id=789></a>
+##### Section 3 : Dispositions communes<a id=784></a>
 
 ###### Article 711-3
 
@@ -49988,15 +49737,20 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 10, v. init.
 
 
-#### Chapitre II : Aides financières aux cinémas du monde<a id=790></a>
+#### Chapitre II : Aides financières aux cinémas du monde<a id=785></a>
 
 ###### Article 712-1
 
 Des aides financières sont attribuées conjointement avec l'Institut français afin de soutenir le développement de la
-coproduction d'œuvres représentatives des cinématographies du monde. 
+coproduction d'œuvres représentatives des cinématographies du monde.
 
 Les conditions d'attribution de ces aides sont fixées par le décret n° 2012-543 du 23 avril 2012 relatif aux aides aux
 cinémas du monde.
+
+L'attribution des aides aux cinémas du monde est soumise aux dispositions du règlement (UE) n° 651/2014 de la Commission du
+17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et
+108 du traité, notamment celles prévues par le Chapitre Ier et l'article 54 de la Section 11 relatif aux régimes d'aides en
+faveur des œuvres audiovisuelles.
 
 **Liens relatifs à cet article**
 
@@ -50004,20 +49758,20 @@ _Cite_:
 
   - Décret n°2012-543  du 23 avril 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 51, v. init.
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. 723-1 (M)
 
 
-### Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles<a id=791></a>
+### Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles<a id=786></a>
 
-#### Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques<a id=792></a>
+#### Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques<a id=787></a>
 
-##### Section 1 : Dispositions générales<a id=793></a>
+##### Section 1 : Dispositions générales<a id=788></a>
 
 ###### Article 721-1
 
@@ -50061,7 +49815,7 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=794></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=789></a>
 
 ###### Article 721-3
 
@@ -50132,7 +49886,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 721-4 (V)
 
 
-##### Sous-section 2 : Conditions relatives aux œuvres<a id=795></a>
+##### Sous-section 2 : Conditions relatives aux œuvres<a id=790></a>
 
 ###### Article 721-6
 
@@ -50173,7 +49927,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=796></a>
+##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=791></a>
 
 ###### Article 721-8
 
@@ -50207,9 +49961,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 7-1 (VT)
 
 
-##### Section 2 : Aides financières automatiques<a id=797></a>
+##### Section 2 : Aides financières automatiques<a id=792></a>
 
-##### Sous-section unique : Allocations d'investissement<a id=798></a>
+##### Sous-section unique : Allocations d'investissement<a id=793></a>
 
 ###### Article 721-10
 
@@ -50223,7 +49977,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger<a id=799></a>
+##### Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger<a id=794></a>
 
 ###### Article 721-11
 
@@ -50260,7 +50014,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 7-2 (VT)
 
 
-##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=800></a>
+##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=795></a>
 
 ###### Article 721-13
 
@@ -50329,7 +50083,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 3 : Inscription des sommes sur le compte<a id=801></a>
+##### Paragraphe 3 : Inscription des sommes sur le compte<a id=796></a>
 
 ###### Article 721-16
 
@@ -50343,7 +50097,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 4 : Affectation des sommes inscrites sur le compte<a id=802></a>
+##### Paragraphe 4 : Affectation des sommes inscrites sur le compte<a id=797></a>
 
 ###### Article 721-17
 
@@ -50407,6 +50161,8 @@ _Modifié par_:
 
 Les sommes inscrites sur le compte automatique des entreprises de vente à l'étranger peuvent également être investies pour
 acquérir les droits d'exploitation à l'étranger d'œuvres cinématographiques mentionnées aux 1°, 2° et 3° de l'article 721-6.
+Ces sommes ne peuvent être investies lorsque les entreprises de vente à l'étranger sont également les entreprises qui ont
+produit ou coproduit les œuvres concernées.
 
 Seuls sont pris en compte les contrats d'acquisition de droits d'exploitation à l'étranger conclus à compter du 1er octobre
 2016.
@@ -50431,10 +50187,10 @@ mentionnées au 1° de l'article 721-6, lorsque l'agrément de production n'est 
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 52, v. init.
 
 
-##### Paragraphe 5 : Investissement des sommes inscrites sur le compte<a id=803></a>
+##### Paragraphe 5 : Investissement des sommes inscrites sur le compte<a id=798></a>
 
 ###### Article 721-20
 
@@ -50496,7 +50252,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 6 : Péremption des sommes inscrites sur le compte<a id=804></a>
+##### Paragraphe 6 : Péremption des sommes inscrites sur le compte<a id=799></a>
 
 ###### Article 721-24
 
@@ -50512,11 +50268,11 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=805></a>
+##### Section 3 : Aides financières sélectives<a id=800></a>
 
-##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises<a id=806></a>
+##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises<a id=801></a>
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=807></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=802></a>
 
 ###### Article 721-25
 
@@ -50583,7 +50339,7 @@ _Modifié par_:
   - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 40, v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=808></a>
+##### Sous-section 3 : Commission consultative<a id=803></a>
 
 ###### Article 721-30
 
@@ -50597,9 +50353,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles<a id=809></a>
+#### Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles<a id=804></a>
 
-##### Section 1 : Dispositions générales<a id=810></a>
+##### Section 1 : Dispositions générales<a id=805></a>
 
 ###### Article 722-1
 
@@ -50631,7 +50387,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=811></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=806></a>
 
 ###### Article 722-3
 
@@ -50695,7 +50451,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 2 : Conditions relatives aux œuvres<a id=812></a>
+##### Sous-section 2 : Conditions relatives aux œuvres<a id=807></a>
 
 ###### Article 722-6
 
@@ -50712,7 +50468,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=813></a>
+##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=808></a>
 
 ###### Article 722-7
 
@@ -50730,7 +50486,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 722-8 (M)
 
 
-##### Sous-section 4 : Conditions relatives au montant des aides<a id=814></a>
+##### Sous-section 4 : Conditions relatives au montant des aides<a id=809></a>
 
 ###### Article 722-8
 
@@ -50748,7 +50504,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 722-7 (V)
 
 
-##### Section 2 : Aides financières automatiques<a id=815></a>
+##### Section 2 : Aides financières automatiques<a id=810></a>
 
 ###### Article 722-9
 
@@ -50762,9 +50518,9 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section unique : Allocations directes<a id=816></a>
+##### Sous-section unique : Allocations directes<a id=811></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=817></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=812></a>
 
 ###### Article 722-10
 
@@ -50869,7 +50625,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=818></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=813></a>
 
 ###### Article 722-15
 
@@ -50975,9 +50731,9 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=819></a>
+##### Section 3 : Aides financières sélectives<a id=814></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=820></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=815></a>
 
 ###### Article 722-19
 
@@ -51008,7 +50764,7 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=821></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=816></a>
 
 ###### Article 722-21
 
@@ -51091,7 +50847,7 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=822></a>
+##### Sous-section 3 : Commission consultative<a id=817></a>
 
 ###### Article 722-27
 
@@ -51105,27 +50861,25 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-#### Chapitre III : Aides financières aux cinémas du monde<a id=823></a>
+#### Chapitre III : Aides financières aux cinémas du monde<a id=818></a>
 
-##### Section unique : Aides financières sélectives<a id=824></a>
+##### Section unique : Aides financières sélectives<a id=819></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=825></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=820></a>
 
 ###### Article 723-1
 
 Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
-animée, afin de soutenir la distribution à l'étranger des œuvres représentatives des cinématographies du monde ayant donné
-lieu à l'attribution d'une aide aux cinémas du monde mentionnée à l'article 712-1.
+animée, afin de soutenir la distribution à l'étranger des œuvres représentatives des cinématographies du monde.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 7, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 56, v. init.
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. 712-1 (V)
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
@@ -51168,14 +50922,11 @@ aux entreprises qui :
 l'intention de conclure de tels cessions ou mandats, pour l'exploitation à l'étranger à venir d'une œuvre ou d'un programme
 composé d'au maximum quatre œuvres répondant, pour chaque œuvre, aux conditions suivantes :
 
-a) Avoir donné lieu à l'attribution d'une aide aux cinémas du monde avant réalisation à compter du 1er juillet 2012 ou d'une
-aide aux cinémas du monde après réalisation à compter du 1er janvier 2014 ;
-
-b) Avoir été coproduites avec au moins un coproducteur établi dans un Etat qui ne participe ni au sous-programme "MEDIA" ni
+a) Avoir été coproduites avec au moins un coproducteur établi dans un Etat qui ne participe ni au sous-programme "MEDIA" ni
 au fonds "Eurimages" institué par la résolution (88) 15 du Conseil de l'Europe du 26 octobre 1988 instituant un fonds
 européen de soutien à la coproduction et à la diffusion des œuvres de création cinématographiques et audiovisuelles ;
 
-c) Avoir une proportion des parts de coproduction détenues par le ou les coproducteurs établis dans un Etat qui participe au
+b) Avoir une proportion des parts de coproduction détenues par le ou les coproducteurs établis dans un Etat qui participe au
 sous-programme "Média" comprise entre :
 
 25 % et 70 % pour les œuvres de fiction et d'animation ;
@@ -51198,9 +50949,9 @@ le domaine de la distribution.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 7, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 57, v. init.
 
 
 ###### Article 723-5
@@ -51254,17 +51005,16 @@ II. - Une attention particulière est portée :
 
 1° Aux projets de distribution de premières ou de secondes œuvres d'un réalisateur ;
 
-2° Aux projets de distribution d'œuvres coproduites avec un coproducteur établi dans un Etat membre de l'Union européenne ou
-d'un Etat partie à l'accord sur l'Espace économique européen, autre que la France.
+2° Aux projets de distribution d'œuvres ayant bénéficié des aides aux cinémas du monde.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 7, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 58, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=826></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=821></a>
 
 ###### Article 723-7
 
@@ -51300,18 +51050,26 @@ _Créé par_:
 ###### Article 723-9
 
 Le montant de l'aide ne peut excéder 50 % du montant des dépenses de distribution. Toutefois, ce taux est porté à 80 % pour
-les œuvres difficiles ou à petit budget mentionnées à l'article 9 du décret n° 2012-543 du 23 avril 2012 relatif aux aides
-aux cinémas du monde.
+les œuvres difficiles ou à petit budget.
+
+Une œuvre difficile est une œuvre répondant à l'une des conditions suivantes :
+
+1° Etre la première ou la deuxième œuvre d'un réalisateur ;
+
+2° Etre coproduite avec une ou plusieurs entreprises de production établies dans les pays d'Afrique subsaharienne, les pays
+les moins avancés tels que définis par l'Organisation des Nations unies, les pays figurant dans la zone de solidarité
+prioritaire définie par le comité interministériel de la coopération internationale et du développement, ou dans les pays
+figurant en annexe 7-1 ;
+
+Une œuvre à petit budget est celle dont le budget de production est inférieur ou égal à 1 250 000 €.
+
+Le montant de l'aide ne peut, en aucun cas, excéder 60 000 € par œuvre.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Décret n°2012-543  du 23 avril 2012 - art. 9 (V)
-
-_Créé par_:
-
-  - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 7, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 59, v. init.
 
 
 ###### Article 723-10
@@ -51336,7 +51094,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 7-8 (V)
 
 
-##### Sous-section 3 : Commission consultative<a id=827></a>
+##### Sous-section 3 : Commission consultative<a id=822></a>
 
 ###### Article 723-11
 
@@ -51350,7 +51108,11 @@ _Créé par_:
   - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 7, v. init.
 
 
-### ANNEXES AU LIVRE VII<a id=828></a>
+#### Chapitre III : Aides financières à la distribution à l'étranger des œuvres représentatives des cinématographies du monde<a id=823></a>
+
+##### Section unique : Aides financières sélectives<a id=824></a>
+
+### ANNEXES AU LIVRE VII<a id=825></a>
 
 ###### Article Annexe 7-1
 
@@ -51955,6 +51717,121 @@ _Créé par_:
 _Cite_:
 
   - Code du cinéma et de l'image animée - art. 723-7 (V)
+
+
+###### Article Annexe 7-7-1
+
+LISTE DES PAYS POUR LA QUALIFICATION D'ŒUVRE DIFFICILE (ARTICLE 723-9)
+
+- Antigua-et-Barbuda
+
+- Arménie
+
+- Azerbaïdjan
+
+- Belize
+
+- Biélorussie
+
+- Bolivie
+
+- Chili
+
+- Colombie
+
+- Corée du Nord
+
+- Costa Rica
+
+- Dominique
+
+- Egypte
+
+- Equateur
+
+- Fidji
+
+- Grenade
+
+- Guatemala
+
+- Guyana
+
+- Honduras
+
+- Irak
+
+- Iran
+
+- Jamaïque
+
+- Jordanie
+
+- Kazakhstan
+
+- Kirghizistan
+
+- Kosovo
+
+- Libye
+
+- Maldives
+
+- Micronésie
+
+- Nauru
+
+- Moldavie
+
+- Mongolie
+
+- Monténégro
+
+- Nicaragua
+
+- Ouzbékistan
+
+- Pakistan
+
+- Palaos
+
+- Papouasie-Nouvelle-Guinée
+
+- Paraguay
+
+- Pérou
+
+- Philippines
+
+- Saint-Christophe-et-Niévès
+
+- Saint-Vincent-et-les-Grenadines
+
+- Sainte-Lucie
+
+- Salvador
+
+- Sri Lanka
+
+- Syrie
+
+- Tadjikistan
+
+- Thaïlande
+
+- Tonga
+
+- Turkménistan
+
+- Uruguay
+
+- Venezuela
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 60, v. init.
 
 
 ###### Article Annexe 7-8
