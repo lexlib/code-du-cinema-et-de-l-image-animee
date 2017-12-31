@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2017-12-30
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -10,308 +10,308 @@ Version Consolidée au 2017-12-30
         - [Chapitre IV : Dispositions financières et comptables (art. L114-1 à L114-2)](#7)
         - [Chapitre V : Impositions affectées au Centre national du cinéma et de l'image animée et perçues par lui (art. L115-1 à L115-27)](#8)
           - [Section 1 : Taxe sur le prix des entrées aux séances organisées par les exploitants d'établissements de spectacles cinématographiques (art. L115-1 à L115-5)](#9)
-          - [Section 2 : Taxe sur les éditeurs et distributeurs de services de télévision (art.  à L115-5)](#10)
-          - [Section 2 : Taxe sur les éditeurs et distributeurs de services de télévision (art. L115-6 à L115-13)](#11)
-          - [Section 3 : Cotisations professionnelles (art. L115-14 à L115-15)](#12)
-          - [Section 4 : Recouvrement et contrôle (art. L115-16 à L115-27)](#13)
-        - [Chapitre VI : Taxes, prélèvements et autres produits affectés au Centre national du cinéma et de l'image animée (art. L116-1 à L116-5)](#14)
-      - [Titre II : Registres du cinéma et de l'audiovisuel (art. L121-1 à L126-3)](#15)
-        - [Chapitre Ier : Principes généraux (art. L121-1)](#16)
-        - [Chapitre II : Dépôt du titre et immatriculation des œuvres (art. L122-1 à L122-2)](#17)
+          - [Section 2 : Taxe sur les éditeurs et distributeurs de services de télévision (art. L115-6 à L115-13)](#10)
+          - [Section 3 : Cotisations professionnelles (art. L115-14 à L115-15)](#11)
+          - [Section 4 : Recouvrement et contrôle (art. L115-16 à L115-27)](#12)
+        - [Chapitre VI : Taxes, prélèvements et autres produits affectés au Centre national du cinéma et de l'image animée (art. L116-1 à L116-5)](#13)
+      - [Titre II : Registres du cinéma et de l'audiovisuel (art. L121-1 à L126-3)](#14)
+        - [Chapitre Ier : Principes généraux (art. L121-1)](#15)
+        - [Chapitre II : Dépôt du titre et immatriculation des œuvres (art. L122-1 à L122-2)](#16)
         - [Chapitre III : Inscription et publication des actes, 
-conventions et jugements (art. L123-1 à L123-6)](#18)
-        - [Chapitre IV : Privilège et réalisation du nantissement (art. L124-1 à L124-4)](#19)
-        - [Chapitre V : Obligations et responsabilité du Centre national du cinéma et de l'image animée (art. L125-1)](#20)
-        - [Chapitre VI : Communication de renseignements relatifs aux recettes (art. L126-1 à L126-3)](#21)
-    - [Livre II : Professions et activités (art. L211-1 à L251-13)](#22)
-      - [Titre Ier : Exercice des professions et activités du cinéma (art. L211-1 à L214-9)](#23)
-        - [Chapitre Ier : Visa d'exploitation cinématographique (art. L211-1 à L211-2)](#24)
-        - [Chapitre II : Secteur de l'exploitation cinématographique (art. L212-1 à L212-35)](#25)
-          - [Section 1 : Autorisation d'exercice de la profession d'exploitant (art. L212-2 à L212-5)](#26)
-          - [Section 2 : Implantation et construction des établissements de spectacles cinématographiques (art. L212-6 à L212-13)](#27)
-            - [Sous-section 1 : Commissions d'aménagement cinématographique (art. L212-6-1 à L212-6-9)](#28)
-              - [Paragraphe 1 : Commission départementale d'aménagement cinématographique (art. L212-6-1 à L212-6-4)](#29)
-              - [Paragraphe 2 : Commission nationale d'aménagement cinématographique (art. L212-6-5 à L212-6-8)](#30)
-              - [Paragraphe 3 : Dispositions communes (art. L212-6-9)](#31)
-            - [Sous-section 2 : Autorisation d'aménagement cinématographique (art. L212-7 à L212-10-9)](#32)
-              - [Paragraphe 1 : Projets soumis à autorisation (art. L212-7 à L212-8-1)](#33)
-              - [Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique (art. L212-9 à L212-10-2)](#34)
-              - [Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique (art. L212-10-3 à L212-10-9)](#35)
-            - [Sous-section 3 : Dispositions diverses (art. L212-11 à L212-13)](#36)
-          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. L212-14 à L212-17)](#37)
-          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. L212-18)](#38)
+conventions et jugements (art. L123-1 à L123-6)](#17)
+        - [Chapitre IV : Privilège et réalisation du nantissement (art. L124-1 à L124-4)](#18)
+        - [Chapitre V : Obligations et responsabilité du Centre national du cinéma et de l'image animée (art. L125-1)](#19)
+        - [Chapitre VI : Communication de renseignements relatifs aux recettes (art. L126-1 à L126-3)](#20)
+    - [Livre II : Professions et activités (art. L211-1 à L251-13)](#21)
+      - [Titre Ier : Exercice des professions et activités du cinéma (art. L211-1 à L214-9)](#22)
+        - [Chapitre Ier : Visa d'exploitation cinématographique (art. L211-1 à L211-2)](#23)
+        - [Chapitre II : Secteur de l'exploitation cinématographique (art. L212-1 à L212-35)](#24)
+          - [Section 1 : Autorisation d'exercice de la profession d'exploitant (art. L212-2 à L212-5)](#25)
+          - [Section 2 : Implantation et construction des établissements de spectacles cinématographiques (art. L212-6 à L212-13)](#26)
+            - [Sous-section 1 : Commissions d'aménagement cinématographique (art. L212-6-1 à L212-6-9)](#27)
+              - [Paragraphe 1 : Commission départementale d'aménagement cinématographique (art. L212-6-1 à L212-6-4)](#28)
+              - [Paragraphe 2 : Commission nationale d'aménagement cinématographique (art. L212-6-5 à L212-6-8)](#29)
+              - [Paragraphe 3 : Dispositions communes (art. L212-6-9)](#30)
+            - [Sous-section 2 : Autorisation d'aménagement cinématographique (art. L212-7 à L212-10-9)](#31)
+              - [Paragraphe 1 : Projets soumis à autorisation (art. L212-7 à L212-8-1)](#32)
+              - [Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique (art. L212-9 à L212-10-2)](#33)
+              - [Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique (art. L212-10-3 à L212-10-9)](#34)
+            - [Sous-section 3 : Dispositions diverses (art. L212-11 à L212-13)](#35)
+          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. L212-14 à L212-17)](#36)
+          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. L212-18)](#37)
           - [Section 5 : Groupements, ententes et engagements 
-de programmation cinématographique (art. L212-19 à L212-26)](#39)
-          - [Section 6 : Formules d'accès au cinéma (art. L212-27 à L212-31)](#40)
-          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. L212-32 à L212-35)](#41)
-        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. L213-1 à L213-23)](#42)
-          - [Section 1 : Médiateur du cinéma (art. L213-1 à L213-8)](#43)
-          - [Section 2 : Concession des droits de représentation cinématographique (art. L213-9 à L213-13)](#44)
-          - [Section 3 : Contrat de concession des droits de représentation cinématographique (art. L213-14 à L213-15)](#45)
+de programmation cinématographique (art. L212-19 à L212-26)](#38)
+          - [Section 6 : Formules d'accès au cinéma (art. L212-27 à L212-31)](#39)
+          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. L212-32 à L212-35)](#40)
+        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. L213-1 à L213-23)](#41)
+          - [Section 1 : Médiateur du cinéma (art. L213-1 à L213-8)](#42)
+          - [Section 2 : Concession des droits de représentation cinématographique (art. L213-9 à L213-13)](#43)
+          - [Section 3 : Contrat de concession des droits de représentation cinématographique (art. L213-14 à L213-15)](#44)
           - [Section 4 : Equipement numérique des établissements 
-de spectacles cinématographiques (art. L213-16 à L213-23)](#46)
-        - [Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée (art. L213-24 à L213-37)](#47)
-          - [Section 1 : Transparence des comptes de production (art. L213-24 à L213-27)](#48)
-            - [Sous-section 1 : Obligations des producteurs délégués (art. L213-24 à L213-26)](#49)
-            - [Sous-section 2 : Audit des comptes de production (art. L213-27)](#50)
-          - [Section 2 : Transparence des comptes d'exploitation (art. L213-28 à L213-37)](#51)
-            - [Sous-section 1 : Obligations des distributeurs (art. L213-28 à L213-31)](#52)
-            - [Sous-section 2 : Obligations des producteurs délégués (art. L213-32 à L213-34)](#53)
-            - [Sous-section 3 : Audit des comptes d'exploitation (art. L213-35 à L213-37)](#54)
-        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. L214-1 à L214-9)](#55)
-      - [Titre II : Edition vidéographique et services de médias audiovisuels à la demande (art. L221-1 à L223-2)](#56)
-        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. L221-1 à L221-2)](#57)
-        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. L222-1)](#58)
-        - [Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande (art. L223-1 à L223-2)](#59)
-      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. L231-1 à L234-2)](#60)
-        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. L231-1)](#61)
-        - [Chapitre II : Exploitation sur les services de médias audiovisuels à la demande (art. L232-1)](#62)
-        - [Chapitre III : Exploitation sur les services de télévision (art. L233-1)](#63)
-        - [Chapitre IV : Dispositions communes (art. L234-1 à L234-2)](#64)
-      - [Titre IV : Dépôt légal (art. L241-1)](#65)
-        - [Chapitre unique : Obligation de dépôt légal (art. L241-1)](#66)
-      - [Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles (art. L251-1 à L251-13)](#67)
-        - [Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles (art. L251-1 à L251-13)](#68)
-          - [Section 1 : Transparence des comptes de production (art. L251-1 à L251-4)](#69)
-            - [Sous-section 1 : Obligations des producteurs délégués (art. L251-1 à L251-3)](#70)
-            - [Sous-section 2 : Audit des comptes de production (art. L251-4)](#71)
-          - [Section 2 : Transparence des comptes d'exploitation (art. L251-5 à L251-13)](#72)
-            - [Sous-section 1 : Obligations des distributeurs (art. L251-5 à L251-8)](#73)
-            - [Sous-section 2 : Obligations des producteurs délégués (art. L251-9 à L251-10)](#74)
-            - [Sous-section 3 : Audit des comptes d'exploitation (art. L251-11 à L251-13)](#75)
-    - [Livre III : Financement et fiscalité (art. L311-1 à L336-2)](#76)
-      - [Titre Ier : Aides du Centre national du cinéma et de l'image animée (art. L311-1 à L312-4)](#77)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-2)](#78)
-        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. L312-1 à L312-4)](#79)
-      - [Titre II : Aides des collectivités territoriales (art. L321-1 à L321-3)](#80)
-        - [Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques (art. L321-1 à L321-3)](#81)
-      - [Titre III : Incitations fiscales (art. L331-1 à L336-2)](#82)
-        - [Chapitre Ier : Crédits d'impôt (art. L331-1 à L331-4)](#83)
-        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. L332-1 à L332-3)](#84)
+de spectacles cinématographiques (art. L213-16 à L213-23)](#45)
+        - [Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée (art. L213-24 à L213-37)](#46)
+          - [Section 1 : Transparence des comptes de production (art. L213-24 à L213-27)](#47)
+            - [Sous-section 1 : Obligations des producteurs délégués (art. L213-24 à L213-26)](#48)
+            - [Sous-section 2 : Audit des comptes de production (art. L213-27)](#49)
+          - [Section 2 : Transparence des comptes d'exploitation (art. L213-28 à L213-37)](#50)
+            - [Sous-section 1 : Obligations des distributeurs (art. L213-28 à L213-31)](#51)
+            - [Sous-section 2 : Obligations des producteurs délégués (art. L213-32 à L213-34)](#52)
+            - [Sous-section 3 : Audit des comptes d'exploitation (art. L213-35 à L213-37)](#53)
+        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. L214-1 à L214-9)](#54)
+      - [Titre II : Edition vidéographique et services de médias audiovisuels à la demande (art. L221-1 à L223-2)](#55)
+        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. L221-1 à L221-2)](#56)
+        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. L222-1)](#57)
+        - [Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande (art. L223-1 à L223-2)](#58)
+      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. L231-1 à L234-2)](#59)
+        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. L231-1)](#60)
+        - [Chapitre II : Exploitation sur les services de médias audiovisuels à la demande (art. L232-1)](#61)
+        - [Chapitre III : Exploitation sur les services de télévision (art. L233-1)](#62)
+        - [Chapitre IV : Dispositions communes (art. L234-1 à L234-2)](#63)
+      - [Titre IV : Dépôt légal (art. L241-1)](#64)
+        - [Chapitre unique : Obligation de dépôt légal (art. L241-1)](#65)
+      - [Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles (art. L251-1 à L251-13)](#66)
+        - [Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles (art. L251-1 à L251-13)](#67)
+          - [Section 1 : Transparence des comptes de production (art. L251-1 à L251-4)](#68)
+            - [Sous-section 1 : Obligations des producteurs délégués (art. L251-1 à L251-3)](#69)
+            - [Sous-section 2 : Audit des comptes de production (art. L251-4)](#70)
+          - [Section 2 : Transparence des comptes d'exploitation (art. L251-5 à L251-13)](#71)
+            - [Sous-section 1 : Obligations des distributeurs (art. L251-5 à L251-8)](#72)
+            - [Sous-section 2 : Obligations des producteurs délégués (art. L251-9 à L251-10)](#73)
+            - [Sous-section 3 : Audit des comptes d'exploitation (art. L251-11 à L251-13)](#74)
+    - [Livre III : Financement et fiscalité (art. L311-1 à L336-2)](#75)
+      - [Titre Ier : Aides du Centre national du cinéma et de l'image animée (art. L311-1 à L312-4)](#76)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-4)](#77)
+        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. L312-1 à L312-4)](#78)
+      - [Titre II : Aides des collectivités territoriales (art. L321-1 à L321-3)](#79)
+        - [Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques (art. L321-1 à L321-3)](#80)
+      - [Titre III : Incitations fiscales (art. L331-1 à L336-2)](#81)
+        - [Chapitre Ier : Crédits d'impôt (art. L331-1 à L331-4)](#82)
+        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. L332-1 à L332-3)](#83)
         - [Chapitre III : Déductions fiscales et réductions d'impôt
-au titre des investissements outre-mer (art. L333-1 à L333-3)](#85)
-        - [Chapitre IV : Taxe sur la valeur ajoutée (art. L334-2 à L334-4)](#86)
-        - [Chapitre V : Contribution économique territoriale (art. L335-1 à L335-2)](#87)
-        - [Chapitre VI : Dispositions diverses (art. L336-1 à L336-2)](#88)
-    - [Livre IV : Contrôles et sanctions (art. L411-1 à L443-1)](#89)
-      - [Titre Ier : Procédures de contrôle (art. L411-1 à L415-1)](#90)
-        - [Chapitre Ier : Compétence des agents de contrôle (art. L411-1 à L411-2)](#91)
-        - [Chapitre II : Prérogatives et moyens d'intervention (art. L412-1 à L412-4)](#92)
-        - [Chapitre III : Echanges d'informations (art. L413-1 à L413-4)](#93)
-        - [Chapitre IV : Constatation des manquements et des infractions (art. L414-1 à L414-4)](#94)
-        - [Chapitre V : Secret professionnel (art. L415-1)](#95)
-      - [Titre II : Sanctions administratives (art. L421-1 à L425-1)](#96)
-        - [Chapitre Ier : Champ d'application (art. L421-1 à L421-2)](#97)
-        - [Chapitre II : Nature des sanctions administratives (art. L422-1)](#98)
-        - [Chapitre III : Procédure de sanction (art. L423-1 à L423-13)](#99)
-        - [Chapitre IV : Dispositions diverses (art. L424-1)](#100)
-        - [Chapitre V : Dispositions particulières relatives à l'implantation des établissements de spectacles cinématographiques (art. L425-1)](#101)
-      - [Titre III : Dispositions pénales (art. L431-1 à L434-1)](#102)
-        - [Chapitre Ier : Dispositions générales (art. L431-1)](#103)
+au titre des investissements outre-mer (art. L333-1 à L333-3)](#84)
+        - [Chapitre IV : Taxe sur la valeur ajoutée (art. L334-2 à L334-4)](#85)
+        - [Chapitre V : Contribution économique territoriale (art. L335-1 à L335-2)](#86)
+        - [Chapitre VI : Dispositions diverses (art. L336-1 à L336-2)](#87)
+    - [Livre IV : Contrôles et sanctions (art. L411-1 à L443-1)](#88)
+      - [Titre Ier : Procédures de contrôle (art. L411-1 à L415-1)](#89)
+        - [Chapitre Ier : Compétence des agents de contrôle (art. L411-1 à L411-2)](#90)
+        - [Chapitre II : Prérogatives et moyens d'intervention (art. L412-1 à L412-4)](#91)
+        - [Chapitre III : Echanges d'informations (art. L413-1 à L413-4)](#92)
+        - [Chapitre IV : Constatation des manquements et des infractions (art. L414-1 à L414-4)](#93)
+        - [Chapitre V : Secret professionnel (art. L415-1)](#94)
+      - [Titre II : Sanctions administratives (art. L421-1 à L425-1)](#95)
+        - [Chapitre Ier : Champ d'application (art. L421-1 à L421-2)](#96)
+        - [Chapitre II : Nature des sanctions administratives (art. L422-1)](#97)
+        - [Chapitre III : Procédure de sanction (art. L423-1 à L423-13)](#98)
+        - [Chapitre IV : Dispositions diverses (art. L424-1)](#99)
+        - [Chapitre V : Dispositions particulières relatives à l'implantation des établissements de spectacles cinématographiques (art. L425-1)](#100)
+      - [Titre III : Dispositions pénales (art. L431-1 à L434-1)](#101)
+        - [Chapitre Ier : Dispositions générales (art. L431-1)](#102)
         - [Chapitre II : Infractions aux dispositions relatives 
-au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#104)
-        - [Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L433-1)](#105)
-        - [Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques (art. L434-1)](#106)
-      - [Titre IV : Actions en justice (art. L441-1 à L443-1)](#107)
-        - [Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L441-1)](#108)
-        - [Chapitre II : Délit de contrefaçon (art. L442-1)](#109)
-        - [Chapitre III : Atteinte à un droit d'auteur ou à un droit voisin par un service de communication au public en ligne (art. L443-1)](#110)
-    - [Livre V : Dispositions relatives à l'outre-mer (art. L511-1 à L511-2)](#111)
-      - [Titre unique (art. L511-1 à L511-2)](#112)
-        - [Chapitre unique (art. L511-1 à L511-2)](#113)
-  - [Partie réglementaire (art. R112-1 à R434-1)](#114)
-    - [Livre Ier : Organisation administrative (art. R112-1 à D123-3)](#115)
-      - [Titre Ier : Centre national du cinéma et de l'image animée (art. R112-1 à R114-4)](#116)
-        - [Chapitre II : Organisation et fonctionnement (art. R112-1 à A112-36)](#117)
-          - [Section 1 : Conseil d'administration (art. R112-1 à D112-22)](#118)
-            - [Sous-section 1 : Composition et mandat (art. R112-1 à R112-3)](#119)
-            - [Sous-section 2 : Attributions (art. R112-4 à R112-6)](#120)
-            - [Sous-section 3 : Fonctionnement (art. R112-7 à R112-10)](#121)
-            - [Sous-section 4 : Election des représentants du personnel (art. D112-11 à D112-22)](#122)
-          - [Section 2 : Président (art. R112-23 à R112-25)](#123)
-          - [Section 3 : Bulletin officiel du cinéma et de l'image animée (art. D112-26 à A112-36)](#124)
-            - [Sous-section 1 : Dispositions générales (art. D112-26 à D112-29)](#125)
-            - [Sous-section 2 : Publication des actes du Centre national du cinéma et de l'image animée et de son président (art. A112-30 à A112-35)](#126)
-            - [Sous-section 3 : Publication des actes d'autres autorités et organes administratifs (art. A112-36)](#127)
-        - [Chapitre III : Recrutement et statut des agents contractuels (art. A113-3 à R113-1)](#128)
-        - [Chapitre IV : Dispositions financières et comptables (art. R114-1 à R114-4)](#129)
-      - [Titre II : Registres du cinéma et de l'audiovisuel (art. D123-1 à D123-3)](#130)
-        - [Chapitre III : Inscription et publication des actes, conventions et jugements (art. D123-1 à D123-3)](#131)
-    - [Livre II : Professions et activités (art. D210-1 à D251-5)](#132)
-      - [Titre Ier : Exercice des professions et activités du cinéma (art. D210-1 à D214-11)](#133)
-        - [Section préliminaire : Les œuvres cinématographiques (art. D210-1 à A210-11)](#134)
-          - [Sous-section 1 : Caractéristiques des œuvres cinématographiques (art. D210-1 à D210-7)](#135)
-            - [Paragraphe 1 : Œuvres cinématographiques de longue et de courte durée (art. D210-1 à D210-2)](#136)
-            - [Paragraphe 2 : Œuvres cinématographiques d'art et d'essai (art. D210-3 à D210-5)](#137)
-            - [Paragraphe 3 : Œuvres cinématographiques à caractère publicitaire (art. D210-6 à D210-7)](#138)
-          - [Sous-section 2 : Sécurité du support pellicule des œuvres cinématographiques (art. D210-8 à D210-10)](#139)
-          - [Sous-section 3 : Dispositions diverses (art. A210-11)](#140)
-        - [Chapitre Ier : Visa d'exploitation cinématographique (art. R211-1 à R211-49)](#141)
-          - [Section 1 : Délivrance du visa d'exploitation cinématographique (art. R211-1 à R211-15)](#142)
-            - [Sous-section 1 : Demande de visa d'exploitation cinématographique (art. R211-1 à R211-3)](#143)
-            - [Sous-section 2 : Rapport des comités de classification et avis de la commission de classification (art. R211-4 à R211-9)](#144)
-            - [Sous-section 3 : Décision du ministre chargé de la culture (art. D211-16 à R211-15)](#145)
-          - [Section 2 : Obligations liées à la délivrance du visa d'exploitation cinématographique (art. R211-17 à R211-25)](#146)
-          - [Section 3 : Organisation et fonctionnement des instances consultatives (art. R211-26 à R211-43)](#147)
-            - [Sous-section 1 : Comités de classification (art. R211-26 à R211-28)](#148)
-            - [Sous-section 2 : Commission de classification (art. R211-29 à R211-38)](#149)
-              - [Paragraphe 1 : Composition de la commission de classification (art. R211-29 à R211-35)](#150)
-              - [Paragraphe 2 : Fonctionnement de la commission de classification (art. R211-36 à R211-38)](#151)
-            - [Sous-section 3 : Dispositions communes (art. D211-44 à R211-43)](#152)
-          - [Section 4 : Dispositions particulières relatives à certaines représentations cinématographiques (art. R211-45 à R211-49)](#153)
-            - [Sous-section 1 : Représentation cinématographique locale (art. R211-45 à R211-47)](#154)
-            - [Sous-section 2 : Représentation cinématographique d'une œuvre à caractère publicitaire dans un seul département (art. R211-48)](#155)
-            - [Sous-section 3 : Représentation cinématographique dans un établissement scolaire ou universitaire (art. R211-49)](#156)
-        - [Chapitre II : Secteur de l'exploitation cinématographique (art. R212-1 à D212-97)](#157)
-          - [Section 1 : Autorisation d'exercice de la profession d'exploitant d'établissement de spectacles cinématographiques (art. R212-1 à R212-5)](#158)
-            - [Sous-section 1 : Autorisation d'exploiter au titre d'une salle (art. R212-1)](#159)
-            - [Sous-section 2 : Autorisation d'exploiter sous la forme d'une activité itinérante (art. R212-2 à R212-3)](#160)
-            - [Sous-section 3 : Dispositions communes (art. R212-4 à R212-5)](#161)
-          - [Section 2 : Implantation et construction des établissements de spectacles cinématographiques (art. R212-6 à R212-8)](#162)
-            - [Sous-section 1 : Commissions d'aménagement cinématographique (art. R212-6 à R212-6-13)](#163)
-              - [Paragraphe 1 : Commission départementale d'aménagement cinématographique (art. R212-6 à R212-6-8)](#164)
-              - [Paragraphe 2 : Commission nationale d'aménagement cinématographique (art. R212-6-9 à R212-6-13)](#165)
-            - [Sous-section 2 :  Autorisation d'aménagement cinématographique (art. R212-7 à R212-7-31)](#166)
-              - [Paragraphe 1 : Projets soumis à autorisation (art. R212-7 à R212-7-1)](#167)
-              - [Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique (art. A212-7-3-1 à R212-7-20)](#168)
-                - [Sous-Paragraphe 1 : Demande d'autorisation (art. A212-7-3-1 à R212-7-7)](#169)
-                - [Sous-Paragraphe 2 : Procédure d'autorisation (art. R212-7-8 à R212-7-19)](#170)
-                - [Sous-Paragraphe 3 : Dispositions diverses (art. R212-7-20)](#171)
-              - [Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique (art. R212-7-21 à R212-7-31)](#172)
-                - [Sous-Paragraphe 1 : Exercice du recours (art. R212-7-21 à R212-7-24)](#173)
-                - [Sous-Paragraphe 2 : Examen du recours (art. R212-7-25 à R212-7-31)](#174)
-            - [Sous-section 3 : Dispositions diverses (art. R212-8)](#175)
-          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. R212-10 à R212-13)](#176)
-          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. D212-14 à D212-16)](#177)
-          - [Section 5 : Groupements, ententes et engagements de programmation cinématographique (art. R212-17 à R212-43)](#178)
-            - [Sous-section 1 : Agrément des groupements et ententes de programmation (art. R212-17 à R212-29)](#179)
-              - [Paragraphe 1 : Conditions de l'agrément (art. R212-18 à R212-21)](#180)
-              - [Paragraphe 2 : Délivrance de l'agrément (art. R212-22 à R212-29)](#181)
-            - [Sous-section 2 : Engagements de programmation (art. R212-30 à R212-43)](#182)
-              - [Paragraphe 1 : Engagements de programmation soumis à homologation (art. R212-30 à R212-39)](#183)
-              - [Paragraphe 2 : Projets de programmation valant engagements de programmation (art. R212-40 à R212-43)](#184)
-          - [Section 6 : Formules d'accès au cinéma (art. R212-44 à R212-66)](#185)
-            - [Sous-section 1 : Conditions de l'agrément (art. R212-44 à R212-50)](#186)
-            - [Sous-section 2 : Demande d'agrément (art. R212-51 à R212-57)](#187)
-            - [Sous-section 3 : Retrait de l'agrément (art. R212-66)](#188)
-          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. D212-67 à D212-89)](#189)
-            - [Sous-section 1 : Délivrance des droits d'entrée dans les établissements de spectacles cinématographiques (art. D212-68 à D212-84)](#190)
-              - [Paragraphe 1 : Dispositions générales (art. D212-68 à D212-71)](#191)
-              - [Paragraphe 2 : Dispositions particulières aux billets imprimerie (art. D212-72 à D212-78)](#192)
-              - [Paragraphe 3 : Dispositions particulières aux billets informatiques et aux droits d'entrée dématérialisés (art. D212-79 à D212-84)](#193)
-                - [Sous-Paragraphe 1 : Caractéristiques et homologation des systèmes informatisés de billetterie (art. D212-79)](#194)
-                - [Sous-Paragraphe 2 : Installation et utilisation des systèmes informatisés de billetterie (art. D212-80 à D212-84)](#195)
-            - [Sous-section 2 : Relevés des informations relatives aux recettes réalisées dans les établissements de spectacles cinématographiques (art. D212-85 à D212-87)](#196)
-            - [Sous-section 3 : Déclaration des recettes réalisées dans les établissements de spectacles cinématographiques (art. D212-88 à D212-89)](#197)
-          - [Section 8 : Etablissements de spectacles cinématographiques d'art et d'essai (art. D212-90 à D212-97)](#198)
-            - [Sous-section 1 : Classement des établissements d'art et d'essai (art. D212-90 à D212-93)](#199)
-            - [Sous-section 2 : Commission du cinéma d'art et d'essai (art. D212-94 à D212-97)](#200)
-        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. R213-1 à R213-11)](#201)
-          - [Section unique :  Médiateur du cinéma (art. R213-1 à R213-11)](#202)
-        - [Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée (art. D213-12 à D213-15)](#203)
-          - [Section 1 : Transparence des comptes de production (art. D213-12)](#204)
-            - [Sous-section unique : Audit des comptes de production (art. D213-12)](#205)
-          - [Section 2 :  Transparence des comptes d'exploitation (art. D213-13 à D213-15)](#206)
-            - [Sous-section 1 : Obligation des producteurs délégués (art. D213-13)](#207)
-            - [Sous-section 2 :  Audit des comptes d'exploitation (art. D213-14 à D213-15)](#208)
-        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. D214-1 à D214-11)](#209)
-          - [Section 1 : Dispositions relatives aux séances organisées exceptionnellement par les associations ou groupements à but non lucratif (art. D214-1 à D214-3)](#210)
-          - [Section 2 : Dispositions relatives aux séances de ciné-club (art. D214-4 à D214-7)](#211)
-          - [Section 3 : Dispositions relatives aux séances en plein air (art. D214-8 à D214-10)](#212)
-          - [Section 4 : Dispositions communes (art. D214-11)](#213)
-      - [Titre II : Édition vidéographique et services de médias audiovisuels à la demande (art. A221-3 à D222-3)](#214)
-        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. A221-3 à R221-4)](#215)
-        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. A222-2 à D222-3)](#216)
-      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. D231-1 à D231-5)](#217)
-        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. D231-1 à D231-5)](#218)
-      - [Titre IV : Dispositions diverses (art. A241-2 à R241-1)](#219)
-        - [Chapitre unique :  Obligation de dépôt légal (art. A241-2 à R241-1)](#220)
-      - [Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles (art. D251-1 à D251-5)](#221)
-        - [Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles (art. D251-1 à D251-5)](#222)
-          - [Section 1 : Transparence des comptes de production (art. D251-1 à D251-2)](#223)
-            - [Sous-section 1 : Obligation des producteurs délégués (art. D251-1)](#224)
-            - [Sous-section 2 :  Audit des comptes de production (art. D251-2)](#225)
-          - [Section 2 :  Transparence des comptes d'exploitation (art. D251-3 à D251-5)](#226)
-            - [Sous-section 1 : Obligation des producteurs délégués (art. D251-3)](#227)
-            - [Sous-section 2 :  Audit des comptes d'exploitation (art. D251-4 à D251-5)](#228)
-    - [Livre III : Financement et fiscalité (art. D311-1 à D336-2)](#229)
-      - [Titre Ier : Aides du centre national du cinéma et de l'image animée (art. D311-1 à D312-1)](#230)
-        - [Chapitre Ier : Dispositions générales (art. D311-1 à D311-12)](#231)
-          - [Section 1 : Attribution des aides financières (art. D311-1 à D311-3)](#232)
-          - [Section 2 : Exclusion du bénéfice des aides financières (art. D311-4 à D311-12)](#233)
-            - [Sous-section 1 : Exclusion des œuvres ou documents à caractère pornographique ou d'incitation à la violence (art. D311-4)](#234)
-            - [Sous-section 2 : Exclusion des établissements de spectacles cinématographiques représentant des œuvres à caractère pornographique (art. D311-5 à D311-12)](#235)
-              - [Paragraphe 1 : Exclusion des établissements de spectacles cinématographiques spécialisés (art. D311-5 à D311-10)](#236)
-              - [Paragraphe 2 : Exclusion des établissements de spectacles cinématographiques non spécialisés (art. D311-11 à D311-12)](#237)
-        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. D312-1)](#238)
-      - [Titre II : Aides des collectivités territoriales (art. R321-1)](#239)
-        - [Chapitre unique :  Subventions aux exploitants d'établissements de spectacles cinématographiques (art. R321-1)](#240)
-      - [Titre III : Incitations fiscales (art. D331-1 à D336-2)](#241)
-        - [Chapitre Ier : Crédits d'impôt (art. D331-1 à D331-64)](#242)
-          - [Section 1 : Crédit d'impôt pour dépenses de production déléguée d'œuvres cinématographiques ou audiovisuelles (art. D331-1 à D331-18)](#243)
-            - [Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles (art. D331-1 à D331-5)](#244)
-              - [Paragraphe 1 : Conditions relatives à l'entreprise de production (art. D331-1)](#245)
-              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-2 à D331-5)](#246)
-            - [Sous-section 2 : Délivrance des agréments (art. A331-7 à D331-17)](#247)
-              - [Paragraphe 1 : Comité d'experts (art. A331-7 à D331-6)](#248)
-              - [Paragraphe 2 : Agrément provisoire (art. D331-10 à D331-12)](#249)
-              - [Paragraphe 3 : Agrément définitif (art. D331-13 à D331-16)](#250)
-              - [Paragraphe 4 : Dispositions relatives aux œuvres cinématographiques ou audiovisuelles difficiles et à petit budget (art. D331-17)](#251)
-            - [Sous-section 3 : Dépenses de production éligibles (art. D331-18)](#252)
-          - [Section 2 : Crédit d'impôt pour dépenses de création de jeux vidéo (art. D331-19 à D331-37)](#253)
-            - [Sous-section 1 : Jeux vidéo éligibles (art. D331-19 à D331-25-1)](#254)
-              - [Paragraphe 1 : Conditions relatives à l'entreprise de jeux vidéo et aux jeux vidéo (art. D331-19 à D331-21)](#255)
-              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-22 à D331-25-1)](#256)
-            - [Sous-section 2 : Délivrance des agréments (art. A331-27 à D331-36)](#257)
-              - [Paragraphe 1 : Comité d'experts (art. A331-27 à D331-26)](#258)
-              - [Paragraphe 2 : Agrément provisoire (art. D331-30 à D331-32)](#259)
-              - [Paragraphe 3 : Agrément définitif (art. D331-33 à D331-36)](#260)
-            - [Sous-section 3 : Dépenses de création éligibles (art. D331-37)](#261)
-          - [Section 3 : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques ou audiovisuelles étrangères (art. D331-38 à D331-64)](#262)
-            - [Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles (art. D331-38 à D331-51)](#263)
-              - [Paragraphe 1 : Conditions relatives aux entreprises de production et aux œuvres cinématographiques ou audiovisuelles (art. D331-38 à D331-39)](#264)
-              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-40 à D331-51)](#265)
-                - [Sous-Paragraphe 1 : Barème de points des œuvres appartenant au genre de la fiction (art. D331-42 à D331-46)](#266)
-                - [Sous-Paragraphe 2 : Barème de points des œuvres appartenant au genre de l'animation (art. D331-47 à D331-51)](#267)
-            - [Sous-section 2 : Délivrance des agréments (art. A331-53 à D331-63)](#268)
-              - [Paragraphe 1 : Comité d'experts (art. A331-53 à D331-52)](#269)
-              - [Paragraphe 2 : Agrément provisoire (art. D331-57 à D331-59)](#270)
-              - [Paragraphe 3 : Agrément définitif (art. D331-60 à D331-62)](#271)
-              - [Paragraphe 4 : Dispositions diverses (art. D331-63)](#272)
-            - [Sous-section 3 : Dépenses de production éligibles (art. D331-64)](#273)
-        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. D332-1 à D332-6)](#274)
-          - [Section 1 : Société de financement de l'industrie cinématographique et audiovisuelle (art. D332-1)](#275)
-          - [Section 2 : Agrément des œuvres (art. D332-2 à D332-6)](#276)
-        - [Chapitre III : Déductions fiscales et réductions d'impôts au titre des investissements outre-mer (art. A333-2 à D333-1)](#277)
-        - [Chapitre VI : Dispositions diverses (art. D336-1 à D336-2)](#278)
-          - [Section 1 : Prélèvement spécial sur les œuvres à caractère pornographique ou d'incitation à la violence (art. D336-1)](#279)
-          - [Section 2 : Taxe sur les ventes et locations de vidéogrammes (art. D336-2)](#280)
-    - [Livre IV : Contrôles et sanctions (art. R411-1 à R434-1)](#281)
-      - [Titre Ier : Procédures de contrôle (art. R411-1 à R414-2)](#282)
-        - [Chapitre Ier : Compétence des agents de contrôle (art. R411-1 à R411-5)](#283)
-        - [Chapitre II : Prérogatives et moyens d'intervention (art. R412-1 à R412-3)](#284)
-        - [Chapitre IV : Constatation des manquements et des infractions (art. R414-1 à R414-2)](#285)
-      - [Titre II : Sanctions administratives (art. R421-1 à R423-18)](#286)
-        - [Chapitre Ier : Champ d'application (art. R421-1)](#287)
-        - [Chapitre III : Décisions de sanction (art. R423-1 à R423-18)](#288)
-          - [Section 1 : Commission du contrôle de la réglementation (art. R423-1 à R423-8)](#289)
-          - [Section 2 : Procédure de sanction (art. R423-9 à R423-15)](#290)
-          - [Section 3 : Sanction, voie de recours et publication (art. R423-16 à R423-18)](#291)
-      - [Titre III : Dispositions pénales (art. R432-1 à R434-1)](#292)
-        - [Chapitre II : Infractions aux dispositions relatives au visa d'exploitation cinématographique (art. R432-1 à R432-4)](#293)
-          - [Section 1 : Infractions aux obligations d'information du public concernant les interdictions aux mineurs (art. R432-1 à R432-2)](#294)
-          - [Section 2 : Infractions aux obligations de contrôle de l'accès des mineurs aux salles de spectacles cinématographiques (art. R432-3 à R432-4)](#295)
-        - [Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques (art. R434-1)](#296)
-  - [Annexe : RÈGLEMENT GÉNÉRAL DES AIDES FINANCIÈRES DU CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE ANIMÉE (art. 110-1 à Annexe 7-8)](#297)
-    - [Livre Ier : Dispositions générales (art. 110-1 à 122-37)](#298)
-      - [Titre Ier : Objet et champ d'application (art. 110-1 à 113-2)](#299)
-        - [Chapitre Ier : Aides financières encadrées (art. 111-1 à 111-2)](#300)
-        - [Chapitre II : Aides financières facultatives (art. 112-1)](#301)
-        - [Chapitre III : Dotations financières (art. 113-1 à 113-2)](#302)
-      - [Titre II : Règles générales d'attribution (art. 121-1 à 122-37)](#303)
-        - [Chapitre Ier : Dispositions applicables à l'ensemble des aides financières (art. 121-1 à 121-5)](#304)
-          - [Section 1 : Décisions d'attribution des aides financières (art. 121-1)](#305)
-          - [Section 2 : Déchéance des aides financières (art. 121-2 à 121-5)](#306)
+au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#103)
+        - [Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L433-1)](#104)
+        - [Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques (art. L434-1)](#105)
+      - [Titre IV : Actions en justice (art. L441-1 à L443-1)](#106)
+        - [Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique (art. L441-1)](#107)
+        - [Chapitre II : Délit de contrefaçon (art. L442-1)](#108)
+        - [Chapitre III : Atteinte à un droit d'auteur ou à un droit voisin par un service de communication au public en ligne (art. L443-1)](#109)
+    - [Livre V : Dispositions relatives à l'outre-mer (art. L511-1 à L511-2)](#110)
+      - [Titre unique (art. L511-1 à L511-2)](#111)
+        - [Chapitre unique (art. L511-1 à L511-2)](#112)
+  - [Partie réglementaire (art. R112-1 à R434-1)](#113)
+    - [Livre Ier : Organisation administrative (art. R112-1 à D123-3)](#114)
+      - [Titre Ier : Centre national du cinéma et de l'image animée (art. R112-1 à R114-4)](#115)
+        - [Chapitre II : Organisation et fonctionnement (art. R112-1 à A112-36)](#116)
+          - [Section 1 : Conseil d'administration (art. R112-1 à D112-22)](#117)
+            - [Sous-section 1 : Composition et mandat (art. R112-1 à R112-3)](#118)
+            - [Sous-section 2 : Attributions (art. R112-4 à R112-6)](#119)
+            - [Sous-section 3 : Fonctionnement (art. R112-7 à R112-10)](#120)
+            - [Sous-section 4 : Election des représentants du personnel (art. D112-11 à D112-22)](#121)
+          - [Section 2 : Président (art. R112-23 à R112-25)](#122)
+          - [Section 3 : Bulletin officiel du cinéma et de l'image animée (art. D112-26 à A112-36)](#123)
+            - [Sous-section 1 : Dispositions générales (art. D112-26 à D112-29)](#124)
+            - [Sous-section 2 : Publication des actes du Centre national du cinéma et de l'image animée et de son président (art. A112-30 à A112-35)](#125)
+            - [Sous-section 3 : Publication des actes d'autres autorités et organes administratifs (art. A112-36)](#126)
+        - [Chapitre III : Recrutement et statut des agents contractuels (art. A113-3 à R113-1)](#127)
+        - [Chapitre IV : Dispositions financières et comptables (art. R114-1 à R114-4)](#128)
+      - [Titre II : Registres du cinéma et de l'audiovisuel (art. D123-1 à D123-3)](#129)
+        - [Chapitre III : Inscription et publication des actes, conventions et jugements (art. D123-1 à D123-3)](#130)
+    - [Livre II : Professions et activités (art. D210-1 à D251-5)](#131)
+      - [Titre Ier : Exercice des professions et activités du cinéma (art. D210-1 à D214-11)](#132)
+        - [Section préliminaire : Les œuvres cinématographiques (art. D210-1 à A210-11)](#133)
+          - [Sous-section 1 : Caractéristiques des œuvres cinématographiques (art. D210-1 à D210-7)](#134)
+            - [Paragraphe 1 : Œuvres cinématographiques de longue et de courte durée (art. D210-1 à D210-2)](#135)
+            - [Paragraphe 2 : Œuvres cinématographiques d'art et d'essai (art. D210-3 à D210-5)](#136)
+            - [Paragraphe 3 : Œuvres cinématographiques à caractère publicitaire (art. D210-6 à D210-7)](#137)
+          - [Sous-section 2 : Sécurité du support pellicule des œuvres cinématographiques (art. D210-8 à D210-10)](#138)
+          - [Sous-section 3 : Dispositions diverses (art. A210-11)](#139)
+        - [Chapitre Ier : Visa d'exploitation cinématographique (art. R211-1 à R211-49)](#140)
+          - [Section 1 : Délivrance du visa d'exploitation cinématographique (art. R211-1 à R211-15)](#141)
+            - [Sous-section 1 : Demande de visa d'exploitation cinématographique (art. R211-1 à R211-3)](#142)
+            - [Sous-section 2 : Rapport des comités de classification et avis de la commission de classification (art. R211-4 à R211-9)](#143)
+            - [Sous-section 3 : Décision du ministre chargé de la culture (art. D211-16 à R211-15)](#144)
+          - [Section 2 : Obligations liées à la délivrance du visa d'exploitation cinématographique (art. R211-17 à R211-25)](#145)
+          - [Section 3 : Organisation et fonctionnement des instances consultatives (art. R211-26 à R211-43)](#146)
+            - [Sous-section 1 : Comités de classification (art. R211-26 à R211-28)](#147)
+            - [Sous-section 2 : Commission de classification (art. R211-29 à R211-38)](#148)
+              - [Paragraphe 1 : Composition de la commission de classification (art. R211-29 à R211-35)](#149)
+              - [Paragraphe 2 : Fonctionnement de la commission de classification (art. R211-36 à R211-38)](#150)
+            - [Sous-section 3 : Dispositions communes (art. D211-44 à R211-43)](#151)
+          - [Section 4 : Dispositions particulières relatives à certaines représentations cinématographiques (art. R211-45 à R211-49)](#152)
+            - [Sous-section 1 : Représentation cinématographique locale (art. R211-45 à R211-47)](#153)
+            - [Sous-section 2 : Représentation cinématographique d'une œuvre à caractère publicitaire dans un seul département (art. R211-48)](#154)
+            - [Sous-section 3 : Représentation cinématographique dans un établissement scolaire ou universitaire (art. R211-49)](#155)
+        - [Chapitre II : Secteur de l'exploitation cinématographique (art. R212-1 à D212-97)](#156)
+          - [Section 1 : Autorisation d'exercice de la profession d'exploitant d'établissement de spectacles cinématographiques (art. R212-1 à R212-5)](#157)
+            - [Sous-section 1 : Autorisation d'exploiter au titre d'une salle (art. R212-1)](#158)
+            - [Sous-section 2 : Autorisation d'exploiter sous la forme d'une activité itinérante (art. R212-2 à R212-3)](#159)
+            - [Sous-section 3 : Dispositions communes (art. R212-4 à R212-5)](#160)
+          - [Section 2 : Implantation et construction des établissements de spectacles cinématographiques (art. R212-6 à R212-8)](#161)
+            - [Sous-section 1 : Commissions d'aménagement cinématographique (art. R212-6 à R212-6-13)](#162)
+              - [Paragraphe 1 : Commission départementale d'aménagement cinématographique (art. R212-6 à R212-6-8)](#163)
+              - [Paragraphe 2 : Commission nationale d'aménagement cinématographique (art. R212-6-9 à R212-6-13)](#164)
+            - [Sous-section 2 :  Autorisation d'aménagement cinématographique (art. R212-7 à R212-7-31)](#165)
+              - [Paragraphe 1 : Projets soumis à autorisation (art. R212-7 à R212-7-1)](#166)
+              - [Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique (art. A212-7-3-1 à R212-7-20)](#167)
+                - [Sous-Paragraphe 1 : Demande d'autorisation (art. A212-7-3-1 à R212-7-7)](#168)
+                - [Sous-Paragraphe 2 : Procédure d'autorisation (art. R212-7-8 à R212-7-19)](#169)
+                - [Sous-Paragraphe 3 : Dispositions diverses (art. R212-7-20)](#170)
+              - [Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique (art. R212-7-21 à R212-7-31)](#171)
+                - [Sous-Paragraphe 1 : Exercice du recours (art. R212-7-21 à R212-7-24)](#172)
+                - [Sous-Paragraphe 2 : Examen du recours (art. R212-7-25 à R212-7-31)](#173)
+            - [Sous-section 3 : Dispositions diverses (art. R212-8)](#174)
+          - [Section 3 : Homologation des établissements de spectacles cinématographiques (art. R212-10 à R212-13)](#175)
+          - [Section 4 : Déplacement de séances de spectacles cinématographiques (art. D212-14 à D212-16)](#176)
+          - [Section 5 : Groupements, ententes et engagements de programmation cinématographique (art. R212-17 à R212-43)](#177)
+            - [Sous-section 1 : Agrément des groupements et ententes de programmation (art. R212-17 à R212-29)](#178)
+              - [Paragraphe 1 : Conditions de l'agrément (art. R212-18 à R212-21)](#179)
+              - [Paragraphe 2 : Délivrance de l'agrément (art. R212-22 à R212-29)](#180)
+            - [Sous-section 2 : Engagements de programmation (art. R212-30 à R212-43)](#181)
+              - [Paragraphe 1 : Engagements de programmation soumis à homologation (art. R212-30 à R212-39)](#182)
+              - [Paragraphe 2 : Projets de programmation valant engagements de programmation (art. R212-40 à R212-43)](#183)
+          - [Section 6 : Formules d'accès au cinéma (art. R212-44 à R212-66)](#184)
+            - [Sous-section 1 : Conditions de l'agrément (art. R212-44 à R212-50)](#185)
+            - [Sous-section 2 : Demande d'agrément (art. R212-51 à R212-57)](#186)
+            - [Sous-section 3 : Retrait de l'agrément (art. R212-66)](#187)
+          - [Section 7 : Contrôle des recettes d'exploitation cinématographique (art. D212-67 à D212-89)](#188)
+            - [Sous-section 1 : Délivrance des droits d'entrée dans les établissements de spectacles cinématographiques (art. D212-68 à D212-84)](#189)
+              - [Paragraphe 1 : Dispositions générales (art. D212-68 à D212-71)](#190)
+              - [Paragraphe 2 : Dispositions particulières aux billets imprimerie (art. D212-72 à D212-78)](#191)
+              - [Paragraphe 3 : Dispositions particulières aux billets informatiques et aux droits d'entrée dématérialisés (art. D212-79 à D212-84)](#192)
+                - [Sous-Paragraphe 1 : Caractéristiques et homologation des systèmes informatisés de billetterie (art. D212-79)](#193)
+                - [Sous-Paragraphe 2 : Installation et utilisation des systèmes informatisés de billetterie (art. D212-80 à D212-84)](#194)
+            - [Sous-section 2 : Relevés des informations relatives aux recettes réalisées dans les établissements de spectacles cinématographiques (art. D212-85 à D212-87)](#195)
+            - [Sous-section 3 : Déclaration des recettes réalisées dans les établissements de spectacles cinématographiques (art. D212-88 à D212-89)](#196)
+          - [Section 8 : Etablissements de spectacles cinématographiques d'art et d'essai (art. D212-90 à D212-97)](#197)
+            - [Sous-section 1 : Classement des établissements d'art et d'essai (art. D212-90 à D212-93)](#198)
+            - [Sous-section 2 : Commission du cinéma d'art et d'essai (art. D212-94 à D212-97)](#199)
+        - [Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques (art. R213-1 à R213-11)](#200)
+          - [Section unique :  Médiateur du cinéma (art. R213-1 à R213-11)](#201)
+        - [Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée (art. D213-12 à D213-15)](#202)
+          - [Section 1 : Transparence des comptes de production (art. D213-12)](#203)
+            - [Sous-section unique : Audit des comptes de production (art. D213-12)](#204)
+          - [Section 2 :  Transparence des comptes d'exploitation (art. D213-13 à D213-15)](#205)
+            - [Sous-section 1 : Obligation des producteurs délégués (art. D213-13)](#206)
+            - [Sous-section 2 :  Audit des comptes d'exploitation (art. D213-14 à D213-15)](#207)
+        - [Chapitre IV : Organisation de certaines séances de spectacles cinématographiques (art. D214-1 à D214-11)](#208)
+          - [Section 1 : Dispositions relatives aux séances organisées exceptionnellement par les associations ou groupements à but non lucratif (art. D214-1 à D214-3)](#209)
+          - [Section 2 : Dispositions relatives aux séances de ciné-club (art. D214-4 à D214-7)](#210)
+          - [Section 3 : Dispositions relatives aux séances en plein air (art. D214-8 à D214-10)](#211)
+          - [Section 4 : Dispositions communes (art. D214-11)](#212)
+      - [Titre II : Édition vidéographique et services de médias audiovisuels à la demande (art. A221-3 à D222-3)](#213)
+        - [Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes (art. A221-3 à R221-4)](#214)
+        - [Chapitre II : Contrôle des recettes d'exploitation vidéographique (art. A222-2 à D222-3)](#215)
+      - [Titre III : Chronologie de l'exploitation des oeuvres cinématographiques (art. D231-1 à D231-5)](#216)
+        - [Chapitre Ier : Exploitation sous forme de vidéogrammes (art. D231-1 à D231-5)](#217)
+      - [Titre IV : Dispositions diverses (art. A241-2 à R241-1)](#218)
+        - [Chapitre unique :  Obligation de dépôt légal (art. A241-2 à R241-1)](#219)
+      - [Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles (art. D251-1 à D251-5)](#220)
+        - [Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles (art. D251-1 à D251-5)](#221)
+          - [Section 1 : Transparence des comptes de production (art. D251-1 à D251-2)](#222)
+            - [Sous-section 1 : Obligation des producteurs délégués (art. D251-1)](#223)
+            - [Sous-section 2 :  Audit des comptes de production (art. D251-2)](#224)
+          - [Section 2 :  Transparence des comptes d'exploitation (art. D251-3 à D251-5)](#225)
+            - [Sous-section 1 : Obligation des producteurs délégués (art. D251-3)](#226)
+            - [Sous-section 2 :  Audit des comptes d'exploitation (art. D251-4 à D251-5)](#227)
+    - [Livre III : Financement et fiscalité (art. D311-1 à D336-2)](#228)
+      - [Titre Ier : Aides du centre national du cinéma et de l'image animée (art. D311-1 à D312-1)](#229)
+        - [Chapitre Ier : Dispositions générales (art. D311-1 à D311-12)](#230)
+          - [Section 1 : Attribution des aides financières (art. D311-1 à D311-3)](#231)
+          - [Section 2 : Exclusion du bénéfice des aides financières (art. D311-4 à D311-12)](#232)
+            - [Sous-section 1 : Exclusion des œuvres ou documents à caractère pornographique ou d'incitation à la violence (art. D311-4)](#233)
+            - [Sous-section 2 : Exclusion des établissements de spectacles cinématographiques représentant des œuvres à caractère pornographique (art. D311-5 à D311-12)](#234)
+              - [Paragraphe 1 : Exclusion des établissements de spectacles cinématographiques spécialisés (art. D311-5 à D311-10)](#235)
+              - [Paragraphe 2 : Exclusion des établissements de spectacles cinématographiques non spécialisés (art. D311-11 à D311-12)](#236)
+        - [Chapitre II : Droits des créanciers privilégiés de la production cinématographique (art. D312-1)](#237)
+      - [Titre II : Aides des collectivités territoriales (art. R321-1)](#238)
+        - [Chapitre unique :  Subventions aux exploitants d'établissements de spectacles cinématographiques (art. R321-1)](#239)
+      - [Titre III : Incitations fiscales (art. D331-1 à D336-2)](#240)
+        - [Chapitre Ier : Crédits d'impôt (art. D331-1 à D331-64)](#241)
+          - [Section 1 : Crédit d'impôt pour dépenses de production déléguée d'œuvres cinématographiques ou audiovisuelles (art. D331-1 à D331-18)](#242)
+            - [Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles (art. D331-1 à D331-5)](#243)
+              - [Paragraphe 1 : Conditions relatives à l'entreprise de production (art. D331-1)](#244)
+              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-2 à D331-5)](#245)
+            - [Sous-section 2 : Délivrance des agréments (art. A331-7 à D331-17)](#246)
+              - [Paragraphe 1 : Comité d'experts (art. A331-7 à D331-6)](#247)
+              - [Paragraphe 2 : Agrément provisoire (art. D331-10 à D331-12)](#248)
+              - [Paragraphe 3 : Agrément définitif (art. D331-13 à D331-16)](#249)
+              - [Paragraphe 4 : Dispositions relatives aux œuvres cinématographiques ou audiovisuelles difficiles et à petit budget (art. D331-17)](#250)
+            - [Sous-section 3 : Dépenses de production éligibles (art. D331-18)](#251)
+          - [Section 2 : Crédit d'impôt pour dépenses de création de jeux vidéo (art. D331-19 à D331-37)](#252)
+            - [Sous-section 1 : Jeux vidéo éligibles (art. D331-19 à D331-25-1)](#253)
+              - [Paragraphe 1 : Conditions relatives à l'entreprise de jeux vidéo et aux jeux vidéo (art. D331-19 à D331-21)](#254)
+              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-22 à D331-25-1)](#255)
+            - [Sous-section 2 : Délivrance des agréments (art. A331-27 à D331-36)](#256)
+              - [Paragraphe 1 : Comité d'experts (art. A331-27 à D331-26)](#257)
+              - [Paragraphe 2 : Agrément provisoire (art. D331-30 à D331-32)](#258)
+              - [Paragraphe 3 : Agrément définitif (art. D331-33 à D331-36)](#259)
+            - [Sous-section 3 : Dépenses de création éligibles (art. D331-37)](#260)
+          - [Section 3 : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques ou audiovisuelles étrangères (art. D331-38 à D331-64)](#261)
+            - [Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles (art. D331-38 à D331-51)](#262)
+              - [Paragraphe 1 : Conditions relatives aux entreprises de production et aux œuvres cinématographiques ou audiovisuelles (art. D331-38 à D331-39)](#263)
+              - [Paragraphe 2 : Conditions relatives aux modalités de création (art. D331-40 à D331-51)](#264)
+                - [Sous-Paragraphe 1 : Barème de points des œuvres appartenant au genre de la fiction (art. D331-42 à D331-46)](#265)
+                - [Sous-Paragraphe 2 : Barème de points des œuvres appartenant au genre de l'animation (art. D331-47 à D331-51)](#266)
+            - [Sous-section 2 : Délivrance des agréments (art. A331-53 à D331-63)](#267)
+              - [Paragraphe 1 : Comité d'experts (art. A331-53 à D331-52)](#268)
+              - [Paragraphe 2 : Agrément provisoire (art. D331-57 à D331-59)](#269)
+              - [Paragraphe 3 : Agrément définitif (art. D331-60 à D331-62)](#270)
+              - [Paragraphe 4 : Dispositions diverses (art. D331-63)](#271)
+            - [Sous-section 3 : Dépenses de production éligibles (art. D331-64)](#272)
+        - [Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles (art. D332-1 à D332-6)](#273)
+          - [Section 1 : Société de financement de l'industrie cinématographique et audiovisuelle (art. D332-1)](#274)
+          - [Section 2 : Agrément des œuvres (art. D332-2 à D332-6)](#275)
+        - [Chapitre III : Déductions fiscales et réductions d'impôts au titre des investissements outre-mer (art. A333-2 à D333-1)](#276)
+        - [Chapitre VI : Dispositions diverses (art. D336-1 à D336-2)](#277)
+          - [Section 1 : Prélèvement spécial sur les œuvres à caractère pornographique ou d'incitation à la violence (art. D336-1)](#278)
+          - [Section 2 : Taxe sur les ventes et locations de vidéogrammes (art. D336-2)](#279)
+    - [Livre IV : Contrôles et sanctions (art. R411-1 à R434-1)](#280)
+      - [Titre Ier : Procédures de contrôle (art. R411-1 à R414-2)](#281)
+        - [Chapitre Ier : Compétence des agents de contrôle (art. R411-1 à R411-5)](#282)
+        - [Chapitre II : Prérogatives et moyens d'intervention (art. R412-1 à R412-3)](#283)
+        - [Chapitre IV : Constatation des manquements et des infractions (art. R414-1 à R414-2)](#284)
+      - [Titre II : Sanctions administratives (art. R421-1 à R423-18)](#285)
+        - [Chapitre Ier : Champ d'application (art. R421-1)](#286)
+        - [Chapitre III : Décisions de sanction (art. R423-1 à R423-18)](#287)
+          - [Section 1 : Commission du contrôle de la réglementation (art. R423-1 à R423-8)](#288)
+          - [Section 2 : Procédure de sanction (art. R423-9 à R423-15)](#289)
+          - [Section 3 : Sanction, voie de recours et publication (art. R423-16 à R423-18)](#290)
+      - [Titre III : Dispositions pénales (art. R432-1 à R434-1)](#291)
+        - [Chapitre II : Infractions aux dispositions relatives au visa d'exploitation cinématographique (art. R432-1 à R432-4)](#292)
+          - [Section 1 : Infractions aux obligations d'information du public concernant les interdictions aux mineurs (art. R432-1 à R432-2)](#293)
+          - [Section 2 : Infractions aux obligations de contrôle de l'accès des mineurs aux salles de spectacles cinématographiques (art. R432-3 à R432-4)](#294)
+        - [Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques (art. R434-1)](#295)
+  - [Annexe : RÈGLEMENT GÉNÉRAL DES AIDES FINANCIÈRES DU CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE ANIMÉE (art. 110-1 à Annexe 7-8)](#296)
+    - [Livre Ier : Dispositions générales (art. 110-1 à 122-37)](#297)
+      - [Titre Ier : Objet et champ d'application (art. 110-1 à 113-2)](#298)
+        - [Chapitre Ier : Aides financières encadrées (art. 111-1 à 111-2)](#299)
+        - [Chapitre II : Aides financières facultatives (art. 112-1)](#300)
+        - [Chapitre III : Dotations financières (art. 113-1 à 113-2)](#301)
+      - [Titre II : Règles générales d'attribution (art. 121-1 à 122-37)](#302)
+        - [Chapitre Ier : Dispositions applicables à l'ensemble des aides financières (art. 121-1 à 121-6)](#303)
+          - [Section 1 : Décisions d'attribution des aides financières (art. 121-1)](#304)
+          - [Section 2 : Déchéance des aides financières (art. 121-2 à 121-5)](#305)
+          - [Section 3 : Contreparties aux aides financières (art. 121-6)](#306)
         - [Chapitre II : Dispositions applicables aux aides financières encadrées (art. 122-1 à 122-37)](#307)
           - [Section 1 : Conditions générales de procédure (art. 122-1 à 122-26-1)](#308)
             - [Sous-section 1 : Demande d'aide (art. 122-1 à 122-2)](#309)
@@ -336,7 +336,7 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#104)
           - [Section 1 : Dispositions générales (art. 211-1 à 211-20)](#328)
             - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 211-2 à 211-4)](#329)
             - [Sous-section 2 : Conditions relatives aux œuvres (art. 211-5 à 211-13)](#330)
-              - [Paragraphe 1 : Conditions générales (art. 211-5 à 211-7)](#331)
+              - [Paragraphe 1 : Conditions générales (art. 211-5 à 211-7-1)](#331)
               - [Paragraphe 2 : Conditions particulières (art. 211-8 à 211-12)](#332)
                 - [Sous-paragraphe 1 : Barème de points des œuvres de fiction (art. 211-9)](#333)
                 - [Sous-paragraphe 2 : Barème de points des œuvres documentaires (art. 211-10)](#334)
@@ -430,7 +430,7 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#104)
               - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 221-8 à 221-10)](#422)
               - [Paragraphe 3 : Inscription des sommes sur le compte (art. 221-11 à 221-12)](#423)
               - [Paragraphe 4 : Affectation des sommes inscrites sur le compte (art. 221-13 à 221-15)](#424)
-              - [Paragraphe 5 : Investissement des sommes inscrites sur le compte (art. 221-16 à 221-19)](#425)
+              - [Paragraphe 5 : Investissement des sommes inscrites sur le compte (art. 221-16 à 221-19-1)](#425)
               - [Paragraphe 6 : Péremption des sommes inscrites sur le compte (art. 221-20)](#426)
             - [Sous-section 2 : Allocations directes (art. 221-21 à 221-23-10)](#427)
               - [Paragraphe 1 : Allocations directes en fonction des conditions de production des œuvres cinématographiques (art. 221-21 à 221-23)](#428)
@@ -504,332 +504,340 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#104)
         - [Chapitre Ier : Aides financières à la production et à la préparation des œuvres audiovisuelles (art. 311-1 à 311-129)](#496)
           - [Section 1 : Dispositions générales (art. 311-1 à 311-24-5)](#497)
             - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 311-2 à 311-4)](#498)
-            - [Sous-section 2 : Conditions relatives aux œuvres (art. 311-5 à 311-18)](#499)
+            - [Sous-section 2 : Conditions relatives aux œuvres (art. 311-5 à 311-17)](#499)
               - [Paragraphe 1 : Conditions générales (art. 311-5 à 311-7)](#500)
-              - [Paragraphe 2 : Conditions relatives au mode de diffusion (art. 311-8 à 311-9)](#501)
-                - [Sous-Paragraphe 1 : Œuvres audiovisuelles destinées aux services de télévision ou aux services à la demande (art. 311-8)](#502)
-                - [Sous-Paragraphe 2 : Œuvres audiovisuelles conçues pour les services à la demande (art. 311-9)](#503)
-              - [Paragraphe 3 : Conditions relatives au financement (art. 311-10 à 311-13)](#504)
-                - [Sous-Paragraphe 1 : Œuvres audiovisuelles destinées aux services de télévision ou aux services à la demande (art. 311-10 à 311-11-1)](#505)
-                - [Sous-Paragraphe 2 : Œuvres audiovisuelles conçues pour les services à la demande (art. 311-12 à 311-13)](#506)
-              - [Paragraphe 4 : Conditions relatives à la réalisation (art. 311-14 à 311-18)](#507)
-            - [Sous-section 3 : Conditions relatives au mode de production (art. 311-19 à 311-21)](#508)
-              - [Paragraphe 1 : Dispositions générales (art. 311-19 à 311-20)](#509)
-              - [Paragraphe 2 : Dispositions particulières aux adaptations audiovisuelles de spectacle vivant (art. 311-21)](#510)
-            - [Sous-section 4 : Conditions relatives à l'intensité des aides (art. 311-22 à 311-23)](#511)
-            - [Sous-section 5 : Dispositions relatives au contrôle du coût de production (art. 311-24)](#512)
-            - [Sous-section 6 : Dispositions diverses (art. 311-24-1 à 311-24-5)](#513)
-          - [Section 2 : Aides financières automatiques (art. 311-25 à 311-90)](#514)
-            - [Sous-section 1 : Allocations d'investissement (art. 311-26 à 311-90)](#515)
-              - [Paragraphe 1 : Compte automatique des entreprises de production (art. 311-26 à 311-28)](#516)
-              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 311-29 à 311-48)](#517)
-                - [Sous-Paragraphe 1 : Liste des œuvres de référence (art. 311-29 à 311-36)](#518)
-                - [Sous-Paragraphe 2 : Modalités générales de calcul (art. 311-37 à 311-41)](#519)
-                - [Sous-Paragraphe 3 : Modalités de calcul pour la fiction, l'animation et l'adaptation audiovisuelle de spectacle vivant (art. 311-42 à 311-46-1)](#520)
-                - [Sous-Paragraphe 4 : Modalités de calcul pour le documentaire de création (art. 311-47 à 311-48)](#521)
-              - [Paragraphe 3 : Inscription sur le compte des sommes calculées (art. 311-49 à 311-55)](#522)
-              - [Paragraphe 4 : Affectation des sommes inscrites sur le compte (art. 311-56 à 311-57-1)](#523)
-              - [Paragraphe 5 : Investissement pour la production des sommes inscrites sur le compte et avances (art. 311-58 à 311-68)](#524)
-                - [Sous-Paragraphe 1 : Investissement pour la production (art. 311-58 à 311-62)](#525)
-                - [Sous-Paragraphe 2 : Avances à la production (art. 311-63 à 311-68)](#526)
-              - [Paragraphe 6 : Investissement pour la préparation des sommes inscrites sur le compte (art. 311-69 à 311-77)](#527)
-              - [Paragraphe 7 : Dispositions diverses (art. 311-78 à 311-81)](#528)
-              - [Paragraphe 8 : Dispositions particulières aux aides financières automatiques à la production de vidéomusiques (art. 311-82 à 311-88)](#529)
-                - [Sous-Paragraphe 1 : Compte automatique des entreprises de production (art. 311-83 à 311-84)](#530)
-                - [Sous-Paragraphe 2 : Calcul et inscription des sommes sur le compte (art. 311-85)](#531)
-                - [Sous-Paragraphe 3 : Affectation des sommes inscrites sur le compte (art. 311-86)](#532)
-                - [Sous-Paragraphe 4 : Attribution des sommes inscrites sur le compte (art. 311-87 à 311-88)](#533)
-              - [Paragraphe 9 : Péremption des sommes inscrites sur le compte (art. 311-89 à 311-90)](#534)
-          - [Section 3 : Aides financières sélectives (art. 311-91 à 311-129)](#535)
-            - [Sous-section 1 : Aides à la production (art. 311-91 à 311-101)](#536)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 311-91 à 311-94)](#537)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 311-95 à 311-101)](#538)
-            - [Sous-section 2 : Aides à la préparation (art. 311-102 à 311-109-1)](#539)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 311-102 à 311-105)](#540)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 311-106 à 311-109-1)](#541)
-            - [Sous-section 3 : Aides spécifiques à la production de "pilotes" (art. 311-110 à 311-113)](#542)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 311-110)](#543)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 311-111 à 311-113)](#544)
-            - [Sous-section 4 : Aides spécifiques à la production de vidéomusiques (art. 311-114 à 311-125)](#545)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 311-114 à 311-119)](#546)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 311-120 à 311-125)](#547)
-            - [Sous-section 5 : Commissions consultatives (art. 311-126 à 311-129)](#548)
-              - [Paragraphe 1 : Commissions des aides à la production et à la préparation (art. 311-126 à 311-128)](#549)
-              - [Paragraphe 2 : Commission des aides aux vidéomusiques (art. 311-129)](#550)
-        - [Chapitre II : Aides financières à l'élaboration et au développement de projets d'œuvres audiovisuelles (art. 312-1 à 312-60)](#551)
-          - [Section unique : Aides financières sélectives (art. 312-1 à 312-60)](#552)
-            - [Sous-section 1 : Aides au concept et à l'écriture (art. 312-2 à 312-21)](#553)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 312-2 à 312-9)](#554)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 312-11 à 312-21)](#555)
+              - [Paragraphe 2 : Conditions relatives au mode de diffusion (art. 311-8)](#501)
+              - [Paragraphe 3 : Conditions relatives au financement (art. 311-10 à 311-11-1)](#502)
+              - [Paragraphe 3.1 :  Dispositions relatives aux cumuls d'aides (art. 311-13)](#503)
+              - [Paragraphe 4 : Conditions relatives à la réalisation (art. 311-14 à 311-17)](#504)
+            - [Sous-section 3 : Conditions relatives au mode de production (art. 311-19 à 311-21)](#505)
+              - [Paragraphe 1 : Dispositions générales (art. 311-19 à 311-20)](#506)
+              - [Paragraphe 2 : Dispositions particulières aux adaptations audiovisuelles de spectacle vivant (art. 311-21)](#507)
+            - [Sous-section 4 : Conditions relatives à l'intensité des aides (art. 311-22 à 311-23)](#508)
+            - [Sous-section 5 : Dispositions relatives au contrôle du coût de production (art. 311-24)](#509)
+            - [Sous-section 6 : Dispositions diverses (art. 311-24-1 à 311-24-5)](#510)
+          - [Section 2 : Aides financières automatiques (art. 311-25 à 311-90)](#511)
+            - [Sous-section 1 : Allocations d'investissement (art. 311-26 à 311-90)](#512)
+              - [Paragraphe 1 : Compte automatique des entreprises de production (art. 311-26 à 311-28)](#513)
+              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 311-29 à 311-48)](#514)
+                - [Sous-Paragraphe 1 : Liste des œuvres de référence (art. 311-29 à 311-36)](#515)
+                - [Sous-Paragraphe 2 : Modalités générales de calcul (art. 311-37 à 311-41)](#516)
+                - [Sous-Paragraphe 3 : Modalités de calcul pour la fiction, l'animation et l'adaptation audiovisuelle de spectacle vivant (art. 311-42 à 311-46-1)](#517)
+                - [Sous-Paragraphe 4 : Modalités de calcul pour le documentaire de création (art. 311-47 à 311-48)](#518)
+              - [Paragraphe 3 : Inscription sur le compte des sommes calculées (art. 311-49 à 311-55)](#519)
+              - [Paragraphe 4 : Affectation des sommes inscrites sur le compte (art. 311-56 à 311-57-1)](#520)
+              - [Paragraphe 5 : Investissement pour la production des sommes inscrites sur le compte et avances (art. 311-58 à 311-68)](#521)
+                - [Sous-Paragraphe 1 : Investissement pour la production (art. 311-58 à 311-62)](#522)
+                - [Sous-Paragraphe 2 : Avances à la production (art. 311-63 à 311-68)](#523)
+              - [Paragraphe 6 : Investissement pour la préparation des sommes inscrites sur le compte (art. 311-69 à 311-77)](#524)
+              - [Paragraphe 7 : Dispositions diverses (art. 311-78 à 311-81)](#525)
+              - [Paragraphe 8 : Dispositions particulières aux aides financières automatiques à la production de vidéomusiques (art. 311-82 à 311-88)](#526)
+                - [Sous-Paragraphe 1 : Compte automatique des entreprises de production (art. 311-83 à 311-84)](#527)
+                - [Sous-Paragraphe 2 : Calcul et inscription des sommes sur le compte (art. 311-85)](#528)
+                - [Sous-Paragraphe 3 : Affectation des sommes inscrites sur le compte (art. 311-86)](#529)
+                - [Sous-Paragraphe 4 : Attribution des sommes inscrites sur le compte (art. 311-87 à 311-88)](#530)
+              - [Paragraphe 9 : Péremption des sommes inscrites sur le compte (art. 311-89 à 311-90)](#531)
+          - [Section 3 : Aides financières sélectives (art. 311-91 à 311-129)](#532)
+            - [Sous-section 1 : Aides à la production (art. 311-91 à 311-101)](#533)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 311-91 à 311-94)](#534)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 311-95 à 311-101)](#535)
+            - [Sous-section 2 : Aides à la préparation (art. 311-102 à 311-109-1)](#536)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 311-102 à 311-105)](#537)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 311-106 à 311-109-1)](#538)
+            - [Sous-section 3 : Aides spécifiques à la production de "pilotes" (art. 311-110 à 311-113)](#539)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 311-110)](#540)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 311-111 à 311-113)](#541)
+            - [Sous-section 4 : Aides spécifiques à la production de vidéomusiques (art. 311-114 à 311-125)](#542)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 311-114 à 311-119)](#543)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 311-120 à 311-125)](#544)
+            - [Sous-section 5 : Commissions consultatives (art. 311-126 à 311-129)](#545)
+              - [Paragraphe 1 : Commissions des aides à la production et à la préparation (art. 311-126 à 311-128)](#546)
+              - [Paragraphe 2 : Commission des aides aux vidéomusiques (art. 311-129)](#547)
+        - [Chapitre II : Aides financières à l'élaboration et au développement de projets d'œuvres audiovisuelles (art. 312-1 à 312-60)](#548)
+          - [Section unique : Aides financières sélectives (art. 312-1 à 312-60)](#549)
+            - [Sous-section 1 : Aides au concept et à l'écriture (art. 312-2 à 312-21)](#550)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 312-2 à 312-9)](#551)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 312-11 à 312-21)](#552)
+            - [Sous-section 2 : Aides à la coécriture de projets de coproductions internationales d'œuvres audiovisuelles de fiction (art. 312-21-1 à 312-21-12)](#553)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 312-21-1 à 312-21-6)](#554)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 312-21-7 à 312-21-12)](#555)
             - [Sous-section 2 : Aide à la réécriture (art. 312-22 à 312-38)](#556)
               - [Paragraphe 1 : Objet et conditions d'attribution (art. 312-22 à 312-29)](#557)
               - [Paragraphe 2 : Procédure et modalités d'attribution (art. 312-31 à 312-38)](#558)
-            - [Sous-section 3 : Aide au développement de projets (art. 312-39 à 312-54)](#559)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 312-39 à 312-47)](#560)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 312-48 à 312-54)](#561)
-            - [Sous-section 4 : Dispositions relatives aux cumuls d'aides (art. 312-55 à 312-57)](#562)
-            - [Sous-section 5 : Commissions consultatives (art. 312-58 à 312-60)](#563)
-      - [Titre II : Aides financières à la création des œuvres du multimédia (art. 321-1 à 323-1)](#564)
-        - [Chapitre Ier : Aides financières à la production, à l'écriture et au développement de projets d'œuvres pour les nouveaux médias (art. 321-1 à 321-37)](#565)
-          - [Section unique : Aides financières sélectives (art. 321-1 à 321-37)](#566)
-            - [Sous-section 1 : Aides à la production d'œuvres pour les nouveaux médias (art. 321-2 à 321-13)](#567)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 321-2 à 321-10)](#568)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 321-11 à 321-13)](#569)
-            - [Sous-section 2 : Aides au développement de projets d'œuvres pour les nouveaux médias (art. 321-14 à 321-26)](#570)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 321-14 à 321-23)](#571)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 321-24 à 321-26)](#572)
-            - [Sous-section 3 : Aides à l'écriture de projets d'œuvres pour les nouveaux médias (art. 321-27 à 321-35)](#573)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 321-27 à 321-32)](#574)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 321-33 à 321-35)](#575)
-            - [Sous-section 4 : Commission consultative (art. 321-36 à 321-37)](#576)
-        - [Chapitre II : Aides financières à la création et à la diffusion d'œuvres novatrices et expérimentales (art. 322-1 à 322-35)](#577)
-          - [Section unique : Aides financières sélectives (art. 322-1 à 322-35)](#578)
-            - [Sous-section 1 : Aides au développement de projets d'œuvres novatrices et expérimentales (art. 322-3 à 322-12)](#579)
-              - [Paragraphe 1 :  Objet et conditions d'attribution (art. 322-3 à 322-7)](#580)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 322-8 à 322-12)](#581)
-            - [Sous-section 2 : Aides à la production d'œuvres novatrices et expérimentales (art. 322-13 à 322-22)](#582)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 322-13 à 322-17)](#583)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 322-18 à 322-22)](#584)
-            - [Sous-section 3 : Aides à la diffusion d'œuvres novatrices et expérimentales (art. 322-23 à 322-33)](#585)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 322-23 à 322-27)](#586)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 322-28 à 322-33)](#587)
-            - [Sous-section 4 : Commission consultative (art. 322-34 à 322-35)](#588)
-        - [Chapitre III : Aides financières à la création et à la production de jeux vidéo (art. 323-1)](#589)
-      - [ANNEXES AU LIVRE III (art. Annexe 3-1 à Annexe 3-25)](#590)
-    - [Livre IV : Soutien à la diversité de la création et à la diffusion auprès des publics (art. 411-1 à Annexe 4-26)](#591)
-      - [Titre Ier : Aides financières à la création et à la diffusion des œuvres cinématographiques de courte durée (art. 411-1 à 421-26)](#592)
-        - [Chapitre Ier : Aides financières à la production, à l'élaboration et au développement des œuvres cinématographiques de courte durée (art. 411-1 à 411-71)](#593)
-          - [Section 1 : Dispositions générales (art. 411-1 à 411-9)](#594)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 411-2 à 411-5-1)](#595)
-            - [Sous-section 2 : Conditions relatives aux œuvres (art. 411-6)](#596)
-            - [Sous-section 3 : Conditions relatives au mode de production (art. 411-7 à 411-8)](#597)
-            - [Sous-section 4 : Conditions relatives à l'intensité des aides (art. 411-9)](#598)
-          - [Section 2 : Aides financières automatiques (art. 411-10 à 411-24)](#599)
-            - [Sous-section 1 : Allocations d'investissement (art. 411-11 à 411-21)](#600)
-            - [Sous-section 2 : Allocations directes (art. 411-22 à 411-24)](#601)
-          - [Section 3 : Aides financières sélectives (art. 411-25 à 411-71)](#602)
-            - [Sous-section 1 : Aides à la production avant réalisation (art. 411-25 à 411-36)](#603)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 411-25 à 411-26)](#604)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 411-27 à 411-36)](#605)
-            - [Sous-section 1 bis : Aides à la réécriture de scénario (art. 411-36-1 à 411-36-6)](#606)
-              - [Paragraphe 1 : Subventions (art. 411-36-2)](#607)
-              - [Paragraphe 2 : Bourses de résidence (art. 411-36-3 à 411-36-4)](#608)
-              - [Paragraphe 3 : Dispositions communes (art. 411-36-5 à 411-36-6)](#609)
-            - [Sous-section 2 : Aides au programme de production (art. 411-37 à 411-50)](#610)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 411-37 à 411-43)](#611)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 411-44 à 411-50)](#612)
-            - [Sous-section 2 bis : Aides au développement de projets (art. 411-50-1 à 411-50-5)](#613)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 411-50-1 à 411-50-2)](#614)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 411-50-3 à 411-50-5)](#615)
-            - [Sous-section 3 : Aides après réalisation (art. 411-51 à 411-57)](#616)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 411-51 à 411-54)](#617)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 411-55 à 411-57)](#618)
-            - [Sous-section 4 : Aides à la création de musiques originales (art. 411-58 à 411-66)](#619)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 411-58 à 411-60)](#620)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 411-61 à 411-66)](#621)
-            - [Sous-section 5 : Aides à la production d'œuvres intéressant les cultures d'outre-mer (art. 411-67 à 411-68)](#622)
-            - [Sous-section 6 : Commissions consultatives (art. 411-69 à 411-71)](#623)
-              - [Paragraphe 1 : Commission des aides à la production avant réalisation (art. 411-69 à 411-70)](#624)
-              - [Paragraphe 2 : Commission des aides après réalisation (art. 411-71)](#625)
-        - [Chapitre II : Aides financières à la programmation en salles des œuvres cinématographiques de courte durée (art. 412-1-A à 421-26)](#626)
-          - [Section 1 : Dispositions générales (art. 412-1-A)](#627)
-          - [Section 2 : Aides financières automatiques (art. 412-1 à 412-20)](#628)
-            - [Sous-section unique : Allocations directes (art. 412-2 à 412-20)](#629)
-              - [Paragraphe 1 : Allocations directes aux programmes complets (art. 412-3 à 412-10)](#630)
-                - [Sous-Paragraphe 1 : Objet et conditions d'attribution (art. 412-3 à 412-7)](#631)
-                - [Sous-Paragraphe 2 : Procédure et modalités d'attribution (art. 412-8 à 412-10)](#632)
-              - [Paragraphe 2 : Allocations directes aux programmes de courts (art. 412-11 à 412-20)](#633)
-                - [Sous-Paragraphe 1 : Objet et conditions d'attribution (art. 412-11 à 412-16)](#634)
-                - [Sous-Paragraphe 2 : Procédure et modalités d'attribution (art. 412-17 à 412-20)](#635)
-          - [Section 3 : Aides financières sélectives (art. 412-21 à 421-26)](#636)
-            - [Paragraphe 1 : Objet et conditions d'attribution (art. 412-21 à 412-23)](#637)
-            - [Paragraphe 2 : Procédure et modalités d'attribution (art. 421-24 à 421-26)](#638)
-      - [Titre II : Aides financières à la création et à la diffusion de certaines œuvres cinématographiques, audiovisuelles et multimédias (art. 421-1 à 422-53)](#639)
-        - [Chapitre Ier : Aides financières à l'innovation en documentaire de création (art. 421-1 à 421-43)](#640)
-          - [Section unique : Aides financières sélectives (art. 421-1 à 421-43)](#641)
-            - [Sous-section 1 : Aides à l'écriture (art. 421-2 à 421-11)](#642)
-              - [Paragraphe 1 : Objet et condition d'attribution (art. 421-2 à 421-5)](#643)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 421-7 à 421-11)](#644)
-            - [Sous-section 2 : Aides au développement (art. 421-12 à 421-24)](#645)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 421-12 à 421-16)](#646)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 421-17 à 421-24)](#647)
-            - [Sous-section 3 : Aides au développement renforcé (art. 421-25 à 421-39)](#648)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 421-25 à 421-30)](#649)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 421-31 à 421-39)](#650)
-            - [Sous-section 4 : Commission consultative (art. 421-40 à 421-43)](#651)
-        - [Chapitre II : Aides financières à la création et à la diffusion des œuvres traitant de la diversité de la population et de l'égalité des chances (art. 422-1 à 422-53)](#652)
-          - [Section unique : Aides financières sélectives (art. 422-1 à 422-53)](#653)
-            - [Paragraphe 1 : Aide à l'écriture (art. 422-6 à 422-14)](#654)
-              - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-6 à 422-11)](#655)
-              - [Sous-paragraphe 2 : Procédure et modalités d'attribution (art. 422-12 à 422-14)](#656)
-            - [Paragraphe 2 : Aide au développement de projets (art. 422-15 à 422-23)](#657)
-              - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-15 à 422-20)](#658)
-              - [Sous-paragraphe 2 :  Procédure et modalités d'attribution (art. 422-21 à 422-23)](#659)
-            - [Paragraphe 3 : Aide à la production (art. 422-24 à 422-32)](#660)
-              - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-24 à 422-29)](#661)
-              - [Sous-paragraphe 2 :  Procédure et modalités d'attribution (art. 422-30 à 422-32)](#662)
-            - [Paragraphe 4 : Aide à la distribution en salles (art. 422-33 à 422-41)](#663)
-              - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-33 à 422-38)](#664)
-              - [Sous-paragraphe 2 : Procédure et modalités d'attribution (art. 422-39 à 422-41)](#665)
-            - [Paragraphe 5 : Aide à l'édition vidéographique (art. 422-42 à 422-50)](#666)
-              - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-42 à 422-47)](#667)
-              - [Sous-paragraphe 2 : Procédure et modalités d'attribution (art. 422-48 à 422-50)](#668)
-            - [Paragraphe 6 : Commission consultative (art. 422-51 à 422-53)](#669)
-      - [Titre IV : Aides financières à la création et à la diffusion sur les plateformes numériques (art. 441-1 à 441-27)](#670)
-        - [Chapitre unique : Aides financières sélectives (art. 441-1 à 441-27)](#671)
-          - [Section 1 : Dispositions communes (art. 441-2 à 441-4)](#672)
-          - [Section 2 : Aides à la création d'œuvres destinées aux plateformes numériques (art. 441-5 à 441-14)](#673)
-            - [Sous-section 1 : Objet et condition d'attribution (art. 441-5 à 441-9)](#674)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 441-10 à 441-14)](#675)
-          - [Section 3 : Aides à l'enrichissement et à l'éditorialisation des programmes des chaînes numériques (art. 441-15 à 441-24)](#676)
-            - [Sous-section 1 : Objet et condition d'attribution (art. 441-15 à 441-20)](#677)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 441-21 à 441-24)](#678)
-          - [Section 4 : Dispositions relatives aux cumuls d'aides (art. 441-25)](#679)
-          - [Section 5 : Commission consultative (art. 441-26 à 441-27)](#680)
-      - [ANNEXES AU LIVRE IV (art. Annexe 4-1 à Annexe 4-26)](#681)
-    - [Livre V : Soutien aux actions en faveur du patrimoine cinématographique (art. 511-1 à Annexe 5-2)](#682)
-      - [Titre unique : Aides financières à la préservation et à la valorisation du patrimoine cinématographique (art. 511-1 à 512-12)](#683)
-        - [Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine (art. 511-1 à 511-15)](#684)
-          - [Section unique : Aides financières sélectives (art. 511-1 à 511-15)](#685)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 511-2 à 511-10)](#686)
-              - [Paragraphe 1 : Conditions relatives aux bénéficiaires (art. 511-2 à 511-3)](#687)
-              - [Paragraphe 2 : Conditions relatives aux œuvres (art. 511-4 à 511-6)](#688)
-              - [Paragraphe 3 : Dépenses prises en compte (art. 511-7)](#689)
-              - [Paragraphe 4 : Conditions de numérisation (art. 511-8 à 511-9)](#690)
-              - [Paragraphe 5 : Critères d'attribution (art. 511-10)](#691)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 511-11 à 511-14)](#692)
-            - [Sous-section 3 : Commission consultative (art. 511-15)](#693)
-        - [Chapitre II : Aides financières aux actions de préservation patrimoniale des œuvres cinématographiques (art. 512-1 à 512-12)](#694)
-          - [Section unique : Aides financières automatiques (art. 512-1 à 512-12)](#695)
-            - [Sous-section unique : Allocations directes (art. 512-2 à 512-12)](#696)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 512-4 à 512-8)](#697)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 512-9 à 512-12)](#698)
-      - [ANNEXES AU LIVRE V (art. Annexe 5-1 à Annexe 5-2)](#699)
-    - [Livre VI : Soutien à la diffusion vidéographique et à l'innovation technologique (art. 611-1 à Annexe 6-16)](#700)
-      - [Titre Ier : Aides financières à la diffusion en vidéo physique et en ligne des œuvres cinématographiques et audiovisuelles (art. 611-1 à 612-34)](#701)
-        - [Chapitre Ier : Aides financières à l'édition vidéographique des œuvres cinématographiques et audiovisuelles (art. 611-1 à 611-32)](#702)
-          - [Section 1 : Dispositions générales (art. 611-1 à 611-7)](#703)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 611-2 à 611-6)](#704)
-            - [Sous-section 2 : Dispositions relatives à l'intensité des aides (art. 611-7)](#705)
-          - [Section 2 : Aides financières automatiques (art. 611-8 à 611-20-3)](#706)
-            - [Sous-section 1 : Allocations d'investissement (art. 611-9 à 611-20)](#707)
-              - [Paragraphe 1 : Compte automatique des éditeurs de vidéogrammes (art. 611-9 à 611-10)](#708)
-              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 611-11 à 611-14)](#709)
-              - [Paragraphe 3 : Affectation des sommes inscrites sur le compte (art. 611-15 à 611-16)](#710)
-              - [Paragraphe 4 : Investissement des sommes inscrites sur le compte (art. 611-17 à 611-19)](#711)
-              - [Paragraphe 5 : Péremption des sommes inscrites sur le compte (art. 611-20)](#712)
-            - [Sous-section 2 : Allocations directes (art. 611-20-1 à 611-20-3)](#713)
-          - [Section 3 : Aides financières sélectives (art. 611-21 à 611-32)](#714)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 611-21 à 611-25)](#715)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 611-26 à 611-31)](#716)
-            - [Sous-section 3 : Commission consultative (art. 611-32)](#717)
-        - [Chapitre II : Aides financières à la diffusion en ligne des œuvres cinématographiques et audiovisuelles (art. 612-1 à 612-34)](#718)
-          - [Section 1 : Dispositions générales (art. 612-1 à 612-8)](#719)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 612-3 à 612-7)](#720)
-            - [Sous-section 2 : Dispositions relatives à l'intensité des aides (art. 612-8)](#721)
-          - [Section 2 : Aides financières automatiques (art. 612-9 à 612-22-3)](#722)
-            - [Sous-section 1 : Allocations d'investissement (art. 612-10 à 612-22)](#723)
-              - [Paragraphe 1 : Compte automatique des éditeurs de services de médias audiovisuels à la demande (art. 612-10 à 612-11)](#724)
-              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 612-12 à 612-15)](#725)
-              - [Paragraphe 3 : Affectation des sommes inscrites sur le compte (art. 612-16 à 612-17)](#726)
-              - [Paragraphe 4 : Investissement des sommes inscrites sur le compte (art. 612-18 à 612-21)](#727)
-              - [Paragraphe 5 : Péremption des sommes inscrites sur le compte (art. 612-22)](#728)
-            - [Sous-section 2 : Allocations directes (art. 612-22-1 à 612-22-3)](#729)
-          - [Section 3 : Aides financières sélectives (art. 612-23 à 612-34)](#730)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 612-23 à 612-28)](#731)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 612-29 à 612-34)](#732)
-      - [Titre II : Aides financières à l'utilisation des technologies numériques de l'image et du son (art. 621-1 à 621-27)](#733)
-        - [Chapitre unique : Aides financières à la création visuelle ou sonore par l'utilisation des technologies numériques de l'image et du son (art. 621-1 à 621-27)](#734)
-          - [Section 1 : Dispositions générales (art. 621-1 à 621-4)](#735)
-          - [Section 2 : Aides financières automatiques (art. 621-5 à 621-17)](#736)
-            - [Sous-section unique : Allocations directes (art. 621-5 à 621-17)](#737)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 621-6 à 621-10)](#738)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 621-11 à 621-17)](#739)
-          - [Section 3 : Aides financières sélectives (art. 621-18 à 621-27)](#740)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 621-19 à 621-22)](#741)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 621-23 à 621-26)](#742)
-            - [Sous-section 3 : Commission consultative (art. 621-27)](#743)
-      - [Titre III : Aides financières à la modernisation des industries techniques et à l'innovation technologique (art. 631-1 à 633-1)](#744)
-        - [Chapitre Ier : Aides financières à la modernisation des industries techniques (art. 631-1 à 631-52)](#745)
-          - [Section 1 : Aides financières sélectives (art. 631-1 à 631-52)](#746)
-            - [Sous-section 1 : Aides à l'investissement dans des immobilisations (art. 631-2 à 631-8)](#747)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-2 à 631-5)](#748)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-6 à 631-8)](#749)
-            - [Sous-section 2 : Aides à l'investissement éco-responsable (art. 631-9 à 631-15)](#750)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-9 à 631-12)](#751)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-13 à 631-15)](#752)
-            - [Sous-section 3 : Aides à la formation liée à un investissement (art. 631-16 à 631-22)](#753)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-16 à 631-19)](#754)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-20 à 631-22)](#755)
-            - [Sous-section 4 : Aides à la propriété industrielle (art. 631-23 à 631-29)](#756)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-23 à 631-26)](#757)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-27 à 631-29)](#758)
-            - [Sous-section 5 : Aides aux services de conseils (art. 631-30 à 631-36)](#759)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-30 à 631-33)](#760)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-34 à 631-36)](#761)
-            - [Sous-section 6 : Aides à l'amélioration des outils et services de communication (art. 631-37 à 631-43)](#762)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-37 à 631-40)](#763)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-41 à 631-43)](#764)
-            - [Sous-section 7 : Aides à la participation aux foires (art. 631-44 à 631-50)](#765)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-44 à 631-47)](#766)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-48 à 631-50)](#767)
-            - [Sous-section 8 : Commission consultative (art. 631-51 à 631-52)](#768)
-        - [Chapitre II : Aides financières à l'innovation technologique (art. 632-1 à 632-19)](#769)
-          - [Section 1 : Aides financières sélectives (art. 632-1 à 632-19)](#770)
-            - [Sous-section 1 : Aides à la recherche industrielle et au développement expérimental (art. 632-2 à 632-9)](#771)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 632-2 à 632-6)](#772)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 632-7 à 632-9)](#773)
-            - [Sous-section 2 : Aides à l'innovation de procédé et d'organisation (art. 632-10 à 632-17)](#774)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 632-10 à 632-14)](#775)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 632-15 à 632-17)](#776)
-            - [Sous-section 3 : Commission consultative (art. 632-18 à 632-19)](#777)
-        - [Chapitre III : Fonds d'aide à l'innovation de Bpifrance Financement (art. 633-1)](#778)
-      - [ANNEXES AU LIVRE VI (art. Annexe 6-1 à Annexe 6-16)](#779)
-    - [Livre VII : Soutien à la coopération et à la diffusion internationale et européenne (art. 711-1 à Annexe 7-8)](#780)
-      - [Titre Ier : Aides financières au développement des coproductions internationales (art. 711-1 à 712-1)](#781)
-        - [Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales (art. 711-1 à 711-3)](#782)
-          - [Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux (art. 711-1)](#783)
-          - [Section 2 : Dispositifs d'aides institués par des accords administratifs (art. 711-2)](#784)
-          - [Section 3 : Dispositions communes (art. 711-3)](#785)
-        - [Chapitre II : Aides financières aux cinémas du monde (art. 712-1)](#786)
-      - [Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles (art. 721-1 à 723-11)](#787)
-        - [Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques (art. 721-1 à 721-30)](#788)
-          - [Section 1 : Dispositions générales (art. 721-1 à 721-9)](#789)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 721-3 à 721-5)](#790)
-            - [Sous-section 2 : Conditions relatives aux œuvres (art. 721-6 à 721-7)](#791)
-            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 721-8 à 721-9)](#792)
-          - [Section 2 : Aides financières automatiques (art. 721-10 à 721-24)](#793)
-            - [Sous-section unique : Allocations d'investissement (art. 721-10 à 721-24)](#794)
-              - [Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger (art. 721-11 à 721-12)](#795)
-              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 721-13 à 721-15)](#796)
-              - [Paragraphe 3 : Inscription des sommes sur le compte (art. 721-16)](#797)
-              - [Paragraphe 4 : Affectation des sommes inscrites sur le compte (art. 721-17 à 721-19)](#798)
-              - [Paragraphe 5 : Investissement des sommes inscrites sur le compte (art. 721-20 à 721-23)](#799)
-              - [Paragraphe 6 : Péremption des sommes inscrites sur le compte (art. 721-24)](#800)
-          - [Section 3 : Aides financières sélectives (art. 721-25 à 721-30)](#801)
-            - [Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises (art. 721-25 à 721-29)](#802)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 721-25 à 721-29)](#803)
-            - [Sous-section 3 : Commission consultative (art. 721-30)](#804)
-        - [Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles (art. 722-1 à 722-27)](#805)
-          - [Section 1 : Dispositions générales (art. 722-1 à 722-8)](#806)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 722-3 à 722-5)](#807)
-            - [Sous-section 2 : Conditions relatives aux œuvres (art. 722-6)](#808)
-            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 722-7)](#809)
-            - [Sous-section 4 : Conditions relatives au montant des aides (art. 722-8)](#810)
-          - [Section 2 : Aides financières automatiques (art. 722-9 à 722-18)](#811)
-            - [Sous-section unique : Allocations directes (art. 722-10 à 722-18)](#812)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 722-10 à 722-14)](#813)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 722-15 à 722-18)](#814)
-          - [Section 3 : Aides financières sélectives (art. 722-19 à 722-27)](#815)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 722-19 à 722-20)](#816)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 722-21 à 722-26)](#817)
-            - [Sous-section 3 : Commission consultative (art. 722-27)](#818)
-        - [Chapitre III : Aides financières à la distribution à l'étranger des œuvres représentatives des cinématographies du monde (art. 723-1 à 723-11)](#819)
-          - [Section unique : Aides financières sélectives (art. 723-1 à 723-11)](#820)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 723-1 à 723-6)](#821)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 723-7 à 723-10)](#822)
-            - [Sous-section 3 : Commission consultative (art. 723-11)](#823)
-      - [ANNEXES AU LIVRE VII (art. Annexe 7-1 à Annexe 7-8)](#824)
+            - [Sous-section 3 : Aide à la réécriture (art.  à 312-38)](#559)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art.  à 312-38)](#560)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art.  à 312-38)](#561)
+            - [Sous-section 3 : Aide au développement de projets (art. 312-39 à 312-54)](#562)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 312-39 à 312-47)](#563)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 312-49 à 312-54)](#564)
+            - [Sous-section 4 : Aide au développement de projets (art.  à 312-54)](#565)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art.  à 312-54)](#566)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art.  à 312-54)](#567)
+            - [Sous-section 4 : Dispositions relatives aux cumuls d'aides (art.  à 312-54)](#568)
+            - [Sous-section 5 : Dispositions relatives aux cumuls d'aides (art. 312-55 à 312-57)](#569)
+            - [Sous-section 5 : Commissions consultatives (art.  à 312-57)](#570)
+            - [Sous-section 6 : Commissions consultatives (art. 312-58 à 312-60)](#571)
+      - [Titre II : Aides financières à la création des œuvres du multimédia (art. 321-1 à 323-1)](#572)
+        - [Chapitre Ier : Aides financières à la production, à l'écriture et au développement de projets d'œuvres pour les nouveaux médias (art. 321-1 à 321-37)](#573)
+          - [Section unique : Aides financières sélectives (art. 321-1 à 321-37)](#574)
+            - [Sous-section 1 : Aides à la production d'œuvres pour les nouveaux médias (art. 321-2 à 321-13)](#575)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 321-2 à 321-10)](#576)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 321-11 à 321-13)](#577)
+            - [Sous-section 2 : Aides au développement de projets d'œuvres pour les nouveaux médias (art. 321-14 à 321-26)](#578)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 321-14 à 321-23)](#579)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 321-24 à 321-26)](#580)
+            - [Sous-section 3 : Aides à l'écriture de projets d'œuvres pour les nouveaux médias (art. 321-27 à 321-35)](#581)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 321-27 à 321-32)](#582)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 321-33 à 321-35)](#583)
+            - [Sous-section 4 : Commission consultative (art. 321-36 à 321-37)](#584)
+        - [Chapitre II : Aides financières à la création et à la diffusion d'œuvres novatrices et expérimentales (art. 322-1 à 322-35)](#585)
+          - [Section unique : Aides financières sélectives (art. 322-1 à 322-35)](#586)
+            - [Sous-section 1 : Aides au développement de projets d'œuvres novatrices et expérimentales (art. 322-3 à 322-12)](#587)
+              - [Paragraphe 1 :  Objet et conditions d'attribution (art. 322-3 à 322-7)](#588)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 322-8 à 322-12)](#589)
+            - [Sous-section 2 : Aides à la production d'œuvres novatrices et expérimentales (art. 322-13 à 322-22)](#590)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 322-13 à 322-17)](#591)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 322-18 à 322-22)](#592)
+            - [Sous-section 3 : Aides à la diffusion d'œuvres novatrices et expérimentales (art. 322-23 à 322-33)](#593)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 322-23 à 322-27)](#594)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 322-28 à 322-33)](#595)
+            - [Sous-section 4 : Commission consultative (art. 322-34 à 322-35)](#596)
+        - [Chapitre III : Aides financières à la création et à la production de jeux vidéo (art. 323-1)](#597)
+      - [ANNEXES AU LIVRE III (art. Annexe 3-2 à Annexe 3-25)](#598)
+    - [Livre IV : Soutien à la diversité de la création et à la diffusion auprès des publics (art. 411-1 à Annexe 4-26)](#599)
+      - [Titre Ier : Aides financières à la création et à la diffusion des œuvres cinématographiques de courte durée (art. 411-1 à 421-26)](#600)
+        - [Chapitre Ier : Aides financières à la production, à l'élaboration et au développement des œuvres cinématographiques de courte durée (art. 411-1 à 411-71)](#601)
+          - [Section 1 : Dispositions générales (art. 411-1 à 411-9)](#602)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 411-2 à 411-5-1)](#603)
+            - [Sous-section 2 : Conditions relatives aux œuvres (art. 411-6)](#604)
+            - [Sous-section 3 : Conditions relatives au mode de production (art. 411-7 à 411-8)](#605)
+            - [Sous-section 4 : Conditions relatives à l'intensité des aides (art. 411-9)](#606)
+          - [Section 2 : Aides financières automatiques (art. 411-10 à 411-24)](#607)
+            - [Sous-section 1 : Allocations d'investissement (art. 411-11 à 411-21)](#608)
+            - [Sous-section 2 : Allocations directes (art. 411-22 à 411-24)](#609)
+          - [Section 3 : Aides financières sélectives (art. 411-25 à 411-71)](#610)
+            - [Sous-section 1 : Aides à la production avant réalisation (art. 411-25 à 411-36)](#611)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 411-25 à 411-26)](#612)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 411-27 à 411-36)](#613)
+            - [Sous-section 1 bis : Aides à la réécriture de scénario (art. 411-36-1 à 411-36-6)](#614)
+              - [Paragraphe 1 : Subventions (art. 411-36-2)](#615)
+              - [Paragraphe 2 : Bourses de résidence (art. 411-36-3 à 411-36-4)](#616)
+              - [Paragraphe 3 : Dispositions communes (art. 411-36-5 à 411-36-6)](#617)
+            - [Sous-section 2 : Aides au programme de production (art. 411-37 à 411-50)](#618)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 411-37 à 411-43)](#619)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 411-44 à 411-50)](#620)
+            - [Sous-section 2 bis : Aides au développement de projets (art. 411-50-1 à 411-50-5)](#621)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 411-50-1 à 411-50-2)](#622)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 411-50-3 à 411-50-5)](#623)
+            - [Sous-section 3 : Aides après réalisation (art. 411-51 à 411-57)](#624)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 411-51 à 411-54)](#625)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 411-55 à 411-57)](#626)
+            - [Sous-section 4 : Aides à la création de musiques originales (art. 411-58 à 411-66)](#627)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 411-58 à 411-60)](#628)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 411-61 à 411-66)](#629)
+            - [Sous-section 5 : Aides à la production d'œuvres intéressant les cultures d'outre-mer (art. 411-67 à 411-68)](#630)
+            - [Sous-section 6 : Commissions consultatives (art. 411-69 à 411-71)](#631)
+              - [Paragraphe 1 : Commission des aides à la production avant réalisation (art. 411-69 à 411-70)](#632)
+              - [Paragraphe 2 : Commission des aides après réalisation (art. 411-71)](#633)
+        - [Chapitre II : Aides financières à la programmation en salles des œuvres cinématographiques de courte durée (art. 412-1-A à 421-26)](#634)
+          - [Section 1 : Dispositions générales (art. 412-1-A)](#635)
+          - [Section 2 : Aides financières automatiques (art. 412-1 à 412-20)](#636)
+            - [Sous-section unique : Allocations directes (art. 412-2 à 412-20)](#637)
+              - [Paragraphe 1 : Allocations directes aux programmes complets (art. 412-3 à 412-10)](#638)
+                - [Sous-Paragraphe 1 : Objet et conditions d'attribution (art. 412-3 à 412-7)](#639)
+                - [Sous-Paragraphe 2 : Procédure et modalités d'attribution (art. 412-8 à 412-10)](#640)
+              - [Paragraphe 2 : Allocations directes aux programmes de courts (art. 412-11 à 412-20)](#641)
+                - [Sous-Paragraphe 1 : Objet et conditions d'attribution (art. 412-11 à 412-16)](#642)
+                - [Sous-Paragraphe 2 : Procédure et modalités d'attribution (art. 412-17 à 412-20)](#643)
+          - [Section 3 : Aides financières sélectives (art. 412-21 à 421-26)](#644)
+            - [Paragraphe 1 : Objet et conditions d'attribution (art. 412-21 à 412-23)](#645)
+            - [Paragraphe 2 : Procédure et modalités d'attribution (art. 421-24 à 421-26)](#646)
+      - [Titre II : Aides financières à la création et à la diffusion de certaines œuvres cinématographiques, audiovisuelles et multimédias (art. 421-1 à 422-53)](#647)
+        - [Chapitre Ier : Aides financières à l'innovation en documentaire de création (art. 421-1 à 421-43)](#648)
+          - [Section unique : Aides financières sélectives (art. 421-1 à 421-43)](#649)
+            - [Sous-section 1 : Aides à l'écriture (art. 421-2 à 421-11)](#650)
+              - [Paragraphe 1 : Objet et condition d'attribution (art. 421-2 à 421-5)](#651)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 421-7 à 421-11)](#652)
+            - [Sous-section 2 : Aides au développement (art. 421-12 à 421-24)](#653)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 421-12 à 421-16)](#654)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 421-17 à 421-24)](#655)
+            - [Sous-section 3 : Aides au développement renforcé (art. 421-25 à 421-39)](#656)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 421-25 à 421-30)](#657)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 421-31 à 421-39)](#658)
+            - [Sous-section 4 : Commission consultative (art. 421-40 à 421-43)](#659)
+        - [Chapitre II : Aides financières à la création et à la diffusion des œuvres traitant de la diversité de la population et de l'égalité des chances (art. 422-1 à 422-53)](#660)
+          - [Section unique : Aides financières sélectives (art. 422-1 à 422-53)](#661)
+            - [Paragraphe 1 : Aide à l'écriture (art. 422-6 à 422-14)](#662)
+              - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-6 à 422-11)](#663)
+              - [Sous-paragraphe 2 : Procédure et modalités d'attribution (art. 422-12 à 422-14)](#664)
+            - [Paragraphe 2 : Aide au développement de projets (art. 422-15 à 422-23)](#665)
+              - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-15 à 422-20)](#666)
+              - [Sous-paragraphe 2 :  Procédure et modalités d'attribution (art. 422-21 à 422-23)](#667)
+            - [Paragraphe 3 : Aide à la production (art. 422-24 à 422-32)](#668)
+              - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-24 à 422-29)](#669)
+              - [Sous-paragraphe 2 :  Procédure et modalités d'attribution (art. 422-30 à 422-32)](#670)
+            - [Paragraphe 4 : Aide à la distribution en salles (art. 422-33 à 422-41)](#671)
+              - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-33 à 422-38)](#672)
+              - [Sous-paragraphe 2 : Procédure et modalités d'attribution (art. 422-39 à 422-41)](#673)
+            - [Paragraphe 5 : Aide à l'édition vidéographique (art. 422-42 à 422-50)](#674)
+              - [Sous-paragraphe 1 : Objet et conditions d'attribution (art. 422-42 à 422-47)](#675)
+              - [Sous-paragraphe 2 : Procédure et modalités d'attribution (art. 422-48 à 422-50)](#676)
+            - [Paragraphe 6 : Commission consultative (art. 422-51 à 422-53)](#677)
+      - [Titre IV : Aides financières à la création et à la diffusion sur les plateformes numériques (art. 441-1 à 441-27)](#678)
+        - [Chapitre unique : Aides financières sélectives (art. 441-1 à 441-27)](#679)
+          - [Section 1 : Dispositions communes (art. 441-2 à 441-4)](#680)
+          - [Section 2 : Aides à la création d'œuvres destinées aux plateformes numériques (art. 441-5 à 441-14)](#681)
+            - [Sous-section 1 : Objet et condition d'attribution (art. 441-5 à 441-9)](#682)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 441-10 à 441-14)](#683)
+          - [Section 3 : Aides à l'enrichissement et à l'éditorialisation des programmes des chaînes numériques (art. 441-15 à 441-24)](#684)
+            - [Sous-section 1 : Objet et condition d'attribution (art. 441-15 à 441-20)](#685)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 441-21 à 441-24)](#686)
+          - [Section 4 : Dispositions relatives aux cumuls d'aides (art. 441-25)](#687)
+          - [Section 5 : Commission consultative (art. 441-26 à 441-27)](#688)
+      - [ANNEXES AU LIVRE IV (art. Annexe 4-1 à Annexe 4-26)](#689)
+    - [Livre V : Soutien aux actions en faveur du patrimoine cinématographique (art. 511-1 à Annexe 5-2)](#690)
+      - [Titre unique : Aides financières à la préservation et à la valorisation du patrimoine cinématographique (art. 511-1 à 512-12)](#691)
+        - [Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine (art. 511-1 à 511-15)](#692)
+          - [Section unique : Aides financières sélectives (art. 511-1 à 511-15)](#693)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 511-2 à 511-10)](#694)
+              - [Paragraphe 1 : Conditions relatives aux bénéficiaires (art. 511-2 à 511-3)](#695)
+              - [Paragraphe 2 : Conditions relatives aux œuvres (art. 511-4 à 511-6)](#696)
+              - [Paragraphe 3 : Dépenses prises en compte (art. 511-7)](#697)
+              - [Paragraphe 4 : Conditions de numérisation (art. 511-8 à 511-9)](#698)
+              - [Paragraphe 5 : Critères d'attribution (art. 511-10)](#699)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 511-11 à 511-14)](#700)
+            - [Sous-section 3 : Commission consultative (art. 511-15)](#701)
+        - [Chapitre II : Aides financières aux actions de préservation patrimoniale des œuvres cinématographiques (art. 512-1 à 512-12)](#702)
+          - [Section unique : Aides financières automatiques (art. 512-1 à 512-12)](#703)
+            - [Sous-section unique : Allocations directes (art. 512-2 à 512-12)](#704)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 512-4 à 512-8)](#705)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 512-9 à 512-12)](#706)
+      - [ANNEXES AU LIVRE V (art. Annexe 5-1 à Annexe 5-2)](#707)
+    - [Livre VI : Soutien à la diffusion vidéographique et à l'innovation technologique (art. 611-1 à Annexe 6-16)](#708)
+      - [Titre Ier : Aides financières à la diffusion en vidéo physique et en ligne des œuvres cinématographiques et audiovisuelles (art. 611-1 à 612-34)](#709)
+        - [Chapitre Ier : Aides financières à l'édition vidéographique des œuvres cinématographiques et audiovisuelles (art. 611-1 à 611-32)](#710)
+          - [Section 1 : Dispositions générales (art. 611-1 à 611-7)](#711)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 611-2 à 611-6)](#712)
+            - [Sous-section 2 : Dispositions relatives à l'intensité des aides (art. 611-7)](#713)
+          - [Section 2 : Aides financières automatiques (art. 611-8 à 611-20-3)](#714)
+            - [Sous-section 1 : Allocations d'investissement (art. 611-9 à 611-20)](#715)
+              - [Paragraphe 1 : Compte automatique des éditeurs de vidéogrammes (art. 611-9 à 611-10)](#716)
+              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 611-11 à 611-14)](#717)
+              - [Paragraphe 3 : Affectation des sommes inscrites sur le compte (art. 611-15 à 611-16)](#718)
+              - [Paragraphe 4 : Investissement des sommes inscrites sur le compte (art. 611-17 à 611-19)](#719)
+              - [Paragraphe 5 : Péremption des sommes inscrites sur le compte (art. 611-20)](#720)
+            - [Sous-section 2 : Allocations directes (art. 611-20-1 à 611-20-3)](#721)
+          - [Section 3 : Aides financières sélectives (art. 611-21 à 611-32)](#722)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 611-21 à 611-25)](#723)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 611-26 à 611-31)](#724)
+            - [Sous-section 3 : Commission consultative (art. 611-32)](#725)
+        - [Chapitre II : Aides financières à la diffusion en ligne des œuvres cinématographiques et audiovisuelles (art. 612-1 à 612-34)](#726)
+          - [Section 1 : Dispositions générales (art. 612-1 à 612-8)](#727)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 612-3 à 612-7)](#728)
+            - [Sous-section 2 : Dispositions relatives à l'intensité des aides (art. 612-8)](#729)
+          - [Section 2 : Aides financières automatiques (art. 612-9 à 612-22-3)](#730)
+            - [Sous-section 1 : Allocations d'investissement (art. 612-10 à 612-22)](#731)
+              - [Paragraphe 1 : Compte automatique des éditeurs de services de médias audiovisuels à la demande (art. 612-10 à 612-11)](#732)
+              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 612-12 à 612-15)](#733)
+              - [Paragraphe 3 : Affectation des sommes inscrites sur le compte (art. 612-16 à 612-17)](#734)
+              - [Paragraphe 4 : Investissement des sommes inscrites sur le compte (art. 612-18 à 612-21)](#735)
+              - [Paragraphe 5 : Péremption des sommes inscrites sur le compte (art. 612-22)](#736)
+            - [Sous-section 2 : Allocations directes (art. 612-22-1 à 612-22-3)](#737)
+          - [Section 3 : Aides financières sélectives (art. 612-23 à 612-34)](#738)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 612-23 à 612-28)](#739)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 612-29 à 612-34)](#740)
+      - [Titre II : Aides financières à l'utilisation des technologies numériques de l'image et du son (art. 621-1 à 621-27)](#741)
+        - [Chapitre unique : Aides financières à la création visuelle ou sonore par l'utilisation des technologies numériques de l'image et du son (art. 621-1 à 621-27)](#742)
+          - [Section 1 : Dispositions générales (art. 621-1 à 621-4)](#743)
+          - [Section 2 : Aides financières automatiques (art. 621-5 à 621-17)](#744)
+            - [Sous-section unique : Allocations directes (art. 621-5 à 621-17)](#745)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 621-6 à 621-10)](#746)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 621-11 à 621-17)](#747)
+          - [Section 3 : Aides financières sélectives (art. 621-18 à 621-27)](#748)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 621-19 à 621-22)](#749)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 621-23 à 621-26)](#750)
+            - [Sous-section 3 : Commission consultative (art. 621-27)](#751)
+      - [Titre III : Aides financières à la modernisation des industries techniques et à l'innovation technologique (art. 631-1 à 633-1)](#752)
+        - [Chapitre Ier : Aides financières à la modernisation des industries techniques (art. 631-1 à 631-52)](#753)
+          - [Section 1 : Aides financières sélectives (art. 631-1 à 631-52)](#754)
+            - [Sous-section 1 : Aides à l'investissement dans des immobilisations (art. 631-2 à 631-8)](#755)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-2 à 631-5)](#756)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-6 à 631-8)](#757)
+            - [Sous-section 2 : Aides à l'investissement éco-responsable (art. 631-9 à 631-15)](#758)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-9 à 631-12)](#759)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-13 à 631-15)](#760)
+            - [Sous-section 3 : Aides à la formation liée à un investissement (art. 631-16 à 631-22)](#761)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-16 à 631-19)](#762)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-20 à 631-22)](#763)
+            - [Sous-section 4 : Aides à la propriété industrielle (art. 631-23 à 631-29)](#764)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-23 à 631-26)](#765)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-27 à 631-29)](#766)
+            - [Sous-section 5 : Aides aux services de conseils (art. 631-30 à 631-36)](#767)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-30 à 631-33)](#768)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-34 à 631-36)](#769)
+            - [Sous-section 6 : Aides à l'amélioration des outils et services de communication (art. 631-37 à 631-43)](#770)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-37 à 631-40)](#771)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-41 à 631-43)](#772)
+            - [Sous-section 7 : Aides à la participation aux foires (art. 631-44 à 631-50)](#773)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 631-44 à 631-47)](#774)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 631-48 à 631-50)](#775)
+            - [Sous-section 8 : Commission consultative (art. 631-51 à 631-52)](#776)
+        - [Chapitre II : Aides financières à l'innovation technologique (art. 632-1 à 632-19)](#777)
+          - [Section 1 : Aides financières sélectives (art. 632-1 à 632-19)](#778)
+            - [Sous-section 1 : Aides à la recherche industrielle et au développement expérimental (art. 632-2 à 632-9)](#779)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 632-2 à 632-6)](#780)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 632-7 à 632-9)](#781)
+            - [Sous-section 2 : Aides à l'innovation de procédé et d'organisation (art. 632-10 à 632-17)](#782)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 632-10 à 632-14)](#783)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 632-15 à 632-17)](#784)
+            - [Sous-section 3 : Commission consultative (art. 632-18 à 632-19)](#785)
+        - [Chapitre III : Fonds d'aide à l'innovation de Bpifrance Financement (art. 633-1)](#786)
+      - [ANNEXES AU LIVRE VI (art. Annexe 6-1 à Annexe 6-16)](#787)
+    - [Livre VII : Soutien à la coopération et à la diffusion internationale et européenne (art. 711-1 à Annexe 7-8)](#788)
+      - [Titre Ier : Aides financières au développement des coproductions internationales (art. 711-1 à 712-1)](#789)
+        - [Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales (art. 711-1 à 711-3)](#790)
+          - [Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux (art. 711-1)](#791)
+          - [Section 2 : Dispositifs d'aides institués par des accords administratifs (art. 711-2)](#792)
+          - [Section 3 : Dispositions communes (art. 711-3)](#793)
+        - [Chapitre II : Aides financières aux cinémas du monde (art. 712-1)](#794)
+      - [Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles (art. 721-1 à 723-11)](#795)
+        - [Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques (art. 721-1 à 721-30)](#796)
+          - [Section 1 : Dispositions générales (art. 721-1 à 721-9)](#797)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 721-3 à 721-5)](#798)
+            - [Sous-section 2 : Conditions relatives aux œuvres (art. 721-6 à 721-7)](#799)
+            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 721-8 à 721-9)](#800)
+          - [Section 2 : Aides financières automatiques (art. 721-10 à 721-24)](#801)
+            - [Sous-section unique : Allocations d'investissement (art. 721-10 à 721-24)](#802)
+              - [Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger (art. 721-11 à 721-12)](#803)
+              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 721-13 à 721-15)](#804)
+              - [Paragraphe 3 : Inscription des sommes sur le compte (art. 721-16)](#805)
+              - [Paragraphe 4 : Affectation des sommes inscrites sur le compte (art. 721-17 à 721-19)](#806)
+              - [Paragraphe 5 : Investissement des sommes inscrites sur le compte (art. 721-20 à 721-23)](#807)
+              - [Paragraphe 6 : Péremption des sommes inscrites sur le compte (art. 721-24)](#808)
+          - [Section 3 : Aides financières sélectives (art. 721-25 à 721-30)](#809)
+            - [Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises (art. 721-25 à 721-29)](#810)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 721-25 à 721-29)](#811)
+            - [Sous-section 3 : Commission consultative (art. 721-30)](#812)
+        - [Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles (art. 722-1 à 722-27)](#813)
+          - [Section 1 : Dispositions générales (art. 722-1 à 722-8)](#814)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 722-3 à 722-5)](#815)
+            - [Sous-section 2 : Conditions relatives aux œuvres (art. 722-6)](#816)
+            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 722-7)](#817)
+            - [Sous-section 4 : Conditions relatives au montant des aides (art. 722-8)](#818)
+          - [Section 2 : Aides financières automatiques (art. 722-9 à 722-18)](#819)
+            - [Sous-section unique : Allocations directes (art. 722-10 à 722-18)](#820)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 722-10 à 722-14)](#821)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 722-15 à 722-18)](#822)
+          - [Section 3 : Aides financières sélectives (art. 722-19 à 722-27)](#823)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 722-19 à 722-20)](#824)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 722-21 à 722-26)](#825)
+            - [Sous-section 3 : Commission consultative (art. 722-27)](#826)
+        - [Chapitre III : Aides financières à la distribution à l'étranger des œuvres représentatives des cinématographies du monde (art. 723-1 à 723-11)](#827)
+          - [Section unique : Aides financières sélectives (art. 723-1 à 723-11)](#828)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 723-1 à 723-6)](#829)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 723-7 à 723-10)](#830)
+            - [Sous-section 3 : Commission consultative (art. 723-11)](#831)
+      - [ANNEXES AU LIVRE VII (art. Annexe 7-1 à Annexe 7-8)](#832)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Organisation administrative<a id=2></a>
@@ -887,8 +895,7 @@ notamment par l'attribution d'aides financières :
 
 a) La création, la production, la distribution, la diffusion et la promotion des œuvres cinématographiques et audiovisuelles
 et des œuvres multimédia, ainsi que la diversité des formes d'expression et de diffusion cinématographique, audiovisuelle et
-multimédia et la formation professionnelle ; dans ce cadre il s'assure, notamment en ce qui concerne l'emploi dans le secteur
-de la production, du respect par les bénéficiaires des aides de leurs obligations sociales ;
+multimédia ;
 
 b) La création et la modernisation des établissements de spectacles cinématographiques, ainsi que l'adaptation des industries
 techniques aux évolutions technologiques et l'innovation technologique dans le domaine du cinéma et des autres arts et
@@ -1388,32 +1395,26 @@ _Anciens textes_:
 
 ##### Section 2 : Taxe sur les éditeurs et distributeurs de services de télévision<a id=10></a>
 
-##### Section 2 : Taxe sur les éditeurs et distributeurs de services de télévision<a id=11></a>
-
 ###### Article L115-6
 
 Il est institué une taxe due par tout éditeur de services de télévision, au sens de l'article 2 de la loi n° 86-1067 du 30
 septembre 1986 relative à la liberté de communication, qui est établi en France et qui a programmé, au cours de l'année
 civile précédente, une ou plusieurs œuvres audiovisuelles ou cinématographiques éligibles aux aides financières du Centre
 national du cinéma et de l'image animée, ainsi que par tout distributeur de services de télévision au sens de l'article 2-1
-de la même loi établi en France. 
+de la même loi établi en France.
 
 Tout éditeur de services de télévision, redevable à ce titre de la taxe mentionnée au présent article, et dont le financement
-fait appel à une rémunération de la part des usagers et qui encaisse directement le produit des abonnements acquittés par ces
-usagers, est en outre redevable de cette taxe au titre de son activité de distributeur de services de télévision. 
+fait appel à une rémunération de la part des clients et qui encaisse directement le produit des abonnements acquittés par ces
+clients, est en outre redevable de cette taxe au titre de son activité de distributeur de services de télévision.
 
-Pour l'application de cette taxe, est regardée comme un éditeur de services de télévision toute personne qui encaisse les
-revenus liés aux services de télévision diffusés par un éditeur mentionné au premier alinéa, ainsi qu'à leurs activités
-connexes, notamment les services de télévision de rattrapage, directement ou par l'intermédiaire d'un régisseur de messages
-publicitaires et de parrainage ou d'un opérateur de communications électroniques mentionné au c du 1° de l'article L. 115-7. 
+Pour l'application de cette taxe, est regardée comme éditeur de services de télévision toute personne qui encaisse les sommes
+versées par les annonceurs et les parrains pour la diffusion par un éditeur mentionné au premier alinéa sur les services de
+télévision, y compris les services de télévision de rattrapage, de leurs messages publicitaires et de parrainage, ainsi que
+les revenus liés aux activités connexes des services de télévision mentionnées au c du 1° de l'article L. 115-7.
 
-Le produit de la taxe acquittée par les éditeurs de services de télévision est affecté au Centre national du cinéma et de
-l'image animée. Le produit de la taxe acquittée par les distributeurs de services de télévision est affecté à ce même
-établissement. 
-
-Est également regardée comme distributeur de services de télévision toute personne proposant un accès à des services de
-communication au public en ligne ou à des services de téléphonie, dès lors que la souscription à ces services permet de
-recevoir, au titre de cet accès, des services de télévision.
+Est également regardée comme distributeur de services de télévision toute personne proposant un accès à un réseau de
+communications électroniques au sens du 2° de l'article L. 32 du code des postes et des communications électroniques, dès
+lors que cet accès permet de recevoir des services de télévision.
 
 **Liens relatifs à cet article**
 
@@ -1441,9 +1442,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 115
-  - Décret n°2016-302 du 14 mars 2016 - art. 1 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 37 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 38
 
 _Anciens textes_:
 
@@ -1458,8 +1459,10 @@ La taxe est assise sur le montant hors taxe sur la valeur ajoutée :
 connexes :
 
 a) Des sommes versées par les annonceurs et les parrains, pour la diffusion de leurs messages publicitaires et de parrainage
-y compris sur les services de télévision de rattrapage, aux redevables concernés ou aux régisseurs de messages publicitaires
-et de parrainage. Ces sommes font l'objet d'un abattement forfaitaire de 4 % ;
+y compris sur les services de télévision de rattrapage, aux redevables concernés. Les sommes reversées par une personne
+mentionnée au troisième alinéa de l'article L. 115-6 à un éditeur mentionné au premier alinéa du même article L. 115-6 sont
+incluses dans l'assiette de la taxe due par cet éditeur et exclues de l'assiette de la taxe due par la personne mentionnée au
+troisième alinéa dudit article L. 115-6 ;
 
 b) Du produit de la contribution à l'audiovisuel public encaissé par les redevables concernés, à l'exception de la société
 nationale de programme France Télévisions au titre de ses services de télévision spécifiques à l'outre-mer, et des autres
@@ -1470,22 +1473,26 @@ concernés, à raison des appels téléphoniques à revenus partagés, des conne
 minimessages qui sont liés à la diffusion de leurs programmes, à l'exception des programmes servant une grande cause
 nationale ou d'intérêt général ;
 
-2° Pour les distributeurs de services de télévision : 
+2° Pour les distributeurs de services de télévision :
 
-a) Des abonnements et autres sommes acquittés par les usagers en rémunération d'un ou plusieurs services de télévision. Le
-produit de ces abonnements et autres sommes fait l'objet d'une déduction de 10 % ; 
+a) Des abonnements et autres sommes acquittés par les clients en rémunération d'un ou plusieurs services de télévision. Le
+produit de ces abonnements et autres sommes fait l'objet d'une déduction de 10 % ;
 
-b) Des abonnements et autres sommes acquittés par les usagers en rémunération de services souscrits dans le cadre d'offres
-destinées au grand public, composites ou de toute autre nature, donnant accès à des services de communication au public en
-ligne ou à des services de téléphonie, dès lors que la souscription à ces services permet de recevoir, au titre de cet accès,
-des services de télévision. Le produit de ces abonnements et autres sommes fait l'objet d'une déduction de 66 %.
+b) Des abonnements et autres sommes acquittés par les clients en rémunération d'une offre destinée au grand public, composée
+ou non de plusieurs autres offres, qui comprend l'accès à un réseau de communications électroniques au sens du 2° de
+l'article L. 32 du code des postes et des communications électroniques, dès lors que cet accès permet de recevoir des
+services de télévision. Le produit de ces abonnements et autres sommes fait l'objet d'une déduction de 66 %.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 115
-  - Décret n°2016-302 du 14 mars 2016 - art. 1 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 37 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 38
+
+**Liens**:
+
+  - RECTIFICATION: Loi n°2017-1775 du 28 décembre 2017, v. init.
 
 _Anciens textes_:
 
@@ -1494,7 +1501,7 @@ _Anciens textes_:
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. L115-11 (V)
-  - Code du cinéma et de l'image animée - art. L115-13 (M)
+  - Code du cinéma et de l'image animée - art. L115-13 (V)
   - Code du cinéma et de l'image animée - art. L115-8 (V)
 
 
@@ -1518,37 +1525,31 @@ _Cite_:
 
 ###### Article L115-9
 
-La taxe est calculée comme suit : 
+La taxe est calculée comme suit :
 
-1° Pour les éditeurs de services de télévision, la taxe est calculée en appliquant un taux de 5,5 % au montant des versements
-et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service. Le montant cumulé des sommes
+1° Pour les éditeurs de services de télévision, la taxe est calculée en appliquant un taux de 5,65 % au montant des
+versements et encaissements annuels, hors taxe sur la valeur ajoutée, afférent à chaque service. Le montant cumulé des sommes
 mentionnées au a du 1° de l'article L. 115-7, à l'exception de celles relatives aux services de télévision de rattrapage, et
-des sommes mentionnées au b du 1° du même article fait l'objet d'un abattement de 11 000 000 €. Cet abattement est fixé à 16
-000 000 € pour les éditeurs de services de télévision qui ne bénéficient pas de ressources procurées par la diffusion de
-messages publicitaires. 
+des sommes mentionnées au b du 1° du même article fait l'objet d'un abattement de 11 000 000 €. Cet abattement est réparti
+entre un éditeur mentionné au premier alinéa de l'article L. 115-6 et une personne mentionnée au troisième alinéa du même
+article L. 115-6 au prorata de l'assiette respective établie pour chacun d'entre eux. Cet abattement est fixé à 16 000 000 €
+pour les éditeurs de services de télévision qui ne bénéficient pas de ressources procurées par la diffusion de messages
+publicitaires.
 
-Le montant de la taxe résultant de l'application des dispositions précédentes est réduit de 50 % pour la société nationale de
-programme France Télévisions au titre de ses services de télévision spécifiques à l'outre-mer et pour les services de
-télévision dont l'éditeur est établi dans les départements d'outre-mer. 
-
-Pour les services de télévision diffusés en haute définition, le taux qui précède est majoré de 0,2. Pour les services de
-télévision diffusés en télévision mobile personnelle, il est majoré de 0,1. Pour les services de télévision diffusés à la
-fois en haute définition et en télévision mobile personnelle, le taux applicable est celui applicable aux services diffusés
-en haute définition. Au titre de la première année de diffusion en haute définition ou en télévision mobile personnelle, le
-taux majoré s'applique à proportion de la part du montant des versements et encaissements intervenus à compter du mois au
-cours duquel a débuté la diffusion en haute définition ou en télévision mobile personnelle dans le montant total des
-versements et encaissements de l'année considérée. 
+Le montant de la taxe résultant de l'application du premier alinéa du présent article pour les versements ou encaissements
+afférents aux services de télévision spécifiques à l'outre-mer ou dont l'éditeur est établi en Guadeloupe, en Guyane, à La
+Réunion, en Martinique et à Mayotte est réduit de 50 %.
 
 2° Pour les distributeurs de services, la taxe est calculée en appliquant à la fraction de chaque part du montant des
-encaissements annuels, hors taxe sur la valeur ajoutée, qui excède 10 000 000 euros les taux de : 
+encaissements annuels, hors taxe sur la valeur ajoutée, qui excède 10 000 000 euros les taux de :
 
-a) 0,5 % pour la fraction supérieure à 10 000 000 € et inférieure ou égale à 250 000 000 € ; 
+a) 0,5 % pour la fraction supérieure à 10 000 000 € et inférieure ou égale à 250 000 000 € ;
 
-b) 2,10 % pour la fraction supérieure à 250 000 000 € et inférieure ou égale à 500 000 000 € ; 
+b) 2,10 % pour la fraction supérieure à 250 000 000 € et inférieure ou égale à 500 000 000 € ;
 
-c) 2,80 % pour la fraction supérieure à 500 000 000 € et inférieure ou égale à 750 000 000 € ; 
+c) 2,80 % pour la fraction supérieure à 500 000 000 € et inférieure ou égale à 750 000 000 € ;
 
-d) 3,50 % pour la fraction supérieure à 750 000 000 € ; 
+d) 3,50 % pour la fraction supérieure à 750 000 000 € ;
 
 3° Dans le cas mentionné au deuxième alinéa de l'article L. 115-6, la taxe due en tant qu'éditeur de services est calculée
 selon les modalités mentionnées au 1° et la taxe due en tant que distributeur de services selon les modalités mentionnées au
@@ -1558,8 +1559,11 @@ selon les modalités mentionnées au 1° et la taxe due en tant que distributeur
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 115
-  - Décret n°2016-302 du 14 mars 2016 - art. 1 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 37 (V)
+
+**Liens**:
+
+  - RECTIFICATION: Loi n°2017-1775 du 28 décembre 2017, v. init.
 
 _Anciens textes_:
 
@@ -1567,7 +1571,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code du cinéma et de l'image animée - art. L115-6 (M)
+  - Code du cinéma et de l'image animée - art. L115-6
 
 
 ###### Article L115-10
@@ -1672,17 +1676,17 @@ _Cite_:
 
 ###### Article L115-13
 
-Les régisseurs de messages publicitaires et de parrainage mentionnés au a du 1° de l'article L. 115-7 fournissent à chaque
-éditeur de services de télévision, ainsi qu'au Centre national du cinéma et de l'image animée, avant le 15 février de chaque
-année, un état récapitulatif des sommes qu'ils ont encaissées au cours de l'année civile précédente en rémunération de la
-diffusion de messages publicitaires et de parrainage par le service de télévision ou le service de télévision de rattrapage
-concerné.
+Le produit de la taxe est affecté au Centre national du cinéma et de l'image animée.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 115
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 37 (V)
+
+_Anciens textes_:
+
+  - Livre des procédures fiscales - art. L102 AA (Ab)
 
 _Cité par_:
 
@@ -1693,7 +1697,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L115-7 (M)
 
 
-##### Section 3 : Cotisations professionnelles<a id=12></a>
+##### Section 3 : Cotisations professionnelles<a id=11></a>
 
 ###### Article L115-14
 
@@ -1766,7 +1770,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L115-16 (V)
 
 
-##### Section 4 : Recouvrement et contrôle<a id=13></a>
+##### Section 4 : Recouvrement et contrôle<a id=12></a>
 
 ###### Article L115-16
 
@@ -2108,7 +2112,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L115-6 (V)
 
 
-#### Chapitre VI : Taxes, prélèvements et autres produits affectés au Centre national du cinéma et de l'image animée<a id=14></a>
+#### Chapitre VI : Taxes, prélèvements et autres produits affectés au Centre national du cinéma et de l'image animée<a id=13></a>
 
 ###### Article L116-1
 
@@ -2221,9 +2225,9 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 44-1, II (VT)
 
 
-### Titre II : Registres du cinéma et de l'audiovisuel<a id=15></a>
+### Titre II : Registres du cinéma et de l'audiovisuel<a id=14></a>
 
-#### Chapitre Ier : Principes généraux<a id=16></a>
+#### Chapitre Ier : Principes généraux<a id=15></a>
 
 ###### Article L121-1
 
@@ -2245,7 +2249,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 31 (Ab)
 
 
-#### Chapitre II : Dépôt du titre et immatriculation des œuvres<a id=17></a>
+#### Chapitre II : Dépôt du titre et immatriculation des œuvres<a id=16></a>
 
 ###### Article L122-1
 
@@ -2308,7 +2312,7 @@ _Cité par_:
 
 
 #### Chapitre III : Inscription et publication des actes, 
-conventions et jugements<a id=18></a>
+conventions et jugements<a id=17></a>
 
 ###### Article L123-1
 
@@ -2509,7 +2513,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L123-5 (V)
 
 
-#### Chapitre IV : Privilège et réalisation du nantissement<a id=19></a>
+#### Chapitre IV : Privilège et réalisation du nantissement<a id=18></a>
 
 ###### Article L124-1
 
@@ -2605,7 +2609,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 43 (Ab)
 
 
-#### Chapitre V : Obligations et responsabilité du Centre national du cinéma et de l'image animée<a id=20></a>
+#### Chapitre V : Obligations et responsabilité du Centre national du cinéma et de l'image animée<a id=19></a>
 
 ###### Article L125-1
 
@@ -2647,7 +2651,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L124-2 (V)
 
 
-#### Chapitre VI : Communication de renseignements relatifs aux recettes<a id=21></a>
+#### Chapitre VI : Communication de renseignements relatifs aux recettes<a id=20></a>
 
 ###### Article L126-1
 
@@ -2712,11 +2716,11 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 44, alinéa 3 (Ab)
 
 
-## Livre II : Professions et activités<a id=22></a>
+## Livre II : Professions et activités<a id=21></a>
 
-### Titre Ier : Exercice des professions et activités du cinéma<a id=23></a>
+### Titre Ier : Exercice des professions et activités du cinéma<a id=22></a>
 
-#### Chapitre Ier : Visa d'exploitation cinématographique<a id=24></a>
+#### Chapitre Ier : Visa d'exploitation cinématographique<a id=23></a>
 
 ###### Article L211-1
 
@@ -2776,7 +2780,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R211-3 (V)
 
 
-#### Chapitre II : Secteur de l'exploitation cinématographique<a id=25></a>
+#### Chapitre II : Secteur de l'exploitation cinématographique<a id=24></a>
 
 ###### Article L212-1
 
@@ -2797,7 +2801,7 @@ _Cité par_:
   - Arrêté du 10 novembre 2016 - art. 3 (V)
 
 
-##### Section 1 : Autorisation d'exercice de la profession d'exploitant<a id=26></a>
+##### Section 1 : Autorisation d'exercice de la profession d'exploitant<a id=25></a>
 
 ###### Article L212-2
 
@@ -2907,7 +2911,7 @@ _Cité par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art. 14 (V)
 
 
-##### Section 2 : Implantation et construction des établissements de spectacles cinématographiques<a id=27></a>
+##### Section 2 : Implantation et construction des établissements de spectacles cinématographiques<a id=26></a>
 
 ###### Article L212-6
 
@@ -2937,9 +2941,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L212-9 (VD)
 
 
-##### Sous-section 1 : Commissions d'aménagement cinématographique<a id=28></a>
+##### Sous-section 1 : Commissions d'aménagement cinématographique<a id=27></a>
 
-##### Paragraphe 1 : Commission départementale d'aménagement cinématographique<a id=29></a>
+##### Paragraphe 1 : Commission départementale d'aménagement cinématographique<a id=28></a>
 
 ###### Article L212-6-1
 
@@ -2971,7 +2975,8 @@ II.-La commission est composée :
 a) Le maire de la commune d'implantation du projet d'aménagement cinématographique ; 
 
 b) Le président de l'établissement public de coopération intercommunale compétent en matière d'aménagement de l'espace et de
-développement dont est membre la commune d'implantation ou, à défaut, le conseiller général du canton d'implantation ; 
+développement dont est membre la commune d'implantation, ou, à défaut, le conseiller général du canton d'implantation ou, en
+Corse, un conseiller à l'Assemblée de Corse élu en son sein ; 
 
 c) Le maire de la commune la plus peuplée de l'arrondissement, autre que la commune d'implantation ; à l'exception des
 communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et des communes de l'Essonne, du Val-
@@ -2980,7 +2985,7 @@ statistique et des études économiques, dans le cas où la commune d'implantati
 moins cinq communes, le maire de la commune la plus peuplée est choisi parmi les maires des communes de ladite
 agglomération ; 
 
-d) Le président du conseil général ou son représentant ; 
+d) Le président du conseil général ou son représentant, ou, en Corse, le président du conseil exécutif ou son représentant ; 
 
 e) Le président du syndicat mixte ou de l'établissement public de coopération intercommunale chargé du schéma de cohérence
 territoriale auquel adhère la commune d'implantation ou son représentant ou, à défaut, un adjoint au maire de la commune
@@ -3028,9 +3033,9 @@ animée, et au plus tard le 1er janvier 2015.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-626 du 18 juin 2014 - art. 57
+  - Ordonnance n°2016-1562 du 21 novembre 2016 - art. 28
 
 _Cité par_:
 
@@ -3081,7 +3086,7 @@ _Créé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 
-##### Paragraphe 2 : Commission nationale d'aménagement cinématographique<a id=30></a>
+##### Paragraphe 2 : Commission nationale d'aménagement cinématographique<a id=29></a>
 
 ###### Article L212-6-5
 
@@ -3184,7 +3189,7 @@ _Créé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 
-##### Paragraphe 3 : Dispositions communes<a id=31></a>
+##### Paragraphe 3 : Dispositions communes<a id=30></a>
 
 ###### Article L212-6-9
 
@@ -3203,9 +3208,9 @@ _Créé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 
-##### Sous-section 2 : Autorisation d'aménagement cinématographique<a id=32></a>
+##### Sous-section 2 : Autorisation d'aménagement cinématographique<a id=31></a>
 
-##### Paragraphe 1 : Projets soumis à autorisation<a id=33></a>
+##### Paragraphe 1 : Projets soumis à autorisation<a id=32></a>
 
 ###### Article L212-7
 
@@ -3325,7 +3330,7 @@ _Créé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 
-##### Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique<a id=34></a>
+##### Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique<a id=33></a>
 
 ###### Article L212-9
 
@@ -3485,7 +3490,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R212-7-11 (V)
 
 
-##### Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique<a id=35></a>
+##### Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique<a id=34></a>
 
 ###### Article L212-10-3
 
@@ -3646,7 +3651,7 @@ _Créé par_:
   - Loi n°2014-626 du 18 juin 2014 - art. 57
 
 
-##### Sous-section 3 : Dispositions diverses<a id=36></a>
+##### Sous-section 3 : Dispositions diverses<a id=35></a>
 
 ###### Article L212-11
 
@@ -3703,7 +3708,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-7
 
 
-##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=37></a>
+##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=36></a>
 
 ###### Article L212-14
 
@@ -3788,7 +3793,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L111-3
 
 
-##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=38></a>
+##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=37></a>
 
 ###### Article L212-18
 
@@ -3821,7 +3826,7 @@ _Cite_:
 
 
 ##### Section 5 : Groupements, ententes et engagements 
-de programmation cinématographique<a id=39></a>
+de programmation cinématographique<a id=38></a>
 
 ###### Article L212-19
 
@@ -4048,7 +4053,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L441-1 (V)
 
 
-##### Section 6 : Formules d'accès au cinéma<a id=40></a>
+##### Section 6 : Formules d'accès au cinéma<a id=39></a>
 
 ###### Article L212-27
 
@@ -4221,7 +4226,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-29
 
 
-##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=41></a>
+##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=40></a>
 
 ###### Article L212-32
 
@@ -4359,9 +4364,9 @@ _Créé par_:
   - Loi n°2016-925 du 7 juillet 2016 - art. 27
 
 
-#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=42></a>
+#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=41></a>
 
-##### Section 1 : Médiateur du cinéma<a id=43></a>
+##### Section 1 : Médiateur du cinéma<a id=42></a>
 
 ###### Article L213-1
 
@@ -4551,7 +4556,7 @@ _Créé par_:
   - Ordonnance n°2009-1358 du 5 novembre 2009 - art. 3
 
 
-##### Section 2 : Concession des droits de représentation cinématographique<a id=44></a>
+##### Section 2 : Concession des droits de représentation cinématographique<a id=43></a>
 
 ###### Article L213-9
 
@@ -4675,7 +4680,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L213-12
 
 
-##### Section 3 : Contrat de concession des droits de représentation cinématographique<a id=45></a>
+##### Section 3 : Contrat de concession des droits de représentation cinématographique<a id=44></a>
 
 ###### Article L213-14
 
@@ -4722,7 +4727,7 @@ _Cite_:
 
 
 ##### Section 4 : Equipement numérique des établissements 
-de spectacles cinématographiques<a id=46></a>
+de spectacles cinématographiques<a id=45></a>
 
 ###### Article L213-16
 
@@ -4977,11 +4982,11 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-23
 
 
-#### Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée<a id=47></a>
+#### Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée<a id=46></a>
 
-##### Section 1 : Transparence des comptes de production<a id=48></a>
+##### Section 1 : Transparence des comptes de production<a id=47></a>
 
-##### Sous-section 1 : Obligations des producteurs délégués<a id=49></a>
+##### Sous-section 1 : Obligations des producteurs délégués<a id=48></a>
 
 ###### Article L213-24
 
@@ -5073,7 +5078,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L213-24 (V)
 
 
-##### Sous-section 2 : Audit des comptes de production<a id=50></a>
+##### Sous-section 2 : Audit des comptes de production<a id=49></a>
 
 ###### Article L213-27
 
@@ -5126,9 +5131,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
-##### Section 2 : Transparence des comptes d'exploitation<a id=51></a>
+##### Section 2 : Transparence des comptes d'exploitation<a id=50></a>
 
-##### Sous-section 1 : Obligations des distributeurs<a id=52></a>
+##### Sous-section 1 : Obligations des distributeurs<a id=51></a>
 
 ###### Article L213-28
 
@@ -5223,7 +5228,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L213-28 (V)
 
 
-##### Sous-section 2 : Obligations des producteurs délégués<a id=53></a>
+##### Sous-section 2 : Obligations des producteurs délégués<a id=52></a>
 
 ###### Article L213-32
 
@@ -5305,7 +5310,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L213-32 (V)
 
 
-##### Sous-section 3 : Audit des comptes d'exploitation<a id=54></a>
+##### Sous-section 3 : Audit des comptes d'exploitation<a id=53></a>
 
 ###### Article L213-35
 
@@ -5395,7 +5400,7 @@ _Cité par_:
   - Décret n°2017-40 du 16 janvier 2017 (V)
 
 
-#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=55></a>
+#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=54></a>
 
 ###### Article L214-1
 
@@ -5620,9 +5625,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L214-1 (V)
 
 
-### Titre II : Edition vidéographique et services de médias audiovisuels à la demande<a id=56></a>
+### Titre II : Edition vidéographique et services de médias audiovisuels à la demande<a id=55></a>
 
-#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=57></a>
+#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=56></a>
 
 ###### Article L221-1
 
@@ -5657,7 +5662,7 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=58></a>
+#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=57></a>
 
 ###### Article L222-1
 
@@ -5690,7 +5695,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L441-1 (V)
 
 
-#### Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande<a id=59></a>
+#### Chapitre III : Rémunération de l'exploitation des œuvres cinématographiques sur les services de médias audiovisuels à la demande<a id=58></a>
 
 ###### Article L223-1
 
@@ -5730,9 +5735,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L223-1
 
 
-### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=60></a>
+### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=59></a>
 
-#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=61></a>
+#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=60></a>
 
 ###### Article L231-1
 
@@ -5776,7 +5781,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 30-4 (Ab)
 
 
-#### Chapitre II : Exploitation sur les services de médias audiovisuels à la demande<a id=62></a>
+#### Chapitre II : Exploitation sur les services de médias audiovisuels à la demande<a id=61></a>
 
 ###### Article L232-1
 
@@ -5819,7 +5824,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 30-5 (Ab)
 
 
-#### Chapitre III : Exploitation sur les services de télévision<a id=63></a>
+#### Chapitre III : Exploitation sur les services de télévision<a id=62></a>
 
 ###### Article L233-1
 
@@ -5847,7 +5852,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L234-1 (V)
 
 
-#### Chapitre IV : Dispositions communes<a id=64></a>
+#### Chapitre IV : Dispositions communes<a id=63></a>
 
 ###### Article L234-1
 
@@ -5905,9 +5910,9 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 30-7, alinéa 5 (Ab)
 
 
-### Titre IV : Dépôt légal<a id=65></a>
+### Titre IV : Dépôt légal<a id=64></a>
 
-#### Chapitre unique : Obligation de dépôt légal<a id=66></a>
+#### Chapitre unique : Obligation de dépôt légal<a id=65></a>
 
 ###### Article L241-1
 
@@ -5922,13 +5927,13 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-### Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles<a id=67></a>
+### Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles<a id=66></a>
 
-#### Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles<a id=68></a>
+#### Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles<a id=67></a>
 
-##### Section 1 : Transparence des comptes de production<a id=69></a>
+##### Section 1 : Transparence des comptes de production<a id=68></a>
 
-##### Sous-section 1 : Obligations des producteurs délégués<a id=70></a>
+##### Sous-section 1 : Obligations des producteurs délégués<a id=69></a>
 
 ###### Article L251-1
 
@@ -6019,7 +6024,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L251-1 (V)
 
 
-##### Sous-section 2 : Audit des comptes de production<a id=71></a>
+##### Sous-section 2 : Audit des comptes de production<a id=70></a>
 
 ###### Article L251-4
 
@@ -6066,9 +6071,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
-##### Section 2 : Transparence des comptes d'exploitation<a id=72></a>
+##### Section 2 : Transparence des comptes d'exploitation<a id=71></a>
 
-##### Sous-section 1 : Obligations des distributeurs<a id=73></a>
+##### Sous-section 1 : Obligations des distributeurs<a id=72></a>
 
 ###### Article L251-5
 
@@ -6164,7 +6169,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L251-5 (V)
 
 
-##### Sous-section 2 : Obligations des producteurs délégués<a id=74></a>
+##### Sous-section 2 : Obligations des producteurs délégués<a id=73></a>
 
 ###### Article L251-9
 
@@ -6226,7 +6231,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L251-11 (V)
 
 
-##### Sous-section 3 : Audit des comptes d'exploitation<a id=75></a>
+##### Sous-section 3 : Audit des comptes d'exploitation<a id=74></a>
 
 ###### Article L251-11
 
@@ -6313,11 +6318,11 @@ _Cité par_:
   - Décret n°2017-40 du 16 janvier 2017 (V)
 
 
-## Livre III : Financement et fiscalité<a id=76></a>
+## Livre III : Financement et fiscalité<a id=75></a>
 
-### Titre Ier : Aides du Centre national du cinéma et de l'image animée<a id=77></a>
+### Titre Ier : Aides du Centre national du cinéma et de l'image animée<a id=76></a>
 
-#### Chapitre Ier : Dispositions générales<a id=78></a>
+#### Chapitre Ier : Dispositions générales<a id=77></a>
 
 ###### Article L311-1
 
@@ -6388,7 +6393,38 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L115-1
 
 
-#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=79></a>
+###### Article L311-3
+
+Le Centre national du cinéma et de l'image animée s'assure, notamment en ce qui concerne l'emploi dans le secteur de la
+production, du respect par les bénéficiaires des aides financières de leurs obligations sociales.
+
+A cette fin, le Centre national du cinéma et de l'image animée peut exiger des demandeurs des aides financières tout document
+justificatif du respect de ces obligations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-762 du 4 mai 2017 - art. 21
+
+
+###### Article L311-4
+
+Lorsque le Centre national du cinéma et de l'image animée a connaissance d'un procès-verbal en application des articles L.
+413-1 et L. 413-2, il peut suspendre ou refuser l'attribution de l'aide ou, le cas échéant, exiger son reversement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2017-762 du 4 mai 2017 - art. 21
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. L413-1 (V)
+
+
+#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=78></a>
 
 ###### Article L312-1
 
@@ -6528,9 +6564,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L312-2
 
 
-### Titre II : Aides des collectivités territoriales<a id=80></a>
+### Titre II : Aides des collectivités territoriales<a id=79></a>
 
-#### Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=81></a>
+#### Chapitre unique : Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=80></a>
 
 ###### Article L321-1
 
@@ -6581,9 +6617,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L4211-1 (V)
 
 
-### Titre III : Incitations fiscales<a id=82></a>
+### Titre III : Incitations fiscales<a id=81></a>
 
-#### Chapitre Ier : Crédits d'impôt<a id=83></a>
+#### Chapitre Ier : Crédits d'impôt<a id=82></a>
 
 ###### Article L331-1
 
@@ -6642,7 +6678,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 quaterdecies (VT)
 
 
-#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=84></a>
+#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=83></a>
 
 ###### Article L332-1
 
@@ -6678,7 +6714,7 @@ _Cite_:
 
 
 #### Chapitre III : Déductions fiscales et réductions d'impôt
-au titre des investissements outre-mer<a id=85></a>
+au titre des investissements outre-mer<a id=84></a>
 
 ###### Article L333-1
 
@@ -6738,7 +6774,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 217 duodecies
 
 
-#### Chapitre IV : Taxe sur la valeur ajoutée<a id=86></a>
+#### Chapitre IV : Taxe sur la valeur ajoutée<a id=85></a>
 
 ###### Article L334-2
 
@@ -6804,7 +6840,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 279 bis (V)
 
 
-#### Chapitre V : Contribution économique territoriale<a id=87></a>
+#### Chapitre V : Contribution économique territoriale<a id=86></a>
 
 ###### Article L335-1
 
@@ -6841,7 +6877,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1586 nonies (V)
 
 
-#### Chapitre VI : Dispositions diverses<a id=88></a>
+#### Chapitre VI : Dispositions diverses<a id=87></a>
 
 ###### Article L336-1
 
@@ -6878,11 +6914,11 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L116-2 (V)
 
 
-## Livre IV : Contrôles et sanctions<a id=89></a>
+## Livre IV : Contrôles et sanctions<a id=88></a>
 
-### Titre Ier : Procédures de contrôle<a id=90></a>
+### Titre Ier : Procédures de contrôle<a id=89></a>
 
-#### Chapitre Ier : Compétence des agents de contrôle<a id=91></a>
+#### Chapitre Ier : Compétence des agents de contrôle<a id=90></a>
 
 ###### Article L411-1
 
@@ -6956,7 +6992,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-24 (VD)
 
 
-#### Chapitre II : Prérogatives et moyens d'intervention<a id=92></a>
+#### Chapitre II : Prérogatives et moyens d'intervention<a id=91></a>
 
 ###### Article L412-1
 
@@ -7061,7 +7097,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L431-1 (V)
 
 
-#### Chapitre III : Echanges d'informations<a id=93></a>
+#### Chapitre III : Echanges d'informations<a id=92></a>
 
 ###### Article L413-1
 
@@ -7149,7 +7185,7 @@ _Cite_:
   - Livre des procédures fiscales - art. L163 (VT)
 
 
-#### Chapitre IV : Constatation des manquements et des infractions<a id=94></a>
+#### Chapitre IV : Constatation des manquements et des infractions<a id=93></a>
 
 ###### Article L414-1
 
@@ -7239,7 +7275,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L425-1 (M)
 
 
-#### Chapitre V : Secret professionnel<a id=95></a>
+#### Chapitre V : Secret professionnel<a id=94></a>
 
 ###### Article L415-1
 
@@ -7264,9 +7300,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R412-1 (V)
 
 
-### Titre II : Sanctions administratives<a id=96></a>
+### Titre II : Sanctions administratives<a id=95></a>
 
-#### Chapitre Ier : Champ d'application<a id=97></a>
+#### Chapitre Ier : Champ d'application<a id=96></a>
 
 ###### Article L421-1
 
@@ -7411,7 +7447,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1 (V)
 
 
-#### Chapitre II : Nature des sanctions administratives<a id=98></a>
+#### Chapitre II : Nature des sanctions administratives<a id=97></a>
 
 ###### Article L422-1
 
@@ -7473,7 +7509,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L421-1 (V)
 
 
-#### Chapitre III : Procédure de sanction<a id=99></a>
+#### Chapitre III : Procédure de sanction<a id=98></a>
 
 ###### Article L423-1
 
@@ -7708,7 +7744,7 @@ _Créé par_:
   - Ordonnance n°2017-762 du 4 mai 2017 - art. 38
 
 
-#### Chapitre IV : Dispositions diverses<a id=100></a>
+#### Chapitre IV : Dispositions diverses<a id=99></a>
 
 ###### Article L424-1
 
@@ -7722,7 +7758,7 @@ _Créé par_:
   - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
-#### Chapitre V : Dispositions particulières relatives à l'implantation des établissements de spectacles cinématographiques<a id=101></a>
+#### Chapitre V : Dispositions particulières relatives à l'implantation des établissements de spectacles cinématographiques<a id=100></a>
 
 ###### Article L425-1
 
@@ -7750,9 +7786,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. L434-1 (V)
 
 
-### Titre III : Dispositions pénales<a id=102></a>
+### Titre III : Dispositions pénales<a id=101></a>
 
-#### Chapitre Ier : Dispositions générales<a id=103></a>
+#### Chapitre Ier : Dispositions générales<a id=102></a>
 
 ###### Article L431-1
 
@@ -7773,7 +7809,7 @@ _Cite_:
 
 
 #### Chapitre II : Infractions aux dispositions relatives 
-au visa d'exploitation cinématographique<a id=104></a>
+au visa d'exploitation cinématographique<a id=103></a>
 
 ###### Article L432-1
 
@@ -7845,7 +7881,7 @@ _Anciens textes_:
   - Code de l'industrie cinématographique - art. 22, alinéas 3 et 4 (Ab)
 
 
-#### Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=105></a>
+#### Chapitre III : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=104></a>
 
 ###### Article L433-1
 
@@ -7867,7 +7903,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1
 
 
-#### Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques<a id=106></a>
+#### Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques<a id=105></a>
 
 ###### Article L434-1
 
@@ -7891,9 +7927,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L425-1 (V)
 
 
-### Titre IV : Actions en justice<a id=107></a>
+### Titre IV : Actions en justice<a id=106></a>
 
-#### Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=108></a>
+#### Chapitre Ier : Infractions concernant les recettes d'exploitation cinématographique et vidéographique<a id=107></a>
 
 ###### Article L441-1
 
@@ -7915,7 +7951,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1
 
 
-#### Chapitre II : Délit de contrefaçon<a id=109></a>
+#### Chapitre II : Délit de contrefaçon<a id=108></a>
 
 ###### Article L442-1
 
@@ -7933,7 +7969,7 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L331-3 (V)
 
 
-#### Chapitre III : Atteinte à un droit d'auteur ou à un droit voisin par un service de communication au public en ligne<a id=110></a>
+#### Chapitre III : Atteinte à un droit d'auteur ou à un droit voisin par un service de communication au public en ligne<a id=109></a>
 
 ###### Article L443-1
 
@@ -7951,11 +7987,11 @@ _Cite_:
   - Code de la propriété intellectuelle - art. L336-2 (M)
 
 
-## Livre V : Dispositions relatives à l'outre-mer<a id=111></a>
+## Livre V : Dispositions relatives à l'outre-mer<a id=110></a>
 
-### Titre unique<a id=112></a>
+### Titre unique<a id=111></a>
 
-#### Chapitre unique<a id=113></a>
+#### Chapitre unique<a id=112></a>
 
 ###### Article L511-1
 
@@ -7974,28 +8010,26 @@ _Créé par_:
 ###### Article L511-2
 
 Les références faites par des dispositions du présent code applicables à Mayotte à des dispositions qui n'y sont pas
-applicables, notamment à des dispositions du code général des impôts, du code du travail, du code de l'urbanisme et du code
-de la construction et de l'habitation, sont remplacées par les références aux dispositions ayant le même objet applicables
-localement.
+applicables, sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+  - Ordonnance n°2017-1491 du 25 octobre 2017 - art. 12
 
 
-# Partie réglementaire<a id=114></a>
+# Partie réglementaire<a id=113></a>
 
-## Livre Ier : Organisation administrative<a id=115></a>
+## Livre Ier : Organisation administrative<a id=114></a>
 
-### Titre Ier : Centre national du cinéma et de l'image animée<a id=116></a>
+### Titre Ier : Centre national du cinéma et de l'image animée<a id=115></a>
 
-#### Chapitre II : Organisation et fonctionnement<a id=117></a>
+#### Chapitre II : Organisation et fonctionnement<a id=116></a>
 
-##### Section 1 : Conseil d'administration<a id=118></a>
+##### Section 1 : Conseil d'administration<a id=117></a>
 
-##### Sous-section 1 : Composition et mandat<a id=119></a>
+##### Sous-section 1 : Composition et mandat<a id=118></a>
 
 ###### Article R112-1
 
@@ -8106,7 +8140,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Attributions<a id=120></a>
+##### Sous-section 2 : Attributions<a id=119></a>
 
 ###### Article R112-4
 
@@ -8242,7 +8276,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. D311-1 (V)
 
 
-##### Sous-section 3 : Fonctionnement<a id=121></a>
+##### Sous-section 3 : Fonctionnement<a id=120></a>
 
 ###### Article R112-7
 
@@ -8343,7 +8377,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 4 : Election des représentants du personnel<a id=122></a>
+##### Sous-section 4 : Election des représentants du personnel<a id=121></a>
 
 ###### Article D112-11
 
@@ -8649,7 +8683,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 2 : Président<a id=123></a>
+##### Section 2 : Président<a id=122></a>
 
 ###### Article R112-23
 
@@ -8768,9 +8802,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 3 : Bulletin officiel du cinéma et de l'image animée<a id=124></a>
+##### Section 3 : Bulletin officiel du cinéma et de l'image animée<a id=123></a>
 
-##### Sous-section 1 : Dispositions générales<a id=125></a>
+##### Sous-section 1 : Dispositions générales<a id=124></a>
 
 ###### Article D112-26
 
@@ -8869,7 +8903,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D112-28 (V)
 
 
-##### Sous-section 2 : Publication des actes du Centre national du cinéma et de l'image animée et de son président<a id=126></a>
+##### Sous-section 2 : Publication des actes du Centre national du cinéma et de l'image animée et de son président<a id=125></a>
 
 ###### Article A112-30
 
@@ -9065,7 +9099,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Publication des actes d'autres autorités et organes administratifs<a id=127></a>
+##### Sous-section 3 : Publication des actes d'autres autorités et organes administratifs<a id=126></a>
 
 ###### Article A112-36
 
@@ -9103,7 +9137,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R423-18 (V)
 
 
-#### Chapitre III : Recrutement et statut des agents contractuels<a id=128></a>
+#### Chapitre III : Recrutement et statut des agents contractuels<a id=127></a>
 
 ###### Article A113-3
 
@@ -9211,7 +9245,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-#### Chapitre IV : Dispositions financières et comptables<a id=129></a>
+#### Chapitre IV : Dispositions financières et comptables<a id=128></a>
 
 ###### Article R114-1
 
@@ -9340,9 +9374,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-### Titre II : Registres du cinéma et de l'audiovisuel<a id=130></a>
+### Titre II : Registres du cinéma et de l'audiovisuel<a id=129></a>
 
-#### Chapitre III : Inscription et publication des actes, conventions et jugements<a id=131></a>
+#### Chapitre III : Inscription et publication des actes, conventions et jugements<a id=130></a>
 
 ###### Article D123-1
 
@@ -9456,15 +9490,15 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L123-1 (V)
 
 
-## Livre II : Professions et activités<a id=132></a>
+## Livre II : Professions et activités<a id=131></a>
 
-### Titre Ier : Exercice des professions et activités du cinéma<a id=133></a>
+### Titre Ier : Exercice des professions et activités du cinéma<a id=132></a>
 
-#### Section préliminaire : Les œuvres cinématographiques<a id=134></a>
+#### Section préliminaire : Les œuvres cinématographiques<a id=133></a>
 
-##### Sous-section 1 : Caractéristiques des œuvres cinématographiques<a id=135></a>
+##### Sous-section 1 : Caractéristiques des œuvres cinématographiques<a id=134></a>
 
-##### Paragraphe 1 : Œuvres cinématographiques de longue et de courte durée<a id=136></a>
+##### Paragraphe 1 : Œuvres cinématographiques de longue et de courte durée<a id=135></a>
 
 ###### Article D210-1
 
@@ -9518,7 +9552,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 411-6 (VD)
 
 
-##### Paragraphe 2 : Œuvres cinématographiques d'art et d'essai<a id=137></a>
+##### Paragraphe 2 : Œuvres cinématographiques d'art et d'essai<a id=136></a>
 
 ###### Article D210-3
 
@@ -9608,7 +9642,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. D212-92 (V)
 
 
-##### Paragraphe 3 : Œuvres cinématographiques à caractère publicitaire<a id=138></a>
+##### Paragraphe 3 : Œuvres cinématographiques à caractère publicitaire<a id=137></a>
 
 ###### Article D210-6
 
@@ -9646,7 +9680,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Sécurité du support pellicule des œuvres cinématographiques<a id=139></a>
+##### Sous-section 2 : Sécurité du support pellicule des œuvres cinématographiques<a id=138></a>
 
 ###### Article D210-8
 
@@ -9701,7 +9735,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Dispositions diverses<a id=140></a>
+##### Sous-section 3 : Dispositions diverses<a id=139></a>
 
 ###### Article A210-11
 
@@ -9736,11 +9770,11 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L111-3
 
 
-#### Chapitre Ier : Visa d'exploitation cinématographique<a id=141></a>
+#### Chapitre Ier : Visa d'exploitation cinématographique<a id=140></a>
 
-##### Section 1 : Délivrance du visa d'exploitation cinématographique<a id=142></a>
+##### Section 1 : Délivrance du visa d'exploitation cinématographique<a id=141></a>
 
-##### Sous-section 1 : Demande de visa d'exploitation cinématographique<a id=143></a>
+##### Sous-section 1 : Demande de visa d'exploitation cinématographique<a id=142></a>
 
 ###### Article R211-1
 
@@ -9838,7 +9872,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L211-2 (V)
 
 
-##### Sous-section 2 : Rapport des comités de classification et avis de la commission de classification<a id=144></a>
+##### Sous-section 2 : Rapport des comités de classification et avis de la commission de classification<a id=143></a>
 
 ###### Article R211-4
 
@@ -10002,7 +10036,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Décision du ministre chargé de la culture<a id=145></a>
+##### Sous-section 3 : Décision du ministre chargé de la culture<a id=144></a>
 
 ###### Article D211-16
 
@@ -10207,7 +10241,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 2 : Obligations liées à la délivrance du visa d'exploitation cinématographique<a id=146></a>
+##### Section 2 : Obligations liées à la délivrance du visa d'exploitation cinématographique<a id=145></a>
 
 ###### Article R211-17
 
@@ -10421,9 +10455,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 3 : Organisation et fonctionnement des instances consultatives<a id=147></a>
+##### Section 3 : Organisation et fonctionnement des instances consultatives<a id=146></a>
 
-##### Sous-section 1 : Comités de classification<a id=148></a>
+##### Sous-section 1 : Comités de classification<a id=147></a>
 
 ###### Article R211-26
 
@@ -10484,9 +10518,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Commission de classification<a id=149></a>
+##### Sous-section 2 : Commission de classification<a id=148></a>
 
-##### Paragraphe 1 : Composition de la commission de classification<a id=150></a>
+##### Paragraphe 1 : Composition de la commission de classification<a id=149></a>
 
 ###### Article R211-29
 
@@ -10707,7 +10741,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 2 : Fonctionnement de la commission de classification<a id=151></a>
+##### Paragraphe 2 : Fonctionnement de la commission de classification<a id=150></a>
 
 ###### Article R211-36
 
@@ -10790,7 +10824,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Dispositions communes<a id=152></a>
+##### Sous-section 3 : Dispositions communes<a id=151></a>
 
 ###### Article D211-44
 
@@ -10918,9 +10952,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 4 : Dispositions particulières relatives à certaines représentations cinématographiques<a id=153></a>
+##### Section 4 : Dispositions particulières relatives à certaines représentations cinématographiques<a id=152></a>
 
-##### Sous-section 1 : Représentation cinématographique locale<a id=154></a>
+##### Sous-section 1 : Représentation cinématographique locale<a id=153></a>
 
 ###### Article R211-45
 
@@ -11009,7 +11043,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Représentation cinématographique d'une œuvre à caractère publicitaire dans un seul département<a id=155></a>
+##### Sous-section 2 : Représentation cinématographique d'une œuvre à caractère publicitaire dans un seul département<a id=154></a>
 
 ###### Article R211-48
 
@@ -11032,7 +11066,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Représentation cinématographique dans un établissement scolaire ou universitaire<a id=156></a>
+##### Sous-section 3 : Représentation cinématographique dans un établissement scolaire ou universitaire<a id=155></a>
 
 ###### Article R211-49
 
@@ -11057,11 +11091,11 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-#### Chapitre II : Secteur de l'exploitation cinématographique<a id=157></a>
+#### Chapitre II : Secteur de l'exploitation cinématographique<a id=156></a>
 
-##### Section 1 : Autorisation d'exercice de la profession d'exploitant d'établissement de spectacles cinématographiques<a id=158></a>
+##### Section 1 : Autorisation d'exercice de la profession d'exploitant d'établissement de spectacles cinématographiques<a id=157></a>
 
-##### Sous-section 1 : Autorisation d'exploiter au titre d'une salle<a id=159></a>
+##### Sous-section 1 : Autorisation d'exploiter au titre d'une salle<a id=158></a>
 
 ###### Article R212-1
 
@@ -11107,7 +11141,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R212-3 (M)
 
 
-##### Sous-section 2 : Autorisation d'exploiter sous la forme d'une activité itinérante<a id=160></a>
+##### Sous-section 2 : Autorisation d'exploiter sous la forme d'une activité itinérante<a id=159></a>
 
 ###### Article R212-2
 
@@ -11183,7 +11217,7 @@ _Cite_:
   - Code de commerce - art. R752-8
 
 
-##### Sous-section 3 : Dispositions communes<a id=161></a>
+##### Sous-section 3 : Dispositions communes<a id=160></a>
 
 ###### Article R212-4
 
@@ -11235,11 +11269,11 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-2 (V)
 
 
-##### Section 2 : Implantation et construction des établissements de spectacles cinématographiques<a id=162></a>
+##### Section 2 : Implantation et construction des établissements de spectacles cinématographiques<a id=161></a>
 
-##### Sous-section 1 : Commissions d'aménagement cinématographique<a id=163></a>
+##### Sous-section 1 : Commissions d'aménagement cinématographique<a id=162></a>
 
-##### Paragraphe 1 : Commission départementale d'aménagement cinématographique<a id=164></a>
+##### Paragraphe 1 : Commission départementale d'aménagement cinématographique<a id=163></a>
 
 ###### Article R212-6
 
@@ -11431,7 +11465,7 @@ _Créé par_:
   - Décret n°2015-268 du 10 mars 2015 - art. 3
 
 
-##### Paragraphe 2 : Commission nationale d'aménagement cinématographique<a id=165></a>
+##### Paragraphe 2 : Commission nationale d'aménagement cinématographique<a id=164></a>
 
 ###### Article R212-6-9
 
@@ -11509,9 +11543,9 @@ _Créé par_:
   - Décret n°2015-268 du 10 mars 2015 - art. 3
 
 
-##### Sous-section 2 :  Autorisation d'aménagement cinématographique<a id=166></a>
+##### Sous-section 2 :  Autorisation d'aménagement cinématographique<a id=165></a>
 
-##### Paragraphe 1 : Projets soumis à autorisation<a id=167></a>
+##### Paragraphe 1 : Projets soumis à autorisation<a id=166></a>
 
 ###### Article R212-7
 
@@ -11556,9 +11590,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R212-50 (V)
 
 
-##### Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique<a id=168></a>
+##### Paragraphe 2 : Décision de la commission départementale d'aménagement cinématographique<a id=167></a>
 
-##### Sous-Paragraphe 1 : Demande d'autorisation<a id=169></a>
+##### Sous-Paragraphe 1 : Demande d'autorisation<a id=168></a>
 
 ###### Article A212-7-3-1
 
@@ -11782,7 +11816,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-7-6
 
 
-##### Sous-Paragraphe 2 : Procédure d'autorisation<a id=170></a>
+##### Sous-Paragraphe 2 : Procédure d'autorisation<a id=169></a>
 
 ###### Article R212-7-8
 
@@ -12008,7 +12042,7 @@ _Créé par_:
   - Décret n°2015-268 du 10 mars 2015 - art. 3
 
 
-##### Sous-Paragraphe 3 : Dispositions diverses<a id=171></a>
+##### Sous-Paragraphe 3 : Dispositions diverses<a id=170></a>
 
 ###### Article R212-7-20
 
@@ -12046,9 +12080,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-7-18
 
 
-##### Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique<a id=172></a>
+##### Paragraphe 3 : Recours contre la décision de la commission départementale d'aménagement cinématographique<a id=171></a>
 
-##### Sous-Paragraphe 1 : Exercice du recours<a id=173></a>
+##### Sous-Paragraphe 1 : Exercice du recours<a id=172></a>
 
 ###### Article R212-7-21
 
@@ -12128,7 +12162,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-7-18
 
 
-##### Sous-Paragraphe 2 : Examen du recours<a id=174></a>
+##### Sous-Paragraphe 2 : Examen du recours<a id=173></a>
 
 ###### Article R212-7-25
 
@@ -12241,7 +12275,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-7-18
 
 
-##### Sous-section 3 : Dispositions diverses<a id=175></a>
+##### Sous-section 3 : Dispositions diverses<a id=174></a>
 
 ###### Article R212-8
 
@@ -12269,7 +12303,7 @@ _Cite_:
   - Code de l'urbanisme - art. R*510-6
 
 
-##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=176></a>
+##### Section 3 : Homologation des établissements de spectacles cinématographiques<a id=175></a>
 
 ###### Article R212-10
 
@@ -12380,7 +12414,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=177></a>
+##### Section 4 : Déplacement de séances de spectacles cinématographiques<a id=176></a>
 
 ###### Article D212-14
 
@@ -12474,9 +12508,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D212-14 (V)
 
 
-##### Section 5 : Groupements, ententes et engagements de programmation cinématographique<a id=178></a>
+##### Section 5 : Groupements, ententes et engagements de programmation cinématographique<a id=177></a>
 
-##### Sous-section 1 : Agrément des groupements et ententes de programmation<a id=179></a>
+##### Sous-section 1 : Agrément des groupements et ententes de programmation<a id=178></a>
 
 ###### Article R212-17
 
@@ -12500,7 +12534,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 1 : Conditions de l'agrément<a id=180></a>
+##### Paragraphe 1 : Conditions de l'agrément<a id=179></a>
 
 ###### Article R212-18
 
@@ -12616,7 +12650,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 2 : Délivrance de l'agrément<a id=181></a>
+##### Paragraphe 2 : Délivrance de l'agrément<a id=180></a>
 
 ###### Article R212-22
 
@@ -12800,9 +12834,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Engagements de programmation<a id=182></a>
+##### Sous-section 2 : Engagements de programmation<a id=181></a>
 
-##### Paragraphe 1 : Engagements de programmation soumis à homologation<a id=183></a>
+##### Paragraphe 1 : Engagements de programmation soumis à homologation<a id=182></a>
 
 ###### Article R212-30
 
@@ -13097,7 +13131,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-23 (VT)
 
 
-##### Paragraphe 2 : Projets de programmation valant engagements de programmation<a id=184></a>
+##### Paragraphe 2 : Projets de programmation valant engagements de programmation<a id=183></a>
 
 ###### Article R212-40
 
@@ -13223,9 +13257,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-40 (V)
 
 
-##### Section 6 : Formules d'accès au cinéma<a id=185></a>
+##### Section 6 : Formules d'accès au cinéma<a id=184></a>
 
-##### Sous-section 1 : Conditions de l'agrément<a id=186></a>
+##### Sous-section 1 : Conditions de l'agrément<a id=185></a>
 
 ###### Article R212-44
 
@@ -13428,7 +13462,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. R212-55 (V)
 
 
-##### Sous-section 2 : Demande d'agrément<a id=187></a>
+##### Sous-section 2 : Demande d'agrément<a id=186></a>
 
 ###### Article R212-51
 
@@ -13654,7 +13688,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R212-55 (V)
 
 
-##### Sous-section 3 : Retrait de l'agrément<a id=188></a>
+##### Sous-section 3 : Retrait de l'agrément<a id=187></a>
 
 ###### Article R212-66
 
@@ -13672,7 +13706,7 @@ _Modifié par_:
   - Décret n°2017-841 du 5 mai 2017 - art. 5
 
 
-##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=189></a>
+##### Section 7 : Contrôle des recettes d'exploitation cinématographique<a id=188></a>
 
 ###### Article D212-67
 
@@ -13716,9 +13750,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. D311-6 (V)
 
 
-##### Sous-section 1 : Délivrance des droits d'entrée dans les établissements de spectacles cinématographiques<a id=190></a>
+##### Sous-section 1 : Délivrance des droits d'entrée dans les établissements de spectacles cinématographiques<a id=189></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=191></a>
+##### Paragraphe 1 : Dispositions générales<a id=190></a>
 
 ###### Article D212-68
 
@@ -13824,7 +13858,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 2 : Dispositions particulières aux billets imprimerie<a id=192></a>
+##### Paragraphe 2 : Dispositions particulières aux billets imprimerie<a id=191></a>
 
 ###### Article D212-72
 
@@ -14040,9 +14074,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 3 : Dispositions particulières aux billets informatiques et aux droits d'entrée dématérialisés<a id=193></a>
+##### Paragraphe 3 : Dispositions particulières aux billets informatiques et aux droits d'entrée dématérialisés<a id=192></a>
 
-##### Sous-Paragraphe 1 : Caractéristiques et homologation des systèmes informatisés de billetterie<a id=194></a>
+##### Sous-Paragraphe 1 : Caractéristiques et homologation des systèmes informatisés de billetterie<a id=193></a>
 
 ###### Article D212-79
 
@@ -14077,7 +14111,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-Paragraphe 2 : Installation et utilisation des systèmes informatisés de billetterie<a id=195></a>
+##### Sous-Paragraphe 2 : Installation et utilisation des systèmes informatisés de billetterie<a id=194></a>
 
 ###### Article D212-80
 
@@ -14217,7 +14251,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 2 : Relevés des informations relatives aux recettes réalisées dans les établissements de spectacles cinématographiques<a id=196></a>
+##### Sous-section 2 : Relevés des informations relatives aux recettes réalisées dans les établissements de spectacles cinématographiques<a id=195></a>
 
 ###### Article D212-85
 
@@ -14329,7 +14363,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D212-85 (V)
 
 
-##### Sous-section 3 : Déclaration des recettes réalisées dans les établissements de spectacles cinématographiques<a id=197></a>
+##### Sous-section 3 : Déclaration des recettes réalisées dans les établissements de spectacles cinématographiques<a id=196></a>
 
 ###### Article D212-88
 
@@ -14415,9 +14449,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 8 : Etablissements de spectacles cinématographiques d'art et d'essai<a id=198></a>
+##### Section 8 : Etablissements de spectacles cinématographiques d'art et d'essai<a id=197></a>
 
-##### Sous-section 1 : Classement des établissements d'art et d'essai<a id=199></a>
+##### Sous-section 1 : Classement des établissements d'art et d'essai<a id=198></a>
 
 ###### Article D212-90
 
@@ -14588,7 +14622,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D212-92 (V)
 
 
-##### Sous-section 2 : Commission du cinéma d'art et d'essai<a id=200></a>
+##### Sous-section 2 : Commission du cinéma d'art et d'essai<a id=199></a>
 
 ###### Article D212-94
 
@@ -14712,9 +14746,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=201></a>
+#### Chapitre III : Rapports entre exploitants d'établissements de spectacles cinématographiques et distributeurs d'œuvres cinématographiques<a id=200></a>
 
-##### Section unique :  Médiateur du cinéma<a id=202></a>
+##### Section unique :  Médiateur du cinéma<a id=201></a>
 
 ###### Article R213-1
 
@@ -14987,11 +15021,11 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-#### Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée<a id=203></a>
+#### Chapitre III bis : Transparence des comptes de production et d'exploitation des œuvres cinématographiques de longue durée<a id=202></a>
 
-##### Section 1 : Transparence des comptes de production<a id=204></a>
+##### Section 1 : Transparence des comptes de production<a id=203></a>
 
-##### Sous-section unique : Audit des comptes de production<a id=205></a>
+##### Sous-section unique : Audit des comptes de production<a id=204></a>
 
 ###### Article D213-12
 
@@ -15009,9 +15043,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L213-27
 
 
-##### Section 2 :  Transparence des comptes d'exploitation<a id=206></a>
+##### Section 2 :  Transparence des comptes d'exploitation<a id=205></a>
 
-##### Sous-section 1 : Obligation des producteurs délégués<a id=207></a>
+##### Sous-section 1 : Obligation des producteurs délégués<a id=206></a>
 
 ###### Article D213-13
 
@@ -15029,7 +15063,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L213-32
 
 
-##### Sous-section 2 :  Audit des comptes d'exploitation<a id=208></a>
+##### Sous-section 2 :  Audit des comptes d'exploitation<a id=207></a>
 
 ###### Article D213-14
 
@@ -15065,9 +15099,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L213-36
 
 
-#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=209></a>
+#### Chapitre IV : Organisation de certaines séances de spectacles cinématographiques<a id=208></a>
 
-##### Section 1 : Dispositions relatives aux séances organisées exceptionnellement par les associations ou groupements à but non lucratif<a id=210></a>
+##### Section 1 : Dispositions relatives aux séances organisées exceptionnellement par les associations ou groupements à but non lucratif<a id=209></a>
 
 ###### Article D214-1
 
@@ -15162,7 +15196,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L411-1 (V)
 
 
-##### Section 2 : Dispositions relatives aux séances de ciné-club<a id=211></a>
+##### Section 2 : Dispositions relatives aux séances de ciné-club<a id=210></a>
 
 ###### Article D214-4
 
@@ -15258,7 +15292,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 3 : Dispositions relatives aux séances en plein air<a id=212></a>
+##### Section 3 : Dispositions relatives aux séances en plein air<a id=211></a>
 
 ###### Article D214-8
 
@@ -15331,7 +15365,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 4 : Dispositions communes<a id=213></a>
+##### Section 4 : Dispositions communes<a id=212></a>
 
 ###### Article D214-11
 
@@ -15367,9 +15401,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L214-7 (V)
 
 
-### Titre II : Édition vidéographique et services de médias audiovisuels à la demande<a id=214></a>
+### Titre II : Édition vidéographique et services de médias audiovisuels à la demande<a id=213></a>
 
-#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=215></a>
+#### Chapitre Ier : Déclaration d'activité des éditeurs de vidéogrammes<a id=214></a>
 
 ###### Article A221-3
 
@@ -15490,7 +15524,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=216></a>
+#### Chapitre II : Contrôle des recettes d'exploitation vidéographique<a id=215></a>
 
 ###### Article A222-2
 
@@ -15574,9 +15608,9 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=217></a>
+### Titre III : Chronologie de l'exploitation des oeuvres cinématographiques<a id=216></a>
 
-#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=218></a>
+#### Chapitre Ier : Exploitation sous forme de vidéogrammes<a id=217></a>
 
 ###### Article D231-1
 
@@ -15728,9 +15762,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L231-1 (V)
 
 
-### Titre IV : Dispositions diverses<a id=219></a>
+### Titre IV : Dispositions diverses<a id=218></a>
 
-#### Chapitre unique :  Obligation de dépôt légal<a id=220></a>
+#### Chapitre unique :  Obligation de dépôt légal<a id=219></a>
 
 ###### Article A241-2
 
@@ -15795,13 +15829,13 @@ _Cite_:
   - Code du patrimoine - art. R133-1 (V)
 
 
-### Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles<a id=221></a>
+### Titre V : Exercice des professions et activités de la production et de la distribution audiovisuelles<a id=220></a>
 
-#### Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles<a id=222></a>
+#### Chapitre unique : Transparence des comptes de production et d'exploitation des œuvres audiovisuelles<a id=221></a>
 
-##### Section 1 : Transparence des comptes de production<a id=223></a>
+##### Section 1 : Transparence des comptes de production<a id=222></a>
 
-##### Sous-section 1 : Obligation des producteurs délégués<a id=224></a>
+##### Sous-section 1 : Obligation des producteurs délégués<a id=223></a>
 
 ###### Article D251-1
 
@@ -15819,7 +15853,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L251-1
 
 
-##### Sous-section 2 :  Audit des comptes de production<a id=225></a>
+##### Sous-section 2 :  Audit des comptes de production<a id=224></a>
 
 ###### Article D251-2
 
@@ -15837,9 +15871,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L251-4
 
 
-##### Section 2 :  Transparence des comptes d'exploitation<a id=226></a>
+##### Section 2 :  Transparence des comptes d'exploitation<a id=225></a>
 
-##### Sous-section 1 : Obligation des producteurs délégués<a id=227></a>
+##### Sous-section 1 : Obligation des producteurs délégués<a id=226></a>
 
 ###### Article D251-3
 
@@ -15857,7 +15891,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L251-9
 
 
-##### Sous-section 2 :  Audit des comptes d'exploitation<a id=228></a>
+##### Sous-section 2 :  Audit des comptes d'exploitation<a id=227></a>
 
 ###### Article D251-4
 
@@ -15893,13 +15927,13 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L251-12
 
 
-## Livre III : Financement et fiscalité<a id=229></a>
+## Livre III : Financement et fiscalité<a id=228></a>
 
-### Titre Ier : Aides du centre national du cinéma et de l'image animée<a id=230></a>
+### Titre Ier : Aides du centre national du cinéma et de l'image animée<a id=229></a>
 
-#### Chapitre Ier : Dispositions générales<a id=231></a>
+#### Chapitre Ier : Dispositions générales<a id=230></a>
 
-##### Section 1 : Attribution des aides financières<a id=232></a>
+##### Section 1 : Attribution des aides financières<a id=231></a>
 
 ###### Article D311-1
 
@@ -16030,9 +16064,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 723-1 (V)
 
 
-##### Section 2 : Exclusion du bénéfice des aides financières<a id=233></a>
+##### Section 2 : Exclusion du bénéfice des aides financières<a id=232></a>
 
-##### Sous-section 1 : Exclusion des œuvres ou documents à caractère pornographique ou d'incitation à la violence<a id=234></a>
+##### Sous-section 1 : Exclusion des œuvres ou documents à caractère pornographique ou d'incitation à la violence<a id=233></a>
 
 ###### Article D311-4
 
@@ -16061,9 +16095,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 122-27 (V)
 
 
-##### Sous-section 2 : Exclusion des établissements de spectacles cinématographiques représentant des œuvres à caractère pornographique<a id=235></a>
+##### Sous-section 2 : Exclusion des établissements de spectacles cinématographiques représentant des œuvres à caractère pornographique<a id=234></a>
 
-##### Paragraphe 1 : Exclusion des établissements de spectacles cinématographiques spécialisés<a id=236></a>
+##### Paragraphe 1 : Exclusion des établissements de spectacles cinématographiques spécialisés<a id=235></a>
 
 ###### Article D311-5
 
@@ -16227,7 +16261,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-5 (V)
 
 
-##### Paragraphe 2 : Exclusion des établissements de spectacles cinématographiques non spécialisés<a id=237></a>
+##### Paragraphe 2 : Exclusion des établissements de spectacles cinématographiques non spécialisés<a id=236></a>
 
 ###### Article D311-11
 
@@ -16293,7 +16327,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L411-1 (V)
 
 
-#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=238></a>
+#### Chapitre II : Droits des créanciers privilégiés de la production cinématographique<a id=237></a>
 
 ###### Article D312-1
 
@@ -16345,9 +16379,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L312-2 (V)
 
 
-### Titre II : Aides des collectivités territoriales<a id=239></a>
+### Titre II : Aides des collectivités territoriales<a id=238></a>
 
-#### Chapitre unique :  Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=240></a>
+#### Chapitre unique :  Subventions aux exploitants d'établissements de spectacles cinématographiques<a id=239></a>
 
 ###### Article R321-1
 
@@ -16370,15 +16404,15 @@ _Cite_:
   - Code général des collectivités territoriales - art. R1511-40 (V)
 
 
-### Titre III : Incitations fiscales<a id=241></a>
+### Titre III : Incitations fiscales<a id=240></a>
 
-#### Chapitre Ier : Crédits d'impôt<a id=242></a>
+#### Chapitre Ier : Crédits d'impôt<a id=241></a>
 
-##### Section 1 : Crédit d'impôt pour dépenses de production déléguée d'œuvres cinématographiques ou audiovisuelles<a id=243></a>
+##### Section 1 : Crédit d'impôt pour dépenses de production déléguée d'œuvres cinématographiques ou audiovisuelles<a id=242></a>
 
-##### Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles<a id=244></a>
+##### Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles<a id=243></a>
 
-##### Paragraphe 1 : Conditions relatives à l'entreprise de production<a id=245></a>
+##### Paragraphe 1 : Conditions relatives à l'entreprise de production<a id=244></a>
 
 ###### Article D331-1
 
@@ -16419,7 +16453,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. D331-5 (V)
 
 
-##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=246></a>
+##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=245></a>
 
 ###### Article D331-2
 
@@ -16583,9 +16617,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-1 (V)
 
 
-##### Sous-section 2 : Délivrance des agréments<a id=247></a>
+##### Sous-section 2 : Délivrance des agréments<a id=246></a>
 
-##### Paragraphe 1 : Comité d'experts<a id=248></a>
+##### Paragraphe 1 : Comité d'experts<a id=247></a>
 
 ###### Article A331-7
 
@@ -16681,7 +16715,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 sexies (V)
 
 
-##### Paragraphe 2 : Agrément provisoire<a id=249></a>
+##### Paragraphe 2 : Agrément provisoire<a id=248></a>
 
 ###### Article D331-10
 
@@ -16778,7 +16812,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-11 (V)
 
 
-##### Paragraphe 3 : Agrément définitif<a id=250></a>
+##### Paragraphe 3 : Agrément définitif<a id=249></a>
 
 ###### Article D331-13
 
@@ -16901,7 +16935,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Paragraphe 4 : Dispositions relatives aux œuvres cinématographiques ou audiovisuelles difficiles et à petit budget<a id=251></a>
+##### Paragraphe 4 : Dispositions relatives aux œuvres cinématographiques ou audiovisuelles difficiles et à petit budget<a id=250></a>
 
 ###### Article D331-17
 
@@ -16939,7 +16973,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 sexies (V)
 
 
-##### Sous-section 3 : Dépenses de production éligibles<a id=252></a>
+##### Sous-section 3 : Dépenses de production éligibles<a id=251></a>
 
 ###### Article D331-18
 
@@ -16962,11 +16996,11 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YL (V)
 
 
-##### Section 2 : Crédit d'impôt pour dépenses de création de jeux vidéo<a id=253></a>
+##### Section 2 : Crédit d'impôt pour dépenses de création de jeux vidéo<a id=252></a>
 
-##### Sous-section 1 : Jeux vidéo éligibles<a id=254></a>
+##### Sous-section 1 : Jeux vidéo éligibles<a id=253></a>
 
-##### Paragraphe 1 : Conditions relatives à l'entreprise de jeux vidéo et aux jeux vidéo<a id=255></a>
+##### Paragraphe 1 : Conditions relatives à l'entreprise de jeux vidéo et aux jeux vidéo<a id=254></a>
 
 ###### Article D331-19
 
@@ -17045,7 +17079,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 terdecies (V)
 
 
-##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=256></a>
+##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=255></a>
 
 ###### Article D331-22
 
@@ -17240,9 +17274,9 @@ _Créé par_:
   - Décret n°2015-722 du 23 juin 2015 - art. 4
 
 
-##### Sous-section 2 : Délivrance des agréments<a id=257></a>
+##### Sous-section 2 : Délivrance des agréments<a id=256></a>
 
-##### Paragraphe 1 : Comité d'experts<a id=258></a>
+##### Paragraphe 1 : Comité d'experts<a id=257></a>
 
 ###### Article A331-27
 
@@ -17333,7 +17367,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 terdecies (V)
 
 
-##### Paragraphe 2 : Agrément provisoire<a id=259></a>
+##### Paragraphe 2 : Agrément provisoire<a id=258></a>
 
 ###### Article D331-30
 
@@ -17442,7 +17476,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-31 (V)
 
 
-##### Paragraphe 3 : Agrément définitif<a id=260></a>
+##### Paragraphe 3 : Agrément définitif<a id=259></a>
 
 ###### Article D331-33
 
@@ -17573,7 +17607,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Dépenses de création éligibles<a id=261></a>
+##### Sous-section 3 : Dépenses de création éligibles<a id=260></a>
 
 ###### Article D331-37
 
@@ -17595,11 +17629,11 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 YZG (V)
 
 
-##### Section 3 : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques ou audiovisuelles étrangères<a id=262></a>
+##### Section 3 : Crédit d'impôt pour dépenses de production exécutive d'œuvres cinématographiques ou audiovisuelles étrangères<a id=261></a>
 
-##### Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles<a id=263></a>
+##### Sous-section 1 : Œuvres cinématographiques ou audiovisuelles éligibles<a id=262></a>
 
-##### Paragraphe 1 : Conditions relatives aux entreprises de production et aux œuvres cinématographiques ou audiovisuelles<a id=264></a>
+##### Paragraphe 1 : Conditions relatives aux entreprises de production et aux œuvres cinématographiques ou audiovisuelles<a id=263></a>
 
 ###### Article D331-38
 
@@ -17666,7 +17700,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-58 (V)
 
 
-##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=265></a>
+##### Paragraphe 2 : Conditions relatives aux modalités de création<a id=264></a>
 
 ###### Article D331-40
 
@@ -17729,7 +17763,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-Paragraphe 1 : Barème de points des œuvres appartenant au genre de la fiction<a id=266></a>
+##### Sous-Paragraphe 1 : Barème de points des œuvres appartenant au genre de la fiction<a id=265></a>
 
 ###### Article D331-42
 
@@ -17920,7 +17954,7 @@ _Modifié par_:
   - Décret n°2014-1749 du 30 décembre 2014 - art. 1
 
 
-##### Sous-Paragraphe 2 : Barème de points des œuvres appartenant au genre de l'animation<a id=267></a>
+##### Sous-Paragraphe 2 : Barème de points des œuvres appartenant au genre de l'animation<a id=266></a>
 
 ###### Article D331-47
 
@@ -18102,9 +18136,9 @@ _Modifié par_:
   - Décret n°2014-1749 du 30 décembre 2014 - art. 1
 
 
-##### Sous-section 2 : Délivrance des agréments<a id=268></a>
+##### Sous-section 2 : Délivrance des agréments<a id=267></a>
 
-##### Paragraphe 1 : Comité d'experts<a id=269></a>
+##### Paragraphe 1 : Comité d'experts<a id=268></a>
 
 ###### Article A331-53
 
@@ -18212,7 +18246,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 220 quaterdecies (VT)
 
 
-##### Paragraphe 2 : Agrément provisoire<a id=270></a>
+##### Paragraphe 2 : Agrément provisoire<a id=269></a>
 
 ###### Article D331-57
 
@@ -18327,7 +18361,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-58 (V)
 
 
-##### Paragraphe 3 : Agrément définitif<a id=271></a>
+##### Paragraphe 3 : Agrément définitif<a id=270></a>
 
 ###### Article D331-60
 
@@ -18449,7 +18483,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D331-61 (V)
 
 
-##### Paragraphe 4 : Dispositions diverses<a id=272></a>
+##### Paragraphe 4 : Dispositions diverses<a id=271></a>
 
 ###### Article D331-63
 
@@ -18472,7 +18506,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Dépenses de production éligibles<a id=273></a>
+##### Sous-section 3 : Dépenses de production éligibles<a id=272></a>
 
 ###### Article D331-64
 
@@ -18495,9 +18529,9 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quater-0 ZY bis (V)
 
 
-#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=274></a>
+#### Chapitre II : Financement en capital d'œuvres cinématographiques ou audiovisuelles<a id=273></a>
 
-##### Section 1 : Société de financement de l'industrie cinématographique et audiovisuelle<a id=275></a>
+##### Section 1 : Société de financement de l'industrie cinématographique et audiovisuelle<a id=274></a>
 
 ###### Article D332-1
 
@@ -18519,7 +18553,7 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 quindecies A (V)
 
 
-##### Section 2 : Agrément des œuvres<a id=276></a>
+##### Section 2 : Agrément des œuvres<a id=275></a>
 
 ###### Article D332-2
 
@@ -18637,7 +18671,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 238 bis HG (V)
 
 
-#### Chapitre III : Déductions fiscales et réductions d'impôts au titre des investissements outre-mer<a id=277></a>
+#### Chapitre III : Déductions fiscales et réductions d'impôts au titre des investissements outre-mer<a id=276></a>
 
 ###### Article A333-2
 
@@ -18690,9 +18724,9 @@ _Cite_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 95 S (V)
 
 
-#### Chapitre VI : Dispositions diverses<a id=278></a>
+#### Chapitre VI : Dispositions diverses<a id=277></a>
 
-##### Section 1 : Prélèvement spécial sur les œuvres à caractère pornographique ou d'incitation à la violence<a id=279></a>
+##### Section 1 : Prélèvement spécial sur les œuvres à caractère pornographique ou d'incitation à la violence<a id=278></a>
 
 ###### Article D336-1
 
@@ -18716,7 +18750,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 1605 sexies (V)
 
 
-##### Section 2 : Taxe sur les ventes et locations de vidéogrammes<a id=280></a>
+##### Section 2 : Taxe sur les ventes et locations de vidéogrammes<a id=279></a>
 
 ###### Article D336-2
 
@@ -18738,11 +18772,11 @@ _Cite_:
   - Code général des impôts, annexe 3, CGIAN3. - art. 331 M bis (V)
 
 
-## Livre IV : Contrôles et sanctions<a id=281></a>
+## Livre IV : Contrôles et sanctions<a id=280></a>
 
-### Titre Ier : Procédures de contrôle<a id=282></a>
+### Titre Ier : Procédures de contrôle<a id=281></a>
 
-#### Chapitre Ier : Compétence des agents de contrôle<a id=283></a>
+#### Chapitre Ier : Compétence des agents de contrôle<a id=282></a>
 
 ###### Article R411-1
 
@@ -18882,7 +18916,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R411-1 (V)
 
 
-#### Chapitre II : Prérogatives et moyens d'intervention<a id=284></a>
+#### Chapitre II : Prérogatives et moyens d'intervention<a id=283></a>
 
 ###### Article R412-1
 
@@ -18980,7 +19014,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L412-3 (V)
 
 
-#### Chapitre IV : Constatation des manquements et des infractions<a id=285></a>
+#### Chapitre IV : Constatation des manquements et des infractions<a id=284></a>
 
 ###### Article R414-1
 
@@ -19049,9 +19083,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L414-2 (V)
 
 
-### Titre II : Sanctions administratives<a id=286></a>
+### Titre II : Sanctions administratives<a id=285></a>
 
-#### Chapitre Ier : Champ d'application<a id=287></a>
+#### Chapitre Ier : Champ d'application<a id=286></a>
 
 ###### Article R421-1
 
@@ -19095,9 +19129,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L422-1 (V)
 
 
-#### Chapitre III : Décisions de sanction<a id=288></a>
+#### Chapitre III : Décisions de sanction<a id=287></a>
 
-##### Section 1 : Commission du contrôle de la réglementation<a id=289></a>
+##### Section 1 : Commission du contrôle de la réglementation<a id=288></a>
 
 ###### Article R423-1
 
@@ -19366,7 +19400,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 2 : Procédure de sanction<a id=290></a>
+##### Section 2 : Procédure de sanction<a id=289></a>
 
 ###### Article R423-9
 
@@ -19529,7 +19563,7 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Section 3 : Sanction, voie de recours et publication<a id=291></a>
+##### Section 3 : Sanction, voie de recours et publication<a id=290></a>
 
 ###### Article R423-16
 
@@ -19603,11 +19637,11 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. A112-36 (V)
 
 
-### Titre III : Dispositions pénales<a id=292></a>
+### Titre III : Dispositions pénales<a id=291></a>
 
-#### Chapitre II : Infractions aux dispositions relatives au visa d'exploitation cinématographique<a id=293></a>
+#### Chapitre II : Infractions aux dispositions relatives au visa d'exploitation cinématographique<a id=292></a>
 
-##### Section 1 : Infractions aux obligations d'information du public concernant les interdictions aux mineurs<a id=294></a>
+##### Section 1 : Infractions aux obligations d'information du public concernant les interdictions aux mineurs<a id=293></a>
 
 ###### Article R432-1
 
@@ -19658,7 +19692,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R211-20 (V)
 
 
-##### Section 2 : Infractions aux obligations de contrôle de l'accès des mineurs aux salles de spectacles cinématographiques<a id=295></a>
+##### Section 2 : Infractions aux obligations de contrôle de l'accès des mineurs aux salles de spectacles cinématographiques<a id=294></a>
 
 ###### Article R432-3
 
@@ -19719,7 +19753,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R432-3 (V)
 
 
-#### Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques<a id=296></a>
+#### Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques<a id=295></a>
 
 ###### Article R434-1
 
@@ -19745,11 +19779,11 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-7
 
 
-# Annexe : RÈGLEMENT GÉNÉRAL DES AIDES FINANCIÈRES DU CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE ANIMÉE<a id=297></a>
+# Annexe : RÈGLEMENT GÉNÉRAL DES AIDES FINANCIÈRES DU CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE ANIMÉE<a id=296></a>
 
-## Livre Ier : Dispositions générales<a id=298></a>
+## Livre Ier : Dispositions générales<a id=297></a>
 
-### Titre Ier : Objet et champ d'application<a id=299></a>
+### Titre Ier : Objet et champ d'application<a id=298></a>
 
 ###### Article 110-1
 
@@ -19770,7 +19804,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L112-2 (V)
 
 
-#### Chapitre Ier : Aides financières encadrées<a id=300></a>
+#### Chapitre Ier : Aides financières encadrées<a id=299></a>
 
 ###### Article 111-1
 
@@ -19812,7 +19846,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre II : Aides financières facultatives<a id=301></a>
+#### Chapitre II : Aides financières facultatives<a id=300></a>
 
 ###### Article 112-1
 
@@ -19844,7 +19878,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 431-4 (V)
 
 
-#### Chapitre III : Dotations financières<a id=302></a>
+#### Chapitre III : Dotations financières<a id=301></a>
 
 ###### Article 113-1
 
@@ -19882,11 +19916,11 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-### Titre II : Règles générales d'attribution<a id=303></a>
+### Titre II : Règles générales d'attribution<a id=302></a>
 
-#### Chapitre Ier : Dispositions applicables à l'ensemble des aides financières<a id=304></a>
+#### Chapitre Ier : Dispositions applicables à l'ensemble des aides financières<a id=303></a>
 
-##### Section 1 : Décisions d'attribution des aides financières<a id=305></a>
+##### Section 1 : Décisions d'attribution des aides financières<a id=304></a>
 
 ###### Article 121-1
 
@@ -19904,7 +19938,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. R112-23 (V)
 
 
-##### Section 2 : Déchéance des aides financières<a id=306></a>
+##### Section 2 : Déchéance des aides financières<a id=305></a>
 
 ###### Article 121-2
 
@@ -19976,6 +20010,69 @@ l'image animée et sur demande du bénéficiaire justifiant les raisons de cet a
 _Créé par_:
 
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+
+
+##### Section 3 : Contreparties aux aides financières<a id=306></a>
+
+###### Article 121-6
+
+L'attribution des aides financières du Centre national du cinéma et de l'image animée est subordonnée, dans l'intérêt
+général, à des contreparties de la part des bénéficiaires de ces aides dont l'objet exclusif est de promouvoir et faire
+connaître le Centre national du cinéma et de l'image animée, ses missions, ses dispositifs de soutien, ainsi que les œuvres
+et projets qui ont bénéficié desdites aides.
+
+La nature ainsi que les conditions et limites de ces contreparties sont fixées ci-après :
+
+1° En contrepartie des aides financières à la création et à la diffusion, les bénéficiaires cèdent au Centre national du
+cinéma et de l'image animée, à titre gratuit et non exclusif, dans la limite des droits d'exploitation dont ils sont
+titulaires, les droits de reproduction et de représentation, sur tout support, des éléments suivants :
+
+a) Extraits des œuvres cinématographiques, audiovisuelles ou multimédia, ainsi que la musique originale et des bonus qui les
+accompagnent, d'une durée maximum de deux minutes ;
+
+b) Bandes-annonces, affiches, photographies notamment de tournage ou photogrammes des œuvres cinématographiques,
+audiovisuelles ou multimédia ainsi que toute autre forme de matériel publicitaire ;
+
+c) Scénarios des œuvres cinématographiques, audiovisuelles ou multimédia ou, selon le genre auquel appartiennent ces œuvres,
+tous documents analogues ou en tenant lieu ;
+
+2° En contrepartie des aides financières à la modernisation des industries techniques et à l'innovation technologique, les
+bénéficiaires remettent au Centre national du cinéma et de l'image animée une présentation vidéo du projet réalisé dont ils
+lui cèdent, à titre gratuit et non exclusif, dans la limite des droits d'exploitation dont ils sont titulaires, les droits de
+reproduction et de représentation sur tout support.
+
+3° En contrepartie des aides financières attribuées afin de soutenir des actions ou projets d'intérêt général ou collectif,
+ou l'activité globale d'organismes de droit public ou de droit privé dans le domaine du cinéma et des autres arts et
+industries de l'image animée, les bénéficiaires remettent au Centre national du cinéma et de l'image animée une présentation
+vidéo de l'action ou du projet réalisé ou des photographies des opérations menées, ainsi que toute forme de matériel
+publicitaire, dont ils lui cèdent, à titre gratuit et non exclusif, dans la limite des droits d'exploitation dont ils sont
+titulaires, les droits de reproduction et de représentation sur tout support.
+
+4° Les bénéficiaires autorisent le Centre national du cinéma et de l'image animée à incorporer tout ou partie des éléments
+mentionnés aux 1°, 2° et 3°, sous réserve du respect du droit moral de l'auteur, dans une œuvre ou un document répondant à
+l'objet exclusif mentionné au premier alinéa.
+
+5° Les bénéficiaires remettent au Centre national du cinéma et de l'image animée, selon les procédures qu'il institue, un
+formulaire établi par ce dernier, dûment complété et signé, indiquant les caractéristiques des éléments cédés et délimitant
+l'étendue, la destination, le lieu et la durée de la cession.
+
+A la demande du Centre national du cinéma et de l'image animée, les bénéficiaires lui donnent accès aux éléments matériels
+correspondant aux droits cédés.
+
+Le Centre national du cinéma et de l'image animée veille à ce que la mise en œuvre des droits cédés n'entrave pas
+l'exploitation normale des œuvres ou des projets qui ont bénéficié des aides. Il veille notamment au respect du secret en
+matière industrielle et commerciale et au respect de la propriété intellectuelle.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2017/CA/23, ces dispositions s'appliquent aux demandes d'aides adressées au
+Centre national du cinéma et de l'image animée à compter du 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/23 - art. 2, v. init.
 
 
 #### Chapitre II : Dispositions applicables aux aides financières encadrées<a id=307></a>
@@ -20839,6 +20936,25 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 211-6 (V)
 
 
+###### Article 211-7-1
+
+I. - On entend par œuvre cinématographique “d'initiative française” :
+
+1° Une œuvre produite uniquement par une ou plusieurs entreprises de production établies en France ;
+
+2° Une œuvre produite dans le cadre d'une coproduction internationale dans laquelle la participation française au financement
+est la plus importante et pour laquelle les droits d'exploitation de l'œuvre originaire ou du scénario ont été acquis par une
+ou plusieurs entreprises de production déléguées établies en France.
+
+II. - On entend par œuvre cinématographique “d'initiative étrangère” une œuvre qui ne répond pas aux conditions prévues au I.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 2, v. init.
+
+
 ##### Paragraphe 2 : Conditions particulières<a id=332></a>
 
 ###### Article 211-8
@@ -20857,181 +20973,225 @@ _Créé par_:
 
 ###### Article 211-9
 
-Pour les œuvres cinématographiques appartenant au genre fiction, les points sont répartis entre sept groupes, dans les
-conditions suivantes : 
+Pour les œuvres cinématographiques appartenant au genre fiction, les points sont répartis entre cinq groupes, dans les
+conditions suivantes :
 
-I.-Groupe " Entreprise de production ". 
+I. - Groupe Langue de tournage 
 
-1° Il est affecté au groupe " Entreprise de production " un nombre total de 10 points. 
+1° Il est affecté au groupe “Langue de tournage” un nombre maximal de 20 points.
 
-2° Ces points ne sont obtenus que si l'œuvre cinématographique considérée est produite par au moins une entreprise de
-production qui satisfait aux conditions prévues à l'article 211-3. 
+2° Les points sont obtenus dans les conditions suivantes :
 
-II.-Groupe " Langue de tournage ". 
+a) 20 points lorsque l'œuvre cinématographique est réalisée intégralement en version originale en langue française ou dans
+une langue régionale en usage en France ou, si au moins deux langues différentes sont employées, lorsque la langue française
+ou une langue régionale en usage en France est la langue la plus utilisée ;
 
-1° Il est affecté au groupe " Langue de tournage " un nombre total de 20 points. 
+b) 10 points lorsqu'une langue étrangère est la langue la plus utilisée pour des raisons artistiques tenant au scénario mais
+que la langue française ou une langue régionale en usage en France est employée pour au moins un tiers de la durée des
+dialogues et, le cas échéant, de la voix off.
 
-2° Ces points ne sont obtenus que si l'œuvre cinématographique considérée est réalisée intégralement ou principalement en
-version originale en langue française ou dans une langue régionale en usage en France. 
+c) 20 points lorsque l'œuvre cinématographique est tirée d'un opéra et réalisée dans la langue du livret.
 
-3° Ces points sont réputés obtenus lorsque l'œuvre cinématographique est une œuvre cinématographique de fiction tirée d'un
-opéra et réalisée dans la langue du livret. 
+II. - Groupe “Entreprise de production et auteurs”
 
-III.-Groupe " Auteurs ". 
+A. - Il est affecté au groupe “Entreprise de production et auteurs” un nombre maximal de 20 points repartis entre les deux
+sous-groupes suivants :
 
-1° Il est affecté au groupe " Auteurs " un nombre total de 10 points répartis entre les postes suivants : 
+1° Sous-groupe “Entreprise de production” :
 
-a) Réalisateur : 5 points ; 
+a) Il est affecté au sous-groupe “Entreprise de production” un nombre de 9 points.
 
-b) Auteurs de l'œuvre originaire, du scénario, de l'adaptation et du texte parlé : 4 points ; 
+b) Les points sont obtenus si l'œuvre cinématographique est produite par au moins une entreprise de production qui satisfait
+aux conditions prévues à l'article 211-3.
 
-c) Auteur des compositions musicales avec ou sans paroles spécialement réalisées pour l'œuvre : 1 point. 
+2° Sous-groupe “Auteurs” :
 
-2° Les points relevant du poste " Réalisateur " ne sont obtenus que si, pour l'œuvre cinématographique considérée, sont
-satisfaites les conditions suivantes : 
+a) Il est affecté au sous-groupe “Auteurs” un nombre maximal de 11 points répartis entre les postes suivants :
 
-a) Le contrat de production audiovisuelle conclu avec le réalisateur désigne la loi française comme loi applicable ; 
+- Réalisateur : 5 points ;
 
-b) Le contrat de travail conclu avec le réalisateur en complément du contrat de production audiovisuelle désigne la loi
-française comme loi applicable. 
+- Auteurs de l'œuvre originaire, du scénario, de l'adaptation et du texte parlé : 5 points ;
 
-3° Les points relevant des postes autres que le poste " Réalisateur " ne sont obtenus que si, pour l'œuvre cinématographique
-considérée, le contrat de production audiovisuelle conclu avec chacun des auteurs concernés désigne la loi française comme
-loi applicable. 
+- Auteur des compositions musicales avec ou sans paroles spécialement réalisées pour l'œuvre : 1 point.
 
-4° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française. 
+b) Les points sont obtenus si les conditions suivantes sont remplies :
 
-IV.-Groupe " Artistes-interprètes ". 
+- Le réalisateur et les autres auteurs sont soit de nationalité française, soit ressortissants d'un Etat membre de l'Union
+européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention européenne
+sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de l'Europe
+ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur
+audiovisuel.
 
-1° Il est affecté au groupe " Artistes-interprètes " un nombre total de 20 points répartis entre les postes suivants : 
+Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
+document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen, sont assimilés aux citoyens français.
 
-a) Artistes-interprètes assurant les rôles principaux : 10 points ; 
+Par dérogation et après avis de la commission d'agrément, pour les œuvres cinématographiques d'initiative française, les
+étrangers autres que les ressortissants des Etats européens précités et qui ne sont pas titulaires de la carte ou du document
+mentionnés à l'alinéa précédent sont assimilés aux citoyens français dès lors que l'entreprise de production qui satisfait
+aux conditions prévues à l'article 211-3 est à l'initiative de l'œuvre cinématographique ;
 
-b) Artistes-interprètes assurant les rôles secondaires : 10 points. 
+- En ce qui concerne le réalisateur, le contrat de production audiovisuelle et le contrat de travail désignent la loi
+française comme loi applicable ;
 
-2° Ces points ne sont obtenus que si, pour l'œuvre cinématographique considérée, sont satisfaites les conditions suivantes : 
+- En ce qui concerne les autres auteurs, le contrat de production audiovisuelle désigne la loi française comme loi
+applicable.
+
+c) Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
+techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française.
+
+III. - Groupe “Artistes-interprètes”
+
+1° Il est affecté au groupe “Artistes-interprètes” un nombre maximal de 20 points.
+
+2° Le nombre de points obtenu est déterminé en fonction du rapport entre :
+
+- D'une part, le nombre de cachets perçus par les artistes-interprètes assurant des rôles donnant lieu à au moins trois
+cachets, pris en compte dans les conditions prévues au 3° ;
+
+- D'autre part, le nombre total de cachets perçus par l'ensemble des artistes-interprètes assurant des rôles donnant lieu à
+au moins trois cachets.
+
+3° Les artistes-interprètes sont pris en compte si les conditions suivantes sont remplies :
 
 a) Les artistes-interprètes sont, soit de nationalité française, soit ressortissants d'un Etat membre de l'Union européenne,
 d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention européenne sur la
 télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un
-Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. 
+Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
+économique européen, sont assimilés aux citoyens français ;
 
-b) Le contrat conclu avec les artistes-interprètes désigne la loi française comme loi applicable. 
+b) Le contrat conclu avec les artistes-interprètes désigne la loi française comme loi applicable.
 
-3° Sont considérés comme rôles principaux les rôles pour lesquels la présence à l'écran des artistes-interprètes est requise
-pour la moitié au moins des scènes de l'œuvre cinématographique et comme rôles secondaires les rôles d'au moins quatre
-cachets. 
+4° Les points sont réputés obtenus en totalité lorsque, pour des raisons artistiques ou techniques justifiées, soit il n'est
+fait appel à aucun artiste-interprète soit il est uniquement fait appel à des artistes-interprètes assurant des rôles donnant
+lieu à moins de trois cachets, pour les œuvres cinématographiques d'initiative française.
 
-4° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française. 
+IV. - Groupe “Techniciens et ouvriers”
 
-V.-Groupe " Techniciens collaborateurs de création ". 
+A. - Il est affecté au groupe “Techniciens et ouvriers” un nombre maximal de 20 points répartis entre les deux sous-groupes
+suivants :
 
-1° Il est affecté au groupe " Techniciens collaborateurs de création " un nombre total de 14 points répartis entre les postes
-suivants : 
+1° Sous-groupe “Techniciens cadres collaborateurs de création” :
 
-a) Techniciens de la branche de la réalisation autres que le réalisateur : 2 points ; 
+a) Il est affecté au sous-groupe “Techniciens cadres collaborateurs de création” un nombre maximal de 9 points répartis entre
+les postes suivants :
 
-b) Techniciens de la branche de l'administration et de la régie : 2 points ; 
+- Directeur de production : 1,5 point ;
 
-c) Techniciens de la branche de la prise de vues : 3 points ; 
+- Directeur de la photographie : 1,5 point ;
 
-d) Techniciens de la branche de la décoration : 2 points ; 
+- Chef opérateur du son : 1,5 point ;
 
-e) Techniciens de la branche du son : 2 points ; 
+- Créateur de costumes ou à défaut chef costumier : 1,5 point ;
 
-f) Techniciens de la branche du montage : 2 points ; 
+- Chef décorateur ou à défaut ensemblier décorateur : 1,5 point ;
 
-g) Techniciens de la branche du maquillage : 1 point. 
+- Chef monteur image : 1,5 point ;
 
-2° Ces points ne sont obtenus que si, pour l'œuvre cinématographique considérée, sont satisfaites les conditions suivantes : 
+b) Les points sont obtenus si les conditions suivantes sont remplies :
 
-a) Les techniciens collaborateurs de création sont, soit de nationalité française, soit ressortissants d'un Etat membre de
-l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention
+- Les techniciens cadres collaborateurs de création sont, soit de nationalité française, soit ressortissants d'un Etat membre
+de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention
 européenne sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de
 l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au
-secteur audiovisuel. 
+secteur audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
+économique européen, sont assimilés aux citoyens français ;
 
-b) Le contrat conclu avec les techniciens collaborateurs désigne la loi française comme loi applicable. 
+- Le contrat conclu avec les techniciens cadres collaborateurs de création désigne la loi française comme loi applicable.
 
-3° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française. 
+c) Tout point relevant d'un poste auquel il n'est pas fait appel pour des raisons artistiques ou techniques justifiées est
+réputé obtenu pour les œuvres cinématographiques d'initiative française.
 
-VI.-Groupe " Ouvriers ". 
+2° Sous-groupe “Ouvriers, techniciens cadres et non cadres” :
 
-1° Il est affecté au groupe " Ouvriers " un nombre total de 6 points répartis entre les postes suivants : 
+a) Il est affecté au sous-groupe “Ouvriers, techniciens cadres et non cadres” un nombre maximal de 11 points.
 
-a) Ouvriers de l'équipe de tournage : 4 points ; 
+b) Le nombre de points obtenu est déterminé en fonction du rapport entre :
 
-b) Ouvriers de l'équipe de construction : 2 points. 
+- D'une part, le montant des rémunérations, charges sociales comprises, des ouvriers et des techniciens cadres et non cadres,
+pris en compte dans les conditions prévues au c ;
 
-2° Ces points ne sont obtenus que si, pour l'œuvre cinématographique considérée, sont satisfaites les conditions suivantes : 
+- D'autre part, le montant total des rémunérations, charges sociales comprises, de l'ensemble des ouvriers et des techniciens
+cadres et non cadres.
 
-a) Les ouvriers sont, soit de nationalité française, soit ressortissants d'un Etat membre de l'Union européenne, d'un autre
-Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention européenne sur la télévision
-transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un Etat tiers
-européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. 
+c) Les ouvriers et les techniciens cadres et non cadres sont pris en compte si les conditions suivantes sont remplies :
+
+- Les ouvriers et les techniciens cadres et non cadres sont, soit de nationalité française, soit ressortissants d'un Etat
+membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la
+Convention européenne sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du
+Conseil de l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant
+trait au secteur audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
+économique européen, sont assimilés aux citoyens français ;
 
-b) Le contrat conclu avec les ouvriers désigne la loi française comme loi applicable. 
+- Le contrat conclu avec les ouvriers et les techniciens cadres et non cadres désigne la loi française comme loi applicable.
 
-3° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française. 
+d) Les points sont réputés obtenus en totalité lorsque, pour des raisons artistiques ou techniques justifiées, il n'est fait
+appel à aucun ouvrier ni à aucun technicien cadre et non cadre, pour les œuvres cinématographiques d'initiative française.
 
-VII.-Groupe " Tournage et post-production ". 
+V. - Groupe “Tournage et postproduction”
 
-1° Il est affecté au groupe " Tournage et post-production " un nombre total de 20 points répartis entre les postes
-suivants : 
+A. - Il est affecté au groupe “Tournage et postproduction” un nombre maximal de 20 points répartis entre les trois sous-
+groupes suivants :
 
-a) Localisation des éléments de tournage : 5 points, dont 3 points pour les lieux de tournage et 2 points pour le laboratoire
-de tournage. 
+1° Sous-groupe “Lieux de tournage” :
 
-Si une partie du tournage est effectuée à l'étranger et n'est pas justifiée par des raisons artistiques, les points relevant
-de ce poste ne sont pas obtenus. En ce qui concerne les laboratoires de tournage figurant au même poste, si l'entreprise
-chargée d'exécuter la prestation n'est pas établie en France mais dans le pays où le tournage est effectué, les points
-peuvent, par dérogation, être obtenus pour les œuvres cinématographiques d'initiative française dès lors que des raisons
-techniques le justifient ; 
+a) Il est affecté au sous-groupe “Lieux de tournage” un nombre de 5 points.
 
-b) Matériels techniques de tournage : 5 points, dont 2 points pour l'équipement de prise de vues, 2 points pour l'éclairage
-et 1 point pour la machinerie ; 
+b) Les points sont obtenus si le tournage est effectué en France. Si une partie du tournage est effectuée à l'étranger et
+n'est pas justifiée par des raisons artistiques tenant au scénario, les points ne sont pas obtenus.
 
-c) Entreprises de post-production son : 5 points. Ces points concernent les mixages relatifs à la version originale de
-l'œuvre cinématographique ; 
+2° Sous-groupe “Matériels techniques de tournage” :
 
-d) Entreprises de post-production image : 5 points. Ces points concernent les travaux effectués en laboratoires. 
+a) Il est affecté au sous-groupe “Matériels techniques de tournage” un nombre maximal de 4,5 points repartis entre les postes
+suivants :
 
-2° Ces points ne sont obtenus que si, pour l'œuvre cinématographique considérée, les entreprises chargées de l'exécution des
-prestations se rapportant à chacun des postes précités sont établies en France. 
+- Prises de vues : 2 points ;
 
-3° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française.
+- Eclairage : 1,5 point ;
+
+- Machinerie et autres matériels : 1 point.
+
+b) Les points sont obtenus si au moins 50 % des dépenses se rapportant à chaque poste concerné correspondent à des
+prestations effectuées par des entreprises établies en France.
+
+3° Sous-groupe “Post-production” :
+
+a) Il est affecté au sous-groupe “Post-production” un nombre maximal de 10,5 points répartis entre les postes suivants :
+
+- Image : 3,5 points. Ces points concernent tous les travaux de postproduction image, à l'exception des effets visuels
+numériques ;
+
+- Son : 3,5 points. Ces points concernent tous les travaux de postproduction sonore ;
+
+- Effets visuels numériques : 3,5 points. Lorsqu'il n'est pas fait appel à ce poste pour des raisons artistiques ou
+techniques justifiées, les points sont obtenus dès lors que les points correspondants au poste “Image” et au poste “Son” sont
+obtenus.
+
+b) Les points sont obtenus si au moins 50 % des dépenses se rapportant à chaque poste concerné correspondent à des
+prestations effectuées par des entreprises établies en France.
+
+B. - Tout point relevant d'un poste autre que le poste “Effets visuels numériques” auquel il n'est pas fait appel pour des
+raisons artistiques ou techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 3, v. init.
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. 211-12 (VT)
   - Code du cinéma et de l'image animée - art. 211-84 (V)
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 211-3 (V)
 
 
 ##### Sous-paragraphe 2 : Barème de points des œuvres documentaires<a id=334></a>
@@ -21039,136 +21199,190 @@ _Cite_:
 ###### Article 211-10
 
 Pour les œuvres cinématographiques appartenant au genre documentaire, les points sont répartis entre cinq groupes, dans les
-conditions suivantes : 
+conditions suivantes :
 
-I.-Groupe " Entreprise de production ". 
+I. - Groupe “Langue de tournage”
 
-1° Il est affecté au groupe " Entreprise de production " un nombre total de 10 points. 
+1° Il est affecté au groupe “Langue de tournage” un nombre de 20 points.
 
-2° Ces points ne sont obtenus que si l'œuvre cinématographique considérée est produite par au moins une entreprise de
-production qui satisfait aux conditions prévues à l'article 211-3. 
+2° Les points sont obtenus dans les conditions suivantes :
 
-II.-Groupe " Langue de tournage ". 
+a) Lorsque l'œuvre cinématographique est réalisée intégralement en version originale en langue française ou dans une langue
+régionale en usage en France ou, si au moins deux langues différentes sont employées, lorsque la langue française ou une
+langue régionale en usage en France est la langue la plus utilisée ;
 
-1° Il est affecté au groupe " Langue de tournage " un nombre total de 20 points. 
+b) Lorsque l'œuvre cinématographique est réalisée dans une langue dont l'emploi est justifié par le sujet traité.
 
-2° Ces points ne sont obtenus que si l'œuvre cinématographique considérée est réalisée intégralement ou principalement en
-version originale en langue française ou dans une langue régionale en usage en France. 
+II. - Groupe “Entreprise de production et auteurs”
 
-3° Ces points sont réputés obtenus lorsque l'œuvre cinématographique est une œuvre cinématographique documentaire réalisée
-dans une langue dont l'emploi est justifié par le sujet traité. 
+A. - Il est affecté au groupe “Entreprise de production et auteurs” un nombre maximal de 32 points répartis entre les deux
+sous-groupes suivants :
 
-III.-Groupe " Auteurs ". 
+1° Sous- groupe “Entreprise de production”
 
-1° Il est affecté au groupe " Auteurs " un nombre total de 25 points répartis entre les postes suivants : 
+a) Il est affecté au sous-groupe “Entreprise de production” un nombre de 9 points.
 
-a) Réalisateur : 15 points ; 
+b) Les points sont obtenus si l'œuvre cinématographique est produite par au moins une entreprise de production qui satisfait
+aux conditions prévues à l'article 211-3.
 
-b) Auteurs de l'œuvre originaire, du scénario, de l'adaptation et du texte parlé : 5 points ; 
+2° Sous-groupe “Auteurs” :
 
-c) Auteur des compositions musicales avec ou sans paroles spécialement réalisées pour l'œuvre : 5 points. 
+a) Il est affecté au sous-groupe “Auteurs” un nombre maximal de 23 points répartis entre les postes suivants :
 
-2° Les points relevant du poste " Réalisateur " ne sont obtenus que si, pour l'œuvre cinématographique considérée, sont
-satisfaites les conditions suivantes : 
+- Réalisateur : 16 points ;
 
-a) Le contrat de production audiovisuelle conclu avec le réalisateur désigne la loi française comme loi applicable ; 
+- Auteurs de l'œuvre originaire, du scénario, de l'adaptation et du texte parlé : 4 points ;
 
-b) Le contrat de travail conclu avec le réalisateur en complément du contrat de production audiovisuelle désigne la loi
-française comme loi applicable. 
+- Auteur des compositions musicales avec ou sans paroles spécialement réalisées pour l'œuvre : 3 points.
 
-3° Les points relevant des postes autres que le poste " Réalisateur " ne sont obtenus que si, pour l'œuvre cinématographique
-considérée, le contrat de production audiovisuelle conclu avec chacun des auteurs concernés désigne la loi française comme
-loi applicable. 
+b) Les points sont obtenus si les conditions suivantes sont remplies :
 
-4° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française. 
+- Le réalisateur et les autres auteurs sont soit de nationalité française, soit ressortissants d'un Etat membre de l'Union
+européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention européenne
+sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de l'Europe
+ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur
+audiovisuel.
 
-IV.-Groupe " Artistes-interprètes ". 
+Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
+document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen, sont assimilés aux citoyens français.
 
-1° Il est affecté au groupe " Artistes-interprètes " un nombre total de 5 points attribués au poste d'interprète du
-commentaire. 
+Par dérogation et après avis de la commission d'agrément, pour les œuvres cinématographiques d'initiative française, les
+étrangers autres que les ressortissants des Etats européens précités qui ne sont pas titulaires de la carte ou du document
+mentionnés à l'alinéa précédent sont assimilés aux citoyens français dès lors que l'entreprise de production qui satisfait
+aux conditions prévues à l'article 211-3 est à l'initiative de l'œuvre cinématographique ;
 
-2° Les points relevant du poste interprète du commentaire ne sont obtenus que si, pour l'œuvre cinématographique considérée,
-sont satisfaites les conditions suivantes : 
+- En ce qui concerne le réalisateur, le contrat de production audiovisuelle et le contrat de travail désignent la loi
+française comme loi applicable ;
 
-a) Le contrat d'interprète du commentaire conclu avec l'entreprise de production désigne la loi française comme loi
-applicable ; 
+- En ce qui concerne les autres auteurs, le contrat de production audiovisuelle désigne la loi française comme loi
+applicable.
 
-b) L'interprète du commentaire est soit de nationalité française, soit ressortissant d'un Etat membre de l'Union européenne,
+c) Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
+techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française.
+
+III. - Groupe “Artistes-interprètes”
+
+1° Il est affecté au groupe “Artistes-interprètes” un nombre maximal de 2 points attribués au poste “interprète du
+commentaire”.
+
+2° Les points relevant du poste “interprète du commentaire” sont obtenus si les conditions suivantes sont remplies :
+
+a) Les artistes-interprètes sont soit de nationalité française, soit ressortissants d'un Etat membre de l'Union européenne,
 d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention européenne sur la
 télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un
-Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. 
+Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français. 
+économique européen, sont assimilés aux citoyens français.
 
-3° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française. 
+b) Le contrat conclu avec les artistes-interprètes désigne la loi française comme loi applicable ;
 
-V.-Groupe " Techniciens collaborateurs de création ". 
+3° Les points relevant du poste “interprète du commentaire” auquel il n'est pas fait appel pour des raisons artistiques ou
+techniques justifiées sont réputés obtenus pour les œuvres cinématographiques d'initiative française.
 
-1° Il est affecté au groupe " Techniciens collaborateurs de création " un nombre total de 20 points répartis entre les postes
-suivants : 
+IV. - Groupe “Techniciens”
 
-a) Techniciens de la branche de la réalisation autres que le réalisateur : 1 point pour le premier assistant réalisateur ; 
+A. - Il est affecté au groupe “Techniciens” un nombre maximal de 22 points répartis entre les deux sous-groupes suivants :
 
-b) Techniciens de la branche de l'administration et de la régie : 2 points, dont 1 point pour le directeur de production et 1
-point pour le régisseur général ; 
+1° Sous-groupe “Techniciens cadres collaborateurs de création” :
 
-c) Techniciens de la branche de la prise de vues : 6 points, dont 3 points pour le directeur de la photographie, 1 point pour
-le premier assistant opérateur et 2 points pour le cadreur ; 
+a) Il est affecté au sous-groupe “Techniciens cadres collaborateurs de création” un nombre maximal de 16 points répartis
+entre les postes suivants :
 
-d) Techniciens de la branche du son : 5 points, dont 3 points pour le chef opérateur du son et 2 points pour l'assistant du
-son ; 
+- Directeur de production : 4 points ;
 
-e) Techniciens de la branche du montage : 6 points, dont 3 points pour le chef monteur et 3 points pour l'assistant monteur. 
+- Directeur de la photographie : 4 points ;
 
-2° Ces points ne sont obtenus que si, pour l'œuvre cinématographique considérée, sont satisfaites les conditions suivantes : 
+- Chef opérateur du son : 4 points ;
 
-a) Les techniciens collaborateurs de création sont soit de nationalité française, soit ressortissants d'un Etat membre de
-l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention
+- Chef monteur image : 4 points ;
+
+b) Les points sont obtenus si les conditions suivantes sont remplies :
+
+- Les techniciens cadres collaborateurs de création sont soit de nationalité française, soit ressortissants d'un Etat membre
+de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention
 européenne sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de
 l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au
-secteur audiovisuel. 
+secteur audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
+économique européen, sont assimilés aux citoyens français ;
 
-b) Le contrat conclu avec les techniciens collaborateurs désigne la loi française comme loi applicable. 
+- Le contrat conclu avec les techniciens cadres collaborateurs de création désigne la loi française comme loi applicable.
 
-3° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française. 
+c) Les points relevant d'un poste auquel il n'est pas fait appel pour des raisons artistiques ou techniques justifiées sont
+réputés obtenus pour les œuvres cinématographiques d'initiative française.
 
-VI.-Groupe " Tournage et post-production ". 
+2° Sous-groupe “Autres techniciens” :
 
-1° Il est affecté au groupe " Tournage et post-production " un nombre total de 20 points répartis entre les postes
-suivants : 
+a) Il est affecté au sous-groupe “Autres techniciens” un nombre maximal de 6 points.
 
-a) Matériels techniques de tournage : 4 points, dont 2 points pour l'équipement de prise de vues et 2 points pour
-l'équipement de prise de son ; 
+b) Le nombre de points obtenu est déterminé en fonction du rapport entre :
 
-b) Post-production son : 8 points. Ces points concernent les mixages relatifs à la version originale de l'œuvre
-cinématographique ; 
+- D'une part, le montant des rémunérations, charges sociales comprises, des autres techniciens pris en compte dans les
+conditions prévues au c ;
 
-c) Post-production image : 8 points. Ces points concernent les travaux effectués en laboratoire. 
+- D'autre part, le montant total des rémunérations, charges sociales comprises, de l'ensemble des autres techniciens.
 
-2° Ces points ne sont obtenus que si, pour l'œuvre cinématographique considérée, les entreprises chargées de l'exécution des
-prestations se rapportant à chacun des postes précités sont établies en France. 
+c) Les autres techniciens sont pris en compte si les conditions suivantes sont remplies :
 
-3° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française.
+- Les autres techniciens sont soit de nationalité française, soit ressortissants d'un Etat membre de l'Union européenne, d'un
+autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention européenne sur la télévision
+transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un Etat tiers
+européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel.
+
+Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
+document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen, sont assimilés aux citoyens français ;
+
+- Le contrat conclu avec les autres techniciens désigne la loi française comme loi applicable.
+
+d) Les points sont réputés obtenus en totalité lorsque, pour des raisons artistiques ou techniques justifiées, il n'est fait
+appel à aucun technicien, pour les œuvres cinématographiques d'initiative française.
+
+V. - Groupe “Tournage et postproduction”
+
+A. - Il est affecté au groupe “Tournage et postproduction” un nombre maximal de 24 points répartis entre les deux sous-
+groupes suivants :
+
+1° Sous-groupe “Matériels techniques de tournage” :
+
+a) Il est affecté au sous-groupe “Matériels techniques de tournage” un nombre maximal de 4 points repartis entre les postes
+suivants :
+
+- Prises de vues : 3 points ;
+
+- Son et autres matériels : 1 point.
+
+b) Les points sont obtenus si au moins 50 % des dépenses se rapportant à chaque poste concerné correspondent à des
+prestations effectuées par des entreprises établies en France.
+
+2° Sous-groupe “Postproduction” :
+
+a) Il est affecté au sous-groupe “Postproduction” un nombre maximal de 20 points répartis entre les postes suivants :
+
+- Image : 8 points. Ces points concernent tous les travaux de postproduction image, à l'exception des effets visuels
+numériques ;
+
+- Son : 8 points. Ces points concernent tous les travaux de postproduction sonore.
+
+- Effets visuels numériques : 4 points. Lorsqu'il n'est pas fait appel à ce poste pour des raisons artistiques ou techniques
+justifiées, les points sont obtenus dès lors que les points correspondants au poste “Image” et au poste “Son” sont obtenus.
+
+b) Les points sont obtenus si au moins 50 % des dépenses se rapportant à chaque poste concerné correspondent à des
+prestations effectuées par des entreprises établies en France.
+
+B. - Tout point relevant d'un poste autre que le poste “Effets visuels numériques” auquel il n'est pas fait appel pour des
+raisons artistiques ou techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 211-3 (V)
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 4, v. init.
 
 
 ##### Sous-paragraphe 3 : Barème de points des œuvres d'animation<a id=335></a>
@@ -21176,221 +21390,263 @@ _Cite_:
 ###### Article 211-11
 
 Pour les œuvres cinématographiques appartenant au genre animation, les points sont répartis entre six groupes, dans les
-conditions suivantes : 
+conditions suivantes :
 
-I.-Groupe " Entreprise de production ". 
+I. - Groupe “Entreprise de production et auteurs”
 
-1° Il est affecté au groupe " Entreprise de production " un nombre total de 10 points. 
+A. - Il est affecté au groupe “Entreprise de production et auteurs” un nombre maximal de 35 points repartis entre les deux
+sous-groupes suivants :
 
-2° Ces points ne sont obtenus que si l'œuvre cinématographique considérée est produite par au moins une entreprise de
-production qui satisfait aux conditions prévues à l'article 211-3. 
+1° Sous-groupe “Entreprise de production” :
 
-II.-Groupe " Auteurs ". 
+a) Il est affecté au sous-groupe “Entreprise de production” un nombre de 9 points.
 
-1° Il est affecté au groupe " Auteurs " un nombre total de 26 points répartis entre les postes suivants : 
+b) Les points sont obtenus si l'œuvre cinématographique est produite par au moins une entreprise de production qui satisfait
+aux conditions prévues à l'article 211-3.
 
-a) Réalisateur : 8 points ; 
+2° Sous-groupe “Auteurs” :
 
-b) Auteurs de l'œuvre originaire, du scénario, de l'adaptation et du texte parlé : 8 points ; 
+a) Il est affecté au sous-groupe “Auteurs” un nombre maximal de 26 points répartis entre les postes suivants :
 
-c) Auteurs graphiques : 6 points ; 
+- Réalisateur : 8 points ;
 
-d) Auteur des compositions musicales avec ou sans paroles spécialement réalisées pour l'œuvre : 4 points. 
+- Auteurs de l'œuvre originaire, du scénario, de l'adaptation et du texte parlé : 8 points ;
 
-2° Les points relevant du poste " Réalisateur " ne sont obtenus que si, pour l'œuvre cinématographique considérée, sont
-satisfaites les conditions suivantes : 
+- Auteurs graphiques : 7 points ;
 
-a) Le contrat de production audiovisuelle conclu avec le réalisateur désigne la loi française comme loi applicable ; 
+- Auteur des compositions musicales avec ou sans paroles spécialement réalisées pour l'œuvre : 3 points.
 
-b) Le contrat de travail conclu avec le réalisateur en complément du contrat de production audiovisuelle désigne la loi
-française comme loi applicable ; 
+b) Les points sont obtenus si les conditions suivantes sont remplies :
 
-3° Les points relevant des autres postes " Auteurs " ne sont obtenus que si, pour l'œuvre cinématographique considérée, le
-contrat de production audiovisuelle conclu avec chacun des auteurs concernés désigne la loi française comme loi applicable. 
-
-4° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu. 
-
-III.-Groupe " Techniciens collaborateurs de création ". 
-
-1° Il est affecté au groupe " Techniciens collaborateurs de création " de la branche réalisation autres que le réalisateur un
-nombre total de 5 points répartis entre les postes suivants : 
-
-a) Premier assistant réalisateur : 2 points ; 
-
-b) Directeur de production : 3 points. 
-
-2° Ces points ne sont obtenus que si, pour l'œuvre cinématographique considérée, sont satisfaites les conditions suivantes : 
-
-a) Les techniciens collaborateurs de création sont soit de nationalité française, soit ressortissants d'un Etat membre de
-l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention
-européenne sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de
-l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au
-secteur audiovisuel. 
+- Le réalisateur et les autres auteurs sont soit de nationalité française, soit ressortissants d'un Etat membre de l'Union
+européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention européenne
+sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de l'Europe
+ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur
+audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
+économique européen, sont assimilés aux citoyens français.
 
-b) Le contrat conclu avec les techniciens collaborateurs de création désigne la loi française comme loi applicable. 
+Par dérogation et après avis de la commission d'agrément, pour les œuvres cinématographiques d'initiative française, les
+étrangers autres que les ressortissants des Etats européens précités et qui ne sont pas titulaires de la carte ou du document
+mentionnés à l'alinéa précédent sont assimilés aux citoyens français dès lors que l'entreprise de production qui satisfait
+aux conditions prévues à l'article 211-3 est à l'initiative de l'œuvre cinématographique ;
 
-3° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu. 
+- En ce qui concerne le réalisateur, le contrat de production audiovisuelle et le contrat de travail désignent la loi
+française comme loi applicable ;
 
-IV.-Groupe " Collaborateurs chargés de la préparation de l'animation ". 
+- En ce qui concerne les autres auteurs, le contrat de production audiovisuelle désigne la loi française comme loi
+applicable ;
 
-1° Il est affecté au groupe " Collaborateurs chargés de la préparation de l'animation ", pour les œuvres autres que celles
-réalisées en images de synthèse, un nombre total de 19 points répartis entre les postes suivants : 
+c) Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
+techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française.
 
-a) Création du scénarimage : 6 points ; 
+II. - Groupe “Artistes-interprètes”
 
-b) Développement des personnages : 6 points ; 
+1° Il est affecté au groupe “Artistes-interprètes” 1 point attribué au poste “enregistrement des voix françaises”.
 
-c) Décors de référence : 6 points ; 
+2° Le point relevant du poste “enregistrement des voix françaises” est obtenu si la majorité des cachets correspondant sont
+perçus par des artistes-interprètes qui répondent aux conditions suivantes :
 
-d) Feuille d'exposition : 1 point. 
+a) Les artistes-interprètes sont, soit de nationalité française, soit ressortissants d'un Etat membre de l'Union européenne,
+d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention européenne sur la
+télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du Conseil de l'Europe ou d'un
+Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel.
 
-Il est affecté au groupe " Collaborateurs chargés de la préparation de l'animation ", pour les œuvres réalisées en images de
-synthèse, un nombre total de 22 points répartis entre les postes suivants : 
+Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
+document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen, sont assimilés aux citoyens français ;
 
-a) Création du scénarimage : 6 points ; 
+b) Le contrat conclu avec les artistes-interprètes désigne la loi française comme applicable.
 
-b) Modélisation des personnages : 8 points ; 
+3° Le point relevant du poste “enregistrement des voix françaises” auquel il n'est pas fait appel pour des raisons
+artistiques ou techniques justifiées est réputé obtenu pour les œuvres cinématographiques d'initiative française.
 
-c) Modélisation des décors : 8 points. 
+III. - Groupe “Production”
 
-2° Lorsque les entreprises de production prennent directement en charge les travaux précités, les points ne sont obtenus que
-si sont satisfaites les conditions suivantes : 
+1° Il est affecté au groupe “Production” un nombre maximal de 4 points correspondant aux travaux liés à la direction et à
+l'assistance de production, ainsi qu'aux travaux d'exploitation et de maintenance des réseaux informatiques.
 
-a) Les collaborateurs chargés de l'exécution de ces travaux sont soit de nationalité française, soit ressortissants d'un Etat
+2° Le nombre de points obtenu est déterminé en fonction du rapport entre :
+
+- D'une part, le montant cumulé des rémunérations, charges sociales comprises, des techniciens pris en compte dans les
+conditions prévues au 3° et des dépenses effectuées auprès de studios spécialisés pris en compte dans les conditions prévues
+au 4° ;
+
+- D'autre part, le montant cumulé total des rémunérations, charges sociales comprises, de l'ensemble des techniciens et de
+l'ensemble des dépenses effectuées auprès de studios spécialisés.
+
+3° Lorsque les entreprises de production prennent directement en charge les travaux, les techniciens sont pris en compte si
+les conditions suivantes sont remplies :
+
+a) Les techniciens chargés de l'exécution de ces travaux sont, soit de nationalité française, soit ressortissants d'un Etat
 membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la
 Convention européenne sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du
 Conseil de l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant
-trait au secteur audiovisuel. 
+trait au secteur audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
+économique européen, sont assimilés aux citoyens français ;
 
-b) Le contrat conclu avec les collaborateurs chargés de l'exécution de ces travaux désigne la loi française comme loi
-applicable. 
+b) Le contrat conclu avec les techniciens chargés de ces travaux désigne la loi française comme loi applicable.
 
-3° Lorsque les entreprises de production font appel à des studios spécialisés dans les travaux précités, ces studios sont
-établis en France et réalisent personnellement lesdits travaux. 
+4° Lorsque les entreprises de production font appel à des studios spécialisés dans les travaux d'animation, ces studios sont
+établis en France et réalisent personnellement les travaux.
 
-4° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu. 
+IV. - Groupe “Préparation de l'animation”
 
-V.-Groupe " Collaborateurs chargés de la fabrication de l'animation ". 
+1° Il est affecté au groupe “Préparation de l'animation” un nombre maximal de 20 points, correspondant aux travaux suivants :
+scénarimage, animatique, décors de référence, modélisation des décors, développement des personnages, modélisation des
+personnages.
 
-1° Il est affecté au groupe " Collaborateurs chargés de la fabrication de l'animation ", pour les œuvres autres que celles
-réalisées en images de synthèse, un nombre total de 30 points répartis entre les postes suivants : 
+2° Le nombre de points obtenu est déterminé en fonction du rapport entre :
 
-a) Mise en place des décors : 2 points ; 
+- D'une part, le montant cumulé des rémunérations, charges sociales comprises, des techniciens pris en compte dans les
+conditions prévues au 3° et des dépenses effectuées auprès de studios spécialisés pris en compte dans les conditions prévues
+au 4° ;
 
-b) Mise en place de l'animation : 3 points ; 
+- D'autre part, le montant cumulé total des rémunérations, charges sociales comprises, de l'ensemble des techniciens et de
+l'ensemble des dépenses effectuées auprès de studios spécialisés.
 
-c) Animation : 10 points, dont 8 points pour l'animation clé et 2 points pour les intervalles et le lissage ; 
+3° Lorsque les entreprises de production prennent directement en charge les travaux, les techniciens sont pris en compte si
+les conditions suivantes sont remplies :
 
-d) Exécution des décors : 4 points ; 
-
-e) Traçage, gouachage et colorisation : 4 points ; 
-
-f) Assemblage numérique et effets spéciaux : 7 points. 
-
-Il est affecté au groupe " Collaborateurs chargés de la fabrication ", pour les œuvres réalisées en images de synthèse, un
-nombre total de 27 points répartis entre les postes suivants : 
-
-a) Mise en place des scènes : 3 points ; 
-
-b) Animation : 12 points ; 
-
-c) Rendu et éclairage : 7 points ; 
-
-d) Assemblage numérique et effets spéciaux : 5 points. 
-
-2° Lorsque les entreprises de production prennent directement en charge les travaux de fabrication de l'animation précités,
-les points ne sont obtenus que si sont satisfaites les conditions suivantes : 
-
-a) Les collaborateurs chargés de l'exécution de ces travaux sont soit de nationalité française, soit ressortissants d'un Etat
+a) Les techniciens chargés de l'exécution de ces travaux sont, soit de nationalité française, soit ressortissants d'un Etat
 membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la
 Convention européenne sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du
 Conseil de l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant
-trait au secteur audiovisuel. 
+trait au secteur audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
+économique européen, sont assimilés aux citoyens français ;
 
-b) Le contrat conclu avec les collaborateurs chargés de l'exécution de ces travaux désigne la loi française comme loi
-applicable. 
+b) Le contrat conclu avec les techniciens chargés de ces travaux désigne la loi française comme loi applicable.
 
-3° Lorsque les entreprises de production font appel à des studios spécialisés dans les travaux de fabrication de l'animation
-précités, ces studios sont établis en France et réalisent personnellement lesdits travaux. 
+4° Lorsque les entreprises de production font appel à des studios spécialisés dans les travaux d'animation, ces studios sont
+établis en France et réalisent personnellement les travaux.
 
-4° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu. 
+V. - Groupe “Fabrication de l'animation”
 
-VI.-Groupe " Post-production ". 
+A. - Il est affecté au groupe “Fabrication de l'animation” un nombre maximal de 30 points répartis entre les deux sous-
+groupes suivants :
 
-1° Il est affecté au groupe " Post-production " un nombre total de 10 points répartis entre les postes suivants : 
+1° Sous-groupe “Première étape de fabrication de l'animation” :
 
-a) Montage image : 2 points ; 
+a) Il est attribué au sous-groupe “Première étape de l'animation” un nombre maximal de 20 points correspondant aux travaux
+suivants : mise en place des décors, mise en place de l'animation, exécution des décors, animation et tournage.
 
-b) Laboratoire : 3 points ; 
+b) Le nombre de points obtenu est déterminé en fonction du rapport entre :
 
-c) Enregistrement des voix : 2 points ; 
+- D'une part, le montant cumulé des rémunérations, charges sociales comprises, des techniciens pris en compte dans les
+conditions prévues au c et des dépenses effectuées auprès de studios spécialisés pris en compte dans les conditions prévues
+au d ;
 
-d) Bruitage et création sonore : 1 point ; 
+- D'autre part, le montant cumulé total des rémunérations, charges sociales comprises, de l'ensemble des techniciens et de
+l'ensemble des dépenses effectuées auprès de studios spécialisés.
 
-e) Mixage : 2 points. 
+c) Lorsque les entreprises de production prennent directement en charge les travaux, les techniciens sont pris en compte si
+les conditions suivantes sont remplies :
 
-2° Ces points ne sont obtenus que si, pour l'œuvre cinématographique considérée, les entreprises chargées de l'exécution des
-prestations se rapportant à chacun des postes précités sont établies en France. 
+- Les techniciens chargés de l'exécution de ces travaux sont, soit de nationalité française, soit ressortissants d'un Etat
+membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la
+Convention européenne sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du
+Conseil de l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant
+trait au secteur audiovisuel.
 
-3° Tout point relevant d'un poste ou de l'un de ses éléments auquel il n'est pas fait appel pour des raisons artistiques ou
-techniques justifiées est réputé obtenu. 
+Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
+document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen, sont assimilés aux citoyens français ;
 
-VII.-Les travaux d'animation réalisés au moyen de techniques numériques, lorsqu'ils représentent une contribution
-significative à l'œuvre cinématographique, donnent lieu à l'octroi de 5 points supplémentaires. 
+- Le contrat conclu avec les techniciens chargés de ces travaux désigne la loi française comme loi applicable.
 
-Les entreprises chargées de la réalisation de ces travaux doivent être établies en France et assurer personnellement cette
-réalisation.
+d) Lorsque les entreprises de production font appel à des studios spécialisés dans les travaux d'animation, ces studios sont
+établis en France et réalisent personnellement les travaux.
+
+2° Sous-groupe “Seconde étape de fabrication de l'animation” :
+
+a) Il est attribué au sous-groupe “Seconde étape de fabrication de l'animation” un nombre maximal de 10 points correspondant
+aux travaux suivants : rendu et éclairage, traçage, gouachage, numérisation des dessins, colorisation, assemblage numérique
+et effets visuels numériques.
+
+b) Le nombre de points obtenu est déterminé en fonction du rapport entre :
+
+- D'une part, le montant cumulé des rémunérations, charges sociales comprises, des techniciens pris en compte dans les
+conditions prévues au c et des dépenses effectuées auprès de studios spécialisés pris en compte conditions prévues au d ;
+
+- D'autre part, le montant cumulé total des rémunérations, charges sociales comprises, de l'ensemble des techniciens et de
+l'ensemble des dépenses effectuées auprès de studios spécialisés.
+
+c) Lorsque les entreprises de production prennent directement en charge les travaux, les techniciens sont pris en compte si
+les conditions suivantes sont remplies :
+
+- Les techniciens chargés de l'exécution de ces travaux sont, soit de nationalité française, soit ressortissants d'un Etat
+membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la
+Convention européenne sur la télévision transfrontière ou à la Convention européenne sur la coproduction cinématographique du
+Conseil de l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant
+trait au secteur audiovisuel.
+
+Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
+document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen, sont assimilés aux citoyens français ;
+
+- Le contrat conclu avec les techniciens chargés de ces travaux désigne la loi française comme loi applicable.
+
+d) Lorsque les entreprises de production font appel à des studios spécialisés dans les travaux d'animation, ces studios sont
+établis en France et réalisent personnellement les travaux.
+
+VI. - Groupe “Post-production”
+
+1° Il est affecté au groupe “Post-production” un nombre maximal de 10 points répartis entre les postes suivants :
+
+a) Image : 5 points ;
+
+b) Son : 5 points.
+
+2° Les points sont obtenus si au moins 50 % des dépenses se rapportant à chaque poste concerné correspondent à des
+prestations effectuées par des entreprises établies en France.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 211-3 (V)
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 5, v. init.
 
 
 ##### Sous-paragraphe 4 : Nombre de points exigés<a id=336></a>
 
 ###### Article 211-12
 
-Les œuvres cinématographiques de longue durée doivent obtenir, sauf dérogation accordée par le président du Centre national
-du cinéma et de l'image animée après avis de la commission d'agrément, au moins 25 points sur 100. Une dérogation ne peut
-être accordée qu'à condition que le nombre de points obtenus par l'œuvre cinématographique soit au moins égal à 20. Pour la
-détermination des nombres de points précités, ne sont pas pris en compte ceux relevant du groupe mentionné au II des articles
-211-9 et 211-10. 
+I. - Les œuvres cinématographiques de longue durée doivent obtenir au moins 25 points sur 100.
 
-Cette condition n'est pas requise lorsque les œuvres cinématographiques sont produites dans le cadre d'une coproduction
-internationale admise au bénéfice d'un accord intergouvernemental de coproduction, dans laquelle la participation française
-est minoritaire et ne comporte pas d'apport artistique ou technique, dite " coproduction financière ".
+Une dérogation peut être accordée par le Président du Centre national du cinéma et de l'image animée pour les œuvres
+cinématographiques de longue durée d'initiative étrangère, après avis de la commission d'agrément, dans les circonstances et
+selon les modalités suivantes :
+
+1° Lorsque les conditions de réalisation artistiques et techniques des œuvres font obstacle à l'obtention du nombre minimum
+de points prévu au premier alinéa, à la condition que le nombre de points obtenus soit au moins égal à 20 ;
+
+2° Lorsque les œuvres cinématographiques sont produites dans le cadre d'une coproduction internationale avec des entreprises
+de production établies dans un pays dont l'industrie cinématographique est fragile, à la condition que le nombre de points
+obtenus soit au moins égal à 15.
+
+II. - Pour la détermination des nombres de points prévus au I :
+
+1° Ne sont pas pris en compte les points relevant du groupe mentionné au I des articles 211-9 et 211-10 ;
+
+2° Le cas échéant, le nombre de points est arrondi au nombre le plus proche ; la fraction égale à 0,5 est comptée pour 1.
+
+III. - Les dispositions du présent article ne sont pas applicables aux œuvres cinématographiques produites dans le cadre
+d'une coproduction internationale admise au bénéfice d'un accord intergouvernemental de coproduction, dans laquelle la
+participation française est minoritaire et ne comporte pas d'apport artistique ou technique, dite “coproduction financière”.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 211-9 (V)
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 6, v. init.
 
 
 ##### Paragraphe 3 : Dispositions communes<a id=337></a>
@@ -22487,19 +22743,14 @@ _Créé par_:
 
 ###### Article 211-63
 
-L'agrément de production est demandé dans un délai de quatre mois à compter de la délivrance du visa d'exploitation
-cinématographique. 
-
-Si, à l'expiration du délai de quatre mois, aucune demande n'a été présentée par l'entreprise de production déléguée, la
-demande peut être présentée par l'une quelconque des autres entreprises de production parties au contrat de coproduction dans
-un délai de deux mois. Le président du Centre national du cinéma et de l'image animée peut décider d'accorder un nouveau
-délai, qui ne peut excéder deux mois, si des circonstances exceptionnelles le justifient.
+L'agrément de production est demandé dans un délai de huit mois à compter de la délivrance du visa d'exploitation
+cinématographique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 9, v. init.
 
 
 ###### Article 211-64
@@ -22699,27 +22950,27 @@ _Créé par_:
 
 Sans préjudice des dispositions relatives à l'investissement et à l'allocation directe, les entreprises de production qui
 disposent d'un compte automatique audiovisuel ont la faculté d'investir les sommes inscrites sur ce compte pour la
-préparation de la réalisation d'œuvres cinématographiques de longue durée appartenant au genre animation. 
+préparation de la réalisation d'œuvres cinématographiques de longue durée appartenant au genre animation.
 
-Cette faculté ne peut être exercée que lorsque les conditions suivantes sont remplies : 
+Cette faculté ne peut être exercée que lorsque les conditions suivantes sont remplies :
 
-1° Les travaux de préparation font l'objet de dépenses effectuées en France pour au moins 80 % de leur coût ; 
+1° Les travaux de préparation font l'objet de dépenses effectuées en France pour au moins 50 % de leur coût ;
 
 2° Les travaux de préparation portant sur la conception, l'adaptation et l'écriture donnent lieu à l'élaboration de documents
-littéraires et artistiques écrits ou exprimés en langue française ou dans une langue régionale en usage en France ; 
+littéraires et artistiques écrits ou exprimés en langue française ou dans une langue régionale en usage en France ;
 
-3° Le projet d'œuvre est d'initiative française ; 
+3° Le projet d'œuvre est d'initiative française ;
 
-4° Le financement de la production de l'œuvre, hors aides publiques, est confirmé pour au moins 30 % du devis de production. 
+4° Le financement de la production de l'œuvre, hors aides publiques, est confirmé pour au moins 30 % du devis de production.
 
 Au titre d'une même œuvre cinématographique, cette faculté ne peut être exercée que par une seule entreprise de production
 qui a la qualité d'entreprise de production déléguée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 10, v. init.
 
 
 ###### Article 211-75
@@ -22934,18 +23185,19 @@ _Créé par_:
 ###### Article 211-87
 
 Des allocations directes sont attribuées en complément des sommes investies par les entreprises de production pour la
-préparation d'œuvres cinématographiques de longue durée lorsque les conditions suivantes sont remplies : 
+préparation d'œuvres cinématographiques de longue durée lorsque les conditions suivantes sont remplies :
 
-1° Les travaux de préparation font l'objet de dépenses effectuées en France pour au moins 80 % de leur coût ; 
+1° Les travaux de préparation font l'objet de dépenses effectuées en France pour au moins 80 % de leur coût, dans la limite
+exigible de 160 % du montant cumulé des sommes investies et des allocations directes ;
 
 2° Les travaux de préparation portant sur la conception, l'adaptation et l'écriture donnent lieu à l'élaboration de documents
 littéraires et artistiques écrits ou exprimés en langue française ou dans une langue régionale en usage en France.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 11, v. init.
 
 _Cité par_:
 
@@ -23155,37 +23407,37 @@ _Créé par_:
 
 ###### Article 211-100
 
-La commission d'agrément est composée de vingt et un membres nommés pour une durée de deux ans renouvelable : 
+La commission d'agrément est composée de vingt-quatre membres nommés pour une durée de deux ans renouvelable :
 
-1° Un président ; 
+1° Un président ;
 
-2° Sept représentants des entreprises de production ; 
+2° Un vice-président ;
 
-3° Un représentant des entreprises de distribution ; 
+3° Sept représentants des entreprises de production ;
 
-4° Deux représentants des industries techniques ; 
+4° Deux représentants des entreprises de distribution ;
 
-5° Un représentant des directeurs de production ; 
+5° Deux représentants des industries techniques ;
 
-6° Un représentant des directeurs de la photographie ; 
+6° Un représentant des directeurs de production ;
 
-7° Deux représentants des salariés de la production ; 
+7° Un représentant des directeurs de la photographie ;
 
-8° Deux représentants des réalisateurs ; 
+8° Deux représentants des salariés de la production ;
 
-9° Un représentant des auteurs ; 
+9° Deux représentants des réalisateurs ;
 
-10° Deux représentants des artistes-interprètes ; 
+10 Deux représentants des auteurs ;
 
-11° Une personnalité qualifiée au titre de son activité de réalisation et de production. 
+11° Deux représentants des artistes-interprètes ;
 
-Un vice-président est désigné parmi les membres mentionnés aux 2° à 11°.
+12° Une personnalité qualifiée au titre de son activité de réalisation et de production.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 4, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 12, v. init.
 
 
 ###### Article 211-101
@@ -25766,7 +26018,7 @@ _Cite_:
 
 Les sommes inscrites sur le compte automatique des entreprises de distribution peuvent être investies en vue de concourir,
 par le versement d'avances, au financement de la production d'œuvres cinématographiques de longue durée pour lesquelles
-l'agrément des investissements ou, lorsque celui-ci n'est pas demandé, l'agrément de production, a été délivré. 
+l'agrément des investissements a été délivré.
 
 Toutefois, ces sommes ne peuvent être investies pour des œuvres cinématographiques de longue durée produites par des
 entreprises de production qui n'ont pas été autorisées à investir les sommes inscrites sur leur compte automatique en
@@ -25774,9 +26026,9 @@ application de l'article 211-44.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 13, v. init.
 
 _Cite_:
 
@@ -25792,20 +26044,41 @@ _Cité par_:
 ###### Article 221-14
 
 Les sommes inscrites sur le compte automatique des entreprises de distribution peuvent également être investies pour la prise
-en charge, pour le compte des entreprises de production, d'autres dépenses de distribution portant sur : 
+en charge, pour le compte des entreprises de production, d'autres dépenses de distribution portant sur :
 
 1° Des œuvres cinématographiques de longue durée pour lesquelles l'agrément des investissements ou, lorsque celui-ci n'est
-pas demandé, l'agrément de production, a été délivré ; 
+pas demandé, l'agrément de production, a été délivré ;
 
-2° Des œuvres cinématographiques de longue durée bénéficiant des avances à la production après réalisation ; 
+2° Des œuvres cinématographiques de longue durée bénéficiant des avances à la production après réalisation ;
 
-3° Des œuvres cinématographiques de longue durée bénéficiant des aides aux cinémas du monde ; 
+3° Des œuvres cinématographiques de longue durée bénéficiant des aides aux cinémas du monde ;
 
-4° Des œuvres cinématographiques de courte durée composant un programme et pour lesquelles l'agrément de diffusion a été
-délivré ; 
+4° Des œuvres cinématographiques de courte durée composant un programme complet et pour lesquelles l'agrément de diffusion a
+été délivré ;
 
 5° A titre exceptionnel, des œuvres audiovisuelles ayant bénéficié d'une aide financière automatique ou sélective à la
-production audiovisuelle. 
+production audiovisuelle ;
+
+6° A titre exceptionnel, des œuvres cinématographiques de longue durée qui répondent aux conditions suivantes :
+
+a) Etre distribuées par des entreprises de distribution ayant distribué, dans les deux années précédant la demande, au moins
+trois œuvres cinématographiques ayant fait l'objet d'une sortie nationale en salles dans au moins cinq établissements de
+spectacles cinématographiques ;
+
+b) Ne pas être produites ou coproduites par les entreprises de distribution concernées ;
+
+c) Etre d'initiative française ;
+
+d) Etre réalisées dans les conditions prévues à l'article 211-7 ;
+
+e) Etre réalisées intégralement en version originale en langue française ou dans une langue régionale en usage en France.
+Lorsqu'au moins deux langues différentes sont employées, la langue française ou une langue régionale en usage en France doit
+être la langue la plus utilisée. Les œuvres documentaires peuvent être réalisées dans une langue dont l'emploi est justifié
+par le sujet traité ;
+
+f) Faire l'objet d'une sortie nationale en salles dans au moins huit établissements de spectacles cinématographiques ;
+
+g) Avoir été sélectionnées dans un festival cinématographique international figurant sur la liste prévue à l'annexe 2-19-1.
 
 Toutefois, ces sommes ne peuvent être investies pour des œuvres cinématographiques de longue durée produites par des
 entreprises de production soit qui n'ont pas été autorisées à investir les sommes inscrites sur leur compte automatique en
@@ -25814,9 +26087,9 @@ application de l'article 211-105 ou d'une aide sélective après réalisation en
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 14, v. init.
 
 _Cite_:
 
@@ -25934,16 +26207,32 @@ _Cité par_:
 
 ###### Article 221-18
 
-Lorsque l'agrément de distribution a été délivré pour une œuvre cinématographique pour laquelle l'agrément des
-investissements a été délivré, l'attribution des aides financières à titre définitif est subordonnée à la délivrance de
-l'agrément de production. Dans le cas où cet agrément n'est pas délivré, les sommes allouées à l'entreprise de distribution
-doivent être reversées.
+I. - Lorsque l'agrément de distribution a été délivré pour une œuvre cinématographique pour laquelle l'agrément des
+investissements a été délivré, les aides financières sont attribuées à titre définitif et il est procédé au calcul et à
+l'inscription des sommes sur le compte automatique de l'entreprise de distribution si l'agrément de production est délivré.
+
+II. - Toutefois, si l'agrément de production n'est pas délivré dans un délai de huit mois à compter de la délivrance du visa
+d'exploitation cinématographique, les aides financières sont attribuées à titre définitif et il est procédé au calcul et à
+l'inscription des sommes sur le compte automatique de l'entreprise de distribution, lorsque les conditions suivantes sont
+remplies :
+
+1° L'entreprise de distribution n'est pas également productrice ou coproductrice de l'œuvre concernée ;
+
+2° L'entreprise de distribution fournit tous documents, dès lors qu'ils n'ont pas déjà été fournis par l'entreprise de
+production, permettant de vérifier que l'œuvre a été réalisée dans les conditions prévues à l'article 211-7 et à l'article
+211-12.
+
+Pour l'analyse des documents précités, le président du Centre national du cinéma et de l'image animé peut saisir la
+commission d'agrément.
+
+III. - Si les conditions prévues au I ou au II ne sont pas remplies, les sommes allouées à l'entreprise de distribution
+doivent être reversées et il n'est pas procédé au calcul et à l'inscription de sommes sur son compte automatique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 15, v. init.
 
 
 ###### Article 221-19
@@ -25962,6 +26251,19 @@ _Créé par_:
 _Cite_:
 
   - Code du cinéma et de l'image animée - art. 221-15 (V)
+
+
+###### Article 221-19-1
+
+Pour la distribution d'une œuvre cinématographique de longue durée relevant du 6° de l'article 221-14, la décision
+d'attribution d'une aide financière automatique est prise après avis de la commission d'agrément, en tenant compte de
+l'importance des dépenses de distribution mentionnées au 2° de l'article 221-15 qui sont engagées pour l'œuvre considérée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 16, v. init.
 
 
 ##### Paragraphe 6 : Péremption des sommes inscrites sur le compte<a id=426></a>
@@ -30902,6 +31204,63 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 212-55 (V)
 
 
+###### Article Annexe 2-19-1
+
+INVESTISSEMENT POUR LA DISTRIBUTION D'ŒUVRES CINÉMATOGRAPHIQUES DE LONGUE DURÉE RÉPONDANT À CERTAINES CONDITIONS (ARTICLE.
+221-14)
+
+Liste des festivals
+
+1° Sélection en compétition dans l'un des festivals suivants en France :
+
+- Annecy : Festival du Film d'Animation ;
+
+- Cannes : Festival International du Film/Quinzaine des Réalisateurs/Semaine Internationale de la Critique/ Sélection de
+l'Association du Cinéma Indépendant pour sa Diffusion ;
+
+- Paris : Cinéma du Réel ;
+
+2° Sélection en compétition dans l'un des festivals étrangers suivants :
+
+a) Allemagne :
+
+- Berlin : Compétition officielle, Panorama, Forum, Génération ;
+
+b) Canada :
+
+- Toronto ;
+
+c) Espagne :
+
+- San Sebastian Film Festival ;
+
+d) Etats- Unis :
+
+- Sundance Festival Films ;
+
+e) Italie :
+
+- Venise : Compétition officielle, Horizons, Semaine de la Critique, Venise Days (Giornate degli autori) ;
+
+f) Pays-Bas :
+
+- Rotterdam : Festival International du Film ;
+
+g) République Tchèque :
+
+- Karlovy-Vary.
+
+h) Suisse :
+
+- Locarno.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 17, v. init.
+
+
 ###### Article Annexe 2-20
 
 Agrément de distribution (article 221-17) 
@@ -31813,16 +32172,16 @@ _Cité par_:
 
 ###### Article 311-4
 
-Les éditeurs de services de télévision ne sont pas admis au bénéfice des aides financières à la production et à la
-préparation des œuvres audiovisuelles. 
+Les éditeurs de services de télévision et les éditeurs de services de médias audiovisuels à la demande ne sont pas admis au
+bénéfice des aides financières à la production et à la préparation des œuvres audiovisuelles.
 
 Les établissements publics et leurs filiales sont exclus du bénéfice des aides financières sélectives.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 19, v. init.
 
 
 ##### Sous-section 2 : Conditions relatives aux œuvres<a id=499></a>
@@ -31888,8 +32247,6 @@ _Cité par_:
 
 ##### Paragraphe 2 : Conditions relatives au mode de diffusion<a id=501></a>
 
-##### Sous-Paragraphe 1 : Œuvres audiovisuelles destinées aux services de télévision ou aux services à la demande<a id=502></a>
-
 ###### Article 311-8
 
 Les œuvres audiovisuelles admises au bénéfice des aides financières automatiques et sélectives sont des œuvres destinées :
@@ -31897,99 +32254,47 @@ Les œuvres audiovisuelles admises au bénéfice des aides financières automati
 1° Soit à une première diffusion sur un service de télévision dont l'éditeur est assujetti à la taxe prévue à l'article L.
 115-6 du code du cinéma et de l'image animée ;
 
-2° Soit à une première exploitation sur un service offrant l'accès à des œuvres audiovisuelles au moment choisi par
-l'utilisateur et sur demande individuelle formulée par un procédé de communication électronique, ci-après dénommé " service à
-la demande ".
+2° Soit à une première mise à disposition du public sur un service de médias audiovisuels à la demande dont l'éditeur est
+établi en France et est soumis aux obligations prévues par les dispositions du chapitre II du décret n° 2010-1379 du 12
+novembre 2010 relatif aux services de médias audiovisuels à la demande.
 
-La condition de première diffusion ou de première exploitation n'est pas requise pour l'éligibilité des œuvres audiovisuelles
-aux aides automatiques à la préparation et aux aides à la production de " pilotes ".
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. L115-6 (M)
-
-
-##### Sous-Paragraphe 2 : Œuvres audiovisuelles conçues pour les services à la demande<a id=503></a>
-
-###### Article 311-9
-
-Les œuvres audiovisuelles admises au bénéfice des aides financières automatiques et des aides financières sélectives pour les
-œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant  sont également des œuvres conçues pour une mise à
-disposition du public par un ou plusieurs éditeurs de services à la demande, établis en France. 
-
-Ces éditeurs de services sont : 
-
-1° Soit des éditeurs de services de médias audiovisuels à la demande soumis aux obligations prévues par les dispositions du
-chapitre II du décret n° 2010-1379 du 12 novembre 2010 relatif aux services de médias audiovisuels à la demande ; 
-
-2° Soit des éditeurs de services, constitués sous forme de société commerciale ou d'établissement public industriel et
-commercial, qui consacrent une part significative de leur offre de programmes audiovisuels à des œuvres indépendantes à
-vocation patrimoniale, compte tenu de la nature du service et du contenu éditorial de l'offre. 
-
-L'œuvre est qualifiée d'indépendante lorsque l'éditeur de services ne détient pas, directement ou indirectement, de parts de
-producteur et lorsque : 
-
-a) L'éditeur de services ne détient pas, directement ou indirectement, plus de 15 % du capital social ou des droits de vote
-de l'entreprise de production ; 
-
-b) L'entreprise de production ne détient pas, directement ou indirectement, plus de 15 % du capital social ou des droits de
-vote de l'éditeur de services ; 
-
-c) Aucun associé ou groupe d'associés détenant, directement ou indirectement, au moins 15 % du capital social ou des droits
-de vote de l'éditeur de services ne détient, directement ou indirectement, plus de 15 % du capital social ou des droits de
-vote de l'entreprise de production ; 
-
-d) Le ou les associés contrôlant, au sens de l'article L. 233-3 du code de commerce, l'entreprise de production, ne
-contrôlent pas, au sens du même article, l'éditeur de services.
+La condition de première diffusion ou de première mise à disposition du public n'est pas requise pour l'éligibilité des
+œuvres audiovisuelles aux aides automatiques à la préparation et aux aides à la production de “pilotes” et de vidéomusiques.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Décret n°2010-1379 du 12 novembre 2010 -  CHAPITRE II : DISPOSITIONS PERMETTANT DE GARANT... (V)
-  - Code de commerce - art. L233-3 (M)
+  - Code du cinéma et de l'image animée - art. L115-6 (V)
 
 _Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 9, v. init.
-
-_Abrogé par_:
-
   - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 20, v. init.
 
-_Cité par_:
 
-  - Code du cinéma et de l'image animée - art. 311-30 (VD)
-  - Code du cinéma et de l'image animée - art. 311-48 (VD)
-
-
-##### Paragraphe 3 : Conditions relatives au financement<a id=504></a>
-
-##### Sous-Paragraphe 1 : Œuvres audiovisuelles destinées aux services de télévision ou aux services à la demande<a id=505></a>
+##### Paragraphe 3 : Conditions relatives au financement<a id=502></a>
 
 ###### Article 311-10
 
-Pour être admises au bénéfice des aides financières automatiques et sélectives, les œuvres audiovisuelles destinées aux
-services de télévision ou aux services à la demande doivent être financées par un apport initial provenant :
+Pour être admises au bénéfice des aides financières automatiques et sélectives, les œuvres audiovisuelles doivent être
+financées par un apport initial provenant :
 
-1° Soit d'un ou plusieurs éditeurs de services de télévision ;
+1° Soit d'un ou plusieurs éditeurs de services de télévision mentionnés au 1° de l'article 311-8 ;
 
-2° Soit d'un ou plusieurs éditeurs de services de télévision et d'un ou plusieurs éditeurs de services à la demande.
+2° Soit d'un ou plusieurs éditeurs de services de médias audiovisuels à la demande mentionnés au 2° de l'article 311-8 ;
+
+3° Soit d'un ou plusieurs éditeurs de services de télévision et d'un ou plusieurs éditeurs de services de médias audiovisuels
+à la demande mentionnés au 1° et au 2° de l'article 311-8.
 
 La condition d'apport initial n'est pas requise pour l'éligibilité des œuvres audiovisuelles aux aides automatiques à la
-préparation et aux aides à la production de " pilotes ".
+préparation et aux aides à la production de “pilotes” et de vidéomusiques.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 22, v. init.
 
 _Cité par_:
 
@@ -31998,22 +32303,30 @@ _Cité par_:
 
 ###### Article 311-11
 
-Lorsqu'il est requis, l'apport initial doit : 
+Lorsqu'il est requis, l'apport initial doit :
 
 1° Etre au moins égal à 25 % du coût définitif de l'œuvre ou à 25 % de la participation française en cas de coproduction
-internationale. Pour les aides sélectives, cet apport peut être inférieur à 25 % ; 
+internationale. Pour les aides sélectives, cet apport peut être inférieur à 25 % ;
 
 2° Comporter, en ce qui concerne l'apport du ou des éditeurs de services de télévision, une part minimale en numéraire dont
 le montant horaire est fixé à 12 000 € pour les œuvres appartenant aux genres fiction, animation et documentaire de création
 et à 15 000 € pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant. Pour le bénéfice des aides
 automatiques, cette condition s'applique sous réserve des dispositions de l'article 311-81. Elle ne s'applique pas pour le
-bénéfice des aides sélectives.
+bénéfice des aides sélectives ;
+
+3° Etre réalisé, en ce qui concerne l'apport du ou des éditeurs de services de médias audiovisuels à la demande, en numéraire
+et sous forme d'un contrat d'achat de droits de mise à disposition du public de l'œuvre conclu avec l'entreprise de
+production avant la fin des prises de vues ou, pour les œuvres appartenant au genre de l'animation, avant la fin de la
+fabrication de l'animation. Pour les œuvres intégralement composées d'images préexistantes, le contrat est conclu avant le
+début du montage. En outre, pour le bénéfice des aides automatiques dans le cas mentionné au 2° de l'article 311-10, pour les
+œuvres appartenant aux genres documentaire de création et adaptation audiovisuelle de spectacle vivant, le montant horaire de
+l'apport en numéraire est respectivement fixé à 12 000 € et 15 000 €.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 10, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 23, v. init.
 
 _Cité par_:
 
@@ -32045,9 +32358,9 @@ suivant celui de la date d'entrée en vigueur de la présente délibération.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+**Liens**:
 
-  - Délibération n°2017/CA/02 - art. 5, v. init.
+  - DEPLACEMENT: Délibération n°2017/CA/31 du 23 novembre 2017 - art. 21, v. init.
 
 _Cite_:
 
@@ -32059,100 +32372,14 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 311-30 (VD)
 
 
-##### Sous-Paragraphe 2 : Œuvres audiovisuelles conçues pour les services à la demande<a id=506></a>
-
-###### Article 311-12
-
-Pour être admises au bénéfice des aides financières automatiques, les œuvres audiovisuelles conçues pour les services à la
-demande doivent être financées par un apport initial en numéraire provenant :
-
-1° Soit d'un ou plusieurs éditeurs de services à la demande. Dans ce cas, l'apport est réalisé sous forme d'un contrat
-d'achat de droits de mise à disposition du public de l'œuvre conclu avec l'entreprise de production avant la fin des prises
-de vues ou, pour les œuvres appartenant au genre de l'animation, avant la fin de la fabrication de l'animation. Pour les
-œuvres intégralement composées d'images préexistantes, le contrat est conclu avant le début du montage ;
-
-2° Soit d'un ou plusieurs éditeurs de services à la demande et d'autres entreprises ou organismes, établis en France, en
-application d'un contrat conclu avec l'entreprise de production, sous réserve des dispositions des articles 122-28 et 311-7.
-Les entreprises ou organismes ne détiennent pas, directement ou indirectement, de parts de producteur et l'apport du ou des
-éditeurs de services, réalisé dans les conditions prévues au 1°, est au moins égal à 12,5 % du coût définitif de l'œuvre ou à
-12,5 % de la participation française en cas de coproduction internationale.
-
-L'apport initial doit être au moins égal à 25 % du coût définitif de l'œuvre ou à 25 % de la participation française en cas
-de coproduction internationale. En outre, pour les œuvres appartenant aux genres documentaire de création et adaptation
-audiovisuelle de spectacle vivant, le montant horaire de l'apport initial en numéraire des éditeurs de services à la demande
-est respectivement fixé à 12 000 € et 15 000 €.
-
-La condition d'apport initial n'est pas requise pour l'éligibilité des œuvres audiovisuelles aux aides automatiques à la
-préparation.
-
-**Nota:**
-
-Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
-d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
-suivant celui de la date d'entrée en vigueur de la présente délibération.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Délibération n°2017/CA/02 - art. 6, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 25, v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 122-28 (V)
-  - Code du cinéma et de l'image animée - art. 311-7 (V)
-
-_Cité par_:
-
-  - Code du cinéma et de l'image animée - art. 311-30 (M)
-  - Code du cinéma et de l'image animée - art. 311-47 (VT)
-
-
-###### Article 311-12-1
-
-Pour être admises au bénéfice des aides financières sélectives, les œuvres appartenant au genre adaptation audiovisuelle de
-spectacle vivant doivent être financées par un apport initial en numéraire provenant : 
-
-1° Soit d'un ou plusieurs éditeurs de services à la demande. Dans ce cas, l'apport est réalisé sous forme d'un contrat
-d'achat de droits de mise à disposition du public de l'œuvre conclu avec l'entreprise de production avant la fin des prises
-de vues ; 
-
-2° Soit d'un ou plusieurs éditeurs de services à la demande et d'autres entreprises ou organismes, établis en France, en
-application d'un contrat conclu avec l'entreprise de production, sous réserve des dispositions des articles 122-28 et 311-7.
-Les entreprises ou organismes ne détiennent pas, directement ou indirectement, de parts de producteur et l'apport du ou des
-éditeurs de services, réalisé dans les conditions prévues au 1°, est au moins égal à la moitié du montant total de l'apport
-initial en numéraire.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 13, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 25, v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 122-28 (V)
-  - Code du cinéma et de l'image animée - art. 311-7 (V)
-
-_Cité par_:
-
-  - Code du cinéma et de l'image animée - art. 311-30 (VD)
-
+##### Paragraphe 3.1 :  Dispositions relatives aux cumuls d'aides<a id=503></a>
 
 ###### Article 311-13
 
-Les œuvres audiovisuelles ne doivent pas faire ou avoir fait l'objet : 
+Les œuvres audiovisuelles ne doivent pas faire ou avoir fait l'objet :
 
 1° D'une demande d'aide à la production au titre des dispositions du présent sous-paragraphe et des dispositions relatives
-aux aides à la production d'œuvres pour les nouveaux médias ; 
+aux aides à la production d'œuvres pour les nouveaux médias ;
 
 2° D'une demande d'aide à la préparation au titre des dispositions du présent sous-paragraphe et au titre des dispositions
 relatives aux aides à l'écriture et au développement de projets d'œuvres pour les nouveaux médias, lorsque ces aides visent à
@@ -32160,12 +32387,12 @@ contribuer au financement des mêmes dépenses.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+**Liens**:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - DEPLACEMENT: Délibération n°2017/CA/31 du 23 novembre 2017 - art. 26, v. init.
 
 
-##### Paragraphe 4 : Conditions relatives à la réalisation<a id=507></a>
+##### Paragraphe 4 : Conditions relatives à la réalisation<a id=504></a>
 
 ###### Article 311-14
 
@@ -32199,37 +32426,38 @@ _Créé par_:
 
 ###### Article 311-15
 
-Lorsqu'une œuvre audiovisuelle est produite uniquement par une ou plusieurs entreprises de production établies en France ou
-lorsque, dans le cas d'une coproduction internationale, la participation française est supérieure ou égale à 80 % de son coût
-définitif, cette œuvre doit : 
+Lorsqu'une œuvre audiovisuelle est produite uniquement par une ou plusieurs entreprises de production établies en France,
+cette œuvre doit :
 
 1° Etre réalisée intégralement ou principalement en version originale en langue française ou dans une langue régionale en
-usage en France ; 
+usage en France ;
 
 2° Faire l'objet de dépenses de production en France pour au moins 50 % de son coût définitif.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 27, v. init.
 
 
 ###### Article 311-16
 
-Lorsqu'une œuvre est produite dans le cadre d'une coproduction internationale et que la participation française est
-inférieure à 80 % de son coût définitif, cette œuvre doit : 
+Lorsqu'une œuvre est produite dans le cadre d'une coproduction internationale, cette œuvre doit :
 
 1° Etre financée par une participation française au moins égale à 30 % de son coût définitif, sauf disposition particulière
-prévue par un accord intergouvernemental ; 
+prévue par un accord intergouvernemental ;
 
-2° Faire l'objet de dépenses de production en France pour au moins 24 % de son coût définitif.
+2° Faire l'objet de dépenses de production en France pour au moins 50 % de la participation française.
+
+En outre, lorsque la participation française est supérieure ou égale à 80 % de son coût définitif, l'œuvre doit être réalisée
+intégralement ou principalement en version originale en langue française ou dans une langue régionale en usage en France.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 28, v. init.
 
 
 ###### Article 311-17
@@ -32244,38 +32472,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-###### Article 311-18
+##### Sous-section 3 : Conditions relatives au mode de production<a id=505></a>
 
-Les techniciens qui concourent à la production des œuvres audiovisuelles doivent, en ce qui concerne les postes énumérés à
-l'annexe 1 du présent livre, être embauchés dans le cadre d'un contrat de travail. Pour le réalisateur, le contrat de travail
-est conclu avec l'entreprise de production déléguée. 
-
-Les conditions précitées ne sont pas requises dans les cas suivants : 
-
-1° Lorsque, dans le cas d'une coproduction internationale, la rémunération des techniciens concernés est prise en charge par
-une entreprise de production établie hors de France ; 
-
-2° Lorsque, dans le cadre d'un tournage à l'étranger, l'entreprise de production déléguée recourt à des techniciens résidant
-sur le territoire dans lequel se déroule le tournage.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 29, v. init.
-
-_Cité par_:
-
-  - Code du cinéma et de l'image animée - art. Annexe 3-1 (VT)
-
-
-##### Sous-section 3 : Conditions relatives au mode de production<a id=508></a>
-
-##### Paragraphe 1 : Dispositions générales<a id=509></a>
+##### Paragraphe 1 : Dispositions générales<a id=506></a>
 
 ###### Article 311-19
 
@@ -32311,7 +32510,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Dispositions particulières aux adaptations audiovisuelles de spectacle vivant<a id=510></a>
+##### Paragraphe 2 : Dispositions particulières aux adaptations audiovisuelles de spectacle vivant<a id=507></a>
 
 ###### Article 311-21
 
@@ -32337,7 +32536,7 @@ _Modifié par_:
   - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 14, v. init.
 
 
-##### Sous-section 4 : Conditions relatives à l'intensité des aides<a id=511></a>
+##### Sous-section 4 : Conditions relatives à l'intensité des aides<a id=508></a>
 
 ###### Article 311-22
 
@@ -32376,7 +32575,7 @@ _Modifié par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 4, v. init.
 
 
-##### Sous-section 5 : Dispositions relatives au contrôle du coût de production<a id=512></a>
+##### Sous-section 5 : Dispositions relatives au contrôle du coût de production<a id=509></a>
 
 ###### Article 311-24
 
@@ -32392,7 +32591,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 6 : Dispositions diverses<a id=513></a>
+##### Sous-section 6 : Dispositions diverses<a id=510></a>
 
 ###### Article 311-24-1
 
@@ -32479,7 +32678,7 @@ _Créé par_:
   - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 30, v. init.
 
 
-##### Section 2 : Aides financières automatiques<a id=514></a>
+##### Section 2 : Aides financières automatiques<a id=511></a>
 
 ###### Article 311-25
 
@@ -32497,9 +32696,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section 1 : Allocations d'investissement<a id=515></a>
+##### Sous-section 1 : Allocations d'investissement<a id=512></a>
 
-##### Paragraphe 1 : Compte automatique des entreprises de production<a id=516></a>
+##### Paragraphe 1 : Compte automatique des entreprises de production<a id=513></a>
 
 ###### Article 311-26
 
@@ -32549,9 +32748,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 311-3 (V)
 
 
-##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=517></a>
+##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=514></a>
 
-##### Sous-Paragraphe 1 : Liste des œuvres de référence<a id=518></a>
+##### Sous-Paragraphe 1 : Liste des œuvres de référence<a id=515></a>
 
 ###### Article 311-29
 
@@ -32567,85 +32766,82 @@ _Créé par_:
 
 ###### Article 311-30
 
-Pour être inscrites sur la liste des œuvres de référence, les œuvres audiovisuelles répondent aux conditions suivantes : 
+Pour être inscrites sur la liste des œuvres de référence, les œuvres audiovisuelles répondent aux conditions suivantes :
 
-1° Appartenir aux genres fiction, animation, documentaire de création et adaptation audiovisuelle de spectacle vivant ; 
+1° Appartenir aux genres fiction, animation, documentaire de création et adaptation audiovisuelle de spectacle vivant ;
 
 2° Lorsque les œuvres appartiennent au genre documentaire de création et sont insérées au sein de cases de programmation
 consacrées à la diffusion de magazines autres que ceux mentionnés au 2° de l'article 311-92, elles doivent avoir une durée
-ou, pour les œuvres audiovisuelles conçues pour les services à la demande, une durée cumulée, par œuvre unitaire ou par
-épisode, supérieure ou égale à 45 minutes.
+par œuvre unitaire ou par épisode, supérieure ou égale à 45 minutes.
 
 Lorsque les œuvres appartiennent au genre adaptation audiovisuelle de spectacle vivant, elles doivent satisfaire au niveau de
 qualité artistique et technique prévu au 3° de l'article 311-57-1 ;
 
-3° Avoir obtenu l'autorisation préalable et l'autorisation définitive. Cette condition n'est pas requise en ce qui concerne
-les œuvres pour lesquelles a été attribuée une aide financière à la production d'œuvres pour les nouveaux médias et qui
-répondent aux conditions prévues aux articles 311-9 et 311-12 ; 
+3° Avoir obtenu l'autorisation préalable et l'autorisation définitive ;
 
-4° Avoir bénéficié de l'apport initial prévu aux articles 311-10 et 311-11 ou aux articles 311-12 et 311-12-1, au moins égal
-à 25 % du coût définitif de l'œuvre ou à 25 % de la participation française en cas de coproduction internationale.
+4° Avoir bénéficié de l'apport initial prévu aux articles 311-10 et 311-11, au moins égal à 25 % du coût définitif de l'œuvre
+ou à 25 % de la participation française en cas de coproduction internationale.
 
 Pour les œuvres appartenant au genre animation, cette proportion minimale de l'apport initial est ramenée à 20 % dans le cas
-prévu à l'article 311-11-1. 
+prévu à l'article 311-11-1.
 
-Pour  les œuvres appartenant au genre documentaire de création, l'apport  horaire en numéraire du ou des éditeurs de services
-de télévision ou  l'apport horaire en numéraire du ou des éditeurs de services à la  demande est supérieur ou égal à 12 000
-€. 
+Pour les œuvres appartenant au genre documentaire de création, l'apport horaire en numéraire du ou des éditeurs de services
+de télévision ou l'apport horaire en numéraire du ou des éditeurs de services de médias audiovisuels à la demande est
+supérieur ou égal à 12 000 €.
 
 Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant, l'apport horaire en numéraire du ou des
-éditeurs de services de télévision ou l'apport horaire en numéraire du ou des éditeurs de services à la demande est supérieur
-ou égal à 15 000 € ;
+éditeurs de services de télévision ou l'apport horaire en numéraire du ou des éditeurs de services de médias audiovisuels à
+la demande est supérieur ou égal à 15 000 € ;
 
 5° Avoir fait l'objet, au cours de l'année précédente, d'une première diffusion sur un service de télévision ou d'une
-première mise à disposition du public sur un service à la demande. Toutefois, les œuvres peuvent avoir fait l'objet d'une
-acceptation de leur version définitive par les éditeurs de ces mêmes services, sous réserve que celle-ci soit dûment
-renseignée et certifiée. Lorsqu'une œuvre a été financée au moyen de l'apport conjoint de plusieurs des éditeurs de services
-précités, il n'est procédé à son inscription sur la liste des œuvres de référence qu'après acceptation dûment renseignée et
-certifiée de sa version définitive par l'ensemble de ces éditeurs de services.
+première mise à disposition du public sur un service de médias audiovisuels à la demande. Toutefois, les œuvres peuvent avoir
+fait l'objet d'une acceptation de leur version définitive par les éditeurs de ces mêmes services, sous réserve que celle-ci
+soit dûment renseignée et certifiée. Lorsqu'une œuvre a été financée au moyen de l'apport conjoint de plusieurs des éditeurs
+de services précités, il n'est procédé à son inscription sur la liste des œuvres de référence qu'après acceptation dûment
+renseignée et certifiée de sa version définitive par l'ensemble de ces éditeurs de services.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 6, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 31, v. init.
 
 _Cite_:
 
   - Code du cinéma et de l'image animée - art. 311-10 (V)
   - Code du cinéma et de l'image animée - art. 311-11-1 (V)
-  - Code du cinéma et de l'image animée - art. 311-12-1 (V)
-  - Code du cinéma et de l'image animée - art. 311-9 (V)
   - Code du cinéma et de l'image animée - art. 311-92 (V)
 
 
 ###### Article 311-31
 
 Lorsque l'autorisation définitive est délivrée l'année suivant celle de la première diffusion sur un service de télévision ou
-de la première mise à disposition du public sur un service à la demande, il est procédé à l'inscription de l'œuvre sur la
-liste des œuvres de référence l'année suivant celle de la délivrance de l'autorisation définitive.
+de la première mise à disposition du public sur un   service de médias audiovisuels à la demande, il est procédé à
+l'inscription de l'œuvre sur la liste des œuvres de référence l'année suivant celle de la délivrance de l'autorisation
+définitive.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 
 ###### Article 311-32
 
 Pour une série, l'inscription sur la liste des œuvres de référence peut être effectuée, à titre provisoire, pour les épisodes
 ayant fait l'objet d'une première diffusion sur un service de télévision ou d'une première mise à disposition du public sur
-un service à la demande au cours de l'année précédente. 
+un service de médias audiovisuels à la demande au cours de l'année précédente.
 
 L'inscription à titre définitif est subordonnée à la délivrance de l'autorisation définitive pour un ensemble cohérent
 d'épisodes dénommé " saison ".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 _Cité par_:
 
@@ -32656,8 +32852,9 @@ _Cité par_:
 
 L'inscription d'une œuvre audiovisuelle sur la liste des œuvres de référence est effectuée jusqu'au 15 janvier de l'année qui
 suit celle au cours de laquelle cette œuvre a été diffusée pour la première fois sur un service de télévision ou mise à
-disposition du public sur un service à la demande sous réserve que l'entreprise de production déléguée en ait fait la demande
-dans les quinze jours qui suivent la fin du trimestre au cours duquel a eu lieu cette diffusion ou cette mise à disposition.
+disposition du public sur un   service de médias audiovisuels à la demande sous réserve que l'entreprise de production
+déléguée en ait fait la demande dans les quinze jours qui suivent la fin du trimestre au cours duquel a eu lieu cette
+diffusion ou cette mise à disposition. 
 
 Toutefois, lorsqu'une œuvre n'a pas fait l'objet d'une diffusion ou d'une mise à disposition du public dans le délai d'un an
 après l'acceptation dûment renseignée et certifiée de sa version définitive par l'éditeur d'un des services précités, la
@@ -32667,46 +32864,27 @@ demande doit être effectuée au plus tard le 15 janvier de l'année qui suit l'
 
 _Modifié par_:
 
-  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 5, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 
 ###### Article 311-34
 
-La demande d'inscription doit indiquer le titre, le genre et la durée ou, pour les œuvres audiovisuelles conçues pour les
-services à la demande, la durée cumulée, de l'œuvre considérée. 
+La demande d'inscription doit indiquer le titre, le genre et la durée de l'œuvre considérée.
 
-Elle est accompagnée : 
+Elle est accompagnée :
 
-1° Soit d'un certificat de diffusion ou, pour les œuvres audiovisuelles conçues pour les services à la demande, d'un
-certificat de mise à disposition du public, provenant de l'éditeur du ou des services concernés et indiquant la date de la
-diffusion ou de la mise à disposition du public, l'heure de la diffusion, ainsi que la durée ou la durée cumulée de l'œuvre
-audiovisuelle ; 
+1° Soit d'un certificat de diffusion ou d'un certificat de mise à disposition du public, provenant de l'éditeur du ou des
+services concernés et indiquant la date de la diffusion ou de la mise à disposition du public, l'heure de la diffusion, ainsi
+que la durée de l'œuvre audiovisuelle ;
 
 2° Soit d'une acceptation dûment renseignée et certifiée par l'éditeur du ou des services concernés de la version définitive
 de l'œuvre audiovisuelle.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-
-###### Article 311-35
-
-La durée cumulée d'une œuvre audiovisuelle conçue pour les services à la demande s'entend de la durée de l'ensemble des
-séquences d'images animées, sonorisées ou non, la composant lorsqu'elle est unitaire ou composant chacun de ses épisodes
-lorsqu'il s'agit d'une série, tels que mis à disposition du public, à l'exclusion de toute réplication de ces séquences.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 33, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 32, v. init.
 
 
 ###### Article 311-36
@@ -32722,27 +32900,27 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-Paragraphe 2 : Modalités générales de calcul<a id=519></a>
+##### Sous-Paragraphe 2 : Modalités générales de calcul<a id=516></a>
 
 ###### Article 311-37
 
 Les sommes représentant les aides financières automatiques auxquelles peuvent prétendre les entreprises de production sont
 calculées en fonction de la valeur de la minute produite, dénommée " point minute ", définie comme le rapport existant entre,
-d'une part, le montant des crédits affectés aux aides automatiques, hors avances, et, d'autre part, la durée pondérée ou la
-durée cumulée pondérée des œuvres inscrites sur la liste des œuvres de référence.
+d'une part, le montant des crédits affectés aux aides automatiques, hors avances, et, d'autre part, la durée pondérée des
+œuvres inscrites sur la liste des œuvres de référence.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 34, v. init.
 
 
 ###### Article 311-38
 
-La durée pondérée ou la durée cumulée pondérée est fixée pour chaque genre d'œuvres audiovisuelles. 
+La durée pondérée est fixée pour chaque genre d'œuvres audiovisuelles.
 
-Elle peut donner lieu, selon les cas, à des bonifications ou à des majorations  en fonction notamment des conditions de
+Elle peut donner lieu, selon les cas, à des bonifications ou à des majorations en fonction notamment des conditions de
 réalisation des œuvres, de leur destination et de leurs conditions de diffusion. Elle peut également faire l'objet d'une
 modulation dans le cas où la condition relative à la part minimale en numéraire de l'apport du ou des éditeurs de services de
 télévision n'est pas remplie.
@@ -32751,33 +32929,33 @@ télévision n'est pas remplie.
 
 _Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 17, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 35, v. init.
 
 
 ###### Article 311-39
 
 Pour chaque œuvre de référence, la somme représentant l'aide financière automatique calculée est obtenue en multipliant la
-valeur du point minute par sa durée pondérée ou sa durée cumulée pondérée.
+valeur du point minute par sa durée pondérée.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 36, v. init.
 
 
 ###### Article 311-40
 
 Lorsque deux œuvres sont réalisées simultanément à partir d'éléments artistiques et techniques communs, l'une destinée à une
 première exploitation en salles de spectacles cinématographiques, l'autre, plus longue, destinée à une première diffusion sur
-un service de télévision ou à une mise à disposition du public sur un service à la demande, seule la différence de durée
-entre ces deux œuvres est prise en considération pour le calcul.
+un service de télévision ou à une mise à disposition du public sur un   service de médias audiovisuels à la demande, seule la
+différence de durée entre ces deux œuvres est prise en considération pour le calcul.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 
 ###### Article 311-41
@@ -32792,25 +32970,25 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-Paragraphe 3 : Modalités de calcul pour la fiction, l'animation et l'adaptation audiovisuelle de spectacle vivant<a id=520></a>
+##### Sous-Paragraphe 3 : Modalités de calcul pour la fiction, l'animation et l'adaptation audiovisuelle de spectacle vivant<a id=517></a>
 
 ###### Article 311-42
 
-La durée pondérée ou la durée cumulée pondérée des œuvres audiovisuelles appartenant aux genres fiction, animation et
-adaptation audiovisuelle de spectacle vivant, est égale au produit de la durée ou de la durée cumulée de l'œuvre et d'un
-coefficient fixé en fonction du montant des dépenses horaires françaises.
+La durée pondérée des œuvres audiovisuelles appartenant aux genres fiction, animation et adaptation audiovisuelle de
+spectacle vivant, est égale au produit de la durée de l'œuvre et d'un coefficient fixé en fonction du montant des dépenses
+horaires françaises.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 37, v. init.
 
 
 ###### Article 311-43
 
-Le montant des dépenses horaires françaises est calculé en rapportant à une durée ou à une durée cumulée de 60 minutes le
-montant des dépenses suivantes effectuées en France : 
+Le montant des dépenses horaires françaises est calculé en rapportant à une durée de 60 minutes le montant des dépenses
+suivantes effectuées en France :
 
 1° Rémunérations et charges sociales des auteurs, artistes-interprètes, techniciens collaborateurs de création, techniciens
 collaborateurs chargés de la préparation et de la fabrication de l'animation et ouvriers de la production qui sont soit de
@@ -32818,7 +32996,7 @@ nationalité française, soit ressortissants d'un Etat membre de l'Union europé
 l'Espace économique européen, d'un Etat partie à la Convention européenne sur la télévision transfrontière du Conseil de
 l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au
 secteur audiovisuel, et pour lesquels les cotisations sociales sont acquittées auprès des organismes régis par le code de la
-sécurité sociale. 
+sécurité sociale.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
@@ -32826,27 +33004,27 @@ document équivalent délivré par un Etat membre de l'Union européenne ou un a
 
 Lorsque les techniciens et ouvriers précités sont employés à titre permanent, seuls sont pris en compte les salaires et
 charges sociales correspondant à la période durant laquelle ces personnels ont été effectivement employés à la production de
-l'œuvre concernée  ;
+l'œuvre concernée ;
 
 2° Dépenses liées à des prestations effectuées par des industries techniques établies en France et qui y effectuent
-personnellement et intégralement ces prestations ; 
+personnellement et intégralement ces prestations ;
 
 3° Dépenses liées à des prestations effectuées par des prestataires spécialisés dans les travaux de préparation et de
-fabrication de l'animation établis en France et qui y effectuent personnellement et intégralement ces prestations ; 
+fabrication de l'animation établis en France et qui y effectuent personnellement et intégralement ces prestations ;
 
 4° Dépenses techniques et autres dépenses non forfaitaires directement liées au tournage et à la post-production, effectuées
 en France. Pour les œuvres appartenant au genre animation, les dépenses techniques incluent les dépenses de matériels
 techniques nécessaires à la fabrication des images, à savoir les dépenses de matériels de prise de vues et d'éclairage, ainsi
 que les dépenses d'équipements, de fournitures, de matériels et logiciels informatiques directement affectés à la mise en
-place et à la fabrication de l'animation ; 
+place et à la fabrication de l'animation ;
 
-5° Dépenses liées à l'acquisition de droits artistiques, effectuées en France ; 
+5° Dépenses liées à l'acquisition de droits artistiques, effectuées en France ;
 
 6° Dépenses de conception graphique et de production technique directement liées à la création des œuvres audiovisuelles
-conçues pour les services à la demande, à l'exception de celles liées à la diffusion, au stockage, à l'habillage ou à la mise
-en ligne ;
+destinées aux services de médias audiovisuels à la demande, à l'exception de celles liées à la diffusion, au stockage, à
+l'habillage ou à la mise en ligne ;
 
-7° Pour les œuvres appartenant au genre animation, frais financiers et frais d'assurance liés à la production de l'œuvre. 
+7° Pour les œuvres appartenant au genre animation, frais financiers et frais d'assurance liés à la production de l'œuvre.
 
 Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant, le coût du plateau artistique est regardé
 comme dépense horaire française pour l'ensemble des ayants droit le composant. En outre, n'est pas prise en compte, au titre
@@ -32858,72 +33036,71 @@ coproduction par le producteur de spectacle.
 
 _Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 18, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 38, v. init.
 
 
 ###### Article 311-44
 
-Les coefficients applicables au titre des œuvres appartenant au genre fiction sont déterminés dans les conditions
-suivantes : 
+Les coefficients applicables au titre des œuvres appartenant au genre fiction sont déterminés dans les conditions suivantes :
 
-I.-Les œuvres sont réparties en deux groupes : 
+I. - Les œuvres sont réparties en deux groupes :
 
-1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 460 000 € ; 
+1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 460 000 € ;
 
 2° Deuxième groupe : œuvres dont le montant des dépenses horaires françaises est inférieur à 460 000 € et supérieur ou égal à
-60 000 €. 
+60 000 €.
 
-II.-Les coefficients appliqués à la durée ou à la durée cumulée des œuvres sont les suivants : 
+II. - Les coefficients appliqués à la durée des œuvres sont les suivants :
 
-1° Premier groupe : 3 ; 
+1° Premier groupe : 3 ;
 
 2° Deuxième groupe : le coefficient varie entre 3 et 0,5 proportionnellement au montant des dépenses horaires françaises. Ce
-coefficient est arrondi aux quatre chiffres après la virgule. 
+coefficient est arrondi aux quatre chiffres après la virgule.
 
-III.-Pour les séries, les coefficients prévus au II sont réduits de :
+III. - Pour les séries, les coefficients prévus au II sont réduits de :
 
 - 10 % pour le nombre de minutes produites supérieur à 2 500 et inférieur ou égal à 5 000 ;
 
 - 20 % pour le nombre de minutes produites supérieur à 5 000 et inférieur ou égal à 7 500 ;
 
-- 30 % pour le nombre de minutes produites supérieur à 7 500. 
+- 30 % pour le nombre de minutes produites supérieur à 7 500.
 
-IV.-Pour les séries relevant du premier groupe mentionné au I, le coefficient applicable est bonifié de 25 % au titre des 600
-premières minutes produites lorsque : 
+IV. - Pour les séries relevant du premier groupe mentionné au I, le coefficient applicable est bonifié de 25 % au titre des
+600 premières minutes produites lorsque :
 
-1° La durée de chaque épisode est comprise entre 45 et 52 minutes ; 
+1° La durée de chaque épisode est comprise entre 45 et 52 minutes ;
 
 2° Les œuvres font l'objet d'un contrat de préachat ou de coproduction avec un éditeur de services de télévision portant sur
-la production d'un nombre d'épisodes correspondant à une durée minimale de 300 minutes. 
+la production d'un nombre d'épisodes correspondant à une durée minimale de 300 minutes.
 
-V.-Le montant de la rémunération et des charges sociales de chaque artiste-interprète est pris en compte jusqu'à 10 % maximum
-du montant des dépenses horaires françaises.
+V. - Le montant de la rémunération et des charges sociales de chaque artiste-interprète est pris en compte jusqu'à 10 %
+maximum du montant des dépenses horaires françaises.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 39, v. init.
 
 
 ###### Article 311-45
 
 Les coefficients applicables au titre des œuvres appartenant au genre animation sont déterminés dans les conditions
-suivantes : 
+suivantes :
 
-I.-Les œuvres sont réparties en deux groupes : 
+I.-Les œuvres sont réparties en deux groupes :
 
-1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 350 000 € ; 
+1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 350 000 € ;
 
 2° Deuxième groupe : œuvres dont le montant des dépenses horaires françaises est inférieur à 350 000 € et supérieur à 122 000
-€. 
+€.
 
-II.-Les coefficients appliqués à la durée ou à la durée cumulée des œuvres sont les suivants : 
+II. - Les coefficients appliqués à la durée des œuvres sont les suivants :
 
-1° Premier groupe : 3,7 ; 
+1° Premier groupe : 3,7 ;
 
 2° Deuxième groupe : le coefficient varie entre 3,7 et 1,3 proportionnellement au montant des dépenses horaires françaises.
-Ce coefficient est arrondi aux quatre chiffres après la virgule. 
+Ce coefficient est arrondi aux quatre chiffres après la virgule.
 
 III. - Les coefficients prévus au II sont bonifiés de 20 % lorsque les œuvres obtiennent cumulativement un nombre minimum de
 30 points au titre du groupe "Création" et un nombre minimum de 36 points au titre du groupe "Fabrication" sur le barème
@@ -33040,7 +33217,7 @@ dépenses horaires françaises dans la limite de 10 000 € par heure.
 
 _Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 19, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 39, v. init.
 
 _Cité par_:
 
@@ -33053,18 +33230,18 @@ _Cité par_:
 ###### Article 311-46
 
 Les coefficients applicables au titre des œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant sont
-déterminés dans les conditions suivantes : 
+déterminés dans les conditions suivantes :
 
-I.-Les œuvres sont réparties en deux groupes : 
+I. - Les œuvres sont réparties en deux groupes :
 
-1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 400 000 € ; 
+1° Premier groupe : œuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 400 000 € ;
 
 2° Deuxième groupe : œuvres dont le montant des dépenses horaires françaises est inférieur à 400 000 € et supérieur ou égal à
-54 000 €. 
+54 000 €.
 
-II.-Les coefficients appliqués à la durée ou à la durée cumulée des œuvres sont les suivants : 
+II. - Les coefficients appliqués à la durée des œuvres sont les suivants :
 
-1° Premier groupe : 3 ; 
+1° Premier groupe : 3 ;
 
 2° Deuxième groupe : le coefficient varie entre 3 et 0,54 proportionnellement au montant des dépenses horaires françaises. Ce
 coefficient est arrondi aux quatre chiffres après la virgule.
@@ -33073,15 +33250,15 @@ coefficient est arrondi aux quatre chiffres après la virgule.
 
 _Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 20, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 39, v. init.
 
 
 ###### Article 311-46-1
 
 Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant, lorsque les sommes calculées excèdent un
 plafond correspondant à deux fois et demi le montant de l'apport en numéraire du ou des éditeurs de services de télévision ou
-le montant de l'apport en numéraire du ou des éditeurs de services à la demande, elles ne sont retenues qu'à concurrence de
-ce plafond.
+le montant de l'apport en numéraire du ou des éditeurs de   services de médias audiovisuels à la demande, elles ne sont
+retenues qu'à concurrence de ce plafond. 
 
 Pour la détermination du plafond, sont également pris en compte les apports en numéraire provenant d'un ou plusieurs éditeurs
 de services de télévision établis à l'étranger réalisés sous forme de contrats d'achat de droits de diffusion conclus avant
@@ -33090,30 +33267,24 @@ avec le détenteur du mandat de commercialisation ou le cessionnaire de droits d
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 21, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 
-##### Sous-Paragraphe 4 : Modalités de calcul pour le documentaire de création<a id=521></a>
+##### Sous-Paragraphe 4 : Modalités de calcul pour le documentaire de création<a id=518></a>
 
 ###### Article 311-47
 
-La durée pondérée ou la durée cumulée pondérée des œuvres audiovisuelles appartenant au genre documentaire de création est
-égale au produit de la durée ou de la durée cumulée de l'œuvre et d'un coefficient fixé en fonction de l'apport horaire en
-numéraire du ou des éditeurs de services de télévision ou du ou des éditeurs de services à la demande et, le cas échéant, des
-autres entreprises et organismes mentionnés au 2° de l'article 311-12, ainsi que de la durée totale ou de la durée cumulée
-totale de l'œuvre.
+La durée pondérée des œuvres audiovisuelles appartenant au genre documentaire de création est égale au produit de la durée de
+l'œuvre et d'un coefficient fixé en fonction de l'apport horaire en numéraire du ou des éditeurs de services de télévision ou
+du ou des éditeurs de services de médias audiovisuels à la demande, ainsi que de la durée totale de l'œuvre.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 311-12 (V)
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 40, v. init.
 
 
 ###### Article 311-48
@@ -33131,7 +33302,7 @@ I.-Les œuvres sont réparties en trois groupes :
 3° Troisième groupe : œuvres pour lesquelles l'apport horaire en numéraire est inférieur à 25 000 € et supérieur ou égal à 12
 000 €.
 
-II.-Les coefficients appliqués à la durée ou à la durée cumulée des œuvres sont les suivants :
+II.-Les coefficients appliqués à la durée des œuvres sont les suivants :
 
 1° Premier groupe : 1,1 ;
 
@@ -33145,11 +33316,11 @@ III. - A. - Les coefficients prévus au II peuvent être bonifiés dans les cas 
 1° L'œuvre a bénéficié d'une aide à l'écriture ou au développement, autre qu'une aide automatique à la préparation, d'un
 montant minimum de 3 000 €, attribuée par une personne publique ou privée ou dans le cadre du sous-programme “MEDIA”
 mentionné au e du 5°, ou a fait l'objet d'un apport horaire en numéraire d'un montant minimum de 6 000 € dans le cadre d'une
-convention d'écriture ou de développement avec un éditeur de services de télévision ou un éditeur de services à la demande,
-établi en France. Cette convention est conclue au moins trois mois avant le début des prises de vues, ou pour les œuvres
-intégralement composées d'images préexistantes, au moins trois mois avant le début du montage. Pour les séries dont la durée
-cumulée des épisodes est supérieure à 156 minutes, le montant minimum de l'apport en numéraire est fixé forfaitairement à 18
-000 €.
+convention d'écriture ou de développement avec un éditeur de services de télévision ou un éditeur de services de médias
+audiovisuels à la demande, établi en France. Cette convention est conclue au moins trois mois avant le début des prises de
+vues, ou pour les œuvres intégralement composées d'images préexistantes, au moins trois mois avant le début du montage. Pour
+les séries dont la durée des épisodes est supérieure à 156 minutes, le montant minimum de l'apport en numéraire est fixé
+forfaitairement à 18 000 €.
 
 Dans ce cas, les coefficients sont augmentés de 0,1 lorsque l'œuvre a bénéficié d'une aide ou d'un apport et de 0,2 lorsque
 l'œuvre a bénéficié d'au moins deux aides ou apports ;
@@ -33157,9 +33328,9 @@ l'œuvre a bénéficié d'au moins deux aides ou apports ;
 2° Une musique originale a été spécialement créée pour l'œuvre et donne lieu, en application de contrats conclus avec
 l'entreprise de production déléguée établie en France, à une rémunération minimale cumulée du ou des auteurs et du ou des
 artistes-interprètes de 3 000 € hors charges sociales, pour une œuvre d'une durée d'une heure. Pour les séries dont la durée
-cumulée des épisodes est supérieure à 156 minutes, cette rémunération minimale est de 2 400 € pour une durée cumulée d'une
-heure. Pour une œuvre d'une durée différente, la rémunération minimale est déterminée prorata temporis. La musique originale
-est utilisée pour une durée significative dans l'œuvre.
+des épisodes est supérieure à 156 minutes, cette rémunération minimale est de 2 400 € pour une durée d'une heure. Pour une
+œuvre d'une durée différente, la rémunération minimale est déterminée prorata temporis. La musique originale est utilisée
+pour une durée significative dans l'œuvre.
 
 Dans ce cas, les coefficients sont augmentés de 0,1 ;
 
@@ -33173,12 +33344,12 @@ en compte.
 
 Le ou les chefs monteurs peuvent soit être engagés par l'entreprise de production déléguée établie en France et rémunérés
 conformément à la convention collective nationale de la production audiovisuelle, soit être engagés par un éditeur de
-services de télévision ou de services à la demande, mentionné à l'article 311-8 ou à l'article 311-9, et rémunérés
-conformément aux conventions et accords collectifs applicables dans les secteurs concernés.
+services de télévision ou de services de médias audiovisuels à la demande, mentionné à l'article 311-8 ou à l'article 311-9,
+et rémunérés conformément aux conventions et accords collectifs applicables dans les secteurs concernés.
 
-4° Le nombre de pays étrangers pour lesquels un éditeur de services de télévision ou de services à la demande a conclu, au
-plus tard trois mois après la date d'achèvement de l'œuvre, un contrat pour l'exploitation de l'œuvre atteint un seuil
-minimum. Le contrat peut être conclu :
+4° Le nombre de pays étrangers pour lesquels un éditeur de services de télévision ou de services de médias audiovisuels à la
+demande a conclu, au plus tard trois mois après la date d'achèvement de l'œuvre, un contrat pour l'exploitation de l'œuvre
+atteint un seuil minimum. Le contrat peut être conclu :
 
 a) Soit avec l'entreprise de production déléguée établie en France ;
 
@@ -33195,8 +33366,8 @@ nombre est supérieur ou égal à 5.
 5° L'entreprise de production déléguée établie en France a obtenu, pour la production de l'œuvre et avant la date de son
 achèvement, au moins deux financements en numéraire parmi les financements suivants :
 
-a) Financement provenant d'un éditeur de services de télévision ou d'un éditeur de services à la demande, autre que ceux qui
-ont contribué à l'apport initial prévu aux articles 311-10 et 311-11 ou à l'article 311-12 et répondant aux conditions
+a) Financement provenant d'un éditeur de services de télévision ou d'un éditeur de services de médias audiovisuels à la
+demande, autre que ceux qui ont contribué à l'apport initial prévu aux articles 311-10 et 311-11 et répondant aux conditions
 suivantes :
 
 - être établi en France ;
@@ -33232,8 +33403,8 @@ durée différente, le montant minimum est déterminé prorata temporis.
 Dans ce cas, les coefficients sont augmentés de 0,1.
 
 6° Le nombre de jours de travail du ou des réalisateurs atteint un seuil minimum déterminé en fonction du montant de l'apport
-horaire en numéraire du ou des éditeurs de services de télévision ou du ou des éditeurs de services à la demande, selon les
-modalités suivantes :
+horaire en numéraire du ou des éditeurs de services de télévision ou du ou des éditeurs de services de médias audiovisuels à
+la demande, selon les modalités suivantes :
 
 a) 35 jours lorsque l'apport est inférieur à 25 000 € ;
 
@@ -33247,7 +33418,7 @@ Le nombre de jours minimum s'applique pour une œuvre d'une durée de 52 minutes
 nombre de jours minimum est déterminé prorata temporis.
 
 Pour une œuvre unitaire, un seul réalisateur est pris en compte. Pour une série, un seul réalisateur par épisode est pris en
-compte et le nombre de jours minimum est diminué de 20 % lorsque la durée cumulée des épisodes est supérieure à 156 minutes.
+compte et le nombre de jours minimum est diminué de 20 % lorsque la durée des épisodes est supérieure à 156 minutes.
 
 Dans ce cas, les coefficients sont augmentés de 0,1.
 
@@ -33280,16 +33451,11 @@ aux conditions suivantes :
 A. - Donner lieu à un coefficient bonifié dans les conditions prévues au B du III ;
 
 B - Avoir bénéficié d'un apport horaire en numéraire provenant d'un ou plusieurs éditeurs de services de télévision ou d'un
-ou plusieurs éditeurs de services à la demande, établis en France ou à l'étranger, supérieur ou égal à 100 000 €. Lorsque
-l'éditeur de services de télévision ou l'éditeur de services à la demande est établi à l'étranger, le contrat d'achat de
-droits de diffusion est conclu avant la date d'achèvement de l'œuvre, soit directement avec l'entreprise de production
-déléguée établie en France, soit avec le détenteur du mandat de commercialisation ou le cessionnaire de droits pour
-l'exploitation de l'œuvre à l'étranger.
-
-Pour le respect de cette condition, outre les apports en numéraire des éditeurs de services précités, sont également pris en
-compte les apports en numéraire provenant d'autres entreprises ou organismes établis en France mentionnés au 2° de l'article
-311-12, dans le cadre d'un contrat d'achat de droits d'exploitation non commerciale conclu avant la date d'achèvement de
-l'œuvre, hors parts de producteur et hors subventions ;
+ou plusieurs éditeurs de services de médias audiovisuels à la demande, établis en France ou à l'étranger, supérieur ou égal à
+100 000 €. Lorsque l'éditeur de services de télévision ou l'éditeur de services de médias audiovisuels à la demande est
+établi à l'étranger, le contrat d'achat de droits de diffusion est conclu avant la date d'achèvement de l'œuvre, soit
+directement avec l'entreprise de production déléguée établie en France, soit avec le détenteur du mandat de commercialisation
+ou le cessionnaire de droits pour l'exploitation de l'œuvre à l'étranger.
 
 C - Enrichir significativement le récit par l'intégration d'images d'archives, de séquences d'animation, de séquences de
 fiction ou d'autres séquences d'images animées, de photographies, ou par l'utilisation de techniques stéréoscopiques ou
@@ -33319,6 +33485,7 @@ suivant celui de la date d'entrée en vigueur de la présente délibération.
 
 _Modifié par_:
 
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
   - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 41, v. init.
 
 _Cité par_:
@@ -33327,7 +33494,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 311-97 (VD)
 
 
-##### Paragraphe 3 : Inscription sur le compte des sommes calculées<a id=522></a>
+##### Paragraphe 3 : Inscription sur le compte des sommes calculées<a id=519></a>
 
 ###### Article 311-49
 
@@ -33353,25 +33520,24 @@ _Modifié par_:
 ###### Article 311-50
 
 Les sommes inscrites sur le compte automatique des entreprises de production sont majorées de 25 % lorsque les œuvres de
-référence répondent aux conditions suivantes : 
+référence répondent aux conditions suivantes :
 
-1° Pour les œuvres appartenant au genre fiction, documentaire de création ou adaptation audiovisuelle de spectacle vivant : 
-
-a) Avoir été réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale
-en usage en France ; 
-
-b) Avoir fait l'objet de dépenses de production en France pour au moins 80 % de leur coût définitif ; 
-
-c) Avoir fait l'objet de dépenses de production en France pour au moins 80 % du coût correspondant aux catégories de postes
-suivantes : droits artistiques hors acquisition de droits d'exploitation d'images d'archives, personnels techniques et
-charges sociales afférentes, artistes-interprètes et charges sociales afférentes, décors et costumes, moyens techniques ; 
-
-2° Pour les œuvres appartenant au genre animation : 
+1° Pour les œuvres appartenant au genre fiction, documentaire de création ou adaptation audiovisuelle de spectacle vivant :
 
 a) Avoir été réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale
-en usage en France ; 
+en usage en France ;
 
-b) Avoir fait l'objet de dépenses horaires françaises pour un montant supérieur ou égal à 350 000 € ; 
+b) Avoir fait l'objet de dépenses de production en France pour au moins 80 % de l'ensemble des dépenses suivantes directement
+liées à la production : droits artistiques hors acquisition de droits d'exploitation d'images d'archives, personnels
+techniques et charges sociales afférentes, artistes-interprètes et charges sociales afférentes, décors et costumes, moyens
+techniques ;
+
+2° Pour les œuvres appartenant au genre animation :
+
+a) Avoir été réalisées intégralement ou principalement en version originale en langue française ou dans une langue régionale
+en usage en France ;
+
+b) Avoir fait l'objet de dépenses horaires françaises pour un montant supérieur ou égal à 350 000 € ;
 
 c) Obtenir un nombre minimum de 30 points au titre du groupe " Création " et un nombre minimum de 45 points au titre du
 groupe " Fabrication " sur le barème prévu, selon les conditions de réalisation de l'œuvre, au A ou au B de l'article 311-45.
@@ -33380,7 +33546,7 @@ groupe " Fabrication " sur le barème prévu, selon les conditions de réalisati
 
 _Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 24, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 42, v. init.
 
 _Cite_:
 
@@ -33484,7 +33650,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 4 : Affectation des sommes inscrites sur le compte<a id=523></a>
+##### Paragraphe 4 : Affectation des sommes inscrites sur le compte<a id=520></a>
 
 ###### Article 311-56
 
@@ -33508,19 +33674,20 @@ _Créé par_:
 
 ###### Article 311-57
 
-Les  documentaires de création doivent, en ce qui concerne l'investissement  pour la production, être financés par un apport
-horaire en numéraire  d'un ou plusieurs éditeurs de services de télévision ou par un apport  horaire en numéraire d'un ou
-plusieurs éditeurs de services à la  demande, supérieur ou égal à 12 000 €.
+Les documentaires de création doivent, en ce qui concerne l'investissement pour la production, être financés par un apport
+horaire en numéraire d'un ou plusieurs éditeurs de services de télévision ou par un apport horaire en numéraire d'un ou
+plusieurs éditeurs de services de médias audiovisuels à la demande, supérieur ou égal à 12 000 €.
 
 Lorsque les documentaires de création sont destinés à être insérés au sein de cases de programmation consacrées à la
-diffusion de magazines autres que ceux mentionnés au 2° de l'article 311-92, leur durée ou leur durée cumulée, par œuvre
-unitaire ou par épisode, doit être supérieure ou égale à 45 minutes.
+diffusion de magazines autres que ceux mentionnés au 2° de l'article 311-92, leur durée, par œuvre unitaire ou par épisode,
+doit être supérieure ou égale à 45 minutes.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 8, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 43, v. init.
 
 _Cite_:
 
@@ -33529,20 +33696,21 @@ _Cite_:
 
 ###### Article 311-57-1
 
-Les adaptations audiovisuelles de spectacle vivant doivent, en ce qui concerne l'investissement pour la production :
+Les adaptations audiovisuelles de spectacle vivant doivent, en ce qui concerne l'investissement pour la production : 
 
 1° Etre financées par un apport horaire en numéraire d'un ou plusieurs éditeurs de services de télévision ou par un apport
-horaire en numéraire d'un ou plusieurs éditeurs de services à la demande, supérieur ou égal à 15 000 € ;
+horaire en numéraire d'un ou plusieurs éditeurs de   services de médias audiovisuels à la demande, supérieur ou égal à 15 000
+€ ; 
 
-2° Faire l'objet d'un montant de dépenses horaires françaises supérieur ou égal à 54 000 € ;
+2° Faire l'objet d'un montant de dépenses horaires françaises supérieur ou égal à 54 000 € ; 
 
 3° Satisfaire à un niveau de qualité artistique et technique apprécié en fonction d'un nombre minimum de jours de travail
-fixé à :
+fixé à : 
 
-a) 26 jours lorsque la durée de l'œuvre est supérieure à 60 minutes ;
+a) 26 jours lorsque la durée de l'œuvre est supérieure à 60 minutes ; 
 
 b) 20 jours lorsque la durée de l'œuvre est inférieure ou égale à 60 minutes ou lorsque l'œuvre porte sur des musiques dites
-"musiques actuelles".
+" musiques actuelles ". 
 
 Le nombre minimum de jours de travail est comptabilisé sur l'ensemble des postes de création et de production suivants :
 réalisateur, chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller
@@ -33550,18 +33718,18 @@ musical.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 25, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. 311-92 (VD)
 
 
-##### Paragraphe 5 : Investissement pour la production des sommes inscrites sur le compte et avances<a id=524></a>
+##### Paragraphe 5 : Investissement pour la production des sommes inscrites sur le compte et avances<a id=521></a>
 
-##### Sous-Paragraphe 1 : Investissement pour la production<a id=525></a>
+##### Sous-Paragraphe 1 : Investissement pour la production<a id=522></a>
 
 ###### Article 311-58
 
@@ -33659,20 +33827,20 @@ _Cité par_:
 ###### Article 311-62
 
 La date d'achèvement de l'œuvre est celle figurant sur l'attestation de l'acceptation de l'œuvre par le ou les éditeurs de
-services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en
-assurer la mise à disposition du public. 
+services de télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services de médias audiovisuels à la
+demande chargés d'en assurer la mise à disposition du public.
 
 Le délai de quatre mois est porté à six mois lorsque le coût définitif de l'œuvre doit faire l'objet d'une certification par
 un commissaire aux comptes, ainsi qu'en cas de coproduction internationale.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 
-##### Sous-Paragraphe 2 : Avances à la production<a id=526></a>
+##### Sous-Paragraphe 2 : Avances à la production<a id=523></a>
 
 ###### Article 311-63
 
@@ -33767,7 +33935,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 6 : Investissement pour la préparation des sommes inscrites sur le compte<a id=527></a>
+##### Paragraphe 6 : Investissement pour la préparation des sommes inscrites sur le compte<a id=524></a>
 
 ###### Article 311-69
 
@@ -33896,19 +34064,23 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 7 : Dispositions diverses<a id=528></a>
+##### Paragraphe 7 : Dispositions diverses<a id=525></a>
 
 ###### Article 311-78
 
-Pour les œuvres appartenant au genre documentaire de création, lorsque la durée ou la durée cumulée, par œuvre unitaire ou
-par épisode, est inférieure à 24 minutes, les aides financières automatiques sont attribuées après avis de la commission
-spécialisée compétente pour l'attribution des aides sélectives.
+Pour les œuvres appartenant au genre documentaire de création, lorsque la durée, par œuvre unitaire ou par épisode, est
+inférieure à 24 minutes, les aides financières automatiques sont attribuées après avis de la commission spécialisée
+compétente pour l'attribution des aides sélectives.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 44, v. init.
+
+_Abrogé par_:
+
+  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 28, v. init.
 
 
 ###### Article 311-79
@@ -33964,7 +34136,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 311-48 (VT)
 
 
-##### Paragraphe 8 : Dispositions particulières aux aides financières automatiques à la production de vidéomusiques<a id=529></a>
+##### Paragraphe 8 : Dispositions particulières aux aides financières automatiques à la production de vidéomusiques<a id=526></a>
 
 ###### Article 311-82
 
@@ -33983,7 +34155,7 @@ _Abrogé par_:
   - Délibération n°2017/CA/41 - art. 8, v. init.
 
 
-##### Sous-Paragraphe 1 : Compte automatique des entreprises de production<a id=530></a>
+##### Sous-Paragraphe 1 : Compte automatique des entreprises de production<a id=527></a>
 
 ###### Article 311-83
 
@@ -34028,7 +34200,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 311-3 (V)
 
 
-##### Sous-Paragraphe 2 : Calcul et inscription des sommes sur le compte<a id=531></a>
+##### Sous-Paragraphe 2 : Calcul et inscription des sommes sur le compte<a id=528></a>
 
 ###### Article 311-85
 
@@ -34047,7 +34219,7 @@ _Abrogé par_:
   - Délibération n°2017/CA/41 - art. 8, v. init.
 
 
-##### Sous-Paragraphe 3 : Affectation des sommes inscrites sur le compte<a id=532></a>
+##### Sous-Paragraphe 3 : Affectation des sommes inscrites sur le compte<a id=529></a>
 
 ###### Article 311-86
 
@@ -34068,7 +34240,7 @@ _Abrogé par_:
   - Délibération n°2017/CA/41 - art. 8, v. init.
 
 
-##### Sous-Paragraphe 4 : Attribution des sommes inscrites sur le compte<a id=533></a>
+##### Sous-Paragraphe 4 : Attribution des sommes inscrites sur le compte<a id=530></a>
 
 ###### Article 311-87
 
@@ -34110,7 +34282,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 3-5 (Ab)
 
 
-##### Paragraphe 9 : Péremption des sommes inscrites sur le compte<a id=534></a>
+##### Paragraphe 9 : Péremption des sommes inscrites sur le compte<a id=531></a>
 
 ###### Article 311-89
 
@@ -34140,11 +34312,11 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=535></a>
+##### Section 3 : Aides financières sélectives<a id=532></a>
 
-##### Sous-section 1 : Aides à la production<a id=536></a>
+##### Sous-section 1 : Aides à la production<a id=533></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=537></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=534></a>
 
 ###### Article 311-91
 
@@ -34169,21 +34341,21 @@ _Créé par_:
 ###### Article 311-92
 
 Des aides financières sélectives sont également attribuées aux entreprises de production, qu'elles soient ou non titulaires
-d'un compte automatique, pour la production d'œuvres audiovisuelles appartenant aux genres suivants : 
+d'un compte automatique, pour la production d'œuvres audiovisuelles appartenant aux genres suivants :
 
-1° Documentaire de création ; 
+1° Documentaire de création ;
 
 Les documentaires de création éligibles sont ceux qui :
 
 a) Sont financés par un apport horaire en numéraire d'un ou plusieurs éditeurs de services de télévision ou d'un ou plusieurs
-éditeurs de services à la demande inférieur à 12 000 € ;
+éditeurs de services de médias audiovisuels à la demande inférieur à 12 000 € ;
 
 b) Sont destinés à être insérés au sein de cases de programmation consacrées à la diffusion de magazines autres que ceux
-mentionnés au 2° et dont la durée ou la durée cumulée, par œuvre unitaire ou par épisode, est inférieure à 45 minutes. 
+mentionnés au 2° et dont la durée, par œuvre unitaire ou par épisode, est inférieure à 45 minutes.
 
-2° Magazine, présentant un intérêt particulier d'ordre essentiellement culturel ; 
+2° Magazine, présentant un intérêt particulier d'ordre essentiellement culturel ;
 
-3° Adaptation audiovisuelle de spectacle vivant. 
+3° Adaptation audiovisuelle de spectacle vivant.
 
 Les adaptations audiovisuelles de spectacle vivant éligibles sont celles qui ne répondent pas à une ou plusieurs des
 conditions prévues à l'article 311-57-1.
@@ -34192,7 +34364,8 @@ conditions prévues à l'article 311-57-1.
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 10, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 45, v. init.
 
 _Cité par_:
 
@@ -34207,47 +34380,42 @@ _Cite_:
 ###### Article 311-92-1
 
 Pour les œuvres appartenant au genre documentaire de création, lorsque l'apport horaire en numéraire du ou des éditeurs de
-services de télévision ou de services à la demande est inférieur à 12 000 €, l'apport initial prévu aux articles 311-10 et
-311-11 ou à l'article 311-12 est réalisé, pour au moins 50 % de son montant, sous forme d'un contrat d'achats de droits de
-diffusion ou de mise à disposition du public conclu avant la fin des prises de vues, ou pour les œuvres intégralement
-composées d'images préexistantes, avant le début du montage.
-
-**Nota:**
-
-Conformément à l'article 16 de la délibération n° 2017/CA/02, les présentes dispositions s'appliquent aux demandes
-d'autorisation préalable enregistrées par le Centre national du cinéma et de l'image animée à compter du premier jour du mois
-suivant celui de la date d'entrée en vigueur de la présente délibération.
+services de télévision est inférieur à 12 000 €, l'apport initial prévu aux articles 311-10 et 311-11 est réalisé, pour au
+moins 50 % de son montant, sous forme d'un contrat d'achats de droits de diffusion ou de mise à disposition du public conclu
+avant la fin des prises de vues, ou pour les œuvres intégralement composées d'images préexistantes, avant le début du
+montage.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2017/CA/02 - art. 10, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 46, v. init.
 
 
 ###### Article 311-93
 
 Les bénéficiaires des aides sont des entreprises de production qui, outre les conditions générales mentionnées à l'article
-311-3, répondent aux conditions suivantes : 
+311-3, répondent aux conditions suivantes :
 
-1° Etre indépendantes de tout éditeur de services de télévision, selon les critères suivants : 
+1° Etre indépendantes de tout éditeur de services de télévision et de tout éditeur de services de médias audiovisuels à la
+demande, selon les critères suivants :
 
 a) L'éditeur de services ne détient pas, directement ou indirectement, plus de 15 % du capital social ou des droits de vote
-de l'entreprise de production ; 
+de l'entreprise de production ;
 
 b) L'entreprise de production ne détient pas, directement ou indirectement, plus de 15 % du capital social ou des droits de
-vote de l'éditeur de services ; 
+vote de l'éditeur de services ;
 
 c) Aucun associé ou groupe d'associés détenant, directement ou indirectement, au moins 15 % du capital social ou des droits
 de vote de l'éditeur de services ne détient, directement ou indirectement, plus de 15 % du capital social ou des droits de
-vote de l'entreprise de production ; 
+vote de l'entreprise de production ;
 
 d) Le ou les associés contrôlant, au sens de l'article L. 233-3 du code de commerce, l'entreprise de production, ne
-contrôlent pas, au sens du même article, l'éditeur de services. 
+contrôlent pas, au sens du même article, l'éditeur de services.
 
 2° Ne pas être contrôlées, au sens de l'article L. 233-3 du code de commerce, par une ou plusieurs entreprises de production
 titulaires d'un compte automatique. Cette condition n'est pas requise pour l'attribution des aides financières sélectives à
-la production accessibles aux entreprises de production titulaires d'un compte automatique ; 
+la production accessibles aux entreprises de production titulaires d'un compte automatique ;
 
 3° Ne pas être contrôlées, au sens de l'article L. 233-3 du code de commerce, par une ou plusieurs personnes physiques ou
 morales contrôlant, au sens du même article, une entreprise de production titulaire d'un compte automatique. Cette condition
@@ -34256,9 +34424,9 @@ production titulaires d'un compte automatique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 47, v. init.
 
 _Cite_:
 
@@ -34278,7 +34446,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=538></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=535></a>
 
 ###### Article 311-95
 
@@ -34430,9 +34598,9 @@ _Modifié par_:
   - DÉLIBÉRATION n°2015/CA/02 du 26 mars 2015 - art. 4, v. init.
 
 
-##### Sous-section 2 : Aides à la préparation<a id=539></a>
+##### Sous-section 2 : Aides à la préparation<a id=536></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=540></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=537></a>
 
 ###### Article 311-102
 
@@ -34457,34 +34625,35 @@ _Créé par_:
 ###### Article 311-103
 
 Les bénéficiaires des aides financières à la préparation sont des entreprises de production qui, outre les conditions
-générales mentionnées à l'article 311-3, répondent aux conditions suivantes : 
+générales mentionnées à l'article 311-3, répondent aux conditions suivantes :
 
-1° Etre indépendantes de tout éditeur de services de télévision, selon les critères suivants : 
+1° Etre indépendantes de tout éditeur de services de télévision et de tout éditeur de services de médias audiovisuels à la
+demande, selon les critères suivants :
 
 a) L'éditeur de services ne détient pas, directement ou indirectement, plus de 15 % du capital social ou des droits de vote
-de l'entreprise de production ; 
+de l'entreprise de production ;
 
 b) L'entreprise de production ne détient pas, directement ou indirectement, plus de 15 % du capital social ou des droits de
-vote de l'éditeur de services ; 
+vote de l'éditeur de services ;
 
 c) Aucun associé ou groupe d'associés détenant, directement ou indirectement, au moins 15 % du capital social ou des droits
 de vote de l'éditeur de services ne détient, directement ou indirectement, plus de 15 % du capital social ou des droits de
-vote de l'entreprise de production ; 
+vote de l'entreprise de production ;
 
 d) Le ou les associés contrôlant, au sens de l'article L. 233-3 du code de commerce, l'entreprise de production, ne
-contrôlent pas, au sens du même article, l'éditeur de services ; 
+contrôlent pas, au sens du même article, l'éditeur de services ;
 
 2° Ne pas être contrôlées, au sens de l'article L. 233-3 du code de commerce, par une ou plusieurs entreprises de production
-titulaires d'un compte automatique ; 
+titulaires d'un compte automatique ;
 
 3° Ne pas être contrôlées, au sens de l'article L. 233-3 du code de commerce, par une ou plusieurs personnes physiques ou
 morales contrôlant, au sens du même article, une entreprise de production titulaire d'un compte automatique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 47, v. init.
 
 _Cite_:
 
@@ -34540,7 +34709,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=541></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=538></a>
 
 ###### Article 311-106
 
@@ -34617,9 +34786,9 @@ _Créé par_:
   - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 32, v. init.
 
 
-##### Sous-section 3 : Aides spécifiques à la production de "pilotes"<a id=542></a>
+##### Sous-section 3 : Aides spécifiques à la production de "pilotes"<a id=539></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=543></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=540></a>
 
 ###### Article 311-110
 
@@ -34637,7 +34806,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=544></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=541></a>
 
 ###### Article 311-111
 
@@ -34693,9 +34862,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 4 : Aides spécifiques à la production de vidéomusiques<a id=545></a>
+##### Sous-section 4 : Aides spécifiques à la production de vidéomusiques<a id=542></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=546></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=543></a>
 
 ###### Article 311-114
 
@@ -34773,7 +34942,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 3-12 (V)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=547></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=544></a>
 
 ###### Article 311-120
 
@@ -34873,9 +35042,9 @@ _Abrogé par_:
   - Délibération n°2017/CA/41 - art. 9, v. init.
 
 
-##### Sous-section 5 : Commissions consultatives<a id=548></a>
+##### Sous-section 5 : Commissions consultatives<a id=545></a>
 
-##### Paragraphe 1 : Commissions des aides à la production et à la préparation<a id=549></a>
+##### Paragraphe 1 : Commissions des aides à la production et à la préparation<a id=546></a>
 
 ###### Article 311-126
 
@@ -34936,7 +35105,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 311-127 (V)
 
 
-##### Paragraphe 2 : Commission des aides aux vidéomusiques<a id=550></a>
+##### Paragraphe 2 : Commission des aides aux vidéomusiques<a id=547></a>
 
 ###### Article 311-129
 
@@ -34952,9 +35121,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre II : Aides financières à l'élaboration et au développement de projets d'œuvres audiovisuelles<a id=551></a>
+#### Chapitre II : Aides financières à l'élaboration et au développement de projets d'œuvres audiovisuelles<a id=548></a>
 
-##### Section unique : Aides financières sélectives<a id=552></a>
+##### Section unique : Aides financières sélectives<a id=549></a>
 
 ###### Article 312-1
 
@@ -34987,9 +35156,9 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 3, v. init.
 
 
-##### Sous-section 1 : Aides au concept et à l'écriture<a id=553></a>
+##### Sous-section 1 : Aides au concept et à l'écriture<a id=550></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=554></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=551></a>
 
 ###### Article 312-2
 
@@ -34997,11 +35166,21 @@ Des aides financières sélectives sont attribuées aux auteurs pour la concepti
 d'une version élaborée de projets d'œuvres audiovisuelles. Pour l'application des dispositions de la présente sous-section
 ces aides sont dénommées ensemble " aides à la création ".
 
+Pour la conception d'une version formalisée de projets d'œuvres audiovisuelles de fiction, les aides peuvent également être
+attribuées conjointement aux auteurs et à leurs collaborateurs chargés d'apporter leur concours pour l'élaboration du travail
+de conception.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 5, v. init.
 
 _Cité par_:
 
@@ -35010,20 +35189,27 @@ _Cité par_:
 
 ###### Article 312-3
 
-Pour être admis au bénéfice des aides à la création, les auteurs ont, soit la nationalité française, soit sont ressortissants
-d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie
-à la Convention européenne sur la télévision transfrontière du Conseil de l'Europe ou d'un Etat tiers européen avec lequel la
-Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. 
+Pour être admis au bénéfice des aides à la création, les auteurs et, le cas échéant, leurs collaborateurs, ont, soit la
+nationalité française, soit sont ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur
+l'Espace économique européen, d'un Etat partie à la Convention européenne sur la télévision transfrontière du Conseil de
+l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au
+secteur audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
 économique européen, sont assimilés aux citoyens français.
 
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 6, v. init.
 
 
 ###### Article 312-4
@@ -35031,11 +35217,21 @@ _Créé par_:
 Les auteurs justifient d'une expérience ou d'une formation artistique avérée. En cas de pluralité d'auteurs, l'un d'entre eux
 au moins justifie de cette expérience ou de cette formation artistique.
 
+Les collaborateurs des auteurs justifient d'une expérience pratique significative dans le secteur de la création
+cinématographique ou audiovisuelle ou d'une expertise sur le sujet traité par le projet d'œuvre audiovisuelle à la conception
+duquel ils apportent leur concours.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 7, v. init.
 
 _Cité par_:
 
@@ -35044,38 +35240,44 @@ _Cité par_:
 
 ###### Article 312-5
 
-Sont retenues au titre de l'expérience artistique des auteurs : 
+Sont retenues au titre de l'expérience artistique des auteurs :
 
 1° L'écriture ou la réalisation d'une œuvre cinématographique ou audiovisuelle, appartenant au genre fiction, au genre
 animation ou au genre documentaire de création, sortie en salles de spectacles cinématographiques ou diffusée sur un service
-de télévision au cours des trois dernières années ; 
+de télévision ou sur un service de médias audiovisuels à la demande au cours des trois dernières années ;
 
 2° L'écriture ou la réalisation de deux œuvres cinématographiques ou audiovisuelles, appartenant au genre fiction, au genre
 animation ou au genre documentaire de création, sorties en salles de spectacles cinématographiques ou diffusées sur un
-service de télévision au cours des dix dernières années ; 
+service de télévision ou sur un service de médias audiovisuels à la demande au cours des dix dernières années ;
 
 3° L'écriture ou la réalisation de deux œuvres audiovisuelles, appartenant au genre fiction, au genre animation ou au genre
-documentaire de création, ayant fait l'objet de conventions de développement avec un éditeur de services de télévision au
-cours des cinq dernières années ; 
+documentaire de création, ayant fait l'objet de conventions de développement avec un éditeur de services de télévision ou un
+éditeur de services de médias audiovisuels à la demande au cours des cinq dernières années ;
 
 4° L'écriture ou la mise en scène d'une œuvre théâtrale ayant donné lieu à au moins vingt représentations commerciales au
 cours des cinq dernières années ou d'une œuvre radiophonique appartenant au genre fiction ou au genre documentaire de
-création, radiodiffusée au cours des cinq dernières années ; 
+création, radiodiffusée au cours des cinq dernières années ;
 
-5° L'écriture d'une œuvre littéraire de fiction publiée par un éditeur national au cours des cinq dernières années ; 
+5° L'écriture d'une œuvre littéraire de fiction publiée par un éditeur national au cours des cinq dernières années ;
 
-6° Une expérience significative pratique dans le secteur de la création cinématographique ou audiovisuelle, notamment en tant
+6° Une expérience pratique significative dans le secteur de la création cinématographique ou audiovisuelle, notamment en tant
 que technicien ou artiste-interprète ou à raison de la réalisation d'au moins deux œuvres cinématographiques ou
 audiovisuelles de courte durée ayant préalablement bénéficié soit d'une aide financière attribuée par le Centre national du
 cinéma et de l'image animée, soit d'une aide financière attribuée dans le cadre des conventions avec les collectivités
 territoriales mentionnées à l'article 113-1, ou ayant été sélectionnées dans le cadre d'un festival mentionné sur la liste
 prévue au 1° de l'article 411-52 au cours des cinq dernières années.
 
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 8, v. init.
 
 _Cite_:
 
@@ -35108,20 +35310,26 @@ _Créé par_:
 
 ###### Article 312-7
 
-Les aides à la création sont attribuées pour les projets d'œuvres audiovisuelles suivants : 
+Les aides à la création sont attribuées pour les projets d'œuvres audiovisuelles suivants :
 
-1° Les projets d'œuvres de fiction, soit sous forme d'unitaires d'une durée prévisionnelle minimale de 52 minutes, soit sous
-forme de séries ; 
+1° Les projets d'œuvres de fiction, soit sous forme d'unitaires d'une durée prévisionnelle minimale de 60 minutes, soit sous
+forme de séries ;
 
 2° Les projets d'œuvres d'animation soit sous forme d'unitaires d'une durée prévisionnelle minimale de 8 minutes, soit sous
-forme de séries. Toutefois, les unitaires d'une durée prévisionnelle inférieure à 26 minutes ne peuvent cumuler une aide au
-concept et une aide à l'écriture.
+forme de séries. Toutefois, les unitaires d'une durée prévisionnelle inférieure à 26 minutes ne peuvent bénéficier que d'une
+aide à l'écriture.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 9, v. init.
 
 
 ###### Article 312-8
@@ -35136,6 +35344,27 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
+###### Article 312-8-1
+
+Les projets ne doivent pas avoir été soumis à un éditeur de services de télévision ou à un éditeur de services de médias
+audiovisuels à la demande et acceptés par ce dernier antérieurement au dépôt de la demande.
+
+En outre, jusqu'à la décision du président du Centre national du cinéma et de l'image animée, les projets ne doivent pas être
+soumis à un éditeur de services de télévision ou à un éditeur de services de médias audiovisuels à la demande.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 10, v. init.
+
+
 ###### Article 312-9
 
 Un même projet ne peut, pour les mêmes dépenses, bénéficier à la fois des aides à la création et d'autres aides attribuées
@@ -35148,18 +35377,27 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=555></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=552></a>
 
 ###### Article 312-11
 
-La demande d'aide est présentée par un ou plusieurs auteurs ou, lorsque l'œuvre appartient au genre animation, conjointement
-par un ou plusieurs auteurs littéraires et un ou plusieurs auteurs graphiques.
+Pour les œuvres de fiction, la demande d'aide est présentée par un ou plusieurs auteurs avec, le cas échéant, un ou plusieurs
+collaborateurs.
+
+Pour les œuvres d'animation, la demande est présentée conjointement par un ou plusieurs auteurs littéraires et un ou
+plusieurs auteurs graphiques.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 12, v. init.
 
 
 ###### Article 312-12
@@ -35219,16 +35457,25 @@ _Créé par_:
 
 Lorsque la commission compétente émet un avis favorable sur une demande d'aide aux auteurs, son avis porte également, au vu
 des éléments fournis dans le dossier de demande, sur la forme d'aide la plus adaptée au projet entre une aide au concept et
-une aide à l'écriture. 
+une aide à l'écriture.
 
 L'aide est attribuée en tant qu'aide au concept lorsqu'il s'agit d'aboutir à une version formalisée du projet et en tant
 qu'aide à l'écriture lorsqu'il s'agit d'aboutir à une version élaborée du projet.
 
+Lorsque la commission se prononce en faveur d'une aide à l'écriture, elle peut également proposer la forme que pourrait
+prendre la version élaborée du projet.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 13, v. init.
 
 
 ###### Article 312-16
@@ -35280,32 +35527,47 @@ _Cite_:
 
 ###### Article 312-19
 
-L'aide est attribuée sous forme de subvention dont le montant est fixé selon les modalités suivantes : 
+L'aide est attribuée sous forme de subvention dont le montant est fixé selon les modalités suivantes :
 
-1° Pour l'aide au concept, le montant de l'aide est fixé à 7 500 € ; 
+1° Pour l'aide au concept concernant les projets d'œuvres de fiction, le montant de l'aide est fixé à :
 
-2° Pour l'aide à l'écriture concernant les projets d'œuvres de fiction, le montant de l'aide est fixé à : 
+a) Pour les projets auxquels un ou plusieurs collaborateurs ont apporté leur concours : 10 000 €, dont 7 000 € maximum pour
+les auteurs ;
+
+b) Pour les autres projets : 7 500 € ;
+
+2° Pour l'aide au concept concernant les projets d'œuvres d'animation, le montant de l'aide est fixé à 10 000 € ;
+
+3° Pour l'aide à l'écriture concernant les projets d'œuvres de fiction, le montant de l'aide est fixé à :
 
 a) Pour les projets de séries : 30 000 € et 15 000 € lorsque la durée prévisionnelle par épisode est inférieure à 10
-minutes ; 
+minutes ;
 
-b) Pour les projets d'unitaires : 25 000 € ; 
+b) Pour les projets d'œuvres unitaires : 25 000 € ;
 
-3° Pour l'aide à l'écriture concernant les projets d'œuvres d'animation, le montant de l'aide est fixé à : 
+4° Pour l'aide à l'écriture concernant les projets d'œuvres d'animation, le montant de l'aide est fixé à :
 
-a) Pour les projets de séries : 12 000 € lorsque la durée prévisionnelle par épisode est inférieure à 7 minutes, 15 000 €
+a) Pour les projets de séries : 14 000 € lorsque la durée prévisionnelle par épisode est inférieure à 7 minutes, 17 000 €
 lorsque la durée prévisionnelle par épisode est d'au moins 7 minutes et 20 000 € lorsque la durée prévisionnelle par épisode
-est d'au moins 26 minutes ; 
+est d'au moins 26 minutes ;
 
 b) Pour les projets d'unitaires : 8 000 € lorsque la durée prévisionnelle est comprise entre 8 et 25 minutes et 20 000 €
-lorsque la durée prévisionnelle est d'au moins 26 minutes. Lorsqu'une aide au concept a déjà été attribuée pour le même
-projet, son montant est déduit du montant de l'aide à l'écriture.
+lorsque la durée prévisionnelle est d'au moins 26 minutes ;
+
+5° Lorsqu'une aide au concept a déjà été attribuée pour le même projet, son montant est déduit du montant de l'aide à
+l'écriture.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 14, v. init.
 
 
 ###### Article 312-20
@@ -35315,16 +35577,25 @@ L'aide est versée dans les conditions suivantes :
 - 75 % au moment de la décision d'attribution ;
 
 - 25 % après remise au Centre national du cinéma et de l'image animée et validation par ce dernier de la version formalisée
-du projet pour l'aide au concept ou de la version élaborée du projet pour l'aide à l'écriture. 
+du projet pour l'aide au concept ou de la version élaborée du projet pour l'aide à l'écriture.
 
 Le versement est effectué à l'auteur. En cas de pluralité d'auteurs, le versement est effectué aux auteurs en fonction des
 conventions intervenues entre eux.
 
+Pour les projets d'œuvres de fiction, lorsque l'aide au concept est attribuée aux auteurs et à leurs collaborateurs, le
+versement est effectué, dans la limite précisée à l'article 312-19, en fonction des conventions intervenues entre eux.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 15, v. init.
 
 
 ###### Article 312-21
@@ -35339,20 +35610,254 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
+##### Sous-section 2 : Aides à la coécriture de projets de coproductions internationales d'œuvres audiovisuelles de fiction<a id=553></a>
+
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=554></a>
+
+###### Article 312-21-1
+
+Des aides financières sélectives sont attribuées pour la coécriture d'une version élaborée de projets d'œuvres audiovisuelles
+de fiction sous forme de séries, destinés à faire l'objet d'une coproduction internationale, lorsqu'elle est l'œuvre de
+plusieurs auteurs de nationalités différentes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+###### Article 312-21-2
+
+Pour être admis au bénéfice des aides à la coécriture de projets de coproductions internationales, les auteurs sont :
+
+1° Soit de nationalité française ;
+
+2° Soit ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique
+européen, d'un Etat partie à la Convention européenne sur la télévision transfrontière du Conseil de l'Europe ou d'un Etat
+tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. Les
+étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
+document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
+économique européen, sont assimilés aux citoyens français ;
+
+3° Soit ressortissants d'un Etat membre de l'Organisation internationale de la francophonie.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+###### Article 312-21-3
+
+Au moins deux des auteurs justifient d'une expérience ou d'une formation artistique.
+
+I. - Sont retenues au titre de l'expérience artistique des auteurs :
+
+1° L'écriture ou la réalisation d'une œuvre cinématographique ou audiovisuelle, appartenant au genre fiction, au genre
+animation ou au genre documentaire de création, sortie en salles de spectacles cinématographiques ou diffusée sur un service
+de télévision ou sur un service de médias audiovisuels à la demande au cours des trois dernières années ;
+
+2° L'écriture ou la réalisation de deux œuvres cinématographiques ou audiovisuelles, appartenant au genre fiction, au genre
+animation ou au genre documentaire de création, sorties en salles de spectacles cinématographiques ou diffusées sur un
+service de télévision ou sur un service de médias audiovisuels à la demande au cours des dix dernières années ;
+
+3° L'écriture ou la réalisation de deux œuvres audiovisuelles, appartenant au genre fiction, au genre animation ou au genre
+documentaire de création, ayant fait l'objet de conventions de développement avec un éditeur de services de télévision ou un
+éditeur de services de médias audiovisuels à la demande au cours des cinq dernières années ;
+
+4° L'écriture ou la mise en scène d'une œuvre théâtrale ayant donné lieu à au moins vingt représentations commerciales au
+cours des cinq dernières années ou d'une œuvre radiophonique appartenant au genre fiction ou au genre documentaire de
+création, radiodiffusée au cours des cinq dernières années ;
+
+5° L'écriture d'une œuvre littéraire de fiction publiée par un éditeur national au cours des cinq dernières années ;
+
+6° Une expérience pratique significative dans le secteur de la création cinématographique ou audiovisuelle, notamment en tant
+que technicien ou artiste-interprète ou à raison de la réalisation d'au moins deux œuvres cinématographiques ou
+audiovisuelles de courte durée ayant préalablement bénéficié soit d'une aide financière attribuée par le Centre national du
+cinéma et de l'image animée, soit d'une aide financière attribuée dans le cadre des conventions avec les collectivités
+territoriales mentionnées à l'article 113-1, ou ayant été sélectionnées dans le cadre d'un festival mentionné sur la liste
+prévue au 1° de l'article 411-52 au cours des cinq dernières années.
+
+II. - Sont retenus au titre de la formation artistique des auteurs, les diplômes sanctionnant l'une des formations
+suivantes :
+
+1° Une formation dispensée :
+
+a) Par une école supérieure d'art ;
+
+b) Par une école d'animation ;
+
+2° Une formation initiale spécialisée dans l'écriture ou la mise en scène audiovisuelle dispensée par une université ou une
+école.
+
+Les écoles ou universités mentionnées aux 1° et 2° sont situées en France ou dans un Etat mentionné au 2° ou au 3° de
+l'article 312-21-2.
+
+Peuvent également être retenus d'autres diplômes eu égard à la pertinence de la formation audiovisuelle dispensée, à
+l'exception de ceux sanctionnant un cursus en communication, en management, en marketing ou en production audiovisuelle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+###### Article 312-21-4
+
+Les aides à la coécriture de projets de coproductions internationales sont attribuées pour des projets d'œuvres
+audiovisuelles répondant aux conditions suivantes :
+
+1° Etre coécrits par au moins deux auteurs de nationalité différente ;
+
+2° Avoir une durée prévisionnelle minimale de 26 minutes par épisode ;
+
+3° Ne pas faire l'objet d'un contrat d'option ou d'un contrat de production audiovisuelle conclu avec une entreprise de
+production au moment du dépôt de la demande et au cours de son instruction ;
+
+4° Ne pas avoir été soumis à un éditeur de services de télévision ou à un éditeur de services de médias audiovisuels à la
+demande et acceptés par ce dernier antérieurement au dépôt de la demande. En outre, jusqu'à la décision du président du
+Centre national du cinéma et de l'image animée, les projets ne doivent pas être soumis à un éditeur de services de télévision
+ou à un éditeur de services de médias audiovisuels à la demande.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+###### Article 312-21-5
+
+La version élaborée du projet est présentée intégralement ou principalement en langue française ou dans une langue régionale
+en usage en France.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+###### Article 312-21-6
+
+Un même projet ne peut, pour les mêmes dépenses, bénéficier à la fois des aides à la coécriture de projets de coproductions
+internationales et d'autres aides attribuées par le Centre national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=555></a>
+
+###### Article 312-21-7
+
+Pour l'attribution d'une d'aide, les auteurs remettent un dossier de demande comprenant :
+
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
+
+2° La liste des documents justificatifs figurant en annexe 15-1 du présent livre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+###### Article 312-21-8
+
+La décision d'attribution d'une aide est prise après avis de la commission des aides à l'innovation en fiction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+###### Article 312-21-9
+
+Les bénéficiaires d'une aide disposent d'un délai de dix mois à compter de la décision d'attribution de l'aide pour remettre
+au Centre national du cinéma et de l'image animée, pour validation, la version élaborée du projet.
+
+A titre exceptionnel et sur demande motivée des bénéficiaires, le délai précité peut être prolongé d'une durée qui ne peut
+excéder six mois, par décision du président du Centre national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+###### Article 312-21-10
+
+L'aide est attribuée sous forme de subvention dont le montant est fixé à 50 000 €.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+###### Article 312-21-11
+
+L'aide est versée dans les conditions suivantes :
+
+75 % au moment de la décision d'attribution ;
+
+25 % après remise au Centre national du cinéma et de l'image animée et validation par ce dernier de la version élaborée du
+projet et des justificatifs des dépenses effectuées.
+
+Le versement est effectué aux auteurs en fonction des conventions intervenues entre eux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
+###### Article 312-21-12
+
+A défaut de remise ou de validation du projet, le Centre national du cinéma et de l'image animée peut demander le reversement
+de tout ou partie de l'aide attribuée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 16, v. init.
+
+
 ##### Sous-section 2 : Aide à la réécriture<a id=556></a>
 
 ##### Paragraphe 1 : Objet et conditions d'attribution<a id=557></a>
 
 ###### Article 312-22
 
-Des aides financières sélectives sont attribuées aux auteurs et aux entreprises de production pour la réécriture d'une
-nouvelle version, dénommée " version retravaillée ", d'un projet d'œuvre audiovisuelle.
+Des aides financières sélectives sont attribuées pour la réécriture d'une nouvelle version d'un projet d'œuvre audiovisuelle,
+dénommée “version retravaillée”, conjointement aux auteurs et à leurs collaborateurs chargés d'apporter leur concours pour
+l'élaboration du travail de réécriture.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 17, v. init.
 
 _Cité par_:
 
@@ -35361,118 +35866,76 @@ _Cité par_:
 
 ###### Article 312-23
 
-Pour être admis au bénéfice des aides à la réécriture, les auteurs ont, soit la nationalité française, soit sont
-ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen,
-d'un Etat partie à la Convention européenne sur la télévision transfrontière du Conseil de l'Europe ou d'un Etat tiers
-européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. 
+Pour être admis au bénéfice des aides à la réécriture, les auteurs et leurs collaborateurs ont, soit la nationalité
+française, soit sont ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace
+économique européen, d'un Etat partie à la Convention européenne sur la télévision transfrontière du Conseil de l'Europe ou
+d'un Etat tiers européen avec lequel la Communauté ou l'Union européenne a conclu des accords ayant trait au secteur
+audiovisuel.
 
 Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
 document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
 économique européen, sont assimilés aux citoyens français.
 
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 18, v. init.
 
 
 ###### Article 312-24
 
-Les bénéficiaires des aides à la réécriture sont des auteurs qui justifient d'une expérience ou d'une formation artistique
-avérée au sens des articles 312-4 à 312-6. En cas de pluralité d'auteurs, l'un d'entre eux au moins justifie de cette
-expérience ou de cette formation artistique. 
+Les auteurs justifient d'une expérience ou d'une formation artistique avérée au sens des articles 312-4 à 312-6. En cas de
+pluralité d'auteurs, l'un d'entre eux au moins justifie de cette expérience ou de cette formation artistique.
 
-Les aides à la réécriture peuvent également bénéficier aux collaborateurs des auteurs chargés d'apporter leur concours pour
-l'élaboration du travail de réécriture, à condition que ces collaborateurs justifient d'une expérience significative pratique
-dans le secteur de la création cinématographique ou audiovisuelle.
+Les collaborateurs des auteurs justifient d'une expérience pratique significative dans le secteur de la création
+cinématographique ou audiovisuelle ou d'une expertise sur le sujet traité par le projet d'œuvre audiovisuelle à la réécriture
+duquel ils apportent leur concours.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 19, v. init.
 
 _Cite_:
 
   - Code du cinéma et de l'image animée - art. 312-4 (V)
 
 
-###### Article 312-25
-
-Pour être admises au bénéfice des aides à la réécriture, les entreprises de production répondent aux conditions suivantes : 
-
-1° Etre établies en France. Sont réputées établies en France les entreprises de production y exerçant effectivement une
-activité au moyen d'une installation stable et durable et dont le siège social est situé en France, dans un autre Etat membre
-de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen. 
-
-Pour les entreprises de production dont le siège social est situé dans un autre Etat membre de l'Union européenne, le respect
-de la condition d'établissement en France, sous forme d'établissement stable, de succursale ou d'agence permanente, n'est
-exigé qu'au moment du versement de l'aide ; 
-
-2° Avoir des présidents, directeurs ou gérants, soit de nationalité française, soit ressortissants d'un Etat membre de
-l'Union européenne, d'un autre Etat partie à l'accord sur l'Espace économique européen, d'un Etat partie à la Convention
-européenne sur la télévision transfrontière du Conseil de l'Europe ou d'un Etat tiers européen avec lequel la Communauté ou
-l'Union européenne a conclu des accords ayant trait au secteur audiovisuel. 
-
-Les étrangers autres que les ressortissants des Etats européens précités, titulaires de la carte de résident français ou d'un
-document équivalent délivré par un Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace
-économique européen, sont assimilés aux citoyens français ; 
-
-3° Ne pas être contrôlées, au sens de l'article L. 233-3 du code de commerce, par une ou plusieurs personnes physiques ou
-morales ressortissantes d'Etats autres que les Etats européens mentionnés au 2°, lorsqu'elles sont constituées sous forme de
-société commerciale.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 20, v. init.
-
-_Cite_:
-
-  - Code de commerce - art. L233-3 (M)
-
-
-###### Article 312-26
-
-Les bénéficiaires des aides à la réécriture sont des entreprises de production à condition que le projet ait donné lieu à
-l'attribution d'une aide à la création. 
-
-Les entreprises de production doivent avoir conclu un contrat d'option à titre onéreux pour l'acquisition des droits
-nécessaires à la réalisation et à l'exploitation de l'œuvre avec un ou plusieurs auteurs ou, lorsque l'œuvre appartient au
-genre animation, conjointement avec un ou plusieurs auteurs littéraires et un ou plusieurs auteurs graphiques.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 20, v. init.
-
-
 ###### Article 312-27
 
-Les aides à la réécriture sont attribuées pour les projets d'œuvres audiovisuelles suivants : 
+Les aides à la réécriture sont attribuées pour les projets d'œuvres audiovisuelles suivants :
 
-1° Les projets d'œuvres de fiction soit sous forme d'unitaires d'une durée prévisionnelle minimale de 52 minutes, soit sous
-forme de séries ; 
+1° Les projets d'œuvres de fiction soit sous forme d'unitaires d'une durée prévisionnelle minimale de 60 minutes, soit sous
+forme de séries ;
 
 2° Les projets d'œuvres d'animation soit sous forme d'unitaires d'une durée prévisionnelle minimale de 8 minutes, soit sous
 forme de séries.
 
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 21, v. init.
 
 
 ###### Article 312-28
@@ -35503,34 +35966,45 @@ _Créé par_:
 
 ###### Article 312-31
 
-La demande d'aide est présentée : 
+Pour les œuvres de fiction, la demande d'aide est présentée conjointement par un ou plusieurs auteurs et par un ou plusieurs
+collaborateurs.
 
-1° Soit par un ou plusieurs auteurs et, le cas échéant, un ou plusieurs collaborateurs à la réécriture. Pour les œuvres
-d'animation, la demande est présentée par un ou plusieurs auteurs littéraires et un ou plusieurs auteurs graphiques ; 
+Pour les œuvres d'animation, la demande est présentée conjointement par un ou plusieurs auteurs littéraires, un ou plusieurs
+auteurs graphiques et par un ou plusieurs collaborateurs.
 
-2° Soit par une entreprise de production.
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 23, v. init.
 
 
 ###### Article 312-32
 
-Pour l'attribution d'une aide pour les projets d'œuvres de fiction, l'auteur ou l'entreprise de production remet un dossier
-comprenant : 
+Pour l'attribution d'une aide pour les projets d'œuvres de fiction, l'auteur et le ou les collaborateurs remettent un dossier
+comprenant :
 
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
 
 2° La liste des documents justificatifs figurant en annexe 16 du présent livre.
 
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 24, v. init.
 
 _Cité par_:
 
@@ -35539,18 +36013,24 @@ _Cité par_:
 
 ###### Article 312-33
 
-Pour l'attribution d'une aide pour les projets d'œuvres d'animation, les auteurs ou l'entreprise de production remettent un
-dossier comprenant : 
+Pour l'attribution d'une aide pour les projets d'œuvres d'animation, les auteurs et le ou les collaborateurs remettent un
+dossier comprenant :
 
-1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ; 
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
 
 2° La liste des documents justificatifs figurant en annexe 17 du présent livre.
 
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 25, v. init.
 
 _Cité par_:
 
@@ -35586,35 +36066,37 @@ _Créé par_:
 
 ###### Article 312-36
 
-L'aide est attribuée sous forme de subvention dont le montant est fixé selon les modalités suivantes : 
+L'aide est attribuée sous forme de subvention dont le montant est fixé selon les modalités suivantes :
 
-1° Pour les projets d'œuvres de fiction, le montant de l'aide est fixé à : 
+1° Pour les projets d'œuvres de fiction, le montant de l'aide est fixé à :
 
-a) Pour les projets de séries : 10 000 € et 5 000 € lorsque la durée prévisionnelle par épisode est inférieure à 10 minutes.
-Lorsque l'aide est attribuée à des auteurs et à leurs collaborateurs à la réécriture, les montants sont respectivement portés
-à 15 000 € dont 10 000 € maximum pour les auteurs et 7 500 € dont 5 000 € maximum pour les auteurs ; 
+a) Pour les projets de séries : 15 000 € dont 10 000 € maximum pour les auteurs et 7 500 € lorsque la durée prévisionnelle
+par épisode est inférieure à 10 minutes dont 5 000 € maximum pour les auteurs ;
 
-b) Pour les projets d'unitaires : 8 000 €. Lorsque l'aide est attribuée à des auteurs et à leurs collaborateurs à la
-réécriture, le montant est porté à 12 500 € dont 8 000 € maximum pour les auteurs ; 
+b) Pour les projets d'œuvres unitaires : 12 500 € dont 8 000 € maximum pour les auteurs ;
 
-2° Pour les projets d'œuvres d'animation, le montant de l'aide est fixé à : 
+2° Pour les projets d'œuvres d'animation, le montant de l'aide est fixé à :
 
-a) Pour les projets de séries : 4 000 € lorsque la durée prévisionnelle par épisode est inférieure à 7 minutes, 5 000 €
-lorsque la durée prévisionnelle par épisode est comprise entre 7 et 13 minutes et 7 000 € lorsque la durée prévisionnelle par
-épisode est d'au moins 26 minutes. Lorsque l'aide est attribuée à des auteurs et à leurs collaborateurs à la réécriture, les
-montants sont respectivement portés à 6 000 € dont 4 000 € maximum pour les auteurs, 7 500 € dont 5 000 € maximum pour les
-auteurs et 10 000 € dont 7 000 € maximum pour les auteurs ; 
+a) Pour les projets de séries : 8 000 € dont 5 000 € maximum pour les auteurs lorsque la durée prévisionnelle par épisode est
+inférieure à 7 minutes, 9 500 € dont 6 000 € maximum pour les auteurs lorsque la durée prévisionnelle par épisode est
+comprise entre 7 et 13 minutes et 12 000 € dont 8 000 € maximum pour les auteurs lorsque la durée prévisionnelle par épisode
+est d'au moins 26 minutes ;
 
-b) Pour les projets d'unitaires : 2 500 € lorsque la durée prévisionnelle est inférieure à 26 minutes et 7 000 € lorsque la
-durée prévisionnelle est d'au moins 26 minutes. Lorsque l'aide est attribuée à des auteurs et à leurs collaborateurs à la
-réécriture, les montants sont respectivement portés à 4 000 € dont 2 500 € maximum pour les auteurs et 10 000 € dont 7 000 €
-maximum pour les auteurs.
+b) Pour les projets d'œuvres unitaires : 4 000 € dont 2 500 € maximum pour les auteurs lorsque la durée prévisionnelle est
+inférieure à 26 minutes et 10 000 € dont 7 000 € maximum pour les auteurs lorsque la durée prévisionnelle est d'au moins 26
+minutes.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 26, v. init.
 
 _Cité par_:
 
@@ -35628,38 +36110,51 @@ L'aide est versée dans les conditions suivantes :
 - 75 % au moment de la décision d'attribution ;
 
 - 25 % après remise au Centre national du cinéma et de l'image animée et validation par ce dernier de la version retravaillée
-du projet et, lorsque l'aide est attribuée à une entreprise de production, des justificatifs des dépenses effectuées. 
+du projet.
 
-Lorsque l'aide est attribuée à des auteurs et à leurs collaborateurs à la réécriture, le versement est effectué en fonction
-des conventions intervenues entre eux et dans les limites précisées à l'article 312-36.
+Dans les limites précisées à l'article 312-36, le versement de l'aide est effectué aux auteurs et à leurs collaborateurs en
+fonction des conventions intervenues entre eux.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 312-36 (V)
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 27, v. init.
 
 
 ###### Article 312-38
 
-A défaut de remise ou de validation du projet ou, le cas échéant, à défaut de remise des justificatifs des dépenses
-effectuées, le Centre national du cinéma et de l'image animée peut demander le reversement de tout ou partie de l'aide
-attribuée.
+A défaut de remise ou de validation du projet, le Centre national du cinéma et de l'image animée peut demander le reversement
+de tout ou partie de l'aide attribuée.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 28, v. init.
 
 
-##### Sous-section 3 : Aide au développement de projets<a id=559></a>
+##### Sous-section 3 : Aide à la réécriture<a id=559></a>
 
 ##### Paragraphe 1 : Objet et conditions d'attribution<a id=560></a>
+
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=561></a>
+
+##### Sous-section 3 : Aide au développement de projets<a id=562></a>
+
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=563></a>
 
 ###### Article 312-39
 
@@ -35725,19 +36220,25 @@ _Créé par_:
 
 ###### Article 312-42
 
-Les aides au développement de projets sont attribuées pour les projets d'œuvres audiovisuelles suivants : 
+Les aides au développement de projets sont attribuées pour les projets d'œuvres audiovisuelles suivants :
 
-1° Les projets d'œuvres de fiction soit sous forme d'unitaires d'une durée prévisionnelle minimale de 52 minutes, soit sous
-forme de séries ; 
+1° Les projets d'œuvres de fiction soit sous forme d'unitaires d'une durée prévisionnelle minimale de 60 minutes, soit sous
+forme de séries ;
 
 2° Les projets d'œuvres d'animation soit sous forme d'unitaires d'une durée prévisionnelle minimale de 8 minutes, soit sous
 forme de séries.
 
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 29, v. init.
 
 
 ###### Article 312-43
@@ -35825,25 +36326,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=561></a>
-
-###### Article 312-48
-
-Lorsque l'auteur avec lequel l'entreprise de production a conclu un contrat a bénéficié d'une ou de plusieurs aides,
-l'entreprise de production présente sa demande d'aide au développement de projets dans un délai d'un an à compter de la date
-à laquelle l'auteur a remis la dernière version du projet, sauf dérogation accordée par le président du Centre national du
-cinéma et de l'image animée.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 30, v. init.
-
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=564></a>
 
 ###### Article 312-49
 
@@ -35898,18 +36381,24 @@ _Créé par_:
 
 ###### Article 312-52
 
-L'entreprise de production dispose d'un délai de huit mois à compter de la décision d'attribution pour remettre au Centre
+L'entreprise de production dispose d'un délai de douze mois à compter de la décision d'attribution pour remettre au Centre
 national du cinéma et de l'image animée, pour validation, la version finalisée, ainsi que les justificatifs des dépenses
-effectuées. 
+effectuées.
 
 A titre exceptionnel et sur demande motivée de l'entreprise de production, le délai précité peut être prolongé d'une durée
 qui ne peut excéder six mois, par décision du président du Centre national du cinéma et de l'image animée.
 
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 31, v. init.
 
 
 ###### Article 312-53
@@ -35940,35 +36429,56 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 4 : Dispositions relatives aux cumuls d'aides<a id=562></a>
+##### Sous-section 4 : Aide au développement de projets<a id=565></a>
+
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=566></a>
+
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=567></a>
+
+##### Sous-section 4 : Dispositions relatives aux cumuls d'aides<a id=568></a>
+
+##### Sous-section 5 : Dispositions relatives aux cumuls d'aides<a id=569></a>
 
 ###### Article 312-55
 
-Un même projet d'œuvre audiovisuelle ne peut donner lieu à l'attribution de plus de deux des aides mentionnées aux articles
-312-2 et 312-22.
+Un même projet d'œuvre audiovisuelle ne peut donner lieu à l'attribution d'une aide à la création et d'une aide à la
+coécriture de projets de coproductions internationales.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 312-2 (V)
-  - Code du cinéma et de l'image animée - art. 312-22 (V)
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 32, v. init.
 
 
 ###### Article 312-56
 
-Un même auteur ne peut présenter, individuellement ou conjointement, plus de cinq demandes par an au titre de l'ensemble des
-aides attribuées aux auteurs.
+Un même auteur ne peut présenter, individuellement ou conjointement, plus de quatre demandes par an au titre de l'ensemble
+des aides attribuées aux auteurs en application du présent chapitre.
+
+Un même auteur ne peut présenter, individuellement ou conjointement, plus de deux demandes pour chaque session de la
+commission des aides à l'innovation en fiction ou de la commission des aides à l'innovation en animation.
+
+Pour l'application du présent article, ne sont pas prises en compte les demandes présentées par un auteur intervenant en tant
+que collaborateur.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 33, v. init.
 
 
 ###### Article 312-57
@@ -35982,7 +36492,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 5 : Commissions consultatives<a id=563></a>
+##### Sous-section 5 : Commissions consultatives<a id=570></a>
+
+##### Sous-section 6 : Commissions consultatives<a id=571></a>
 
 ###### Article 312-58
 
@@ -36011,29 +36523,35 @@ _Modifié par_:
 ###### Article 312-60
 
 Les comités de lecture chargés de la sélection des projets sont constitués de trois lecteurs choisis sur une liste établie
-par le président du Centre national du cinéma et de l'image animée. Un membre de la commission compétente assiste à la
+par le président du Centre national du cinéma et de l'image animée. Un membre de la commission compétente peut assister à la
 réunion des comités de lecture. L'ordre du jour des réunions et le choix des lecteurs de chaque comité sont fixés par le
-secrétariat de la commission. 
+secrétariat de la commission.
 
 Lorsque deux au moins des lecteurs proposent de sélectionner le projet, celui-ci est inscrit à l'ordre du jour de la
 commission compétente.
 
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 36, v. init.
 
 _Cité par_:
 
   - Code de la sécurité sociale. - art. D311-1 (V)
 
 
-### Titre II : Aides financières à la création des œuvres du multimédia<a id=564></a>
+### Titre II : Aides financières à la création des œuvres du multimédia<a id=572></a>
 
-#### Chapitre Ier : Aides financières à la production, à l'écriture et au développement de projets d'œuvres pour les nouveaux médias<a id=565></a>
+#### Chapitre Ier : Aides financières à la production, à l'écriture et au développement de projets d'œuvres pour les nouveaux médias<a id=573></a>
 
-##### Section unique : Aides financières sélectives<a id=566></a>
+##### Section unique : Aides financières sélectives<a id=574></a>
 
 ###### Article 321-1
 
@@ -36067,9 +36585,9 @@ _Créé par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 8, v. init.
 
 
-##### Sous-section 1 : Aides à la production d'œuvres pour les nouveaux médias<a id=567></a>
+##### Sous-section 1 : Aides à la production d'œuvres pour les nouveaux médias<a id=575></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=568></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=576></a>
 
 ###### Article 321-2
 
@@ -36191,23 +36709,21 @@ _Créé par_:
 
 ###### Article 321-9
 
-I. - Lorsque l'œuvre est produite uniquement par une ou plusieurs entreprises de production établies en France ou lorsque,
-dans le cas d'une coproduction internationale, la participation française est supérieure ou égale à 80 % de son coût
-définitif, cette œuvre doit faire l'objet de dépenses de production en France pour au moins 50 % de son coût définitif.
+I. - Lorsque l'œuvre est produite uniquement par une ou plusieurs entreprises de production établies en France, cette œuvre
+doit faire l'objet de dépenses de production en France pour au moins 50 % de son coût définitif.
 
-II. - Lorsque l'œuvre est produite dans le cadre d'une coproduction internationale et que la participation française est
-inférieure à 80 % de son coût définitif, cette œuvre doit :
+II. - Lorsque l'œuvre est produite dans le cadre d'une coproduction internationale, cette œuvre doit :
 
 1° Etre financée par une participation française au moins égale à 30 % de son coût définitif, sauf disposition particulière
 prévue par un accord intergouvernemental ;
 
-2° Faire l'objet de dépenses de production en France pour au moins 24 % de son coût définitif.
+2° Faire l'objet de dépenses de production en France pour au moins 50 % de la participation française.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/03 du 7 avril 2016 - art. 11, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 48, v. init.
 
 
 ###### Article 321-10
@@ -36225,7 +36741,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=569></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=577></a>
 
 ###### Article 321-11
 
@@ -36271,9 +36787,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Aides au développement de projets d'œuvres pour les nouveaux médias<a id=570></a>
+##### Sous-section 2 : Aides au développement de projets d'œuvres pour les nouveaux médias<a id=578></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=571></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=579></a>
 
 ###### Article 321-14
 
@@ -36413,7 +36929,7 @@ _Modifié par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 22, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=572></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=580></a>
 
 ###### Article 321-24
 
@@ -36459,9 +36975,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 3 : Aides à l'écriture de projets d'œuvres pour les nouveaux médias<a id=573></a>
+##### Sous-section 3 : Aides à l'écriture de projets d'œuvres pour les nouveaux médias<a id=581></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=574></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=582></a>
 
 ###### Article 321-27
 
@@ -36563,7 +37079,7 @@ _Modifié par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 25, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=575></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=583></a>
 
 ###### Article 321-33
 
@@ -36607,7 +37123,7 @@ _Modifié par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 25, v. init.
 
 
-##### Sous-section 4 : Commission consultative<a id=576></a>
+##### Sous-section 4 : Commission consultative<a id=584></a>
 
 ###### Article 321-36
 
@@ -36642,9 +37158,9 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 38, v. init.
 
 
-#### Chapitre II : Aides financières à la création et à la diffusion d'œuvres novatrices et expérimentales<a id=577></a>
+#### Chapitre II : Aides financières à la création et à la diffusion d'œuvres novatrices et expérimentales<a id=585></a>
 
-##### Section unique : Aides financières sélectives<a id=578></a>
+##### Section unique : Aides financières sélectives<a id=586></a>
 
 ###### Article 322-1
 
@@ -36677,9 +37193,9 @@ _Créé par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 27, v. init.
 
 
-##### Sous-section 1 : Aides au développement de projets d'œuvres novatrices et expérimentales<a id=579></a>
+##### Sous-section 1 : Aides au développement de projets d'œuvres novatrices et expérimentales<a id=587></a>
 
-##### Paragraphe 1 :  Objet et conditions d'attribution<a id=580></a>
+##### Paragraphe 1 :  Objet et conditions d'attribution<a id=588></a>
 
 ###### Article 322-3
 
@@ -36778,7 +37294,7 @@ _Créé par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 27, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=581></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=589></a>
 
 ###### Article 322-8
 
@@ -36847,9 +37363,9 @@ _Créé par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 27, v. init.
 
 
-##### Sous-section 2 : Aides à la production d'œuvres novatrices et expérimentales<a id=582></a>
+##### Sous-section 2 : Aides à la production d'œuvres novatrices et expérimentales<a id=590></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=583></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=591></a>
 
 ###### Article 322-13
 
@@ -36949,7 +37465,7 @@ _Créé par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 27, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=584></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=592></a>
 
 ###### Article 322-18
 
@@ -37017,9 +37533,9 @@ _Créé par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 27, v. init.
 
 
-##### Sous-section 3 : Aides à la diffusion d'œuvres novatrices et expérimentales<a id=585></a>
+##### Sous-section 3 : Aides à la diffusion d'œuvres novatrices et expérimentales<a id=593></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=586></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=594></a>
 
 ###### Article 322-23
 
@@ -37112,7 +37628,7 @@ _Créé par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 27, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=587></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=595></a>
 
 ###### Article 322-28
 
@@ -37192,7 +37708,7 @@ _Créé par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 27, v. init.
 
 
-##### Sous-section 4 : Commission consultative<a id=588></a>
+##### Sous-section 4 : Commission consultative<a id=596></a>
 
 ###### Article 322-34
 
@@ -37229,7 +37745,7 @@ _Créé par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 27, v. init.
 
 
-#### Chapitre III : Aides financières à la création et à la production de jeux vidéo<a id=589></a>
+#### Chapitre III : Aides financières à la création et à la production de jeux vidéo<a id=597></a>
 
 ###### Article 323-1
 
@@ -37245,283 +37761,203 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-### ANNEXES AU LIVRE III<a id=590></a>
-
-###### Article Annexe 3-1
-
-Liste des postes (article 311-18) 
-
-1° Fiction :
-
-- Le réalisateur ;
-
-- Le directeur de la photographie ;
-
-- Le chef opérateur de prise de son ;
-
-- Le chef monteur. 
-
-2° Animation :
-
-- Le réalisateur ;
-
-- Le storyboarder ;
-
-- Le chef layout ;
-
-- Le chef décorateur ;
-
-- Le directeur d'écriture. 
-
-3° Documentaire de création et magazine :
-
-- Le réalisateur, y compris lorsqu'il est embauché sous le statut de journaliste ;
-
-- Le directeur de la photographie ;
-
-- Le chef opérateur de prise de vues ;
-
-- Le chef opérateur de prise de son ;
-
-- L'ingénieur du son ;
-
-- Le chef monteur ;
-
-- Le directeur de production ;
-
-- Le producteur exécutif ;
-
-- L'animateur intervenant à l'image. 
-
-4° Adaptation audiovisuelle de spectacle vivant :
-
-- Le réalisateur ;
-
-- Le scripte ;
-
-- Le directeur de la photographie ;
-
-- L'ingénieur du son tournage ;
-
-- Le chef monteur ;
-
-- L'ingénieur du son mixage.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
-
-_Abrogé par_:
-
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 49, v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 311-18 (V)
-
+### ANNEXES AU LIVRE III<a id=598></a>
 
 ###### Article Annexe 3-2
 
-Autorisation préalable (article 311-60) 
+Autorisation préalable (article 311-60)
 
-Liste des documents justificatifs, par genre : 
+Liste des documents justificatifs, par genre :
 
-I.-Fiction : 
+I.-Fiction :
 
-1° Le synopsis et le scénario de l'œuvre ; 
+1° Le synopsis et le scénario de l'œuvre ;
 
-2° Le résumé de l'œuvre ; 
+2° Le résumé de l'œuvre ;
 
-3° Le curriculum vitae des auteurs et du réalisateur ; 
+3° Le curriculum vitae des auteurs et du réalisateur ;
 
-4° Une note d'intention du réalisateur et du producteur ; 
+4° Une note d'intention du réalisateur et du producteur ;
 
 5° Tout contrat de coproduction conclu avec une autre entreprise de production, ses annexes et éventuels avenants ainsi que
-la justification de son inscription au registre public du cinéma et de l'audiovisuel lorsque l'œuvre a été immatriculée ; 
+la justification de son inscription au registre public du cinéma et de l'audiovisuel lorsque l'œuvre a été immatriculée ;
 
-6° Toute pièce justificative d'un financement public ou privé ; 
+6° Toute pièce justificative d'un financement public ou privé ;
 
-7° Tout contrat de production exécutive, ses annexes et éventuels avenants ; 
+7° Tout contrat de production exécutive, ses annexes et éventuels avenants ;
 
 8° La liste nominative prévisionnelle avec mention de la nationalité et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de ces
-rémunérations ; 
+rémunérations ;
 
-9° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ; 
+9° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
-10° Le ou les contrats de prestation ; 
+10° Le ou les contrats de prestation ;
 
-11° Les contrats du ou des auteurs, scénaristes, auteur-réalisateurs et du réalisateur technicien ; 
+11° Les contrats du ou des auteurs, scénaristes, auteur-réalisateurs et du réalisateur technicien ;
 
-12° Le devis de production détaillé faisant apparaître : 
+12° Le devis de production détaillé faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ; 
+a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ;
 
-b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des
-personnels ; 
+b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des personnels ;
 
-c) La nature des prestations et travaux techniques prévus au devis ; 
+c) La nature des prestations et travaux techniques prévus au devis ;
 
 d) Le détail de toutes les prestations (personnels et moyens techniques) et, en particulier, les prestations apportées par le
-ou les diffuseurs français ; 
+ou les diffuseurs français ;
 
 13° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi
 que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée.
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
-celui-ci manifeste expressément son engagement financier et la nature de celui-ci ; 
+celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
-14° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
-demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
-n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une
-lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-
-ci manifestent expressément leur engagement financier ; 
+14° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de
+médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir
+l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de
+services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
 15° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
-justification de son inscription au registre public du cinéma et de l'audiovisuel. 
+justification de son inscription au registre public du cinéma et de l'audiovisuel.
 
-II.-Animation : 
+II.-Animation :
 
-1° Le synopsis et/ ou le scénario de l'œuvre et/ ou une bible littéraire pour les séries ; 
+1° Le synopsis et/ ou le scénario de l'œuvre et/ ou une bible littéraire pour les séries ;
 
-2° Le résumé de l'œuvre ; 
+2° Le résumé de l'œuvre ;
 
-3° Les éléments graphiques ; 
+3° Les éléments graphiques ;
 
-4° Le curriculum vitae des auteurs et du réalisateur ; 
+4° Le curriculum vitae des auteurs et du réalisateur ;
 
-5° Une note d'intention du producteur et du réalisateur ; 
+5° Une note d'intention du producteur et du réalisateur ;
 
 6° Tout contrat de coproduction conclu avec une autre entreprise de production, ses annexes et éventuels avenants ainsi que
-la justification de son inscription au registre public du cinéma et de l'audiovisuel lorsque l'œuvre a été immatriculée ; 
+la justification de son inscription au registre public du cinéma et de l'audiovisuel lorsque l'œuvre a été immatriculée ;
 
-7° Toute pièce justificative d'un financement public ou privé ; 
+7° Toute pièce justificative d'un financement public ou privé ;
 
-8° Tout contrat de production exécutive, ses annexes et éventuels avenants ; 
+8° Tout contrat de production exécutive, ses annexes et éventuels avenants ;
 
 9° La liste nominative prévisionnelle avec mention de la nationalité et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de ces
-rémunérations ; 
+rémunérations ;
 
-10° Les contrats du ou des auteurs, scénaristes, auteur-réalisateurs ; 
+10° Les contrats du ou des auteurs, scénaristes, auteur-réalisateurs ;
 
-11° Le contrat d'achat des droits de l'œuvre originale en cas d'adaptation de cette œuvre ; 
+11° Le contrat d'achat des droits de l'œuvre originale en cas d'adaptation de cette œuvre ;
 
-12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ; 
+12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
-13° Le ou les contrats de prestation ; 
+13° Le ou les contrats de prestation ;
 
-14° Le devis de production détaillé faisant apparaître : 
+14° Le devis de production détaillé faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont payées en France, au Canada et dans les autres pays étrangers ; 
+a) Les dépenses dont les taxes et charges sont payées en France, au Canada et dans les autres pays étrangers ;
 
-b) Les dépenses poste par poste, technicien par technicien ; 
+b) Les dépenses poste par poste, technicien par technicien ;
 
-c) Le détail de toutes les prestations (personnels et moyens techniques) ; 
+c) Le détail de toutes les prestations (personnels et moyens techniques) ;
 
 15° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi
 que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée.
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
-celui-ci manifeste expressément son engagement financier et la nature de celui-ci ; 
+celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
-16° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
-demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
-n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une
-lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-
-ci manifestent expressément leur engagement financier ; 
+16° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de
+médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir
+l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de
+services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
 17° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
 justification de son inscription au registre public du cinéma et de l'audiovisuel ;
 
 18° Le cas échéant, tout contrat de prévente internationale ou tout document contractuel attestant de l'intention de conclure
-un tel contrat. 
+un tel contrat.
 
-III.-Documentaire de création : 
+III.-Documentaire de création :
 
-1° Le synopsis et/ ou le scénario de l'œuvre ; 
+1° Le synopsis et/ ou le scénario de l'œuvre ;
 
-2° Le résumé de l'œuvre ; 
+2° Le résumé de l'œuvre ;
 
-3° Le curriculum vitae des auteurs et du réalisateur ; 
+3° Le curriculum vitae des auteurs et du réalisateur ;
 
-4° Une note d'intention du réalisateur et du producteur ; 
+4° Une note d'intention du réalisateur et du producteur ;
 
 5° Tout contrat de coproduction conclu avec une autre entreprise de production, ses annexes et éventuels avenants ainsi que
-la justification de son inscription au registre public du cinéma et de l'audiovisuel lorsque l'œuvre a été immatriculée ; 
+la justification de son inscription au registre public du cinéma et de l'audiovisuel lorsque l'œuvre a été immatriculée ;
 
-6° Toute pièce justificative d'un financement public ou privé ; 
+6° Toute pièce justificative d'un financement public ou privé ;
 
-7° Tout contrat de production exécutive, ses annexes et éventuels avenants ; 
+7° Tout contrat de production exécutive, ses annexes et éventuels avenants ;
 
 8° La liste nominative prévisionnelle avec mention de la nationalité et de la résidence fiscale des personnels engagés sur la
 production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de ces
-rémunérations ; 
+rémunérations ;
 
-9° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ; 
+9° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
-10° Le ou les contrats de prestation ; 
+10° Le ou les contrats de prestation ;
 
-11° Les contrats du ou des auteurs, scénaristes, auteur-réalisateurs et du réalisateur technicien ; 
+11° Les contrats du ou des auteurs, scénaristes, auteur-réalisateurs et du réalisateur technicien ;
 
-12° Le devis de production détaillé faisant apparaître : 
+12° Le devis de production détaillé faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ; 
+a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ;
 
-b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des
-personnels ; 
+b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des personnels ;
 
-c) La nature des prestations et travaux techniques prévus au devis ; 
+c) La nature des prestations et travaux techniques prévus au devis ;
 
 d) Le détail de toutes les prestations (personnels et moyens techniques) et, en particulier, les prestations apportées par le
-ou les diffuseurs français ; 
+ou les diffuseurs français ;
 
 13° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi
 que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée.
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
 celui-ci manifeste expressément son engagement financier et la nature de celui-ci, ainsi qu'un document attestant de la case
-prévisionnelle de programmation de l'œuvre ; 
+prévisionnelle de programmation de l'œuvre ;
 
-14° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
-demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
-n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une
-lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-
-ci manifestent expressément leur engagement financier ; 
+14° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de
+médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir
+l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de
+services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
 15° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
 justification de son inscription au registre public du cinéma et de l'audiovisuel ;
 
 16° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une
 note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts
-en intégrant leur bibliographie sur le sujet traité. 
+en intégrant leur bibliographie sur le sujet traité.
 
-IV.-Adaptation audiovisuelle de spectacle vivant : 
+IV.-Adaptation audiovisuelle de spectacle vivant :
 
-1° Le synopsis et le scénario de l'œuvre ; 
+1° Le synopsis et le scénario de l'œuvre ;
 
-2° Le résumé de l'œuvre ; 
+2° Le résumé de l'œuvre ;
 
-3° Le curriculum vitae des auteurs et du réalisateur ; 
+3° Le curriculum vitae des auteurs et du réalisateur ;
 
-4° Une note d'intention du réalisateur et du producteur et de l'auteur ; 
+4° Une note d'intention du réalisateur et du producteur et de l'auteur ;
 
-5° Une note sur le spectacle vivant, sa distribution et sa production ; 
+5° Une note sur le spectacle vivant, sa distribution et sa production ;
 
-6° Le dispositif de tournage prévu et le plan de travail ; 
+6° Le dispositif de tournage prévu et le plan de travail ;
 
 7° Tout contrat avec les personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de
 l'œuvre audiovisuelle, notamment le contrat avec les ayants droit du spectacle et leurs annexes, ou un accord écrit des
-ayants droits  ; 
+ayants droits ;
 
 8° Tout contrat de coproduction conclu avec une autre entreprise de production, ses annexes et éventuels avenants ainsi que
-la justification de son inscription au registre public du cinéma et de l'audiovisuel lorsque l'œuvre a été immatriculée ; 
+la justification de son inscription au registre public du cinéma et de l'audiovisuel lorsque l'œuvre a été immatriculée ;
 
-9° Toute pièce justificative d'un financement public ou privé ; 
+9° Toute pièce justificative d'un financement public ou privé ;
 
-10° Tout contrat de production exécutive, ses annexes et éventuels avenants ; 
+10° Tout contrat de production exécutive, ses annexes et éventuels avenants ;
 
 11° La liste nominative prévisionnelle avec mention de la nationalité et de la résidence fiscale des personnels engagés sur
 la production de l'œuvre, précisant la fonction, les salaires bruts et la part patronale des charges afférentes à chacune de
@@ -37529,37 +37965,35 @@ ces rémunérations ;
 
 11° bis Lorsqu'ils ne sont pas embauchés par l'entreprise de production déléguée, un document émanant de l'employeur
 indiquant le nombre de jours de travail prévisionnel des techniciens suivants : chef opérateur, scripte, ingénieur du son,
-ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;  
+ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 
-12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ; 
+12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
-13° Le ou les contrats de prestation ; 
+13° Le ou les contrats de prestation ;
 
-14° Les contrats des auteurs, scénaristes, adaptateurs et auteur-réalisateurs et du réalisateur technicien ; 
+14° Les contrats des auteurs, scénaristes, adaptateurs et auteur-réalisateurs et du réalisateur technicien ;
 
-15° Le devis de production détaillé faisant apparaître : 
+15° Le devis de production détaillé faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ; 
+a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ;
 
-b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des
-personnels ; 
+b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des personnels ;
 
-c) La nature des prestations et travaux techniques prévus au devis ; 
+c) La nature des prestations et travaux techniques prévus au devis ;
 
 16° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi
 que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée.
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
-celui-ci manifeste expressément son engagement financier et la nature de celui-ci ; 
+celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
 16° bis Tout contrat d'achat de droits de diffusion conclu avec un ou plusieurs éditeurs de services de télévision établis à
-l'étranger ; 
+l'étranger ;
 
-17° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
-demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
-n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une
-lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-
-ci manifestent expressément leur engagement financier ; 
+17° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de
+médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir
+l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de
+services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
 18° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
 justification de son inscription au registre public du cinéma et de l'audiovisuel.
@@ -37568,7 +38002,8 @@ justification de son inscription au registre public du cinéma et de l'audiovisu
 
 _Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 49, v. init.
 
 _Cite_:
 
@@ -37585,8 +38020,8 @@ Liste des documents justificatifs, par genre :
 I.-Fiction :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
-télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise
-à disposition du public ;
+télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services de médias audiovisuels à la demande
+chargés d'en assurer la mise à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
 précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un
@@ -37628,8 +38063,8 @@ préalable ou si de nouveaux avenants ont été signés ;
 II.-Animation :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
-télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise
-à disposition du public ;
+télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services de médias audiovisuels à la demande
+chargés d'en assurer la mise à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
 précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un
@@ -37674,8 +38109,8 @@ production indiquant que la totalité des scénarios est écrite et enregistrée
 III.-Documentaire de création :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
-télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise
-à disposition du public ;
+télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services de médias audiovisuels à la demande
+chargés d'en assurer la mise à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
 précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un
@@ -37726,19 +38161,19 @@ b) Toute convention d'écriture ou de développement ;
 
 c) Les contrats conclus avec le ou les auteurs et le ou les artistes-interprètes de la musique originale ;
 
-d) La feuille de montage remise à l'éditeur de services de télévision ou de services à la demande faisant apparaître la durée
-de la musique utilisée ;
+d) La feuille de montage remise à l'éditeur de services de télévision ou de services de médias audiovisuels à la demande
+faisant apparaître la durée de la musique utilisée ;
 
-e) Tout contrat conclu avec un éditeur de services de télévision ou de services à la demande pour l'exploitation de l'œuvre à
-l'étranger ;
+e) Tout contrat conclu avec un éditeur de services de télévision ou de services de médias audiovisuels à la demande pour
+l'exploitation de l'œuvre à l'étranger ;
 
 f) Toute pièce justificative de l'obtention d'un financement en numéraire avant la date d'achèvement de l'œuvre.
 
 IV.-Adaptation audiovisuelle de spectacle vivant :
 
 1° L'attestation, dûment renseignée et certifiée, de l'acceptation de l'œuvre par le ou les éditeurs de services de
-télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services à la demande chargés d'en assurer la mise
-à disposition du public ;
+télévision chargés d'en assurer la diffusion ou par le ou les éditeurs de services de médias audiovisuels à la demande
+chargés d'en assurer la mise à disposition du public ;
 
 2° Un document comptable indiquant le coût définitif de l'œuvre, les moyens de son financement et faisant apparaître
 précisément les dépenses réalisées en France, au Canada et dans les autres pays étrangers, le cas échéant certifié par un
@@ -37793,7 +38228,7 @@ suivant celui de la date d'entrée en vigueur de la présente délibération.
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/02 - art. 13, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 _Cite_:
 
@@ -38105,288 +38540,280 @@ _Cite_:
 
 ###### Article Annexe 3-7
 
-Autorisation préalable (article 311-99) 
+Autorisation préalable (article 311-99)
 
-Liste des documents justificatifs, par genre : 
+Liste des documents justificatifs, par genre :
 
-I.-Fiction : 
+I.-Fiction :
 
-1° Le curriculum vitae des auteurs, du réalisateur et de l'entreprise de production ; 
+1° Le curriculum vitae des auteurs, du réalisateur et de l'entreprise de production ;
 
-2° Le synopsis et le scénario de l'œuvre ; 
+2° Le synopsis et le scénario de l'œuvre ;
 
-3° Un résumé de l'œuvre ; 
+3° Un résumé de l'œuvre ;
 
-4° Une note d'intention de l'auteur, du réalisateur et du producteur ; 
+4° Une note d'intention de l'auteur, du réalisateur et du producteur ;
 
-5° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ; 
+5° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ;
 
-6° Le devis de production détaillé faisant apparaître : 
+6° Le devis de production détaillé faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ; 
+a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ;
 
-b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des
-personnels ; 
+b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des personnels ;
 
-c) La nature des prestations et travaux techniques prévus au devis ; 
+c) La nature des prestations et travaux techniques prévus au devis ;
 
 d) Le détail de toutes les prestations (personnels et moyens techniques) et, en particulier, les prestations apportées par le
-ou les diffuseurs français ; 
+ou les diffuseurs français ;
 
 7° La liste nominative prévisionnelle des artistes-interprètes et des techniciens collaborateurs de création précisant leur
-nationalité ainsi que leur rémunération et les charges sociales y afférentes ; 
+nationalité ainsi que leur rémunération et les charges sociales y afférentes ;
 
 8° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement et, le cas échéant, les contrats
-de prestations ; 
+de prestations ;
 
 9° Tout contrat de coproduction conclu avec une autre entreprise de production ainsi que la justification de son inscription
-au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
 10° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi
 que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée.
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
-celui-ci manifeste expressément son engagement financier et la nature de celui-ci ; 
+celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
-11° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
-demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
-n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une
-lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-
-ci manifestent expressément leur engagement financier ; 
+11° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de
+médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir
+l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de
+services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
-12° Les contrats dits de production exécutive " ; 
+12° Les contrats dits de production exécutive " ;
 
 13° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
-justification de son inscription au registre public du cinéma et de l'audiovisuel ; 
+justification de son inscription au registre public du cinéma et de l'audiovisuel ;
 
-14° Toute pièce justificative d'un financement public ou privé. 
+14° Toute pièce justificative d'un financement public ou privé.
 
-II.-Animation : 
+II.-Animation :
 
-1° Le curriculum vitae des auteurs, du réalisateur et de l'entreprise de production ; 
+1° Le curriculum vitae des auteurs, du réalisateur et de l'entreprise de production ;
 
-2° Le synopsis et/ ou le scénario de l'œuvre et/ ou une bible littéraire pour les séries ; 
+2° Le synopsis et/ ou le scénario de l'œuvre et/ ou une bible littéraire pour les séries ;
 
-3° Un résumé de l'œuvre ; 
+3° Un résumé de l'œuvre ;
 
-4° Une note d'intention du réalisateur et du producteur ; 
+4° Une note d'intention du réalisateur et du producteur ;
 
-5° Les éléments graphiques ; 
+5° Les éléments graphiques ;
 
-6° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ; 
+6° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ;
 
-7° Le contrat d'achat de droits de l'œuvre originale en cas d'adaptation ; 
+7° Le contrat d'achat de droits de l'œuvre originale en cas d'adaptation ;
 
-8° Un devis de production détaillé faisant apparaître : 
+8° Un devis de production détaillé faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont payées en France, au Canada et dans les autres pays étrangers ; 
+a) Les dépenses dont les taxes et charges sont payées en France, au Canada et dans les autres pays étrangers ;
 
-b) Les dépenses poste par poste, technicien par technicien ; 
+b) Les dépenses poste par poste, technicien par technicien ;
 
-c) Le détail de toutes les prestations (personnels et moyens techniques) ; 
+c) Le détail de toutes les prestations (personnels et moyens techniques) ;
 
 9° La liste nominative prévisionnelle des artistes-interprètes, et des techniciens collaborateurs de création précisant leur
-nationalité ainsi que leur rémunération et les charges sociales y afférentes ; 
+nationalité ainsi que leur rémunération et les charges sociales y afférentes ;
 
 10° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement et, le cas échéant, les contrats
-de prestations ; 
+de prestations ;
 
 11° Tout contrat de coproduction conclu avec une autre entreprise de production ainsi que la justification de son inscription
-au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
 12° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi
 que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée.
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
-celui-ci manifeste expressément son engagement financier et la nature de celui-ci ; 
+celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
-13° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
-demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
-n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une
-lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-
-ci manifestent expressément leur engagement financier ; 
+13° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de
+médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir
+l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de
+services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
-14° Les contrats dits de production exécutive " ; 
+14° Les contrats dits de production exécutive " ;
 
 15° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
-justification de son inscription au registre public du cinéma et de l'audiovisuel ; 
+justification de son inscription au registre public du cinéma et de l'audiovisuel ;
 
-16° Toute pièce justificative d'un financement public ou privé ; 
+16° Toute pièce justificative d'un financement public ou privé ;
 
-17° Le planning de production. 
+17° Le planning de production.
 
-III.-Documentaire de création : 
+III.-Documentaire de création :
 
-1° Le curriculum vitae des auteurs et du réalisateur et de l'entreprise de production ; 
+1° Le curriculum vitae des auteurs et du réalisateur et de l'entreprise de production ;
 
-2° Le synopsis et/ ou le scénario de l'œuvre ; 
+2° Le synopsis et/ ou le scénario de l'œuvre ;
 
-3° Un résumé de l'œuvre ; 
+3° Un résumé de l'œuvre ;
 
-4° Une note d'intention de l'auteur, du réalisateur et du producteur ; 
+4° Une note d'intention de l'auteur, du réalisateur et du producteur ;
 
-5° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ; 
+5° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ;
 
-6° Le devis de production détaillé faisant apparaître : 
+6° Le devis de production détaillé faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ; 
+a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ;
 
-b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des
-personnels ; 
+b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des personnels ;
 
-c) La nature des prestations et travaux techniques prévus au devis ; 
+c) La nature des prestations et travaux techniques prévus au devis ;
 
 d) Le détail de toutes les prestations (personnels et moyens techniques) et, en particulier, les prestations apportées par le
-ou les diffuseurs français ; 
+ou les diffuseurs français ;
 
 7° La liste nominative prévisionnelle des artistes-interprètes et des techniciens collaborateurs de création précisant leur
-nationalité ainsi que leur rémunération et les charges sociales y afférentes ; 
+nationalité ainsi que leur rémunération et les charges sociales y afférentes ;
 
 8° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement et, le cas échéant, les contrats
-de prestations ; 
+de prestations ;
 
 9° Tout contrat de coproduction conclu avec une autre entreprise de production ainsi que la justification de son inscription
-au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
 10° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi
 que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée.
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
 celui-ci manifeste expressément son engagement financier et la nature de celui-ci ainsi qu'un document attestant de la case
-prévisionnelle de programmation de l'œuvre ; 
+prévisionnelle de programmation de l'œuvre ;
 
-11° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
-demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
-n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une
-lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-
-ci manifestent expressément leur engagement financier ; 
+11° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de
+médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir
+l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de
+services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
-12° Les contrats dits de production exécutive " ; 
+12° Les contrats dits de production exécutive " ;
 
 13° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
-justification de son inscription au registre public du cinéma et de l'audiovisuel ; 
+justification de son inscription au registre public du cinéma et de l'audiovisuel ;
 
 14° Toute pièce justificative d'un financement public ou privé ;
 
 15° Le cas échéant, le curriculum vitae et la bibliométrie des conseillers historiques ou scientifiques ou, à défaut, une
 note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts
-en intégrant leur bibliographie sur le sujet traité. 
+en intégrant leur bibliographie sur le sujet traité.
 
-IV.-Adaptation audiovisuelle de spectacle vivant : 
+IV.-Adaptation audiovisuelle de spectacle vivant :
 
-1° Le curriculum vitae des auteurs et du réalisateur ; 
+1° Le curriculum vitae des auteurs et du réalisateur ;
 
-2° Le synopsis et le scénario de l'œuvre ; 
+2° Le synopsis et le scénario de l'œuvre ;
 
-3° Un résumé de l'œuvre ; 
+3° Un résumé de l'œuvre ;
 
-4° Une note d'intention de l'auteur, du réalisateur et du producteur ; 
+4° Une note d'intention de l'auteur, du réalisateur et du producteur ;
 
-5° Une note sur le spectacle vivant, sa distribution et sa production ; 
+5° Une note sur le spectacle vivant, sa distribution et sa production ;
 
-6° Le dispositif de tournage prévu et le plan de travail ; 
+6° Le dispositif de tournage prévu et le plan de travail ;
 
-7° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ; 
+7° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ;
 
 8° Les contrats de cession des droits à l'image et d'interprétation des artistes-interprètes, ou un accord écrit des ayants
-droit  ; 
+droit ;
 
 9° Les contrats conclus avec les ayants-droit du spectacle objet de l'œuvre audiovisuelle, ou un accord écrit des ayants
-droit  ; 
+droit ;
 
-10° Le devis de production détaillé faisant apparaître : 
+10° Le devis de production détaillé faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ; 
+a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ;
 
 b) Les dépenses poste par poste, technicien par technicien précisant les unités de base et durée de calcul des
-rémunérations ; 
+rémunérations ;
 
-c) La nature des prestations et travaux techniques prévus au devis ; 
+c) La nature des prestations et travaux techniques prévus au devis ;
 
 11° La liste nominative prévisionnelle des artistes-interprètes et des techniciens collaborateurs de création précisant leur
-nationalité ainsi que leur rémunération et les charges sociales y afférentes ; 
+nationalité ainsi que leur rémunération et les charges sociales y afférentes ;
 
 12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement et, le cas échéant, les contrats
-de prestations ; 
+de prestations ;
 
 13° Tout contrat de coproduction conclu avec une autre entreprise de production ainsi que la justification de son inscription
-au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
 14° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi
 que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée.
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
-celui-ci manifeste expressément son engagement financier et la nature de celui-ci ; 
+celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
 14° bis Tout contrat d'achat de droits de diffusion conclu avec un ou plusieurs éditeurs de services de télévision établis à
-l'étranger ; 
+l'étranger ;
 
-15° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
-demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
-n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une
-lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-
-ci manifestent expressément leur engagement financier ; 
+15° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de
+médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir
+l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de
+services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
-16° Les contrats dits " de production exécutive " ; 
+16° Les contrats dits " de production exécutive " ;
 
 17° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
-justification de son inscription au registre public du cinéma et de l'audiovisuel ; 
+justification de son inscription au registre public du cinéma et de l'audiovisuel ;
 
-18° Toute pièce justificative d'un financement public ou privé. 
+18° Toute pièce justificative d'un financement public ou privé.
 
-V.-Magazine : 
+V.-Magazine :
 
-1° Le curriculum vitae des auteurs, du réalisateur et de l'entreprise de production ; 
+1° Le curriculum vitae des auteurs, du réalisateur et de l'entreprise de production ;
 
-2° Le scénario de l'œuvre ; 
+2° Le scénario de l'œuvre ;
 
-3° Le résumé de l'œuvre ; 
+3° Le résumé de l'œuvre ;
 
-4° La présentation du concept, le déroulant d'une première émission et le synopsis des sujets à traiter ; 
+4° La présentation du concept, le déroulant d'une première émission et le synopsis des sujets à traiter ;
 
-5° Une note d'intention de l'auteur, du réalisateur et du producteur ; 
+5° Une note d'intention de l'auteur, du réalisateur et du producteur ;
 
-6° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ; 
+6° Les contrats de production audiovisuelle conclus avec les auteurs et le réalisateur ;
 
-7° Un plan de financement ; 
+7° Un plan de financement ;
 
-8° Le devis de production détaillé faisant apparaître : 
+8° Le devis de production détaillé faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ; 
+a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ;
 
-b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des
-personnels ; 
+b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des personnels ;
 
-c) La nature des prestations et travaux techniques prévus au devis ; 
+c) La nature des prestations et travaux techniques prévus au devis ;
 
 d) Le détail de toutes les prestations (personnels et moyens techniques) et, en particulier, les prestations apportées par le
-ou les diffuseurs français ; 
+ou les diffuseurs français ;
 
 9° La liste nominative prévisionnelle des artistes-interprètes et des techniciens collaborateurs de création précisant leur
-nationalité ainsi que leur rémunération et les charges sociales y afférentes ; 
+nationalité ainsi que leur rémunération et les charges sociales y afférentes ;
 
 10° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement et, le cas échéant, les contrats
-de prestations ; 
+de prestations ;
 
 11° Tout contrat de coproduction conclu avec une autre entreprise de production ainsi que la justification de son inscription
-au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ; 
+au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée ;
 
 12° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi
 que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée.
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
 dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle
-celui-ci manifeste expressément son engagement financier et la nature de celui-ci ; 
+celui-ci manifeste expressément son engagement financier et la nature de celui-ci ;
 
-13° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services à la
-demande ainsi que tout contrat conclu avec d'autres entreprises ou organismes. Toutefois, lorsque l'entreprise de production
-n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une
-lettre chiffrée émanant d'un éditeur de services et, le cas échéant, d'autres entreprises ou organismes, dans laquelle ceux-
-ci manifestent expressément leur engagement financier ; 
+13° Le cas échéant, tout contrat d'achat de droits de mise à disposition du public conclu avec un éditeur de services de
+médias audiovisuels à la demande. Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir
+l'un ou l'autre de ces contrats, le dossier doit obligatoirement comporter une lettre chiffrée émanant d'un éditeur de
+services dans laquelle celui-ci manifeste expressément son engagement financier ;
 
-14° Les contrats dits " de production exécutive " ; 
+14° Les contrats dits " de production exécutive " ;
 
 15° Tout contrat d'association à la production tel que prévu à l'article 238 bis HG du code général des impôts ainsi que la
-justification de son inscription au registre public du cinéma et de l'audiovisuel ; 
+justification de son inscription au registre public du cinéma et de l'audiovisuel ;
 
 16° Toute pièce justificative d'un financement public ou privé.
 
@@ -38394,7 +38821,8 @@ justification de son inscription au registre public du cinéma et de l'audiovisu
 
 _Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 33, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 49, v. init.
 
 _Cite_:
 
@@ -38552,11 +38980,11 @@ b) Toute convention d'écriture ou de développement ;
 
 c) Les contrats conclus avec le ou les auteurs et le ou les artistes-interprètes de la musique originale ;
 
-d) La feuille de montage remise à l'éditeur de services de télévision ou de services à la demande faisant apparaître la durée
-de la musique utilisée ;
+d) La feuille de montage remise à l'éditeur de services de télévision ou de services de médias audiovisuels à la demande
+faisant apparaître la durée de la musique utilisée ;
 
-e) Tout contrat conclu avec un éditeur de services de télévision ou de services à la demande pour l'exploitation de l'œuvre à
-l'étranger ;
+e) Tout contrat conclu avec un éditeur de services de télévision ou de services de médias audiovisuels à la demande pour
+l'exploitation de l'œuvre à l'étranger ;
 
 f) Toute pièce justificative de l'obtention d'un financement en numéraire avant la date d'achèvement de l'œuvre.
 
@@ -38656,7 +39084,7 @@ suivant celui de la date d'entrée en vigueur de la présente délibération.
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/02 - art. 13, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 _Cite_:
 
@@ -38665,167 +39093,161 @@ _Cite_:
 
 ###### Article Annexe 3-9
 
-Aides à la préparation (article 311-107) 
+Aides à la préparation (article 311-107)
 
-Liste des documents justificatifs, par genre : 
+Liste des documents justificatifs, par genre :
 
-I.-Fiction : 
+I.-Fiction :
 
-1° Le curriculum vitae des auteurs et du réalisateur ; 
+1° Le curriculum vitae des auteurs et du réalisateur ;
 
-2° Le synopsis et/ ou le scénario de l'œuvre ; 
+2° Le synopsis et/ ou le scénario de l'œuvre ;
 
-3° Le résumé de l'œuvre ; 
+3° Le résumé de l'œuvre ;
 
-4° Une note d'intention du réalisateur ; 
+4° Une note d'intention du réalisateur ;
 
-5° Une note du producteur précisant les enjeux de la préparation ; 
+5° Une note du producteur précisant les enjeux de la préparation ;
 
 6° La liste prévisionnelle nominative des personnels engagés sur la préparation, précisant leur nationalité, leur lieu de
-résidence fiscale ainsi que leur rémunération brute et les charges patronales imputables ; 
+résidence fiscale ainsi que leur rémunération brute et les charges patronales imputables ;
 
-7° Le devis détaillé des dépenses de préparation faisant apparaître : 
+7° Le devis détaillé des dépenses de préparation faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ; 
+a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ;
 
-b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des
-personnels ; 
+b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des personnels ;
 
-c) La nature des prestations et travaux techniques prévus au devis ; 
+c) La nature des prestations et travaux techniques prévus au devis ;
 
 8° Tout contrat de coproduction conclu avec une autre entreprise française ou étrangère et les contrats de prestation ainsi
-que leurs annexes et tout avenant éventuel ; 
+que leurs annexes et tout avenant éventuel ;
 
-9° Les contrats du ou des auteurs, scénaristes et adaptateurs ; 
+9° Les contrats du ou des auteurs, scénaristes et adaptateurs ;
 
-10° Le contrat du réalisateur technicien en cas de travaux de repérages ; 
+10° Le contrat du réalisateur technicien en cas de travaux de repérages ;
 
-11° Une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son
-engagement financier et la nature de celui-ci ; 
+11° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande ;
 
-12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ; 
+12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
-13° Toute pièce justificative d'un financement public ou privé. 
+13° Toute pièce justificative d'un financement public ou privé.
 
-II.-Animation : 
+II.-Animation :
 
-1° Le curriculum vitae des auteurs et du réalisateur ; 
+1° Le curriculum vitae des auteurs et du réalisateur ;
 
-2° Le synopsis et/ ou le scénario de l'œuvre et/ ou une bible littéraire pour les séries ; 
+2° Le synopsis et/ ou le scénario de l'œuvre et/ ou une bible littéraire pour les séries ;
 
-3° Une note d'intention du réalisateur et du producteur ; 
+3° Une note d'intention du réalisateur et du producteur ;
 
-4° Le résumé de l'œuvre ; 
+4° Le résumé de l'œuvre ;
 
-5° Les éléments graphiques ; 
+5° Les éléments graphiques ;
 
-6° Le devis détaillé des dépenses de préparation faisant apparaître : 
+6° Le devis détaillé des dépenses de préparation faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont payées en France et dans les autres pays étrangers ; 
+a) Les dépenses dont les taxes et charges sont payées en France et dans les autres pays étrangers ;
 
-b) Les dépenses poste par poste, technicien par technicien ; 
+b) Les dépenses poste par poste, technicien par technicien ;
 
-c) Le détail de toutes les prestations (personnels et moyens techniques) ; 
+c) Le détail de toutes les prestations (personnels et moyens techniques) ;
 
 7° La liste prévisionnelle nominative des personnels engagés sur la préparation, précisant leur nationalité, leur lieu de
-résidence fiscale ainsi que leur rémunération brute et les charges patronales imputables ; 
+résidence fiscale ainsi que leur rémunération brute et les charges patronales imputables ;
 
-8° Tout contrat de co-développement conclu avec une autre entreprise française ou étrangère et tout avenant éventuel ; 
+8° Tout contrat de co-développement conclu avec une autre entreprise française ou étrangère et tout avenant éventuel ;
 
-9° Le contrat d'achat de droits de l'œuvre originale en cas d'adaptation ; 
+9° Le contrat d'achat de droits de l'œuvre originale en cas d'adaptation ;
 
-10° Les contrats du ou des auteurs, scénaristes, et réalisateurs ; 
+10° Les contrats du ou des auteurs, scénaristes, et réalisateurs ;
 
-11° Une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son
-engagement financier et la nature de celui-ci ; 
+11° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande ;
 
-12° Toute pièce justificative d'un financement public ou privé. 
+12° Toute pièce justificative d'un financement public ou privé.
 
-III.-Documentaire de création : 
+III.-Documentaire de création :
 
-1° Le curriculum vitae des auteurs et du réalisateur ; 
+1° Le curriculum vitae des auteurs et du réalisateur ;
 
-2° Le synopsis et/ ou le scénario de l'œuvre ; 
+2° Le synopsis et/ ou le scénario de l'œuvre ;
 
-3° Une note d'intention du réalisateur ; 
+3° Une note d'intention du réalisateur ;
 
-4° Le résumé de l'œuvre ; 
+4° Le résumé de l'œuvre ;
 
-5° Une note du producteur précisant les enjeux de la préparation ; 
+5° Une note du producteur précisant les enjeux de la préparation ;
 
 6° La liste prévisionnelle nominative des personnels engagés sur la préparation, précisant leur nationalité, leur lieu de
-résidence fiscale ainsi que leur rémunération brute et les charges patronales imputables ; 
+résidence fiscale ainsi que leur rémunération brute et les charges patronales imputables ;
 
-7° Le devis détaillé des dépenses de préparation faisant apparaître : 
+7° Le devis détaillé des dépenses de préparation faisant apparaître :
 
-a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ; 
+a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger ;
 
-b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des
-personnels ; 
+b) Les dépenses poste par poste, technicien par technicien, précisant la base tarifaire et la durée d'emploi des personnels ;
 
-c) La nature des prestations et travaux techniques prévus au devis ; 
+c) La nature des prestations et travaux techniques prévus au devis ;
 
 8° Tout contrat de coproduction conclu avec une autre entreprise française ou étrangère et les contrats de prestation ainsi
-que leurs annexes et tout avenant éventuel ; 
+que leurs annexes et tout avenant éventuel ;
 
-9° Les contrats du ou des auteurs, scénaristes et adaptateurs ; 
+9° Les contrats du ou des auteurs, scénaristes et adaptateurs ;
 
-10° Le contrat du réalisateur technicien en cas de travaux de repérages ; 
+10° Le contrat du réalisateur technicien en cas de travaux de repérages ;
 
-11° Une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son
-engagement financier et la nature de celui-ci, ainsi qu'un document attestant de la case prévisionnelle de programmation de
-l'œuvre ; 
+11° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande,
+ainsi qu'un document attestant de la case prévisionnelle de programmation de l'œuvre ;
 
-12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement. 
+12° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement.
 
-13° Toute pièce justificative d'un financement public ou privé. 
+13° Toute pièce justificative d'un financement public ou privé.
 
-IV.-Adaptation audiovisuelle de spectacle vivant : 
+IV.-Adaptation audiovisuelle de spectacle vivant :
 
-1° Le curriculum vitae des auteurs et du réalisateur ; 
+1° Le curriculum vitae des auteurs et du réalisateur ;
 
-2° Le synopsis et/ ou le scénario de l'œuvre ; 
+2° Le synopsis et/ ou le scénario de l'œuvre ;
 
-3° Le résumé de l'œuvre ; 
+3° Le résumé de l'œuvre ;
 
-4° Une note d'intention du réalisateur et du producteur ; 
+4° Une note d'intention du réalisateur et du producteur ;
 
-5° Une note sur le spectacle vivant, sa distribution et sa production. 
+5° Une note sur le spectacle vivant, sa distribution et sa production.
 
 6° La liste prévisionnelle nominative des personnels engagés sur la préparation, précisant leur nationalité, leur lieu de
-résidence fiscale ainsi que leur rémunération brute et les charges patronales imputables ; 
+résidence fiscale ainsi que leur rémunération brute et les charges patronales imputables ;
 
-7° Le devis détaillé des dépenses de préparation faisant apparaître : 
+7° Le devis détaillé des dépenses de préparation faisant apparaître :
 
 a) Les dépenses dont les taxes et charges sont localisées en France et celles effectuées à l'étranger (deux colonnes
-spécifiques) ; 
+spécifiques) ;
 
 b) Les dépenses poste par poste, technicien par technicien précisant les unités de base et durée de calcul des
-rémunérations ; 
+rémunérations ;
 
-c) La nature des prestations et travaux techniques prévus au devis ; 
+c) La nature des prestations et travaux techniques prévus au devis ;
 
 8° Tout contrat de coproduction conclu avec une autre entreprise française ou étrangère et les contrats de prestation ainsi
-que leurs annexes et tout avenant éventuel ; 
+que leurs annexes et tout avenant éventuel ;
 
-9° Les contrats du ou des auteurs, scénaristes et adaptateurs ; 
+9° Les contrats du ou des auteurs, scénaristes et adaptateurs ;
 
-10° Le contrat conclu avec les ayants-droit du spectacle ; 
+10° Le contrat conclu avec les ayants-droit du spectacle ;
 
-11° Le contrat du réalisateur technicien en cas de travaux de repérages ; 
+11° Le contrat du réalisateur technicien en cas de travaux de repérages ;
 
-12° Une lettre chiffrée émanant d'un éditeur de services de télévision dans laquelle celui-ci manifeste expressément son
-engagement financier et la nature de celui-ci ; 
+12° La convention de développement conclue avec un éditeur de services de télévision ou de médias audiovisuels à la demande ;
 
-13° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ; 
+13° La liste prévisionnelle des entreprises prestataires précisant leur lieu d'établissement ;
 
 14° Toute pièce justificative d'un financement public ou privé.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 49, v. init.
 
 _Cite_:
 
@@ -39072,49 +39494,67 @@ _Cite_:
 
 ###### Article Annexe 3-14
 
-Aides à la conception et à l'écriture pour les projets d'œuvres de fiction (article 312-12) 
+Aides au concept et à l'écriture pour les projets d'œuvres de fiction (article 312-12)
 
-Liste des documents justificatifs : 
+Liste des documents justificatifs :
 
-I.-Dossier administratif : 
+I.-Dossier administratif :
 
-1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) ; 
+1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) ;
 
 2° Si le scénario est tiré d'une œuvre préexistante, indiquer le titre, l'auteur et l'éditeur et joindre une lettre du
-détenteur des droits autorisant cette adaptation ; 
+détenteur des droits autorisant cette adaptation ;
 
-3° La photocopie d'une pièce d'identité en cours de validité des auteurs. 
+3° La photocopie d'une pièce d'identité en cours de validité des auteurs.
 
-II.-Dossier artistique : 
+II.-Dossier artistique anonymisé :
 
-A. Pour les séries : 
+A. Pour les séries :
 
-1° Une courte note d'intention du ou des auteurs décrivant la motivation et le parti pris artistique ; 
+1° Une courte note d'intention du ou des auteurs décrivant la motivation et le parti pris artistique ;
 
-2° Le concept ; 
+2° Le concept ;
 
 3° La présentation des personnages principaux (les personnages secondaires ne sont pas obligatoirement détaillés à cette
-étape) ; 
+étape) ;
 
-4° Des éléments de synopsis (sur le premier épisode, via des pitchs ou des éléments d'arches) pour donner un aperçu du
-contenu des épisodes (potentialités de conflits, de récurrence et incarnation des personnages seront les principaux éléments
-examinés) ; 
+4° Lorsqu'une aide à l'écriture est demandée, des éléments de synopsis (sur le premier épisode, via des pitchs ou des
+éléments d'arches) pour donner un aperçu du contenu des épisodes (potentialités de conflits, de récurrence et incarnation des
+personnages seront les principaux éléments examinés) ;
 
-5° Le cas échéant, pour les séries de formats courts, un épisode dialogué. 
+5° Le cas échéant, pour les séries de formats courts, un épisode dialogué ;
 
-B. Pour les unitaires : 
+6° Lorsqu'une aide au concept est demandée avec un ou plusieurs collaborateurs, une note sur le développement du projet,
+précisant les besoins liés à la demande d'aide (documentation, consultations, élaboration d'une pré-bible, etc.) ;
 
-1° Une courte note d'intention du ou des auteurs décrivant la motivation et le parti pris artistique ; 
+7° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette
+œuvre et la teneur du projet d'adaptation.
 
-2° La présentation du ou des personnages principaux ; 
+B. Pour les unitaires :
 
-3° Un synopsis avec des précisions sur la structure dramatique envisagée.
+1° Une courte note d'intention du ou des auteurs décrivant la motivation et le parti pris artistique ;
+
+2° La présentation du ou des personnages principaux ;
+
+3° Lorsqu'une aide à l'écriture est demandée, un synopsis avec des précisions sur la structure dramatique envisagée ;
+
+4° Lorsqu'une aide au concept est demandée avec un ou plusieurs collaborateurs, une note sur le développement du projet,
+précisant les besoins liés à la demande d'aide (documentation, consultations, élaboration d'une pré-bible, etc.) ;
+
+5° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette
+œuvre et la teneur du projet d'adaptation.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 39, v. init.
 
 _Cite_:
 
@@ -39123,131 +39563,205 @@ _Cite_:
 
 ###### Article Annexe 3-15
 
-Aides à la conception et à l'écriture pour les projets d'œuvres d'animation (article 312-13) 
+Aides au concept et à l'écriture pour les projets d'œuvres d'animation (article 312-13)
 
-Liste des documents justificatifs, par type d'aide : 
+Liste des documents justificatifs, par type d'aide :
 
-I.-Aides à la conception : 
+I. - Aides au concept :
 
-A. Dossier administratif : 
+A. Dossier administratif :
 
-1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) ; 
+1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) ;
 
 2° Si le scénario est tiré d'une œuvre préexistante, indiquer le titre, l'auteur et l'éditeur et joindre une lettre du
-détenteur des droits autorisant cette adaptation ; 
+détenteur des droits autorisant cette adaptation ;
 
-3° La photocopie d'une pièce d'identité en cours de validité des auteurs. 
+3° La photocopie d'une pièce d'identité en cours de validité des auteurs.
 
-B. Dossier artistique : 
+B. Dossier artistique anonymisé :
 
-1° Une note d'intention anonyme des auteurs littéraires et graphiques décrivant les choix artistiques et les enjeux créatifs
-liés à l'écriture du projet ; 
+1° Une note d'intention des auteurs littéraires et graphiques décrivant les choix artistiques et les enjeux créatifs liés à
+l'écriture du projet ;
 
 2° Une note sur le développement du projet, précisant notamment les besoins liés à la demande d'aide au concept
-(documentation, consultation (s), élaboration d'une pré-bible, etc.) ; 
+(documentation, consultation (s), élaboration d'une pré-bible, etc.) ;
 
-3° Une courte présentation des personnages ainsi qu'un aperçu du graphisme pour tous les formats ; 
+3° Une courte présentation des personnages ainsi qu'un aperçu du graphisme pour tous les formats ;
 
 4° Un très court synopsis pour les unitaires-courts métrages ou spéciaux-et un concept détaillé pour les séries présentant
-succinctement la structure dramatique envisagée pour les épisodes en quelques situations-type ou pitchs. 
+succinctement la structure dramatique envisagée pour les épisodes en quelques situations-type ou pitchs ;
 
-II.-Aides à l'écriture : 
+5° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette
+œuvre et la teneur du projet d'adaptation.
 
-A. Dossier administratif : 
+II.-Aides à l'écriture :
 
-1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) ; 
+A. Dossier administratif :
+
+1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) ;
 
 2° Si le scénario est tiré d'une œuvre préexistante, indiquer le titre, l'auteur et l'éditeur et joindre une lettre du
-détenteur des droits autorisant cette adaptation ; 
+détenteur des droits autorisant cette adaptation ;
 
-3° La photocopie d'une pièce d'identité en cours de validité des auteurs. 
+3° La photocopie d'une pièce d'identité en cours de validité des auteurs.
 
-B. Dossier artistique : 
+B. Dossier artistique anonymisé :
 
-Pour les séries : 
+Pour les séries :
 
-1° Une note d'intention anonyme des auteurs littéraires et graphiques décrivant la motivation et le parti pris artistique
-liés à la narration et à l'élaboration graphique du projet ; 
+1° Une note d'intention des auteurs littéraires et graphiques décrivant la motivation et le parti pris artistique liés à la
+narration et à l'élaboration graphique du projet ;
 
 2° Le concept en une page, en précisant également le format, la cible, la technique, le type de narration (bouclé,
-feuilletonnant, etc.) ; 
+feuilletonnant, etc.) ;
 
 3° Une présentation des personnages principaux (les personnages secondaires ne sont pas obligatoirement détaillés à cette
-étape) ; 
+étape) ;
 
-4° Le synopsis ou storyboard d'un épisode, et le cas échéant, quelques courts résumés des épisodes suivants ; 
+4° Le synopsis ou storyboard d'un épisode, et le cas échéant, quelques courts résumés des épisodes suivants ;
 
-5° Des éléments graphiques sur les personnages et décors principaux. 
+5° Des éléments graphiques sur les personnages et décors principaux ;
 
-Pour les unitaires (spéciaux/ court métrage) : 
+6° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette
+œuvre et la teneur du projet d'adaptation.
 
-1° Une note d'intention anonyme des auteurs littéraires et graphiques décrivant la motivation et le parti pris artistique
-liés à la narration et à l'élaboration graphique du projet ; 
+Pour les unitaires (spéciaux/ court métrage) :
 
-2° Une présentation du ou des protagoniste (s) ; 
+1° Une note d'intention des auteurs littéraires et graphiques décrivant la motivation et le parti pris artistique liés à la
+narration et à l'élaboration graphique du projet ;
 
-3° Une courte note sur la structure dramatique ; 
+2° Une présentation du ou des protagoniste (s) ;
 
-4° Le synopsis ou storyboard faisant apparaître clairement la structure dramatique du film ; 
+3° Une courte note sur la structure dramatique ;
 
-5° Des éléments graphiques sur les personnages et décors principaux.
+4° Le synopsis ou storyboard faisant apparaître clairement la structure dramatique du film ;
+
+5° Des éléments graphiques sur les personnages et décors principaux ;
+
+6° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette
+œuvre et la teneur du projet d'adaptation.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 39, v. init.
 
 _Cite_:
 
   - Code du cinéma et de l'image animée - art. 312-13 (V)
 
 
-###### Article Annexe 3-16
+###### Article Annexe 3-15-1
 
-Aides à la réécriture de projets d'œuvres de fiction (article 312-32) 
+AIDES À LA COÉCRITURE DE PROJETS DE COPRODUCTIONS INTERNATIONALES D'ŒUVRES AUDIOVISUELLES DE FICTION (ARTICLE 312-21-9)
 
-Liste des documents justificatifs : 
+Liste des documents justificatifs :
 
-I.-Dossier administratif : 
+I. - Dossier administratif :
 
-1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) et
-de l'accompagnant ; 
+1° Les justificatifs d'expérience des auteurs ;
 
-2° Lorsque le projet est tiré d'une œuvre préexistante, l'indication du titre, de l'auteur et, le cas échéant, de l'éditeur,
-ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ; 
+2° Si le projet est tiré d'une œuvre préexistante, indiquer le titre, l'auteur et l'éditeur et joindre une lettre du
+détenteur des droits autorisant cette adaptation ;
 
-3° Lorsque l'accompagnant est un producteur, le contrat d'option à titre onéreux entre le (s) auteur (s) et le producteur ; 
+3° La photocopie d'une pièce d'identité en cours de validité des auteurs.
 
-4° La photocopie d'une pièce d'identité en cours de validité des auteurs. 
+II. - Dossier artistique :
 
-II.-Dossier artistique : 
+1° Une note d'intention des auteurs décrivant la motivation dans la constitution de l'équipe scénaristique internationale,
+les partis pris artistiques, les besoins de l'équipe scénaristique internationale et les enjeux de développement du projet de
+coproduction internationale ;
 
-A. Pour les projets d'œuvres unitaires : 
+2° Le concept ;
 
-1° Une note conjointe des auteurs et de l'accompagnant précisant la qualité de l'accompagnant (scénariste, auteur-réalisateur
-ou producteur) et présentant les axes et les enjeux de la réécriture du projet ; 
+3° La présentation des personnages principaux (les personnages secondaires ne sont pas obligatoirement détaillés à cette
+étape) ;
 
-2° Une grille des 60 séquences dramatiques principales, résumées en une ligne ou un traitement faisant clairement apparaître
-la structure dramatique ; 
+4° Des éléments de synopsis (sur le premier épisode, via des pitchs ou des éléments d'arches) pour donner un aperçu du
+contenu des épisodes (potentialités de conflits, de récurrence, incarnation des personnages, etc.) ;
 
-3° Au minimum 30 à 40 pages dialoguées consécutives ; 
+5° Le cas échéant, pour les séries de formats courts, un épisode dialogué.
 
-B. Pour les projets de séries : 
+6° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette
+œuvre et la teneur du projet d'adaptation.
 
-1° Une note conjointe des auteurs et de l'accompagnant précisant la qualité de l'accompagnant (scénariste, auteur-réalisateur
-ou producteur) ainsi que les axes et les enjeux de réécriture du projet ; 
+**Nota:**
 
-2° La pré-bible de la série (concept, personnages, etc.) ; 
-
-3° La version dialoguée du pilote ou d'un épisode-type de la série ou pour les séries de formats courts, une éventuelle
-maquette d'un épisode type et au minimum cinq exemples d'épisodes (versions dialoguées).
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 39, v. init.
+
+
+###### Article Annexe 3-16
+
+Aides à la réécriture de projets d'œuvres de fiction (article 312-32)
+
+Liste des documents justificatifs :
+
+I.-Dossier administratif :
+
+1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) et
+du ou des collaborateurs ;
+
+2° Lorsque le projet est tiré d'une œuvre préexistante, l'indication du titre, de l'auteur et, le cas échéant, de l'éditeur,
+ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ;
+
+3° Lorsqu'un collaborateur est un producteur, le contrat d'option à titre onéreux entre le (s) auteur (s) et le producteur ;
+
+4° La photocopie d'une pièce d'identité en cours de validité des auteurs.
+
+II.-Dossier artistique :
+
+A. Pour les projets d'œuvres unitaires :
+
+1° Une note conjointe des auteurs et du ou des collaborateurs précisant leur qualité (scénariste, auteur-réalisateur ou
+producteur) et présentant les axes et les enjeux de la réécriture du projet ;
+
+2° Une grille des 60 séquences dramatiques principales, résumées en une ligne ou un traitement faisant clairement apparaître
+la structure dramatique ;
+
+3° Au minimum 30 à 40 pages dialoguées consécutives ;
+
+4° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette
+œuvre et la teneur du projet d'adaptation ;
+
+B. Pour les projets de séries :
+
+1° Une note conjointe des auteurs et du ou des collaborateurs précisant leur qualité (scénariste, auteur-réalisateur ou
+producteur) ainsi que les axes et les enjeux de réécriture du projet ;
+
+2° La pré-bible de la série (concept, personnages, etc.) ;
+
+3° La version dialoguée du pilote ou d'un épisode-type de la série ou pour les séries de formats courts, une éventuelle
+maquette d'un épisode type et au minimum cinq exemples d'épisodes (versions dialoguées) ;
+
+4° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette
+œuvre et la teneur du projet d'adaptation.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 39, v. init.
 
 _Cite_:
 
@@ -39256,51 +39770,63 @@ _Cite_:
 
 ###### Article Annexe 3-17
 
-Aides à la réécriture de projets d'œuvres d'animation (article 312-33) 
+Aides à la réécriture de projets d'œuvres d'animation (article 312-33)
 
-Liste des documents justificatifs : 
+Liste des documents justificatifs :
 
-I.-Dossier administratif : 
+I.-Dossier administratif :
 
 1° Les justificatifs d'expérience des auteurs (il suffit que l'un d'entre eux soit éligible pour que le dossier le soit) et
-de l'accompagnant ; 
+du ou des collaborateurs ;
 
-2° Lorsque l'accompagnant est un producteur, le contrat d'option à titre onéreux entre le (s) auteur (s) et le producteur ; 
+2° Lorsqu'un collaborateur est un producteur, le contrat d'option à titre onéreux entre le (s) auteur (s) et le producteur ;
 
 3° Lorsque le projet est tiré d'une œuvre préexistante, l'indication du titre, de l'auteur et, le cas échéant, de l'éditeur,
-ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ; 
+ainsi qu'une lettre du titulaire des droits autorisant le projet d'adaptation audiovisuelle de l'œuvre ;
 
-4° La photocopie d'une pièce d'identité en cours de validité des auteurs. 
+4° La photocopie d'une pièce d'identité en cours de validité des auteurs.
 
-II.-Dossier artistique : 
+II.-Dossier artistique :
 
-A. Pour les projets d'œuvres unitaires (spéciaux/ courts métrages) : 
+A. Pour les projets d'œuvres unitaires (spéciaux/ courts métrages) :
 
-1° Une note conjointe des auteurs littéraires et graphiques et de l'accompagnant précisant la qualité de l'accompagnant
-(scénariste, auteur-graphique, réalisateur ou producteur) et présentant les axes et les enjeux de la réécriture du projet ; 
+1° Une note conjointe des auteurs littéraires et graphiques et du ou des collaborateurs précisant leur qualité (scénariste,
+auteur-graphique, réalisateur ou producteur) et présentant les axes et les enjeux de la réécriture du projet ;
 
-2° La pré-bible graphique (personnages, décors, etc.) ; 
+2° La pré-bible graphique (personnages, décors, etc.) ;
 
-3° Un traitement faisant clairement apparaître la structure dramatique ; 
+3° Un traitement faisant clairement apparaître la structure dramatique ;
 
-4° Au minimum un tiers du film dialogué et/ ou storyboardé ; 
+4° Au minimum un tiers du film dialogué et/ ou storyboardé ;
 
-B. Pour les projets de séries : 
+5° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette
+œuvre et la teneur du projet d'adaptation ;
 
-1° Une note conjointe des auteurs littéraires et graphiques et de l'accompagnant précisant la qualité de l'accompagnant
-(scénariste, auteur graphique, réalisateur ou producteur) ainsi que les axes et les enjeux de réécriture du projet ; 
+B. Pour les projets de séries :
 
-2° Le concept détaillé ; 
+1° Une note conjointe des auteurs littéraires et graphiques et du ou des collaborateurs précisant leur qualité (scénariste,
+auteur graphique, réalisateur ou producteur) ainsi que les axes et les enjeux de réécriture du projet ;
 
-3° La pré-bible littéraire et graphique ; 
+2° Le concept détaillé ;
 
-4° La version dialoguée et/ ou storyboardée du pilote ou d'un épisode-type de la série ainsi que les pitchs.
+3° La pré-bible littéraire et graphique ;
+
+4° La version dialoguée et/ ou storyboardée du pilote ou d'un épisode-type de la série ainsi que les pitchs ;
+
+5° Si le projet est tiré d'une œuvre préexistante, une note permettant d'apprécier le travail effectué par rapport à cette
+œuvre et la teneur du projet d'adaptation.
+
+**Nota:**
+
+Aux termes de l'article 45 de la délibération n° 2017/CA/15 du 29 juin 2017, les présentes dispositions s'appliquent aux
+demandes d'aides à la création et d'aides à la réécriture enregistrées par le Centre national du cinéma et de l'image animée
+à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2017/CA/15 du 29 juin 2017 - art. 39, v. init.
 
 _Cite_:
 
@@ -39842,13 +40368,13 @@ _Créé par_:
   - Délibération n°2016/CA/03 du 7 avril 2016 - art. 28, v. init.
 
 
-## Livre IV : Soutien à la diversité de la création et à la diffusion auprès des publics<a id=591></a>
+## Livre IV : Soutien à la diversité de la création et à la diffusion auprès des publics<a id=599></a>
 
-### Titre Ier : Aides financières à la création et à la diffusion des œuvres cinématographiques de courte durée<a id=592></a>
+### Titre Ier : Aides financières à la création et à la diffusion des œuvres cinématographiques de courte durée<a id=600></a>
 
-#### Chapitre Ier : Aides financières à la production, à l'élaboration et au développement des œuvres cinématographiques de courte durée<a id=593></a>
+#### Chapitre Ier : Aides financières à la production, à l'élaboration et au développement des œuvres cinématographiques de courte durée<a id=601></a>
 
-##### Section 1 : Dispositions générales<a id=594></a>
+##### Section 1 : Dispositions générales<a id=602></a>
 
 ###### Article 411-1
 
@@ -39882,7 +40408,7 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 14, v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=595></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=603></a>
 
 ###### Article 411-2
 
@@ -39982,7 +40508,7 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 16, v. init.
 
 
-##### Sous-section 2 : Conditions relatives aux œuvres<a id=596></a>
+##### Sous-section 2 : Conditions relatives aux œuvres<a id=604></a>
 
 ###### Article 411-6
 
@@ -39996,7 +40522,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 3 : Conditions relatives au mode de production<a id=597></a>
+##### Sous-section 3 : Conditions relatives au mode de production<a id=605></a>
 
 ###### Article 411-7
 
@@ -40032,7 +40558,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 4 : Conditions relatives à l'intensité des aides<a id=598></a>
+##### Sous-section 4 : Conditions relatives à l'intensité des aides<a id=606></a>
 
 ###### Article 411-9
 
@@ -40052,7 +40578,7 @@ _Modifié par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 17, v. init.
 
 
-##### Section 2 : Aides financières automatiques<a id=599></a>
+##### Section 2 : Aides financières automatiques<a id=607></a>
 
 ###### Article 411-10
 
@@ -40071,7 +40597,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section 1 : Allocations d'investissement<a id=600></a>
+##### Sous-section 1 : Allocations d'investissement<a id=608></a>
 
 ###### Article 411-11
 
@@ -40289,7 +40815,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Allocations directes<a id=601></a>
+##### Sous-section 2 : Allocations directes<a id=609></a>
 
 ###### Article 411-22
 
@@ -40336,11 +40862,11 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=602></a>
+##### Section 3 : Aides financières sélectives<a id=610></a>
 
-##### Sous-section 1 : Aides à la production avant réalisation<a id=603></a>
+##### Sous-section 1 : Aides à la production avant réalisation<a id=611></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=604></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=612></a>
 
 ###### Article 411-25
 
@@ -40366,7 +40892,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=605></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=613></a>
 
 ###### Article 411-27
 
@@ -40518,7 +41044,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 1 bis : Aides à la réécriture de scénario<a id=606></a>
+##### Sous-section 1 bis : Aides à la réécriture de scénario<a id=614></a>
 
 ###### Article 411-36-1
 
@@ -40531,7 +41057,7 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 22, v. init.
 
 
-##### Paragraphe 1 : Subventions<a id=607></a>
+##### Paragraphe 1 : Subventions<a id=615></a>
 
 ###### Article 411-36-2
 
@@ -40546,7 +41072,7 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 22, v. init.
 
 
-##### Paragraphe 2 : Bourses de résidence<a id=608></a>
+##### Paragraphe 2 : Bourses de résidence<a id=616></a>
 
 ###### Article 411-36-3
 
@@ -40576,7 +41102,7 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 22, v. init.
 
 
-##### Paragraphe 3 : Dispositions communes<a id=609></a>
+##### Paragraphe 3 : Dispositions communes<a id=617></a>
 
 ###### Article 411-36-5
 
@@ -40613,9 +41139,9 @@ _Abrogé par_:
   - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 35, v. init.
 
 
-##### Sous-section 2 : Aides au programme de production<a id=610></a>
+##### Sous-section 2 : Aides au programme de production<a id=618></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=611></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=619></a>
 
 ###### Article 411-37
 
@@ -40907,7 +41433,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 4-6 (V)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=612></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=620></a>
 
 ###### Article 411-44
 
@@ -41035,9 +41561,9 @@ _Modifié par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 23, v. init.
 
 
-##### Sous-section 2 bis : Aides au développement de projets<a id=613></a>
+##### Sous-section 2 bis : Aides au développement de projets<a id=621></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=614></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=622></a>
 
 ###### Article 411-50-1
 
@@ -41063,7 +41589,7 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 24, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=615></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=623></a>
 
 ###### Article 411-50-3
 
@@ -41108,9 +41634,9 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 24, v. init.
 
 
-##### Sous-section 3 : Aides après réalisation<a id=616></a>
+##### Sous-section 3 : Aides après réalisation<a id=624></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=617></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=625></a>
 
 ###### Article 411-51
 
@@ -41193,7 +41719,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=618></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=626></a>
 
 ###### Article 411-55
 
@@ -41244,9 +41770,9 @@ _Modifié par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 27, v. init.
 
 
-##### Sous-section 4 : Aides à la création de musiques originales<a id=619></a>
+##### Sous-section 4 : Aides à la création de musiques originales<a id=627></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=620></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=628></a>
 
 ###### Article 411-58
 
@@ -41290,7 +41816,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=621></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=629></a>
 
 ###### Article 411-61
 
@@ -41372,7 +41898,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 5 : Aides à la production d'œuvres intéressant les cultures d'outre-mer<a id=622></a>
+##### Sous-section 5 : Aides à la production d'œuvres intéressant les cultures d'outre-mer<a id=630></a>
 
 ###### Article 411-67
 
@@ -41400,9 +41926,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 6 : Commissions consultatives<a id=623></a>
+##### Sous-section 6 : Commissions consultatives<a id=631></a>
 
-##### Paragraphe 1 : Commission des aides à la production avant réalisation<a id=624></a>
+##### Paragraphe 1 : Commission des aides à la production avant réalisation<a id=632></a>
 
 ###### Article 411-69
 
@@ -41434,7 +41960,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D311-1 (V)
 
 
-##### Paragraphe 2 : Commission des aides après réalisation<a id=625></a>
+##### Paragraphe 2 : Commission des aides après réalisation<a id=633></a>
 
 ###### Article 411-71
 
@@ -41448,9 +41974,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre II : Aides financières à la programmation en salles des œuvres cinématographiques de courte durée<a id=626></a>
+#### Chapitre II : Aides financières à la programmation en salles des œuvres cinématographiques de courte durée<a id=634></a>
 
-##### Section 1 : Dispositions générales<a id=627></a>
+##### Section 1 : Dispositions générales<a id=635></a>
 
 ###### Article 412-1-A
 
@@ -41466,7 +41992,7 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 40, v. init.
 
 
-##### Section 2 : Aides financières automatiques<a id=628></a>
+##### Section 2 : Aides financières automatiques<a id=636></a>
 
 ###### Article 412-1
 
@@ -41484,7 +42010,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section unique : Allocations directes<a id=629></a>
+##### Sous-section unique : Allocations directes<a id=637></a>
 
 ###### Article 412-2
 
@@ -41502,9 +42028,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Paragraphe 1 : Allocations directes aux programmes complets<a id=630></a>
+##### Paragraphe 1 : Allocations directes aux programmes complets<a id=638></a>
 
-##### Sous-Paragraphe 1 : Objet et conditions d'attribution<a id=631></a>
+##### Sous-Paragraphe 1 : Objet et conditions d'attribution<a id=639></a>
 
 ###### Article 412-3
 
@@ -41585,7 +42111,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-Paragraphe 2 : Procédure et modalités d'attribution<a id=632></a>
+##### Sous-Paragraphe 2 : Procédure et modalités d'attribution<a id=640></a>
 
 ###### Article 412-8
 
@@ -41636,9 +42162,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Allocations directes aux programmes de courts<a id=633></a>
+##### Paragraphe 2 : Allocations directes aux programmes de courts<a id=641></a>
 
-##### Sous-Paragraphe 1 : Objet et conditions d'attribution<a id=634></a>
+##### Sous-Paragraphe 1 : Objet et conditions d'attribution<a id=642></a>
 
 ###### Article 412-11
 
@@ -41745,7 +42271,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-Paragraphe 2 : Procédure et modalités d'attribution<a id=635></a>
+##### Sous-Paragraphe 2 : Procédure et modalités d'attribution<a id=643></a>
 
 ###### Article 412-17
 
@@ -41833,9 +42359,9 @@ _Abrogé par_:
   - Délibération n°2019/CA/22 du 6 décembre 2019 - art. 33, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=636></a>
+##### Section 3 : Aides financières sélectives<a id=644></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=637></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=645></a>
 
 ###### Article 412-21
 
@@ -41937,7 +42463,7 @@ _Nouveaux textes_:
   - Code du cinéma et de l'image animée - art. 412-13 (VD)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=638></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=646></a>
 
 ###### Article 421-24
 
@@ -42025,11 +42551,11 @@ _Nouveaux textes_:
   - Code du cinéma et de l'image animée - art. 412-16 (VD)
 
 
-### Titre II : Aides financières à la création et à la diffusion de certaines œuvres cinématographiques, audiovisuelles et multimédias<a id=639></a>
+### Titre II : Aides financières à la création et à la diffusion de certaines œuvres cinématographiques, audiovisuelles et multimédias<a id=647></a>
 
-#### Chapitre Ier : Aides financières à l'innovation en documentaire de création<a id=640></a>
+#### Chapitre Ier : Aides financières à l'innovation en documentaire de création<a id=648></a>
 
-##### Section unique : Aides financières sélectives<a id=641></a>
+##### Section unique : Aides financières sélectives<a id=649></a>
 
 ###### Article 421-1
 
@@ -42062,9 +42588,9 @@ _Créé par_:
   - Délibération n°2017/CA/23 - art. 5, v. init.
 
 
-##### Sous-section 1 : Aides à l'écriture<a id=642></a>
+##### Sous-section 1 : Aides à l'écriture<a id=650></a>
 
-##### Paragraphe 1 : Objet et condition d'attribution<a id=643></a>
+##### Paragraphe 1 : Objet et condition d'attribution<a id=651></a>
 
 ###### Article 421-2
 
@@ -42122,7 +42648,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=644></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=652></a>
 
 ###### Article 421-7
 
@@ -42198,9 +42724,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Aides au développement<a id=645></a>
+##### Sous-section 2 : Aides au développement<a id=653></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=646></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=654></a>
 
 ###### Article 421-12
 
@@ -42293,7 +42819,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=647></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=655></a>
 
 ###### Article 421-17
 
@@ -42408,9 +42934,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 3 : Aides au développement renforcé<a id=648></a>
+##### Sous-section 3 : Aides au développement renforcé<a id=656></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=649></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=657></a>
 
 ###### Article 421-25
 
@@ -42514,7 +43040,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=650></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=658></a>
 
 ###### Article 421-31
 
@@ -42646,7 +43172,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 4 : Commission consultative<a id=651></a>
+##### Sous-section 4 : Commission consultative<a id=659></a>
 
 ###### Article 421-40
 
@@ -42708,9 +43234,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre II : Aides financières à la création et à la diffusion des œuvres traitant de la diversité de la population et de l'égalité des chances<a id=652></a>
+#### Chapitre II : Aides financières à la création et à la diffusion des œuvres traitant de la diversité de la population et de l'égalité des chances<a id=660></a>
 
-##### Section unique : Aides financières sélectives<a id=653></a>
+##### Section unique : Aides financières sélectives<a id=661></a>
 
 ###### Article 422-1
 
@@ -42804,9 +43330,9 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-##### Paragraphe 1 : Aide à l'écriture<a id=654></a>
+##### Paragraphe 1 : Aide à l'écriture<a id=662></a>
 
-##### Sous-paragraphe 1 : Objet et conditions d'attribution<a id=655></a>
+##### Sous-paragraphe 1 : Objet et conditions d'attribution<a id=663></a>
 
 ###### Article 422-6
 
@@ -42918,7 +43444,7 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-##### Sous-paragraphe 2 : Procédure et modalités d'attribution<a id=656></a>
+##### Sous-paragraphe 2 : Procédure et modalités d'attribution<a id=664></a>
 
 ###### Article 422-12
 
@@ -42993,9 +43519,9 @@ _Modifié par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 30, v. init.
 
 
-##### Paragraphe 2 : Aide au développement de projets<a id=657></a>
+##### Paragraphe 2 : Aide au développement de projets<a id=665></a>
 
-##### Sous-paragraphe 1 : Objet et conditions d'attribution<a id=658></a>
+##### Sous-paragraphe 1 : Objet et conditions d'attribution<a id=666></a>
 
 ###### Article 422-15
 
@@ -43100,7 +43626,7 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-##### Sous-paragraphe 2 :  Procédure et modalités d'attribution<a id=659></a>
+##### Sous-paragraphe 2 :  Procédure et modalités d'attribution<a id=667></a>
 
 ###### Article 422-21
 
@@ -43148,9 +43674,9 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-##### Paragraphe 3 : Aide à la production<a id=660></a>
+##### Paragraphe 3 : Aide à la production<a id=668></a>
 
-##### Sous-paragraphe 1 : Objet et conditions d'attribution<a id=661></a>
+##### Sous-paragraphe 1 : Objet et conditions d'attribution<a id=669></a>
 
 ###### Article 422-24
 
@@ -43252,7 +43778,7 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-##### Sous-paragraphe 2 :  Procédure et modalités d'attribution<a id=662></a>
+##### Sous-paragraphe 2 :  Procédure et modalités d'attribution<a id=670></a>
 
 ###### Article 422-30
 
@@ -43300,9 +43826,9 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-##### Paragraphe 4 : Aide à la distribution en salles<a id=663></a>
+##### Paragraphe 4 : Aide à la distribution en salles<a id=671></a>
 
-##### Sous-paragraphe 1 : Objet et conditions d'attribution<a id=664></a>
+##### Sous-paragraphe 1 : Objet et conditions d'attribution<a id=672></a>
 
 ###### Article 422-33
 
@@ -43382,7 +43908,7 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-##### Sous-paragraphe 2 : Procédure et modalités d'attribution<a id=665></a>
+##### Sous-paragraphe 2 : Procédure et modalités d'attribution<a id=673></a>
 
 ###### Article 422-39
 
@@ -43430,9 +43956,9 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-##### Paragraphe 5 : Aide à l'édition vidéographique<a id=666></a>
+##### Paragraphe 5 : Aide à l'édition vidéographique<a id=674></a>
 
-##### Sous-paragraphe 1 : Objet et conditions d'attribution<a id=667></a>
+##### Sous-paragraphe 1 : Objet et conditions d'attribution<a id=675></a>
 
 ###### Article 422-42
 
@@ -43515,7 +44041,7 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-##### Sous-paragraphe 2 : Procédure et modalités d'attribution<a id=668></a>
+##### Sous-paragraphe 2 : Procédure et modalités d'attribution<a id=676></a>
 
 ###### Article 422-48
 
@@ -43563,7 +44089,7 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-##### Paragraphe 6 : Commission consultative<a id=669></a>
+##### Paragraphe 6 : Commission consultative<a id=677></a>
 
 ###### Article 422-51
 
@@ -43612,9 +44138,9 @@ _Créé par_:
   - Délibération n°2016/CA/10 du 30 juin 2016 - art. 17, v. init.
 
 
-### Titre IV : Aides financières à la création et à la diffusion sur les plateformes numériques<a id=670></a>
+### Titre IV : Aides financières à la création et à la diffusion sur les plateformes numériques<a id=678></a>
 
-#### Chapitre unique : Aides financières sélectives<a id=671></a>
+#### Chapitre unique : Aides financières sélectives<a id=679></a>
 
 ###### Article 441-1
 
@@ -43633,7 +44159,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-##### Section 1 : Dispositions communes<a id=672></a>
+##### Section 1 : Dispositions communes<a id=680></a>
 
 ###### Article 441-2
 
@@ -43694,9 +44220,9 @@ _Créé par_:
   - Délibération n°2017/CA/23 - art. 6, v. init.
 
 
-##### Section 2 : Aides à la création d'œuvres destinées aux plateformes numériques<a id=673></a>
+##### Section 2 : Aides à la création d'œuvres destinées aux plateformes numériques<a id=681></a>
 
-##### Sous-section 1 : Objet et condition d'attribution<a id=674></a>
+##### Sous-section 1 : Objet et condition d'attribution<a id=682></a>
 
 ###### Article 441-5
 
@@ -43810,7 +44336,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 441-5 (V)
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=675></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=683></a>
 
 ###### Article 441-10
 
@@ -43903,9 +44429,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 4-24 (V)
 
 
-##### Section 3 : Aides à l'enrichissement et à l'éditorialisation des programmes des chaînes numériques<a id=676></a>
+##### Section 3 : Aides à l'enrichissement et à l'éditorialisation des programmes des chaînes numériques<a id=684></a>
 
-##### Sous-section 1 : Objet et condition d'attribution<a id=677></a>
+##### Sous-section 1 : Objet et condition d'attribution<a id=685></a>
 
 ###### Article 441-15
 
@@ -43994,7 +44520,7 @@ _Créé par_:
   - Délibération n°2017/CA/23 - art. 6, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=678></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=686></a>
 
 ###### Article 441-21
 
@@ -44066,7 +44592,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 4-26 (V)
 
 
-##### Section 4 : Dispositions relatives aux cumuls d'aides<a id=679></a>
+##### Section 4 : Dispositions relatives aux cumuls d'aides<a id=687></a>
 
 ###### Article 441-25
 
@@ -44087,7 +44613,7 @@ _Créé par_:
   - Délibération n°2017/CA/23 - art. 6, v. init.
 
 
-##### Section 5 : Commission consultative<a id=680></a>
+##### Section 5 : Commission consultative<a id=688></a>
 
 ###### Article 441-26
 
@@ -44121,7 +44647,7 @@ _Créé par_:
   - Délibération n°2017/CA/23 - art. 6, v. init.
 
 
-### ANNEXES AU LIVRE IV<a id=681></a>
+### ANNEXES AU LIVRE IV<a id=689></a>
 
 ###### Article Annexe 4-1
 
@@ -45294,13 +45820,13 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 441-24 (V)
 
 
-## Livre V : Soutien aux actions en faveur du patrimoine cinématographique<a id=682></a>
+## Livre V : Soutien aux actions en faveur du patrimoine cinématographique<a id=690></a>
 
-### Titre unique : Aides financières à la préservation et à la valorisation du patrimoine cinématographique<a id=683></a>
+### Titre unique : Aides financières à la préservation et à la valorisation du patrimoine cinématographique<a id=691></a>
 
-#### Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine<a id=684></a>
+#### Chapitre Ier : Aides financières à la restauration et à la numérisation des œuvres cinématographiques du patrimoine<a id=692></a>
 
-##### Section unique : Aides financières sélectives<a id=685></a>
+##### Section unique : Aides financières sélectives<a id=693></a>
 
 ###### Article 511-1
 
@@ -45329,9 +45855,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=686></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=694></a>
 
-##### Paragraphe 1 : Conditions relatives aux bénéficiaires<a id=687></a>
+##### Paragraphe 1 : Conditions relatives aux bénéficiaires<a id=695></a>
 
 ###### Article 511-2
 
@@ -45387,7 +45913,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Conditions relatives aux œuvres<a id=688></a>
+##### Paragraphe 2 : Conditions relatives aux œuvres<a id=696></a>
 
 ###### Article 511-4
 
@@ -45463,7 +45989,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 3 : Dépenses prises en compte<a id=689></a>
+##### Paragraphe 3 : Dépenses prises en compte<a id=697></a>
 
 ###### Article 511-7
 
@@ -45493,7 +46019,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 4 : Conditions de numérisation<a id=690></a>
+##### Paragraphe 4 : Conditions de numérisation<a id=698></a>
 
 ###### Article 511-8
 
@@ -45524,7 +46050,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 5 : Critères d'attribution<a id=691></a>
+##### Paragraphe 5 : Critères d'attribution<a id=699></a>
 
 ###### Article 511-10
 
@@ -45575,7 +46101,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L214-1 (V)
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=692></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=700></a>
 
 ###### Article 511-11
 
@@ -45666,7 +46192,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L111-2 (V)
 
 
-##### Sous-section 3 : Commission consultative<a id=693></a>
+##### Sous-section 3 : Commission consultative<a id=701></a>
 
 ###### Article 511-15
 
@@ -45696,9 +46222,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 612-32 (M)
 
 
-#### Chapitre II : Aides financières aux actions de préservation patrimoniale des œuvres cinématographiques<a id=694></a>
+#### Chapitre II : Aides financières aux actions de préservation patrimoniale des œuvres cinématographiques<a id=702></a>
 
-##### Section unique : Aides financières automatiques<a id=695></a>
+##### Section unique : Aides financières automatiques<a id=703></a>
 
 ###### Article 512-1
 
@@ -45716,7 +46242,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section unique : Allocations directes<a id=696></a>
+##### Sous-section unique : Allocations directes<a id=704></a>
 
 ###### Article 512-2
 
@@ -45748,7 +46274,7 @@ _Modifié par_:
   - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 34, v. init.
 
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=697></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=705></a>
 
 ###### Article 512-4
 
@@ -45823,7 +46349,7 @@ _Créé par_:
   - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=698></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=706></a>
 
 ###### Article 512-9
 
@@ -45888,7 +46414,7 @@ _Créé par_:
   - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 7, v. init.
 
 
-### ANNEXES AU LIVRE V<a id=699></a>
+### ANNEXES AU LIVRE V<a id=707></a>
 
 ###### Article Annexe 5-1
 
@@ -45951,13 +46477,13 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 512-9 (V)
 
 
-## Livre VI : Soutien à la diffusion vidéographique et à l'innovation technologique<a id=700></a>
+## Livre VI : Soutien à la diffusion vidéographique et à l'innovation technologique<a id=708></a>
 
-### Titre Ier : Aides financières à la diffusion en vidéo physique et en ligne des œuvres cinématographiques et audiovisuelles<a id=701></a>
+### Titre Ier : Aides financières à la diffusion en vidéo physique et en ligne des œuvres cinématographiques et audiovisuelles<a id=709></a>
 
-#### Chapitre Ier : Aides financières à l'édition vidéographique des œuvres cinématographiques et audiovisuelles<a id=702></a>
+#### Chapitre Ier : Aides financières à l'édition vidéographique des œuvres cinématographiques et audiovisuelles<a id=710></a>
 
-##### Section 1 : Dispositions générales<a id=703></a>
+##### Section 1 : Dispositions générales<a id=711></a>
 
 ###### Article 611-1
 
@@ -45991,7 +46517,7 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 41, v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=704></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=712></a>
 
 ###### Article 611-2
 
@@ -46092,7 +46618,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L231-1 (M)
 
 
-##### Sous-section 2 : Dispositions relatives à l'intensité des aides<a id=705></a>
+##### Sous-section 2 : Dispositions relatives à l'intensité des aides<a id=713></a>
 
 ###### Article 611-7
 
@@ -46107,7 +46633,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Section 2 : Aides financières automatiques<a id=706></a>
+##### Section 2 : Aides financières automatiques<a id=714></a>
 
 ###### Article 611-8
 
@@ -46125,9 +46651,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section 1 : Allocations d'investissement<a id=707></a>
+##### Sous-section 1 : Allocations d'investissement<a id=715></a>
 
-##### Paragraphe 1 : Compte automatique des éditeurs de vidéogrammes<a id=708></a>
+##### Paragraphe 1 : Compte automatique des éditeurs de vidéogrammes<a id=716></a>
 
 ###### Article 611-9
 
@@ -46157,7 +46683,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=709></a>
+##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=717></a>
 
 ###### Article 611-11
 
@@ -46224,7 +46750,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L212-32 (V)
 
 
-##### Paragraphe 3 : Affectation des sommes inscrites sur le compte<a id=710></a>
+##### Paragraphe 3 : Affectation des sommes inscrites sur le compte<a id=718></a>
 
 ###### Article 611-15
 
@@ -46264,7 +46790,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 4 : Investissement des sommes inscrites sur le compte<a id=711></a>
+##### Paragraphe 4 : Investissement des sommes inscrites sur le compte<a id=719></a>
 
 ###### Article 611-17
 
@@ -46327,7 +46853,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 211-6 (V)
 
 
-##### Paragraphe 5 : Péremption des sommes inscrites sur le compte<a id=712></a>
+##### Paragraphe 5 : Péremption des sommes inscrites sur le compte<a id=720></a>
 
 ###### Article 611-20
 
@@ -46342,7 +46868,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Allocations directes<a id=713></a>
+##### Sous-section 2 : Allocations directes<a id=721></a>
 
 ###### Article 611-20-1
 
@@ -46389,9 +46915,9 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 34, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=714></a>
+##### Section 3 : Aides financières sélectives<a id=722></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=715></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=723></a>
 
 ###### Article 611-21
 
@@ -46496,7 +47022,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=716></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=724></a>
 
 ###### Article 611-26
 
@@ -46601,7 +47127,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=717></a>
+##### Sous-section 3 : Commission consultative<a id=725></a>
 
 ###### Article 611-32
 
@@ -46619,9 +47145,9 @@ _Abrogé par_:
   - Délibération n°2018/CA/13 - art. 7, v. init.
 
 
-#### Chapitre II : Aides financières à la diffusion en ligne des œuvres cinématographiques et audiovisuelles<a id=718></a>
+#### Chapitre II : Aides financières à la diffusion en ligne des œuvres cinématographiques et audiovisuelles<a id=726></a>
 
-##### Section 1 : Dispositions générales<a id=719></a>
+##### Section 1 : Dispositions générales<a id=727></a>
 
 ###### Article 612-1
 
@@ -46655,7 +47181,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=720></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=728></a>
 
 ###### Article 612-3
 
@@ -46772,7 +47298,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. L234-1 (V)
 
 
-##### Sous-section 2 : Dispositions relatives à l'intensité des aides<a id=721></a>
+##### Sous-section 2 : Dispositions relatives à l'intensité des aides<a id=729></a>
 
 ###### Article 612-8
 
@@ -46787,7 +47313,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Section 2 : Aides financières automatiques<a id=722></a>
+##### Section 2 : Aides financières automatiques<a id=730></a>
 
 ###### Article 612-9
 
@@ -46805,9 +47331,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-2 (V)
 
 
-##### Sous-section 1 : Allocations d'investissement<a id=723></a>
+##### Sous-section 1 : Allocations d'investissement<a id=731></a>
 
-##### Paragraphe 1 : Compte automatique des éditeurs de services de médias audiovisuels à la demande<a id=724></a>
+##### Paragraphe 1 : Compte automatique des éditeurs de services de médias audiovisuels à la demande<a id=732></a>
 
 ###### Article 612-10
 
@@ -46838,7 +47364,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=725></a>
+##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=733></a>
 
 ###### Article 612-12
 
@@ -46943,7 +47469,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 3 : Affectation des sommes inscrites sur le compte<a id=726></a>
+##### Paragraphe 3 : Affectation des sommes inscrites sur le compte<a id=734></a>
 
 ###### Article 612-16
 
@@ -46991,7 +47517,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 4 : Investissement des sommes inscrites sur le compte<a id=727></a>
+##### Paragraphe 4 : Investissement des sommes inscrites sur le compte<a id=735></a>
 
 ###### Article 612-18
 
@@ -47049,7 +47575,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 5 : Péremption des sommes inscrites sur le compte<a id=728></a>
+##### Paragraphe 5 : Péremption des sommes inscrites sur le compte<a id=736></a>
 
 ###### Article 612-22
 
@@ -47065,7 +47591,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Allocations directes<a id=729></a>
+##### Sous-section 2 : Allocations directes<a id=737></a>
 
 ###### Article 612-22-1
 
@@ -47104,9 +47630,9 @@ _Créé par_:
   - Délibération n°2016/CA/13 du 22 septembre 2016 - art. 35, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=730></a>
+##### Section 3 : Aides financières sélectives<a id=738></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=731></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=739></a>
 
 ###### Article 612-23
 
@@ -47241,7 +47767,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=732></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=740></a>
 
 ###### Article 612-29
 
@@ -47348,11 +47874,11 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-### Titre II : Aides financières à l'utilisation des technologies numériques de l'image et du son<a id=733></a>
+### Titre II : Aides financières à l'utilisation des technologies numériques de l'image et du son<a id=741></a>
 
-#### Chapitre unique : Aides financières à la création visuelle ou sonore par l'utilisation des technologies numériques de l'image et du son<a id=734></a>
+#### Chapitre unique : Aides financières à la création visuelle ou sonore par l'utilisation des technologies numériques de l'image et du son<a id=742></a>
 
-##### Section 1 : Dispositions générales<a id=735></a>
+##### Section 1 : Dispositions générales<a id=743></a>
 
 ###### Article 621-1
 
@@ -47419,9 +47945,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 621-10 (M)
 
 
-##### Section 2 : Aides financières automatiques<a id=736></a>
+##### Section 2 : Aides financières automatiques<a id=744></a>
 
-##### Sous-section unique : Allocations directes<a id=737></a>
+##### Sous-section unique : Allocations directes<a id=745></a>
 
 ###### Article 621-5
 
@@ -47436,7 +47962,7 @@ _Modifié par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=738></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=746></a>
 
 ###### Article 621-6
 
@@ -47540,7 +48066,7 @@ _Modifié par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=739></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=747></a>
 
 ###### Article 621-11
 
@@ -47669,7 +48195,7 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=740></a>
+##### Section 3 : Aides financières sélectives<a id=748></a>
 
 ###### Article 621-18
 
@@ -47687,7 +48213,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=741></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=749></a>
 
 ###### Article 621-19
 
@@ -47779,7 +48305,7 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=742></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=750></a>
 
 ###### Article 621-23
 
@@ -47839,7 +48365,7 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=743></a>
+##### Sous-section 3 : Commission consultative<a id=751></a>
 
 ###### Article 621-27
 
@@ -47853,11 +48379,11 @@ _Créé par_:
   - Délibération n°2017/CA/15 du 29 juin 2017 - art. 42, v. init.
 
 
-### Titre III : Aides financières à la modernisation des industries techniques et à l'innovation technologique<a id=744></a>
+### Titre III : Aides financières à la modernisation des industries techniques et à l'innovation technologique<a id=752></a>
 
-#### Chapitre Ier : Aides financières à la modernisation des industries techniques<a id=745></a>
+#### Chapitre Ier : Aides financières à la modernisation des industries techniques<a id=753></a>
 
-##### Section 1 : Aides financières sélectives<a id=746></a>
+##### Section 1 : Aides financières sélectives<a id=754></a>
 
 ###### Article 631-1
 
@@ -47875,9 +48401,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-##### Sous-section 1 : Aides à l'investissement dans des immobilisations<a id=747></a>
+##### Sous-section 1 : Aides à l'investissement dans des immobilisations<a id=755></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=748></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=756></a>
 
 ###### Article 631-2
 
@@ -47945,7 +48471,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=749></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=757></a>
 
 ###### Article 631-6
 
@@ -47991,9 +48517,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Aides à l'investissement éco-responsable<a id=750></a>
+##### Sous-section 2 : Aides à l'investissement éco-responsable<a id=758></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=751></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=759></a>
 
 ###### Article 631-9
 
@@ -48062,7 +48588,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=752></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=760></a>
 
 ###### Article 631-13
 
@@ -48108,9 +48634,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 3 : Aides à la formation liée à un investissement<a id=753></a>
+##### Sous-section 3 : Aides à la formation liée à un investissement<a id=761></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=754></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=762></a>
 
 ###### Article 631-16
 
@@ -48176,7 +48702,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=755></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=763></a>
 
 ###### Article 631-20
 
@@ -48222,9 +48748,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 4 : Aides à la propriété industrielle<a id=756></a>
+##### Sous-section 4 : Aides à la propriété industrielle<a id=764></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=757></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=765></a>
 
 ###### Article 631-23
 
@@ -48295,7 +48821,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=758></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=766></a>
 
 ###### Article 631-27
 
@@ -48341,9 +48867,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 5 : Aides aux services de conseils<a id=759></a>
+##### Sous-section 5 : Aides aux services de conseils<a id=767></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=760></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=768></a>
 
 ###### Article 631-30
 
@@ -48415,7 +48941,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=761></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=769></a>
 
 ###### Article 631-34
 
@@ -48461,9 +48987,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 6 : Aides à l'amélioration des outils et services de communication<a id=762></a>
+##### Sous-section 6 : Aides à l'amélioration des outils et services de communication<a id=770></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=763></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=771></a>
 
 ###### Article 631-37
 
@@ -48529,7 +49055,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=764></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=772></a>
 
 ###### Article 631-41
 
@@ -48575,9 +49101,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 7 : Aides à la participation aux foires<a id=765></a>
+##### Sous-section 7 : Aides à la participation aux foires<a id=773></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=766></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=774></a>
 
 ###### Article 631-44
 
@@ -48648,7 +49174,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=767></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=775></a>
 
 ###### Article 631-48
 
@@ -48694,7 +49220,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 8 : Commission consultative<a id=768></a>
+##### Sous-section 8 : Commission consultative<a id=776></a>
 
 ###### Article 631-51
 
@@ -48720,9 +49246,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre II : Aides financières à l'innovation technologique<a id=769></a>
+#### Chapitre II : Aides financières à l'innovation technologique<a id=777></a>
 
-##### Section 1 : Aides financières sélectives<a id=770></a>
+##### Section 1 : Aides financières sélectives<a id=778></a>
 
 ###### Article 632-1
 
@@ -48740,9 +49266,9 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. D311-3 (V)
 
 
-##### Sous-section 1 : Aides à la recherche industrielle et au développement expérimental<a id=771></a>
+##### Sous-section 1 : Aides à la recherche industrielle et au développement expérimental<a id=779></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=772></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=780></a>
 
 ###### Article 632-2
 
@@ -48828,7 +49354,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=773></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=781></a>
 
 ###### Article 632-7
 
@@ -48879,9 +49405,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 2 : Aides à l'innovation de procédé et d'organisation<a id=774></a>
+##### Sous-section 2 : Aides à l'innovation de procédé et d'organisation<a id=782></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=775></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=783></a>
 
 ###### Article 632-10
 
@@ -48969,7 +49495,7 @@ _Cite_:
   - Code général des impôts, CGI. - art. 53 A (M)
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=776></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=784></a>
 
 ###### Article 632-15
 
@@ -49020,7 +49546,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=777></a>
+##### Sous-section 3 : Commission consultative<a id=785></a>
 
 ###### Article 632-18
 
@@ -49046,7 +49572,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre III : Fonds d'aide à l'innovation de Bpifrance Financement<a id=778></a>
+#### Chapitre III : Fonds d'aide à l'innovation de Bpifrance Financement<a id=786></a>
 
 ###### Article 633-1
 
@@ -49062,7 +49588,7 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-### ANNEXES AU LIVRE VI<a id=779></a>
+### ANNEXES AU LIVRE VI<a id=787></a>
 
 ###### Article Annexe 6-1
 
@@ -49744,13 +50270,13 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 632-15 (V)
 
 
-## Livre VII : Soutien à la coopération et à la diffusion internationale et européenne<a id=780></a>
+## Livre VII : Soutien à la coopération et à la diffusion internationale et européenne<a id=788></a>
 
-### Titre Ier : Aides financières au développement des coproductions internationales<a id=781></a>
+### Titre Ier : Aides financières au développement des coproductions internationales<a id=789></a>
 
-#### Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales<a id=782></a>
+#### Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales<a id=790></a>
 
-##### Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux<a id=783></a>
+##### Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux<a id=791></a>
 
 ###### Article 711-1
 
@@ -49779,7 +50305,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 9, v. init.
 
 
-##### Section 2 : Dispositifs d'aides institués par des accords administratifs<a id=784></a>
+##### Section 2 : Dispositifs d'aides institués par des accords administratifs<a id=792></a>
 
 ###### Article 711-2
 
@@ -49810,7 +50336,7 @@ _Modifié par_:
   - Délibération n°2017/CA/23 - art. 8, v. init.
 
 
-##### Section 3 : Dispositions communes<a id=785></a>
+##### Section 3 : Dispositions communes<a id=793></a>
 
 ###### Article 711-3
 
@@ -49827,7 +50353,7 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 10, v. init.
 
 
-#### Chapitre II : Aides financières aux cinémas du monde<a id=786></a>
+#### Chapitre II : Aides financières aux cinémas du monde<a id=794></a>
 
 ###### Article 712-1
 
@@ -49857,11 +50383,11 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 723-1 (M)
 
 
-### Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles<a id=787></a>
+### Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles<a id=795></a>
 
-#### Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques<a id=788></a>
+#### Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques<a id=796></a>
 
-##### Section 1 : Dispositions générales<a id=789></a>
+##### Section 1 : Dispositions générales<a id=797></a>
 
 ###### Article 721-1
 
@@ -49905,7 +50431,7 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=790></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=798></a>
 
 ###### Article 721-3
 
@@ -49976,7 +50502,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 721-4 (V)
 
 
-##### Sous-section 2 : Conditions relatives aux œuvres<a id=791></a>
+##### Sous-section 2 : Conditions relatives aux œuvres<a id=799></a>
 
 ###### Article 721-6
 
@@ -50017,7 +50543,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=792></a>
+##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=800></a>
 
 ###### Article 721-8
 
@@ -50051,9 +50577,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 7-1 (VT)
 
 
-##### Section 2 : Aides financières automatiques<a id=793></a>
+##### Section 2 : Aides financières automatiques<a id=801></a>
 
-##### Sous-section unique : Allocations d'investissement<a id=794></a>
+##### Sous-section unique : Allocations d'investissement<a id=802></a>
 
 ###### Article 721-10
 
@@ -50067,7 +50593,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger<a id=795></a>
+##### Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger<a id=803></a>
 
 ###### Article 721-11
 
@@ -50104,7 +50630,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 7-2 (VT)
 
 
-##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=796></a>
+##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=804></a>
 
 ###### Article 721-13
 
@@ -50173,7 +50699,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 3 : Inscription des sommes sur le compte<a id=797></a>
+##### Paragraphe 3 : Inscription des sommes sur le compte<a id=805></a>
 
 ###### Article 721-16
 
@@ -50187,7 +50713,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 4 : Affectation des sommes inscrites sur le compte<a id=798></a>
+##### Paragraphe 4 : Affectation des sommes inscrites sur le compte<a id=806></a>
 
 ###### Article 721-17
 
@@ -50280,7 +50806,7 @@ _Modifié par_:
   - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 52, v. init.
 
 
-##### Paragraphe 5 : Investissement des sommes inscrites sur le compte<a id=799></a>
+##### Paragraphe 5 : Investissement des sommes inscrites sur le compte<a id=807></a>
 
 ###### Article 721-20
 
@@ -50342,7 +50868,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 6 : Péremption des sommes inscrites sur le compte<a id=800></a>
+##### Paragraphe 6 : Péremption des sommes inscrites sur le compte<a id=808></a>
 
 ###### Article 721-24
 
@@ -50358,11 +50884,11 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=801></a>
+##### Section 3 : Aides financières sélectives<a id=809></a>
 
-##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises<a id=802></a>
+##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises<a id=810></a>
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=803></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=811></a>
 
 ###### Article 721-25
 
@@ -50429,7 +50955,7 @@ _Modifié par_:
   - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 40, v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=804></a>
+##### Sous-section 3 : Commission consultative<a id=812></a>
 
 ###### Article 721-30
 
@@ -50443,9 +50969,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles<a id=805></a>
+#### Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles<a id=813></a>
 
-##### Section 1 : Dispositions générales<a id=806></a>
+##### Section 1 : Dispositions générales<a id=814></a>
 
 ###### Article 722-1
 
@@ -50477,7 +51003,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=807></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=815></a>
 
 ###### Article 722-3
 
@@ -50541,24 +51067,24 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 2 : Conditions relatives aux œuvres<a id=808></a>
+##### Sous-section 2 : Conditions relatives aux œuvres<a id=816></a>
 
 ###### Article 722-6
 
 Sont éligibles aux aides à la promotion à l'étranger des œuvres audiovisuelles, les œuvres audiovisuelles produites dans les
 conditions prévues au chapitre Ier du titre Ier du livre III et qui ont fait l'objet d'une acceptation dûment renseignée et
-certifiée de leur version définitive par un ou plusieurs éditeurs de services de télévision ou de services à la demande,
-depuis moins de deux ans. Des dérogations à ce délai peuvent être accordées pour les œuvres pouvant justifier de ventes à
-l'étranger.
+certifiée de leur version définitive par un ou plusieurs éditeurs de services de télévision ou de services de médias
+audiovisuels à la demande, depuis moins de deux ans. Des dérogations à ce délai peuvent être accordées pour les œuvres
+pouvant justifier de ventes à l'étranger.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 
-##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=809></a>
+##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=817></a>
 
 ###### Article 722-7
 
@@ -50576,7 +51102,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 722-8 (M)
 
 
-##### Sous-section 4 : Conditions relatives au montant des aides<a id=810></a>
+##### Sous-section 4 : Conditions relatives au montant des aides<a id=818></a>
 
 ###### Article 722-8
 
@@ -50594,7 +51120,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 722-7 (V)
 
 
-##### Section 2 : Aides financières automatiques<a id=811></a>
+##### Section 2 : Aides financières automatiques<a id=819></a>
 
 ###### Article 722-9
 
@@ -50608,9 +51134,9 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section unique : Allocations directes<a id=812></a>
+##### Sous-section unique : Allocations directes<a id=820></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=813></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=821></a>
 
 ###### Article 722-10
 
@@ -50687,35 +51213,35 @@ _Cité par_:
 ###### Article 722-13
 
 En ce qui concerne le doublage, le sous-titrage, la voix off et le reformatage des séries et collections d'œuvres
-audiovisuelles, les allocations directes sont attribuées à hauteur de 25 % de la durée ou de la durée cumulée totale de ces
-séries et collections.
+audiovisuelles, les allocations directes sont attribuées à hauteur de 25 % de la durée totale de ces séries et collections.
 
 Toutefois, lorsque les entreprises de production et les entreprises de distribution disposent d'une offre d'achat ferme
-émanant d'un éditeur de services de télévision ou d'un éditeur de services à la demande établi à l'étranger et portant sur
-l'intégralité d'une série ou d'une collection d'œuvres audiovisuelles, les allocations directes sont attribuées à hauteur de
-la totalité de la durée ou de la durée cumulée de la série ou de la collection.
+émanant d'un éditeur de services de télévision ou d'un éditeur de services de médias audiovisuels à la demande établi à
+l'étranger et portant sur l'intégralité d'une série ou d'une collection d'œuvres audiovisuelles, les allocations directes
+sont attribuées à hauteur de la totalité de la durée de la série ou de la collection.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 53, v. init.
 
 
 ###### Article 722-14
 
 En ce qui concerne la fabrication de bandes de démonstration, les allocations directes sont réservées à la promotion de
-séries et collections dont la durée ou la durée cumulée totale est supérieure à quatre heures et dont les épisodes ou numéros
-ont une durée ou une durée cumulée supérieure à cinq minutes.
+séries et collections dont la durée totale est supérieure à quatre heures et dont les épisodes ou numéros ont une durée
+supérieure à cinq minutes.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 54, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=814></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=822></a>
 
 ###### Article 722-15
 
@@ -50821,9 +51347,9 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=815></a>
+##### Section 3 : Aides financières sélectives<a id=823></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=816></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=824></a>
 
 ###### Article 722-19
 
@@ -50854,7 +51380,7 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=817></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=825></a>
 
 ###### Article 722-21
 
@@ -50937,7 +51463,7 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=818></a>
+##### Sous-section 3 : Commission consultative<a id=826></a>
 
 ###### Article 722-27
 
@@ -50951,11 +51477,11 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-#### Chapitre III : Aides financières à la distribution à l'étranger des œuvres représentatives des cinématographies du monde<a id=819></a>
+#### Chapitre III : Aides financières à la distribution à l'étranger des œuvres représentatives des cinématographies du monde<a id=827></a>
 
-##### Section unique : Aides financières sélectives<a id=820></a>
+##### Section unique : Aides financières sélectives<a id=828></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=821></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=829></a>
 
 ###### Article 723-1
 
@@ -51031,8 +51557,8 @@ l'exception de la France, et un au moins est le territoire d'un Etat qui ne part
 distribution des œuvres sur ces territoires ne doit pas avoir donné lieu à l'attribution d'une aide équivalente d'un autre
 fonds bénéficiant d'un soutien du sous-programme "MEDIA" ;
 
-b) Pour un ou plusieurs modes d'exploitation, dont au moins une diffusion en ligne par un éditeur de services à la demande
-sur au moins un des territoires mentionnés au a ;
+b) Pour un ou plusieurs modes d'exploitation, dont au moins une diffusion en ligne par un éditeur de services de médias
+audiovisuels à la demande sur au moins un des territoires mentionnés au a ;
 
 c) Avec le concours d'entreprises partenaires intervenant dans les territoires mentionnés au a ou ayant une expérience dans
 le domaine de la distribution.
@@ -51041,7 +51567,7 @@ le domaine de la distribution.
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 57, v. init.
+  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 
 ###### Article 723-5
@@ -51104,7 +51630,7 @@ _Modifié par_:
   - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 58, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=822></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=830></a>
 
 ###### Article 723-7
 
@@ -51184,7 +51710,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 7-8 (V)
 
 
-##### Sous-section 3 : Commission consultative<a id=823></a>
+##### Sous-section 3 : Commission consultative<a id=831></a>
 
 ###### Article 723-11
 
@@ -51198,7 +51724,7 @@ _Créé par_:
   - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 7, v. init.
 
 
-### ANNEXES AU LIVRE VII<a id=824></a>
+### ANNEXES AU LIVRE VII<a id=832></a>
 
 ###### Article Annexe 7-1
 
