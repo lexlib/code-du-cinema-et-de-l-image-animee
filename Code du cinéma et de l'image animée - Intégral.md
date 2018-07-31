@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2018-07-27
+Version Consolidée au 2018-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -871,8 +871,7 @@ environnement technique, juridique, économique et social ainsi que les conditio
 concernés. A ce titre :
 
 a) Il recueille toutes informations utiles, notamment commerciales et financières, et diffuse une information économique et
-statistique, dans le respect des législations relatives à la protection des données personnelles et au secret en matière
-commerciale et industrielle ;
+statistique, dans le respect des législations relatives à la protection des données personnelles et au secret des affaires ;
 
 b) Il organise des concertations avec les représentants des secteurs professionnels intéressés sur les sujets entrant dans le
 cadre de ses missions ;
@@ -958,7 +957,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2017-762 du 4 mai 2017 - art. 2
+  - Loi n°2018-670 du 30 juillet 2018 - art. 4
 
 
 ###### Article L111-3
