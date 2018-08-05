@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2018-08-01
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -1074,8 +1074,8 @@ Le président du Centre national du cinéma et de l'image animée est nommé par
 
 Outre son président, le conseil d'administration de l'établissement public est composé :
 
-1° De deux parlementaires désignés respectivement par les commissions chargées de la culture de l'Assemblée nationale et du
-Sénat ;
+1° D'un député et d'un sénateur désignés par la commission permanente chargée des affaires culturelles de leur assemblée
+respective ;
 
 2° Pour la majorité de ses membres, de représentants de l'Etat ;
 
@@ -1089,12 +1089,12 @@ _Cité par_:
 
   - Ordonnance n°2009-901 du 24 juillet 2009 - art. 16 (V)
   - Décret n°2010-654 du 11 juin 2010 - art. 1 (Ab)
-  - Code du cinéma et de l'image animée - art. L112-2 (V)
+  - Code du cinéma et de l'image animée - art. L112-2 (M)
   - Code du cinéma et de l'image animée - art. R112-1 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2017-762 du 4 mai 2017 - art. 4
+  - Loi n°2018-699 du 3 août 2018 - art. 74
 
 
 ###### Article L112-2
