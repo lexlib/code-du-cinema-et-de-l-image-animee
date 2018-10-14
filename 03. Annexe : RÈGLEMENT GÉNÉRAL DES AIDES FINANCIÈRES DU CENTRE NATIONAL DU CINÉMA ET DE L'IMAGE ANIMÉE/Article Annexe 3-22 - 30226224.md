@@ -1,6 +1,6 @@
 # Article Annexe 3-22
 
-AIDES À L'ÉCRITURE DE PROJETS D'ŒUVRES POUR LES NOUVEAUX MÉDIAS
+AIDES À L'ÉCRITURE DE PROJETS D'ŒUVRES IMMERSIVES OU INTERACTIVES
 
 (Article 321-33)
 
@@ -34,10 +34,12 @@ c) La bible graphique (uniquement pour les projets d'animation) ;
 
 d) Les intentions de réalisation, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
 
+e) Des éléments de scénarisation illustrant les principes de narration immersive ou interactive (4 pages maximum) ;
+
 4° Un descriptif des travaux et démarches à effectuer en vue de l'écriture du projet.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/03 du 7 avril 2016 - art. 28, v. init.
+  - Délibération n°2018/CA/17 du 21 septembre 2018 - art. 51, v. init.
