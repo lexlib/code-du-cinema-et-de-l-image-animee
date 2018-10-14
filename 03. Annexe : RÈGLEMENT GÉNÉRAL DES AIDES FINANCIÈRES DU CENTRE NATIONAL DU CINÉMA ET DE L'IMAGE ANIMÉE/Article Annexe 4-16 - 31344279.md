@@ -31,7 +31,7 @@ II. - Dossier artistique :
 a) Pour les projets d'œuvres d'animation, la note précise le parti pris artistique lié à la narration et à l'élaboration
 graphique du projet, et doit être accompagnée des éléments graphiques ;
 
-b) Pour les projets d'œuvres pour les nouveaux médias, la note précise les choix artistiques et les enjeux créatifs
+b) Pour les projets d'œuvres immersives ou interactives, la note précise les choix artistiques et les enjeux créatifs
 spécifiques au(x) support(s) choisi(s) ;
 
 4° Une note de présentation générale du projet en lien avec le thème de la diversité (thème, situation, personnages,
@@ -40,12 +40,12 @@ problématiques, etc.) :
 a) Pour les projets de séries audiovisuelles, la note est accompagnée du concept en une page, en précisant également le
 format, la cible, la technique, le type de narration (bouclé, feuilletonnant, etc.) ;
 
-b) Pour les projets d'œuvres pour les nouveaux médias, la note précise les principaux éléments artistiques du projet :
+b) Pour les projets d'œuvres immersives ou interactives, la note précise les principaux éléments artistiques du projet :
 concept et choix narratifs, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
 
 5° Le cas échéant, la liste des personnes qui collaborent à l'écriture du scénario (coauteurs ou consultants) ;
 
-6° Les éléments artistiques complémentaires nécessaires au projet. Pour les projets d'œuvres pour les nouveaux médias, un
+6° Les éléments artistiques complémentaires nécessaires au projet. Pour les projets d'œuvres immersives ou interactives, un
 dossier littéraire et graphique développant le concept, exposant les éléments d'écritures propres au genre du projet, la
 bible graphique pour l'animation et tout élément de scénarisation illustrant les principes de narration ;
 
@@ -55,4 +55,4 @@ bible graphique pour l'animation et tout élément de scénarisation illustrant 
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/10 du 30 juin 2016 - art. 18, v. init.
+  - Délibération n°2018/CA/17 du 21 septembre 2018 - art. 54, v. init.
