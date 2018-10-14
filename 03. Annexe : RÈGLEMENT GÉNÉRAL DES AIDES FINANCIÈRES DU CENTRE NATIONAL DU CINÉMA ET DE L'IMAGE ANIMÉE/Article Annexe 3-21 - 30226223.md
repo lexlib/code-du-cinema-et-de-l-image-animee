@@ -1,6 +1,6 @@
 # Article Annexe 3-21
 
-AIDES AU DÉVELOPPEMENT DE PROJETS D'ŒUVRES POUR LES NOUVEAUX MÉDIAS
+AIDES AU DÉVELOPPEMENT DE PROJETS D'ŒUVRES IMMERSIVES OU INTERACTIVES
 
 (Article 321-24)
 
@@ -10,8 +10,7 @@ I. - Dossier administratif :
 
 1° Un devis détaillé des dépenses de développement et, le cas échéant, la répartition des dépenses par territoire ;
 
-2° Une présentation de l'entreprise et une note stratégique sur le développement des activités de l'entreprise sur les
-nouveaux médias ;
+2° Une présentation de l'entreprise et une note stratégique sur le développement des activités de l'entreprise ;
 
 3° Les curriculum vitae de l'équipe de création ;
 
@@ -26,8 +25,8 @@ II. - Dossier artistique :
 
 1° Une note de synthèse présentant :
 
-a) Les principaux éléments artistiques du projet : concept, synopsis, intentions de réalisation en adéquation avec le(s)
-support(s) choisi(s) et le(s) public(s) cible(s) ;
+a) Les principaux éléments artistiques du projet : concept, synopsis, originalité du projet par rapport au(x) support(s)
+choisi(s) et au(x) public(s) cible(s) ;
 
 b) Un rappel des principaux partenaires financiers et éditoriaux contribuant à l'élaboration du modèle économique et de la
 stratégie de diffusion ;
@@ -45,6 +44,8 @@ c) La bible graphique (uniquement pour les projets d'animation) ;
 
 d) Les intentions de réalisation, en adéquation avec le(s) support(s) choisi(s) et le(s) public(s) cible(s) ;
 
+e) Des éléments de scénarisation illustrant les principes de narration immersive ou interactive (4 pages maximum) ;
+
 4° Une note d'intention du producteur sur la stratégie de diffusion et la recherche de financements pouvant inclure une
 description précise des partenariats éditoriaux conclus, en particulier s'agissant des demandes d'aide à la production, ainsi
 qu'un "benchmark" des projets déjà réalisés afin de mieux positionner le projet sur un plan éditorial et marketing ;
@@ -55,4 +56,4 @@ qu'un "benchmark" des projets déjà réalisés afin de mieux positionner le pro
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/03 du 7 avril 2016 - art. 28, v. init.
+  - Délibération n°2018/CA/17 du 21 septembre 2018 - art. 51, v. init.
