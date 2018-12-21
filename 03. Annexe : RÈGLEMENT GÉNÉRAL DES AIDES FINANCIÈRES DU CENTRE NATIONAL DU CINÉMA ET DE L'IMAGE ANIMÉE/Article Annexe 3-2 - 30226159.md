@@ -150,6 +150,10 @@ c) La nature des prestations et travaux techniques prévus au devis ;
 d) Le détail de toutes les prestations (personnels et moyens techniques) et, en particulier, les prestations apportées par le
 ou les diffuseurs français ;
 
+12° bis Le cas échéant, un document détaillant les dépenses correspondant à des moyens artistiques et techniques relevant des
+genres de la fiction, de l'animation ou de l'adaptation audiovisuelle de spectacle vivant accompagné d'un argumentaire
+exposant la spécificité de ces dépenses ;
+
 13° Tout contrat de coproduction et de préachat de droits de diffusion conclu avec un éditeur de services de télévision ainsi
 que la justification de son inscription au registre public du cinéma et de l'audiovisuel, lorsque l'œuvre a été immatriculée.
 Toutefois, lorsque l'entreprise de production n'est pas momentanément en mesure de fournir l'un ou l'autre de ces contrats le
@@ -183,9 +187,10 @@ IV.-Adaptation audiovisuelle de spectacle vivant :
 
 6° Le dispositif de tournage prévu et le plan de travail ;
 
-7° Tout contrat avec les personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de
-l'œuvre audiovisuelle, notamment le contrat avec les ayants droit du spectacle et leurs annexes, ou un accord écrit des
-ayants droits ;
+7° Tout contrat avec les personnes physiques ou morales pouvant faire valoir leur droit sur le spectacle objet de l'œuvre
+audiovisuelle, notamment le contrat avec les ayants droit du spectacle et leurs annexes, ou une attestation du producteur du
+spectacle garantissant l'accord des ayants droit du spectacle. Le contrat ou l'attestation mentionne le nombre de sessions
+d'enregistrement du spectacle ;
 
 8° Tout contrat de coproduction conclu avec une autre entreprise de production, ses annexes et éventuels avenants ainsi que
 la justification de son inscription au registre public du cinéma et de l'audiovisuel lorsque l'œuvre a été immatriculée ;
@@ -206,7 +211,9 @@ ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 
 13° Le ou les contrats de prestation ;
 
-14° Les contrats des auteurs, scénaristes, adaptateurs et auteur-réalisateurs et du réalisateur technicien ;
+14° Les contrats des auteurs, scénaristes, adaptateurs et auteur-réalisateurs et du réalisateur technicien. Le contrat de
+l'auteur-réalisateur et le contrat du réalisateur technicien mentionnent le nombre de sessions d'enregistrement du
+spectacle ;
 
 15° Le devis de production détaillé faisant apparaître :
 
@@ -237,8 +244,7 @@ justification de son inscription au registre public du cinéma et de l'audiovisu
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 49, v. init.
+  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 29, v. init.
 
 _Cite_:
 
