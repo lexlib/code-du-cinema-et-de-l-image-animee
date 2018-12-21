@@ -140,6 +140,10 @@ préalable ou si de nouveaux avenants ont été signés ;
 note de l'entreprise de production détaillant les modalités de consultation des experts et justifiant le choix de ces experts
 en intégrant leur bibliographie sur le sujet traité, s'ils n'ont pas été fournis lors de l'autorisation préalable ;
 
+12° bis Le cas échéant, pour l'application du coefficient prévu au B du II de l'article 311-48, un document détaillant les
+dépenses correspondant à des moyens artistiques et techniques relevant des genres de la fiction, de l'animation ou de
+l'adaptation audiovisuelle de spectacle vivant accompagné d'un argumentaire exposant la spécificité de ces dépenses ;
+
 13° Le cas échéant, pour l'attribution des bonifications prévues au III de l'article 311-48 :
 
 a) Toute pièce justificative de l'obtention d'une aide à l'écriture ou au développement ;
@@ -184,7 +188,7 @@ vision, chef monteur, mixeur, étalonneur, conseiller musical ;
 7° Tout contrat de cession des droits à l'image et d'interprétation des artistes-interprètes, ainsi que tout contrat avec les
 personnes physiques ou morales pouvant faire valoir leur droit à l'image sur le spectacle objet de l'œuvre audiovisuelle,
 notamment le contrat avec les ayants droit du spectacle et leurs annexes, s'ils n'ont pas été fournis lors de l'autorisation
-préalable ;
+préalable. Le contrat mentionne le nombre de sessions d'enregistrement du spectacle ;
 
 8° La copie des notes de droits d'auteur et la copie des bulletins de paie correspondant aux postes suivants : réalisateur,
 chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller musical ;
@@ -215,7 +219,7 @@ suivant celui de la date d'entrée en vigueur de la présente délibération.
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
+  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 29, v. init.
 
 _Cite_:
 
