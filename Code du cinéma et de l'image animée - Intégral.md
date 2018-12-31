@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -12805,7 +12805,16 @@ tissu diversifié d'entreprises de distribution et la diffusion d'œuvres ciném
 
 3° Garantir la diversité des œuvres cinématographiques proposées au spectateur et le pluralisme dans le secteur de
 l'exploitation cinématographique, notamment par la limitation de la diffusion simultanée d'une œuvre cinématographique au
-sein d'un même établissement de spectacles cinématographiques, de façon adaptée lorsque la projection est numérique.
+sein d'un même établissement de spectacles cinématographiques, de façon adaptée lorsque la projection est numérique ;
+
+4° Favoriser, de façon significative, la promotion gratuite de toutes les œuvres cinématographiques programmées, notamment
+par la diffusion de leurs bandes-annonces, au sein des espaces promotionnels des établissements de spectacles
+cinématographiques.
+
+**Nota:**
+
+Aux termes de l'article 14 du décret n° 2018-247 du 6 avril 2018, la première homologation des engagements souscrits en
+application de l'article R212-31 prend effet au 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -12817,9 +12826,9 @@ _Codifié par_:
 
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Décret n°2018-247 du 6 avril 2018 - art. 6
 
 _Cité par_:
 
