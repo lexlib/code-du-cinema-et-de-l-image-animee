@@ -14,15 +14,18 @@ Liste des documents justificatifs :
 assurer la diffusion ou par le ou les éditeurs de services chargés d'en assurer la mise à disposition du public, avec mention
 du titre et de la durée de l'œuvre ;
 
-5° Les factures détaillées établies pour chaque œuvre émanant du prestataire technique ;
+5° Les factures détaillées correspondant à l'ensemble des frais engagés ;
 
 6° Un exemplaire de chaque support de promotion réalisé ;
 
 7° En cas de coûts internes, un relevé détaillé de ces coûts certifié par un expert-comptable ou un commissaire aux comptes
-précisant la méthode de valorisation retenue.
+précisant la méthode de valorisation retenue ;
+
+8° Le cas échéant, une note détaillant la stratégie dans laquelle s'inscrit l'opération spéciale de promotion mise en place,
+les modalités de sa réalisation et les résultats obtenus.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 13, v. init.
+  - Délibération n°2019/CA/02 du 21 mars 2019 - art. 13, v. init.
