@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-07-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -12047,13 +12047,11 @@ décision dans deux journaux régionaux ou locaux diffusés dans le département
 
 Il en est de même de l'attestation préfectorale en cas d'autorisation tacite.
 
-En outre, une copie en est adressée à la Caisse nationale du régime social des indépendants.
-
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-268 du 10 mars 2015 - art. 3
+  - Décret n°2019-718 du 5 juillet 2019 - art. 9
 
 
 ##### Sous-Paragraphe 3 : Dispositions diverses<a id=170></a>
@@ -12267,21 +12265,20 @@ _Créé par_:
 
 La décision de la Commission nationale d'aménagement cinématographique, signée du président, est notifiée, dans un délai de
 deux mois, au ministre chargé de la culture, aux requérants et à l'auteur de la demande d'autorisation s'il n'est pas
-requérant. 
+requérant.
 
-Le délai de quatre mois prévu à l'article L. 212-10-3 court à compter de la date de réception du recours. 
+Le délai de quatre mois prévu à l'article L. 212-10-3 court à compter de la date de réception du recours.
 
 La décision de la commission est notifiée au préfet pour être affichée et publiée dans les conditions prévues aux articles R.
-212-7-18 et R. 212-7-19. En cas d'autorisation, il en adresse également une copie à la Caisse nationale du régime social des
-indépendants. 
+212-7-18 et R. 212-7-19.
 
 La décision de la commission est portée à la connaissance du public par voie électronique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-268 du 10 mars 2015 - art. 3
+  - Décret n°2019-718 du 5 juillet 2019 - art. 9
 
 _Cite_:
 
