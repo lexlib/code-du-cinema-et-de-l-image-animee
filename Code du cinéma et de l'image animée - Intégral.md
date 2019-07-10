@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2019-07-08
+Version Consolidée au 2019-07-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -138,13 +138,13 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#103)
         - [Chapitre III : Inscription et publication des actes, conventions et jugements (art. D123-1 à D123-3)](#130)
     - [Livre II : Professions et activités (art. D210-1 à D251-5)](#131)
       - [Titre Ier : Exercice des professions et activités du cinéma (art. D210-1 à D214-11)](#132)
-        - [Section préliminaire : Les œuvres cinématographiques (art. D210-1 à A210-11)](#133)
+        - [Section préliminaire : Les œuvres cinématographiques (art. D210-1 à A210-12)](#133)
           - [Sous-section 1 : Caractéristiques des œuvres cinématographiques (art. D210-1 à D210-7)](#134)
             - [Paragraphe 1 : Œuvres cinématographiques de longue et de courte durée (art. D210-1 à D210-2)](#135)
             - [Paragraphe 2 : Œuvres cinématographiques d'art et d'essai (art. D210-3 à D210-5)](#136)
             - [Paragraphe 3 : Œuvres cinématographiques à caractère publicitaire (art. D210-6 à D210-7)](#137)
           - [Sous-section 2 : Sécurité du support pellicule des œuvres cinématographiques (art. D210-8 à D210-10)](#138)
-          - [Sous-section 3 : Dispositions diverses (art. A210-11)](#139)
+          - [Sous-section 3 : Sélection de l'œuvre cinématographique de longue durée représentant le cinéma français aux Oscars (art. A210-11 à A210-12)](#139)
         - [Chapitre Ier : Visa d'exploitation cinématographique (art. R211-1 à R211-49)](#140)
           - [Section 1 : Délivrance du visa d'exploitation cinématographique (art. R211-1 à R211-15)](#141)
             - [Sous-section 1 : Demande de visa d'exploitation cinématographique (art. R211-1 à R211-3)](#142)
@@ -9715,25 +9715,30 @@ _Créé par_:
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
 
-##### Sous-section 3 : Dispositions diverses<a id=139></a>
+##### Sous-section 3 : Sélection de l'œuvre cinématographique de longue durée représentant le cinéma français aux Oscars<a id=139></a>
 
 ###### Article A210-11
 
 L'œuvre cinématographique de longue durée représentant le cinéma français pour l'attribution de l'Oscar du film en langue
-étrangère est sélectionnée par une commission composée : 
+étrangère est sélectionnée par une commission composée :
 
-1° Du délégué général de l'association dénommée " Association française du festival international du film " ; 
+1° De deux exportateurs ;
 
-2° Du président de l'association dénommée " Unifrance Films International " ou son représentant ; 
+2° De deux producteurs ;
 
-3° Du président de l'association dénommée " Académie des arts et techniques du cinéma " ou son représentant ; 
+3° De deux réalisateurs ;
 
-4° D'une personnalité qualifiée désignée par le président du Centre national du cinéma et de l'image animée dans les
-conditions du 2° de l'article L. 111-3 ; 
+4° Du délégué général de l'association dénommée “ Association française du festival international du film ” ou son
+représentant ;
 
-5° De trois personnalités qualifiées nommées chaque année par le ministre chargé de la culture. 
+5° Du président de l'association dénommée “ Unifrance Films International ” ou son représentant ;
 
-Le secrétariat de la commission est assuré par le Centre national du cinéma et de l'image animée.
+6° Du président de l'association dénommée “ Académie des arts et techniques du cinéma ” ou son représentant.
+
+Les membres de la commission mentionnés aux 1°, 2° et 3° sont nommés chaque année par le ministre chargé de la culture.
+
+Le président du Centre national du cinéma et de l'image animée ou son représentant assiste aux séances de la commission en
+qualité d'observateur.
 
 **Liens relatifs à cet article**
 
@@ -9743,11 +9748,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Arrêté du 9 juillet 2015 - art. 1
+  - Arrêté du 27 juin 2019 - art. 1
 
 _Cite_:
 
   - Code du cinéma et de l'image animée - art. L111-3
+
+
+###### Article A210-12
+
+Le secrétariat de la commission est assuré par le Centre national du cinéma et de l'image animée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Arrêté du 27 juin 2019 - art. 1
 
 
 #### Chapitre Ier : Visa d'exploitation cinématographique<a id=140></a>
