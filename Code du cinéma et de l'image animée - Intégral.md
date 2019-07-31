@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2019-07-11
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -9363,14 +9363,16 @@ _Créé par_:
 ###### Article R114-4
 
 Des régies d'avances et de recettes peuvent être créées par décision du président du Centre national du cinéma et de l'image
-animée dans les conditions prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies
+animée dans les conditions prévues par le décret n° 2019-798 du 26 juillet 2019 relatif aux régies de recettes et aux régies
 d'avances des organismes publics.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 18 du décret n° 2019-798 du 26 juillet 2019, ces dispositions entrent en vigueur
+le premier jour du mois suivant celui de la publication dudit décret et, s'agissant des régies créées avant cette date, le
+premier jour du sixième mois suivant cette même date.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
 
 _Anciens textes_:
 
@@ -9380,9 +9382,13 @@ _Codifié par_:
 
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 
 ### Titre II : Registres du cinéma et de l'audiovisuel<a id=129></a>
