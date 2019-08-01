@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2019-08-01
+Version Consolidée au 2019-08-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -21564,11 +21564,17 @@ En contrepartie de l'attribution des aides à la production et à la préparatio
 les entreprises de production s'assurent de la préservation de ces œuvres pour en permettre une exploitation durable,
 cohérente avec leur vocation patrimoniale.
 
+Dans ce cadre, les entreprises de production fournissent au Centre national du cinéma et de l'image animée le contrat conclu
+avec un prestataire technique en vue de garantir la sécurisation des éléments matériels de l'œuvre pour une durée d'au moins
+cinq ans. En cas de conservation sur support numérique, cette conservation est effectuée selon les préconisations de la
+recommandation technique CST-RT-043 : 2017 portant sur les bonnes pratiques en matière de contrat de conservation afin
+d'assurer l'exploitation suivie des œuvres.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 2, v. init.
+  - Délibération n°2019/CA/12 du 11 juillet 2019 - art. 2, v. init.
 
 _Cité par_:
 
@@ -23172,15 +23178,19 @@ _Modifié par_:
 Afin de favoriser l'égal accès des femmes et des hommes à la direction des entreprises de production et aux postes clés de la
 création et de la production, des allocations directes sont attribuées en complément des sommes investies par les entreprises
 de production déléguées pour la production d'œuvres cinématographiques de longue durée d'initiative française appartenant aux
-genres fiction et animation.
+genres fiction, animation et documentaire.
 
-Pour l'attribution des allocations directes, un barème de dix points est établi pour chaque genre d'œuvre précité.
+Pour l'attribution des allocations directes concernant les œuvres cinématographiques appartenant aux genres fiction et
+animation, un barème de dix points est établi.
+
+Pour l'attribution des allocations directes concernant les œuvres cinématographiques appartenant au genre documentaire, un
+barème de huit points est établi.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 5, v. init.
+  - Délibération n°2019/CA/12 du 11 juillet 2019 - art. 3, v. init.
 
 
 ###### Article 211-86-2
@@ -23228,7 +23238,7 @@ Pour les œuvres cinématographiques appartenant au genre animation, les points 
 
 - directeur ou chef scénarimage : 1 point ;
 
-- directeur ou chef mise en place de l'animation : 1 point ;
+- directeur ou chef décorateur : 1 point ;
 
 - directeur ou chef animation : 1 point ;
 
@@ -23236,21 +23246,49 @@ Pour les œuvres cinématographiques appartenant au genre animation, les points 
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 5, v. init.
+  - Délibération n°2019/CA/12 du 11 juillet 2019 - art. 4, v. init.
 
 
-###### Article 211-86-4
+###### Article 211-86-3-1
 
-Les allocations directes sont attribuées dès lors que cinq points sont obtenus à raison d'une fonction ou d'un poste occupé
-par une femme.
+Pour les œuvres cinématographiques appartenant au genre documentaire, les points sont répartis comme suit :
+
+- représentant légal de l'entreprise de production : 1 point ;
+
+- réalisateur : 2 points ;
+
+- auteur du scénario : 1 point ;
+
+- directeur de production : 1 point ;
+
+- directeur de la photographie : 1 point ;
+
+- chef opérateur du son : 1 point ;
+
+- chef monteur image : 1 point.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 5, v. init.
+  - Délibération n°2019/CA/12 du 11 juillet 2019 - art. 5, v. init.
+
+
+###### Article 211-86-4
+
+Pour les œuvres cinématographiques appartenant aux genres fiction et animation, les allocations directes sont attribuées dès
+lors que cinq points sont obtenus à raison d'une fonction ou d'un poste occupé par une femme.
+
+Pour les œuvres cinématographiques appartenant au genre documentaire, les allocations directes sont attribuées dès lors que
+quatre points sont obtenus à raison d'une fonction ou d'un poste occupé par une femme.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Délibération n°2019/CA/12 du 11 juillet 2019 - art. 6, v. init.
 
 
 ###### Article 211-86-5
@@ -30719,32 +30757,30 @@ _Créé par_:
 
 ###### Article Annexe 2-2
 
-Agrément de production (article 211-65) 
+Agrément de production (article 211-65)
 
-Liste des documents justificatifs : 
+Liste des documents justificatifs :
 
-1° Eventuellement, la version définitive de l'œuvre cinématographique ; 
+1° Eventuellement, la version définitive de l'œuvre cinématographique ;
 
-2° Un acte de certification du coût définitif de l'œuvre cinématographique établi par un commissaire aux comptes ; 
+2° Un acte de certification du coût définitif de l'œuvre cinématographique établi par un commissaire aux comptes ;
 
-Lorsque l'agrément des investissements a été délivré : 
+Lorsque l'agrément des investissements a été délivré :
 
-3° Le relevé intégral du générique de l'œuvre cinématographique tel qu'il apparaît à l'écran ; 
+3° Le relevé intégral du générique de l'œuvre cinématographique tel qu'il apparaît à l'écran ;
 
 4° Tous les contrats inscrits au registre public du cinéma et de l'audiovisuel non communiqués au moment de l'agrément des
 investissements (à l'exception des actes de nantissement auprès des établissements financiers) et, de façon plus générale,
-tous les contrats permettant de justifier du financement de l'œuvre ; 
+tous les contrats permettant de justifier du financement de l'œuvre ;
 
 5° Une fiche de qualification " œuvre indépendante " établie en regard des dispositions du I de l'article 6 du décret n°
 2010-747 du 2 juillet 2010 relatif à la contribution à la production cinématographique et audiovisuelle des services de
-télévision diffusés par voie hertzienne terrestre ; 
+télévision diffusés par voie hertzienne terrestre ;
 
-6° La déclaration annuelle des données sociales. 
+6° La déclaration annuelle des données sociales.
 
-6° bis La justification des démarches effectuées et des moyens utilisés pour assurer la préservation patrimoniale de
-l'œuvre. 
-
-Lorsque l'agrément des investissements n'a pas été demandé, outre les documents ci-dessus : 
+6 bis. Le contrat avec un prestataire technique en vue de garantir la sécurisation des éléments matériels de l'œuvre et, le
+cas échéant, en cas de transfert sur support photochimique, la facture correspondante.
 
 7° Tous les contrats inscrits au registre public du cinéma et de l'audiovisuel (à l'exception des actes de nantissement
 auprès des établissements financiers) et, de façon plus générale, tous les contrats permettant de justifier du financement de
@@ -30759,7 +30795,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - DÉLIBÉRATION n°2015/CA/09 du 7 juillet 2015 - art. 2, v. init.
+  - Délibération n°2019/CA/12 du 11 juillet 2019 - art. 7, v. init.
 
 
 ###### Article Annexe 2-3
