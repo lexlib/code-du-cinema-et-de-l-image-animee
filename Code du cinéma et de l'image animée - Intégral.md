@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2019-08-02
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -7966,18 +7966,23 @@ _Cite_:
 
 ###### Article L443-1
 
-Le Centre national du cinéma et de l'image animée peut saisir le tribunal de grande instance dans les conditions prévues à
+Le Centre national du cinéma et de l'image animée peut saisir le   tribunal judiciaire dans les conditions prévues à
 l'article L. 336-2 du code de la propriété intellectuelle.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-925 du 7 juillet 2016 - art. 40
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Cite_:
 
-  - Code de la propriété intellectuelle - art. L336-2 (M)
+  - Code de la propriété intellectuelle - art. L336-2
 
 
 ## Livre V : Dispositions relatives à l'outre-mer<a id=110></a>
@@ -18809,14 +18814,20 @@ _Créé par_:
 ###### Article R411-4
 
 Les agents commissionnés prêtent serment devant le juge du tribunal d'instance dans le ressort duquel leur résidence
-administrative est située. 
+administrative est située, au siège de ce tribunal ou, le cas échéant, de l'une de ses chambres de proximité.
 
-La formule du serment est la suivante : 
+La formule du serment est la suivante :
 
 " Je jure de bien et fidèlement remplir mes fonctions et de ne rien révéler ou utiliser de ce qui sera porté à ma
-connaissance à l'occasion de leur exercice. " 
+connaissance à l'occasion de leur exercice. "
 
 Les agents ne sont pas tenus de prêter à nouveau serment à chaque renouvellement de leur commissionnement.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -18828,9 +18839,9 @@ _Codifié par_:
 
   - Décret n°2014-794 du 9 juillet 2014 - art.
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2014-794 du 9 juillet 2014 - art.
+  - Décret n°2019-913 du 30 août 2019 - art. 6
 
 
 ###### Article R411-5
@@ -32803,7 +32814,7 @@ internationale. Pour les aides sélectives, cet apport peut être inférieur à 
 
 2° Comporter, en ce qui concerne l'apport du ou des éditeurs de services de télévision, une part minimale en numéraire dont
 le montant horaire est fixé à 12 000 € pour les œuvres appartenant aux genres fiction, animation et documentaire de création
-et à 15 000 € pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant. Pour le bénéfice des aides
+et à 20 000 € pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant. Pour le bénéfice des aides
 automatiques, cette condition s'applique sous réserve des dispositions de l'article 311-81. Elle ne s'applique pas pour le
 bénéfice des aides sélectives ;
 
@@ -32813,13 +32824,13 @@ production avant la fin des prises de vues ou, pour les œuvres appartenant au g
 fabrication de l'animation. Pour les œuvres intégralement composées d'images préexistantes, le contrat est conclu avant le
 début du montage. En outre, pour le bénéfice des aides automatiques dans le cas mentionné au 2° de l'article 311-10, pour les
 œuvres appartenant aux genres documentaire de création et adaptation audiovisuelle de spectacle vivant, le montant horaire de
-l'apport en numéraire est respectivement fixé à 12 000 € et 15 000 €.
+l'apport en numéraire est respectivement fixé à 12 000 € et 20 000 €.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 23, v. init.
+  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 17, v. init.
 
 _Cité par_:
 
@@ -33284,7 +33295,7 @@ supérieur ou égal à 12 000 €.
 
 Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant, l'apport horaire en numéraire du ou des
 éditeurs de services de télévision ou l'apport horaire en numéraire du ou des éditeurs de services de médias audiovisuels à
-la demande est supérieur ou égal à 15 000 € ;
+la demande est supérieur ou égal à 20 000 € ;
 
 5° Avoir fait l'objet, au cours de l'année précédente, d'une première diffusion sur un service de télévision ou d'une
 première mise à disposition du public sur un service de médias audiovisuels à la demande. Toutefois, les œuvres peuvent avoir
@@ -33297,8 +33308,7 @@ renseignée et certifiée de sa version définitive par l'ensemble de ces édite
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 31, v. init.
+  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 18, v. init.
 
 _Cite_:
 
@@ -33570,11 +33580,13 @@ coefficient est arrondi aux quatre chiffres après la virgule.
 
 III. - Pour les séries, les coefficients prévus au II sont réduits de :
 
-- 10 % pour le nombre de minutes produites supérieur à 2 500 et inférieur ou égal à 5 000 ;
+- 20 % pour le nombre de minutes produites supérieur à 2 500 et inférieur ou égal à 5 000 ;
 
-- 20 % pour le nombre de minutes produites supérieur à 5 000 et inférieur ou égal à 7 500 ;
+- 30 % pour le nombre de minutes produites supérieur à 5 000 et inférieur ou égal à 7 500 ;
 
-- 30 % pour le nombre de minutes produites supérieur à 7 500.
+- 40 % pour le nombre de minutes produites supérieur à 7 500 et inférieur ou égal à 10 000 ;
+
+- 50 % pour le nombre de minutes produites supérieur à 10 000.
 
 IV. - Pour les séries relevant du premier groupe mentionné au I, le coefficient applicable est bonifié de 25 % au titre des
 600 premières minutes produites lorsque :
@@ -33591,7 +33603,7 @@ maximum du montant des dépenses horaires françaises.
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 39, v. init.
+  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 21, v. init.
 
 
 ###### Article 311-45
@@ -33784,9 +33796,9 @@ _Modifié par_:
 ###### Article 311-46-1
 
 Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant, lorsque les sommes calculées excèdent un
-plafond correspondant à deux fois et demi le montant de l'apport en numéraire du ou des éditeurs de services de télévision ou
-le montant de l'apport en numéraire du ou des éditeurs de   services de médias audiovisuels à la demande, elles ne sont
-retenues qu'à concurrence de ce plafond. 
+plafond correspondant à une fois et demi le montant de l'apport en numéraire du ou des éditeurs de services de télévision ou
+le montant de l'apport en numéraire du ou des éditeurs de services de médias audiovisuels à la demande, elles ne sont
+retenues qu'à concurrence de ce plafond.
 
 Pour la détermination du plafond, sont également pris en compte les apports en numéraire provenant d'un ou plusieurs éditeurs
 de services de télévision établis à l'étranger réalisés sous forme de contrats d'achat de droits de diffusion conclus avant
@@ -33797,7 +33809,7 @@ avec le détenteur du mandat de commercialisation ou le cessionnaire de droits d
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
+  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 23, v. init.
 
 
 ##### Sous-Paragraphe 4 : Modalités de calcul pour le documentaire de création<a id=520></a>
@@ -34079,22 +34091,22 @@ _Cité par_:
 ###### Article 311-49
 
 Les sommes calculées, le cas échéant plafonnées pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle
-vivant,  ne sont effectivement inscrites sur le compte automatique des entreprises de production qu'à condition que le
-montant total obtenu soit égal ou supérieur aux seuils suivants : 
+vivant, ne sont effectivement inscrites sur le compte automatique des entreprises de production qu'à condition que le montant
+total obtenu soit égal ou supérieur aux seuils suivants :
 
-1° Pour les œuvres appartenant au genre fiction : 168 000 € ; 
+1° Pour les œuvres appartenant au genre fiction : 200 000 € ;
 
-2° Pour les œuvres appartenant au genre animation : 168 000 € ; 
+2° Pour les œuvres appartenant au genre animation : 200 000 € ;
 
-3° Pour les œuvres appartenant au genre documentaire de création : 70 000 € ; 
+3° Pour les œuvres appartenant au genre documentaire de création : 80 000 € ;
 
-4° Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant : 120 000 €.
+4° Pour les œuvres appartenant au genre adaptation audiovisuelle de spectacle vivant : 130 000 €.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 23, v. init.
+  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 26, v. init.
 
 
 ###### Article 311-50
@@ -34276,21 +34288,21 @@ _Cite_:
 
 ###### Article 311-57-1
 
-Les adaptations audiovisuelles de spectacle vivant doivent, en ce qui concerne l'investissement pour la production : 
+Les adaptations audiovisuelles de spectacle vivant doivent, en ce qui concerne l'investissement pour la production :
 
 1° Etre financées par un apport horaire en numéraire d'un ou plusieurs éditeurs de services de télévision ou par un apport
-horaire en numéraire d'un ou plusieurs éditeurs de   services de médias audiovisuels à la demande, supérieur ou égal à 15 000
-€ ; 
+horaire en numéraire d'un ou plusieurs éditeurs de services de médias audiovisuels à la demande, supérieur ou égal à 20 000
+€ ;
 
-2° Faire l'objet d'un montant de dépenses horaires françaises supérieur ou égal à 54 000 € ; 
+2° Faire l'objet d'un montant de dépenses horaires françaises supérieur ou égal à 54 000 € ;
 
 3° Satisfaire à un niveau de qualité artistique et technique apprécié en fonction d'un nombre minimum de jours de travail
-fixé à : 
+fixé à :
 
-a) 26 jours lorsque la durée de l'œuvre est supérieure à 60 minutes ; 
+a) 26 jours lorsque la durée de l'œuvre est supérieure à 60 minutes ;
 
 b) 20 jours lorsque la durée de l'œuvre est inférieure ou égale à 60 minutes ou lorsque l'œuvre porte sur des musiques dites
-" musiques actuelles ". 
+" musiques actuelles ".
 
 Le nombre minimum de jours de travail est comptabilisé sur l'ensemble des postes de création et de production suivants :
 réalisateur, chef opérateur, scripte, ingénieur du son, ingénieur de la vision, chef monteur, mixeur, étalonneur, conseiller
@@ -34300,7 +34312,7 @@ musical.
 
 _Modifié par_:
 
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
+  - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 27, v. init.
 
 _Cité par_:
 
