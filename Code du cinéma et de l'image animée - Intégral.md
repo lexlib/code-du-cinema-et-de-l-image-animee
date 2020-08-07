@@ -1,5 +1,5 @@
 # Code du cinéma et de l'image animée  
-Version Consolidée au 2020-06-04
+Version Consolidée au 2020-08-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L511-2)](#1)
     - [Livre Ier : Organisation administrative (art. L111-1 à L126-3)](#2)
@@ -298,7 +298,7 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#103)
           - [Section 1 : Infractions aux obligations d'information du public concernant les interdictions aux mineurs (art. R432-1 à R432-2)](#290)
           - [Section 2 : Infractions aux obligations de contrôle de l'accès des mineurs aux salles de spectacles cinématographiques (art. R432-3 à R432-4)](#291)
         - [Chapitre IV : Infractions aux dispositions relatives à l'implantation des établissements de spectacles cinématographiques (art. R434-1)](#292)
-  - [Annexe : RÈGLEMENT GÉNÉRAL DES AIDES FINANCIÈRES DU CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE ANIMÉE (art. 110-1 à 911-13)](#293)
+  - [Annexe : RÈGLEMENT GÉNÉRAL DES AIDES FINANCIÈRES DU CENTRE NATIONAL DU CINÉMA ET DE L'IMAGE ANIMÉE (art. 110-1 à 911-21)](#293)
     - [Livre Ier : Dispositions générales (art. 110-1 à 122-37)](#294)
       - [Titre Ier : Objet et champ d'application (art. 110-1 à 113-2)](#295)
         - [Chapitre Ier : Aides financières encadrées (art. 111-1 à 111-2)](#296)
@@ -790,59 +790,65 @@ au visa d'exploitation cinématographique (art. L432-1 à L432-3)](#103)
         - [Chapitre III : Fonds d'aide à l'innovation de Bpifrance Financement (art. 633-1)](#782)
       - [ANNEXES AU LIVRE VI (art. Annexe 6-1 à Annexe 6-16)](#783)
     - [Livre VII : Soutien à la coopération et à la diffusion internationale et européenne (art. 711-1 à Annexe 7-8)](#784)
-      - [Titre Ier : Aides financières au développement des coproductions internationales (art. 711-1 à 712-1)](#785)
+      - [Titre Ier : Aides financières au développement des coproductions internationales (art. 711-1 à 712-11)](#785)
         - [Chapitre Ier : Aides financières aux projets de codéveloppement international ou de coproductions internationales (art. 711-1 à 711-3)](#786)
           - [Section 1 : Dispositifs d'aides institués par des accords intergouvernementaux (art. 711-1)](#787)
           - [Section 2 : Dispositifs d'aides institués par des accords administratifs (art. 711-2)](#788)
           - [Section 3 : Dispositions communes (art. 711-3)](#789)
-        - [Chapitre II : Aides financières aux cinémas du monde (art. 712-1)](#790)
-      - [Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles (art. 721-1 à 724-1)](#791)
-        - [Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques (art. 721-1 à 721-30)](#792)
-          - [Section 1 : Dispositions générales (art. 721-1 à 721-9)](#793)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 721-3 à 721-5)](#794)
-            - [Sous-section 2 : Conditions relatives aux œuvres (art. 721-6 à 721-7)](#795)
-            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 721-8 à 721-9)](#796)
-          - [Section 2 : Aides financières automatiques (art. 721-10 à 721-24)](#797)
-            - [Sous-section unique : Allocations d'investissement (art. 721-10 à 721-24)](#798)
-              - [Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger (art. 721-11 à 721-12)](#799)
-              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 721-13 à 721-15)](#800)
-              - [Paragraphe 3 : Inscription des sommes sur le compte (art. 721-16)](#801)
-              - [Paragraphe 4 : Affectation des sommes inscrites sur le compte (art. 721-17 à 721-19)](#802)
-              - [Paragraphe 5 : Investissement des sommes inscrites sur le compte (art. 721-20 à 721-23)](#803)
-              - [Paragraphe 6 : Péremption des sommes inscrites sur le compte (art. 721-24)](#804)
-          - [Section 3 : Aides financières sélectives (art. 721-25 à 721-30)](#805)
-            - [Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises (art. 721-25 à 721-29)](#806)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 721-25 à 721-29)](#807)
-            - [Sous-section 3 : Commission consultative (art. 721-30)](#808)
-        - [Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles (art. 722-1 à 722-27)](#809)
-          - [Section 1 : Dispositions générales (art. 722-1 à 722-8)](#810)
-            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 722-3 à 722-5)](#811)
-            - [Sous-section 2 : Conditions relatives aux œuvres (art. 722-6)](#812)
-            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 722-7)](#813)
-            - [Sous-section 4 : Conditions relatives au montant des aides (art. 722-8)](#814)
-          - [Section 2 : Aides financières automatiques (art. 722-9 à 722-18)](#815)
-            - [Sous-section unique : Allocations directes (art. 722-10 à 722-18)](#816)
-              - [Paragraphe 1 : Objet et conditions d'attribution (art. 722-10 à 722-14)](#817)
-              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 722-15 à 722-18)](#818)
-          - [Section 3 : Aides financières sélectives (art. 722-19 à 722-27)](#819)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 722-19 à 722-20)](#820)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 722-21 à 722-26)](#821)
-            - [Sous-section 3 : Commission consultative (art. 722-27)](#822)
-        - [Chapitre III : Aides financières à la distribution à l'étranger des œuvres représentatives des cinématographies du monde (art. 723-1 à 723-11)](#823)
-          - [Section unique : Aides financières sélectives (art. 723-1 à 723-11)](#824)
-            - [Sous-section 1 : Objet et conditions d'attribution (art. 723-1 à 723-6)](#825)
-            - [Sous-section 2 : Procédure et modalités d'attribution (art. 723-7 à 723-10)](#826)
-            - [Sous-section 3 : Commission consultative (art. 723-11)](#827)
-        - [Chapitre IV : Dispositif de soutien financier à la distribution à l'étranger d'UniFrance Film International (art. 724-1)](#828)
-      - [ANNEXES AU LIVRE VII (art. Annexe 7-1 à Annexe 7-8)](#829)
-    - [Livre VIII : Dispositions particulières relatives au calcul du soutien à la production, à la distribution et à l'exploitation des œuvres cinématographiques (art. 811-1)](#830)
-      - [Titre unique (art. 811-1)](#831)
-        - [Chapitre unique (art. 811-1)](#832)
-    - [Livre IX : Mesures exceptionnelles en faveur des entreprises du secteur du cinéma et des autres arts et industries de l'image animée affectées par l'épidémie de covid-19 (art. 911-1 à 911-13)](#833)
-      - [Titre unique (art. 911-1 à 911-13)](#834)
-        - [Chapitre Ier : Dispositions relatives à l'affectation des allocations d'investissement (art. 911-1)](#835)
-        - [Chapitre II : Dispositions relatives à l'éligibilité des œuvres cinématographiques de longue durée (art. 911-2)](#836)
-        - [Chapitre III : Dispositions relatives au fonds d'indemnisation pour interruption ou abandon des tournages d'œuvres cinématographiques ou audiovisuelles liés à l'épidémie de covid-19 (art. 911-3 à 911-13)](#837)
+        - [Chapitre II : Aides financières aux cinémas du monde (art. 712-1 à 712-11)](#790)
+          - [Section 1 : Aides aux cinémas du monde en partenariat avec l'Institut français (art. 712-1)](#791)
+          - [Section 2 : Aides sélectives complémentaires (art. 712-2 à 712-11)](#792)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 712-2 à 712-7)](#793)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 712-8 à 712-11)](#794)
+      - [Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles (art. 721-1 à 724-1)](#795)
+        - [Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques (art. 721-1 à 721-30)](#796)
+          - [Section 1 : Dispositions générales (art. 721-1 à 721-9)](#797)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 721-3 à 721-5)](#798)
+            - [Sous-section 2 : Conditions relatives aux œuvres (art. 721-6 à 721-7)](#799)
+            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 721-8 à 721-9)](#800)
+          - [Section 2 : Aides financières automatiques (art. 721-10 à 721-24)](#801)
+            - [Sous-section unique : Allocations d'investissement (art. 721-10 à 721-24)](#802)
+              - [Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger (art. 721-11 à 721-12)](#803)
+              - [Paragraphe 2 : Calcul des sommes inscrites sur le compte (art. 721-13 à 721-15)](#804)
+              - [Paragraphe 3 : Inscription des sommes sur le compte (art. 721-16)](#805)
+              - [Paragraphe 4 : Affectation des sommes inscrites sur le compte (art. 721-17 à 721-19)](#806)
+              - [Paragraphe 5 : Investissement des sommes inscrites sur le compte (art. 721-20 à 721-23)](#807)
+              - [Paragraphe 6 : Péremption des sommes inscrites sur le compte (art. 721-24)](#808)
+          - [Section 3 : Aides financières sélectives (art. 721-25 à 721-30)](#809)
+            - [Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises (art. 721-25 à 721-29)](#810)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 721-25 à 721-29)](#811)
+            - [Sous-section 3 : Commission consultative (art. 721-30)](#812)
+        - [Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles (art. 722-1 à 722-27)](#813)
+          - [Section 1 : Dispositions générales (art. 722-1 à 722-8)](#814)
+            - [Sous-section 1 : Conditions relatives aux bénéficiaires (art. 722-3 à 722-5)](#815)
+            - [Sous-section 2 : Conditions relatives aux œuvres (art. 722-6)](#816)
+            - [Sous-section 3 : Conditions relatives à l'intensité des aides (art. 722-7)](#817)
+            - [Sous-section 4 : Conditions relatives au montant des aides (art. 722-8)](#818)
+          - [Section 2 : Aides financières automatiques (art. 722-9 à 722-18)](#819)
+            - [Sous-section unique : Allocations directes (art. 722-10 à 722-18)](#820)
+              - [Paragraphe 1 : Objet et conditions d'attribution (art. 722-10 à 722-14)](#821)
+              - [Paragraphe 2 : Procédure et modalités d'attribution (art. 722-15 à 722-18)](#822)
+          - [Section 3 : Aides financières sélectives (art. 722-19 à 722-27)](#823)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 722-19 à 722-20)](#824)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 722-21 à 722-26)](#825)
+            - [Sous-section 3 : Commission consultative (art. 722-27)](#826)
+        - [Chapitre III : Aides financières à la distribution à l'étranger des œuvres représentatives des cinématographies du monde (art. 723-1 à 723-11)](#827)
+          - [Section unique : Aides financières sélectives (art. 723-1 à 723-11)](#828)
+            - [Sous-section 1 : Objet et conditions d'attribution (art. 723-1 à 723-6)](#829)
+            - [Sous-section 2 : Procédure et modalités d'attribution (art. 723-7 à 723-10)](#830)
+            - [Sous-section 3 : Commission consultative (art. 723-11)](#831)
+        - [Chapitre IV : Dispositif de soutien financier à la distribution à l'étranger d'UniFrance Film International (art. 724-1)](#832)
+      - [ANNEXES AU LIVRE VII (art. Annexe 7-1 à Annexe 7-8)](#833)
+    - [Livre VIII : Dispositions particulières relatives au calcul du soutien à la production, à la distribution et à l'exploitation des œuvres cinématographiques (art. 811-1)](#834)
+      - [Titre unique (art. 811-1)](#835)
+        - [Chapitre unique (art. 811-1)](#836)
+    - [Livre IX : Mesures exceptionnelles en faveur des entreprises du secteur du cinéma et des autres arts et industries de l'image animée affectées par l'épidémie de covid-19 (art. 911-1 à 911-21)](#837)
+      - [Titre unique (art. 911-1 à 911-21)](#838)
+        - [Chapitre Ier : Dispositions relatives à l'affectation des allocations d'investissement (art. 911-1)](#839)
+        - [Chapitre II : Dispositions relatives à l'éligibilité des œuvres cinématographiques de longue durée (art. 911-2)](#840)
+        - [Chapitre III : Dispositions relatives au fonds d'indemnisation pour interruption ou abandon des tournages d'œuvres cinématographiques ou audiovisuelles liés à l'épidémie de covid-19 (art. 911-3 à 911-13)](#841)
+        - [Chapitre IV : Dispositions relatives au soutien exceptionnel des entreprises de production et de distribution d'œuvres cinématographiques durant la période de reprise de l'exploitation en salles des œuvres cinématographiques (art. 911-14 à 911-18)](#842)
+        - [Chapitre V : Dispositions relatives aux aides financières à la promotion à l'étranger des œuvres audiovisuelles (art. 911-19 à 911-21)](#843)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Organisation administrative<a id=2></a>
@@ -49582,26 +49588,62 @@ _Cite_:
 
 ###### Article 611-15
 
-Les sommes inscrites sur le compte automatique des éditeurs de vidéogrammes peuvent être investies : 
+Les sommes inscrites sur le compte automatique des éditeurs de vidéogrammes peuvent être investies :
 
 1° Pour acquérir les droits d'édition vidéographique d'œuvres cinématographiques de longue durée répondant aux conditions
 prévues aux articles 211-6 à 211-12. Ces sommes peuvent être investies dès la délivrance de l'agrément des investissements
 ou, lorsque celui-ci n'est pas demandé, dès la délivrance de l'agrément de production et au plus tard un an après la première
-représentation commerciale des œuvres en salles de spectacles cinématographiques ; 
+représentation commerciale des œuvres en salles de spectacles cinématographiques ;
 
 2° Pour acquérir les droits d'édition vidéographique d'œuvres cinématographiques de courte durée pour lesquelles une aide à
 la production a été attribuée. Ces sommes peuvent être investies au plus tard deux ans après la date de délivrance du visa
-d'exploitation cinématographique.
+d'exploitation cinématographique ;
+
+3° Pour acquérir les droits d'édition vidéographique d'œuvres cinématographiques du patrimoine répondant aux conditions
+d'éligibilité prévues par les articles 511-4 à 511-6.
+
+**Nota:**
+
+Conformément à l'article 8 de la délibération n° 2020/CA/14 du 16 juillet 2020, ces dispositions s'appliquent aux demandes
+d'aides adressées au Centre national du cinéma et de l'image animée à compter de l'entrée en vigueur de la présente
+délibération.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 2, v. init.
+
+_Cite_:
+
+  - Code du cinéma et de l'image animée - art. 211-6 (V)
+
+
+###### Article 611-15-1
+
+Les sommes inscrites sur le compte automatique des éditeurs de vidéogrammes peuvent également être investies pour la prise en
+charge des dépenses d'édition suivantes, portant sur des œuvres cinématographiques mentionnées à l'article 611-15 :
+
+1° Dépenses de fabrication des supports ;
+
+2° Dépenses techniques, y compris celles liées à la sécurisation des œuvres et à leur accessibilité aux personnes en
+situation de handicap ;
+
+3° Dépenses d'éditorialisation ;
+
+4° Dépenses de promotion et de commercialisation.
+
+**Nota:**
+
+Conformément à l'article 8 de la délibération n° 2020/CA/14 du 16 juillet 2020, ces dispositions s'appliquent aux demandes
+d'aides adressées au Centre national du cinéma et de l'image animée à compter de l'entrée en vigueur de la présente
+délibération.
 
 **Liens relatifs à cet article**
 
 _Créé par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
-
-_Cite_:
-
-  - Code du cinéma et de l'image animée - art. 211-6 (V)
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 3, v. init.
 
 
 ###### Article 611-16
@@ -49653,28 +49695,42 @@ _Cité par_:
 
 ###### Article 611-19
 
-L'éditeur de vidéogrammes est tenu de reverser les sommes investies dans les cas suivants : 
+L'éditeur de vidéogrammes est tenu de reverser les sommes investies dans les cas suivants :
 
-1° Pour les œuvres cinématographiques de longue durée : 
+1° Pour les œuvres cinématographiques de longue durée :
 
 a) Lorsque l'agrément des investissements a été délivré et que l'œuvre cinématographique ne donne pas lieu à la délivrance de
-l'agrément de production ; 
+l'agrément de production ;
 
-b) Lorsque l'œuvre ne répond pas aux conditions prévues par les articles 211-6 à 211-12 ; 
+b) Lorsque l'œuvre ne répond pas aux conditions prévues par les articles 211-6 à 211-12 ;
 
-c) Lorsque l'édition n'a pas été effectuée dans les deux ans suivant la délivrance de l'agrément de production ; 
+c) Lorsque l'édition n'a pas été effectuée dans les deux ans suivant la délivrance de l'agrément de production ;
 
-2° Pour les œuvres cinématographiques de courte durée : 
+2° Pour les œuvres cinématographiques de courte durée :
 
-a) Lorsqu'aucune aide à la production n'a été attribuée ; 
+a) Lorsqu'aucune aide à la production n'a été attribuée ;
 
-b) Lorsque l'édition n'a pas été effectuée dans les trois ans suivant la délivrance du visa d'exploitation cinématographique.
+b) Lorsque l'édition n'a pas été effectuée dans les trois ans suivant la délivrance du visa d'exploitation
+cinématographique ;
+
+3° Pour les œuvres cinématographiques du patrimoine :
+
+a) Lorsque l'œuvre ne répond pas aux conditions d'éligibilité prévues par les articles 511-4 à 511-6 ;
+
+b) Lorsque l'édition n'a pas été effectuée et commercialisée dans les deux ans suivant la délivrance de l'autorisation
+d'investissement.
+
+**Nota:**
+
+Conformément à l'article 8 de la délibération n° 2020/CA/14 du 16 juillet 2020, ces dispositions s'appliquent aux demandes
+d'aides adressées au Centre national du cinéma et de l'image animée à compter de l'entrée en vigueur de la présente
+délibération.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 4, v. init.
 
 _Cite_:
 
@@ -53375,6 +53431,8 @@ _Créé par_:
 
 #### Chapitre II : Aides financières aux cinémas du monde<a id=790></a>
 
+##### Section 1 : Aides aux cinémas du monde en partenariat avec l'Institut français<a id=791></a>
+
 ###### Article 712-1
 
 Des aides financières sont attribuées conjointement avec l'Institut français afin de soutenir le développement de la
@@ -53394,20 +53452,267 @@ _Cite_:
 
   - Décret n°2012-543  du 23 avril 2012 (V)
 
-_Modifié par_:
+**Liens**:
 
-  - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 51, v. init.
+  - DEPLACEMENT: Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
 
 _Cité par_:
 
   - Code du cinéma et de l'image animée - art. 723-1 (M)
 
 
-### Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles<a id=791></a>
+##### Section 2 : Aides sélectives complémentaires<a id=792></a>
 
-#### Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques<a id=792></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=793></a>
 
-##### Section 1 : Dispositions générales<a id=793></a>
+###### Article 712-2
+
+Des aides financières sont attribuées sous forme sélective au sens de l'article D. 311-3 du code du cinéma et de l'image
+animée en complément des aides attribuées avant réalisation en application du décret n° 2012-543 du 23 avril 2012 relatif aux
+aides aux cinémas du monde.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2020/CA/14 du 16 juillet 2020, les aides complémentaires prévues aux
+articles 712-2 à 712-11 dans leur rédaction issue de la présente délibération sont attribuées pour des œuvres pour lesquelles
+une aide aux cinémas du monde est attribuée à compter du 20 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
+
+
+###### Article 712-3
+
+Pour être éligibles aux aides complémentaires, les œuvres répondent aux conditions suivantes :
+
+1° Elles font l'objet d'une coproduction entre au moins trois entreprises, dont une est établie en France et deux sont
+établies dans des Etats situés dans la zone Afrique, Caraïbes et Pacifique. Pour l'application de la présente section, sont
+considérés comme États situés dans la zone Afrique, Caraïbes et Pacifique les États mentionnés dans la liste figurant en
+annexe 1-1 du présent livre.
+
+Dans le cas où l'œuvre est coproduite par plus de trois entreprises de production, le nombre d'entreprises établies dans des
+États situés dans la zone Afrique, Caraïbes et Pacifique est supérieur ou égal au nombre d'entreprises établies dans des
+États qui n'y sont pas situés.
+
+Sont réputées établies en France les entreprises y exerçant effectivement une activité au moyen d'une installation stable et
+durable et dont le siège social est situé en France, dans un autre État membre de l'Union européenne ou dans un État partie à
+l'accord sur l'Espace économique européen.
+
+Sont réputées établies dans des États situés dans la zone Afrique, Caraïbes et Pacifique les entreprises ayant leur siège
+social dans l'un de ces États.
+
+Les entreprises parties à la coproduction n'entretiennent pas entre elles de liens caractérisant un contrôle au sens de
+l'article L. 233-3 du code de commerce et ne sont pas contrôlées, au sens du même article, par les mêmes personnes physiques
+ou morales. Les personnes ayant la qualité de président, directeur, gérant ou membre d'un organe de direction doivent être
+différentes au sein de chacune des entreprises parties à la coproduction ;
+
+2° Le réalisateur est ressortissant d'un État situé dans la zone Afrique, Caraïbes et Pacifique.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2020/CA/14 du 16 juillet 2020, les aides complémentaires prévues aux
+articles 712-2 à 712-11 dans leur rédaction issue de la présente délibération sont attribuées pour des œuvres pour lesquelles
+une aide aux cinémas du monde est attribuée à compter du 20 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
+
+_Cite_:
+
+  - Code de commerce - art. L233-3 (V)
+
+
+###### Article 712-4
+
+Les aides complémentaires sont attribuées à l'entreprise de production désignée comme bénéficiaire par accord entre les
+parties à la coproduction, qui doit être établie dans un État situé dans la zone Afrique, Caraïbes et Pacifique.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2020/CA/14 du 16 juillet 2020, les aides complémentaires prévues aux
+articles 712-2 à 712-11 dans leur rédaction issue de la présente délibération sont attribuées pour des œuvres pour lesquelles
+une aide aux cinémas du monde est attribuée à compter du 20 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
+
+
+###### Article 712-5
+
+L'œuvre doit faire l'objet de dépenses de production sur le ou les territoires des États situés dans la zone Afrique,
+Caraïbes et Pacifique dans lesquels sont établies les entreprises parties à la coproduction pour un montant au moins égal au
+montant de l'aide complémentaire.
+
+Sont considérées comme dépenses de production :
+
+- les rémunérations et charges sociales versées aux auteurs, aux artistes-interprètes et aux personnels de la réalisation et
+de la production ;
+
+- les acquisitions de droits artistiques ;
+
+- les dépenses liées au recours aux industries techniques et autres prestataires de la création, relatives au tournage, à la
+post-production, ainsi qu'à la préparation et à la fabrication de l'animation ;
+
+- les dépenses de transport de matériels artistiques et techniques et de transport des équipes artistiques et techniques
+strictement nécessaires aux besoins de la production ;
+
+- les frais d'assurance et les frais financiers.
+
+Les frais généraux peuvent être pris en compte dans la limite de 10 % du montant de l'aide complémentaire.
+
+Ne sont pas prises en compte les rémunérations des personnes physiques engagées en qualité de producteurs, ainsi que les
+dépenses d'hébergement, de restauration et de régie.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2020/CA/14 du 16 juillet 2020, les aides complémentaires prévues aux
+articles 712-2 à 712-11 dans leur rédaction issue de la présente délibération sont attribuées pour des œuvres pour lesquelles
+une aide aux cinémas du monde est attribuée à compter du 20 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
+
+
+###### Article 712-6
+
+Les aides complémentaires sont attribuées et leur montant déterminé en considération du budget de production de l'œuvre et de
+ses moyens de financement, ainsi que de l'adéquation des dépenses de production mentionnées à l'article 712-5 à la nature du
+projet et aux conditions économiques de la production.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2020/CA/14 du 16 juillet 2020, les aides complémentaires prévues aux
+articles 712-2 à 712-11 dans leur rédaction issue de la présente délibération sont attribuées pour des œuvres pour lesquelles
+une aide aux cinémas du monde est attribuée à compter du 20 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
+
+
+###### Article 712-7
+
+L'attribution des aides complémentaires est soumise aux dispositions du règlement (UE) n° 651/2014 de la Commission du 17
+juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108
+du traité, notamment celles prévues par le chapitre Ier et l'article 54 de la section 11 relatif aux régimes d'aides en
+faveur des œuvres audiovisuelles.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2020/CA/14 du 16 juillet 2020, les aides complémentaires prévues aux
+articles 712-2 à 712-11 dans leur rédaction issue de la présente délibération sont attribuées pour des œuvres pour lesquelles
+une aide aux cinémas du monde est attribuée à compter du 20 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
+
+
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=794></a>
+
+###### Article 712-8
+
+La demande d'aide complémentaire est présentée par l'entreprise de production désignée comme bénéficiaire, conjointement avec
+l'entreprise de production établie en France ayant sollicité l'attribution d'une aide aux cinémas du monde.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2020/CA/14 du 16 juillet 2020, les aides complémentaires prévues aux
+articles 712-2 à 712-11 dans leur rédaction issue de la présente délibération sont attribuées pour des œuvres pour lesquelles
+une aide aux cinémas du monde est attribuée à compter du 20 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
+
+
+###### Article 712-9
+
+Pour l'attribution d'une aide complémentaire, les entreprises remettent, avant la fixation du montant de l'aide aux cinémas
+du monde, un dossier comprenant :
+
+1° Le formulaire de demande établi par le Centre national du cinéma et de l'image animée dûment complété et signé ;
+
+2° Les documents justificatifs figurant en annexe 1-2 du présent livre.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2020/CA/14 du 16 juillet 2020, les aides complémentaires prévues aux
+articles 712-2 à 712-11 dans leur rédaction issue de la présente délibération sont attribuées pour des œuvres pour lesquelles
+une aide aux cinémas du monde est attribuée à compter du 20 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
+
+
+###### Article 712-10
+
+Le montant de l'aide complémentaire est fixé après avis du comité de chiffrage prévu à l'article 8 du décret n° 2012-543 du
+23 avril 2012 relatif aux aides aux cinémas du monde. Il ne peut excéder le montant de l'aide aux cinémas du monde.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2020/CA/14 du 16 juillet 2020, les aides complémentaires prévues aux
+articles 712-2 à 712-11 dans leur rédaction issue de la présente délibération sont attribuées pour des œuvres pour lesquelles
+une aide aux cinémas du monde est attribuée à compter du 20 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2012-543  du 23 avril 2012 - art. 8 (V)
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
+
+
+###### Article 712-11
+
+L'aide complémentaire est attribuée sous forme de subvention.
+
+Elle fait l'objet d'une convention conclue avec l'entreprise désignée comme bénéficiaire. Cette convention fixe notamment les
+modalités de versement de l'aide ainsi que les circonstances dans lesquelles celle-ci donne lieu à reversement.
+
+**Nota:**
+
+Conformément à l'article 9 de la délibération n° 2020/CA/14 du 16 juillet 2020, les aides complémentaires prévues aux
+articles 712-2 à 712-11 dans leur rédaction issue de la présente délibération sont attribuées pour des œuvres pour lesquelles
+une aide aux cinémas du monde est attribuée à compter du 20 juillet 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 5, v. init.
+
+
+### Titre II : Aides financières à la promotion et à la distribution à l'étranger des œuvres cinématographiques et audiovisuelles<a id=795></a>
+
+#### Chapitre Ier : Aides financières à la promotion à l'étranger des œuvres cinématographiques<a id=796></a>
+
+##### Section 1 : Dispositions générales<a id=797></a>
 
 ###### Article 721-1
 
@@ -53451,7 +53756,7 @@ _Modifié par_:
   - Délibération n°2019/CA/22 du 6 décembre 2019 - art. 36, v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=794></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=798></a>
 
 ###### Article 721-3
 
@@ -53522,7 +53827,7 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 721-4 (V)
 
 
-##### Sous-section 2 : Conditions relatives aux œuvres<a id=795></a>
+##### Sous-section 2 : Conditions relatives aux œuvres<a id=799></a>
 
 ###### Article 721-6
 
@@ -53566,7 +53871,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=796></a>
+##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=800></a>
 
 ###### Article 721-8
 
@@ -53600,9 +53905,9 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 7-1 (VT)
 
 
-##### Section 2 : Aides financières automatiques<a id=797></a>
+##### Section 2 : Aides financières automatiques<a id=801></a>
 
-##### Sous-section unique : Allocations d'investissement<a id=798></a>
+##### Sous-section unique : Allocations d'investissement<a id=802></a>
 
 ###### Article 721-10
 
@@ -53616,7 +53921,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger<a id=799></a>
+##### Paragraphe 1 : Compte automatique des entreprises de vente à l'étranger<a id=803></a>
 
 ###### Article 721-11
 
@@ -53653,7 +53958,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 7-2 (VT)
 
 
-##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=800></a>
+##### Paragraphe 2 : Calcul des sommes inscrites sur le compte<a id=804></a>
 
 ###### Article 721-13
 
@@ -53719,7 +54024,7 @@ _Modifié par_:
   - Délibération n°2018/CA/03 du 29 mars 2018 - art. 11, v. init.
 
 
-##### Paragraphe 3 : Inscription des sommes sur le compte<a id=801></a>
+##### Paragraphe 3 : Inscription des sommes sur le compte<a id=805></a>
 
 ###### Article 721-16
 
@@ -53755,7 +54060,7 @@ _Modifié par_:
   - Délibération n°2019/CA/22 du 6 décembre 2019 - art. 39, v. init.
 
 
-##### Paragraphe 4 : Affectation des sommes inscrites sur le compte<a id=802></a>
+##### Paragraphe 4 : Affectation des sommes inscrites sur le compte<a id=806></a>
 
 ###### Article 721-17
 
@@ -53849,7 +54154,7 @@ _Modifié par_:
   - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 52, v. init.
 
 
-##### Paragraphe 5 : Investissement des sommes inscrites sur le compte<a id=803></a>
+##### Paragraphe 5 : Investissement des sommes inscrites sur le compte<a id=807></a>
 
 ###### Article 721-20
 
@@ -53914,7 +54219,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Paragraphe 6 : Péremption des sommes inscrites sur le compte<a id=804></a>
+##### Paragraphe 6 : Péremption des sommes inscrites sur le compte<a id=808></a>
 
 ###### Article 721-24
 
@@ -53930,11 +54235,11 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 11, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=805></a>
+##### Section 3 : Aides financières sélectives<a id=809></a>
 
-##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises<a id=806></a>
+##### Sous-section 2 : Aides à la promotion des activités et du catalogue des entreprises<a id=810></a>
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=807></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=811></a>
 
 ###### Article 721-25
 
@@ -54001,7 +54306,7 @@ _Modifié par_:
   - Délibération n°2015/CA/19 du 26 novembre 2015 - art. 40, v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=808></a>
+##### Sous-section 3 : Commission consultative<a id=812></a>
 
 ###### Article 721-30
 
@@ -54015,9 +54320,9 @@ _Créé par_:
   - Délibération n°2014/CA/11 du 27 novembre 2014 - art., v. init.
 
 
-#### Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles<a id=809></a>
+#### Chapitre II : Aides financières à la promotion à l'étranger des œuvres audiovisuelles<a id=813></a>
 
-##### Section 1 : Dispositions générales<a id=810></a>
+##### Section 1 : Dispositions générales<a id=814></a>
 
 ###### Article 722-1
 
@@ -54049,7 +54354,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=811></a>
+##### Sous-section 1 : Conditions relatives aux bénéficiaires<a id=815></a>
 
 ###### Article 722-3
 
@@ -54113,7 +54418,7 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section 2 : Conditions relatives aux œuvres<a id=812></a>
+##### Sous-section 2 : Conditions relatives aux œuvres<a id=816></a>
 
 ###### Article 722-6
 
@@ -54130,7 +54435,7 @@ _Modifié par_:
   - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 18, v. init.
 
 
-##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=813></a>
+##### Sous-section 3 : Conditions relatives à l'intensité des aides<a id=817></a>
 
 ###### Article 722-7
 
@@ -54148,7 +54453,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. 722-8 (M)
 
 
-##### Sous-section 4 : Conditions relatives au montant des aides<a id=814></a>
+##### Sous-section 4 : Conditions relatives au montant des aides<a id=818></a>
 
 ###### Article 722-8
 
@@ -54162,7 +54467,7 @@ _Modifié par_:
   - Délibération n°2019/CA/02 du 21 mars 2019 - art. 6, v. init.
 
 
-##### Section 2 : Aides financières automatiques<a id=815></a>
+##### Section 2 : Aides financières automatiques<a id=819></a>
 
 ###### Article 722-9
 
@@ -54176,9 +54481,9 @@ _Modifié par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Sous-section unique : Allocations directes<a id=816></a>
+##### Sous-section unique : Allocations directes<a id=820></a>
 
-##### Paragraphe 1 : Objet et conditions d'attribution<a id=817></a>
+##### Paragraphe 1 : Objet et conditions d'attribution<a id=821></a>
 
 ###### Article 722-10
 
@@ -54283,7 +54588,7 @@ _Modifié par_:
   - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 54, v. init.
 
 
-##### Paragraphe 2 : Procédure et modalités d'attribution<a id=818></a>
+##### Paragraphe 2 : Procédure et modalités d'attribution<a id=822></a>
 
 ###### Article 722-15
 
@@ -54394,9 +54699,9 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-##### Section 3 : Aides financières sélectives<a id=819></a>
+##### Section 3 : Aides financières sélectives<a id=823></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=820></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=824></a>
 
 ###### Article 722-19
 
@@ -54439,7 +54744,7 @@ _Modifié par_:
   - Délibération n°2019/CA/02 du 21 mars 2019 - art. 9, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=821></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=825></a>
 
 ###### Article 722-21
 
@@ -54527,7 +54832,7 @@ _Modifié par_:
   - Délibération n°2019/CA/02 du 21 mars 2019 - art. 10, v. init.
 
 
-##### Sous-section 3 : Commission consultative<a id=822></a>
+##### Sous-section 3 : Commission consultative<a id=826></a>
 
 ###### Article 722-27
 
@@ -54541,11 +54846,11 @@ _Créé par_:
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 12, v. init.
 
 
-#### Chapitre III : Aides financières à la distribution à l'étranger des œuvres représentatives des cinématographies du monde<a id=823></a>
+#### Chapitre III : Aides financières à la distribution à l'étranger des œuvres représentatives des cinématographies du monde<a id=827></a>
 
-##### Section unique : Aides financières sélectives<a id=824></a>
+##### Section unique : Aides financières sélectives<a id=828></a>
 
-##### Sous-section 1 : Objet et conditions d'attribution<a id=825></a>
+##### Sous-section 1 : Objet et conditions d'attribution<a id=829></a>
 
 ###### Article 723-1
 
@@ -54691,7 +54996,7 @@ _Modifié par_:
   - Délibération n°2017/CA/31 du 23 novembre 2017 - art. 58, v. init.
 
 
-##### Sous-section 2 : Procédure et modalités d'attribution<a id=826></a>
+##### Sous-section 2 : Procédure et modalités d'attribution<a id=830></a>
 
 ###### Article 723-7
 
@@ -54771,7 +55076,7 @@ _Cité par_:
   - Code du cinéma et de l'image animée - art. Annexe 7-8 (V)
 
 
-##### Sous-section 3 : Commission consultative<a id=827></a>
+##### Sous-section 3 : Commission consultative<a id=831></a>
 
 ###### Article 723-11
 
@@ -54785,7 +55090,7 @@ _Créé par_:
   - DÉLIBÉRATION n°2015/CA/15 du 24 septembre 2015 - art. 7, v. init.
 
 
-#### Chapitre IV : Dispositif de soutien financier à la distribution à l'étranger d'UniFrance Film International<a id=828></a>
+#### Chapitre IV : Dispositif de soutien financier à la distribution à l'étranger d'UniFrance Film International<a id=832></a>
 
 ###### Article 724-1
 
@@ -54801,7 +55106,7 @@ _Créé par_:
   - Délibération n°2018/CA/23 du 29 novembre 2018 - art. 43, v. init.
 
 
-### ANNEXES AU LIVRE VII<a id=829></a>
+### ANNEXES AU LIVRE VII<a id=833></a>
 
 ###### Article Annexe 7-1
 
@@ -55101,6 +55406,206 @@ d'octroi de l'aide ad hoc ou de la dernière aide octroyée au titre du  régime
 _Modifié par_:
 
   - Délibération n°2016/CA/17 du 24 novembre 2016 - art. 13, v. init.
+
+
+###### Article Annexe 7-1-1
+
+LISTE DES ETATS SITUÉS DANS LA ZONE AFRIQUE, CARAÏBES ET PACIFIQUE (ARTICLE 712-3)
+
+1° Afrique :
+
+Afrique du Sud ;
+
+Angola ;
+
+Bénin ;
+
+Botswana ;
+
+Burkina Faso ;
+
+Burundi ;
+
+Cameroun ;
+
+Cap Vert ;
+
+Comores ;
+
+Congo ;
+
+Côte d'Ivoire ;
+
+Djibouti ;
+
+Erythrée ;
+
+Ethiopie ;
+
+Gabon ;
+
+Gambie ;
+
+Ghana ;
+
+Guinée ;
+
+Guinée-Bissau ;
+
+Guinée Equatoriale ;
+
+Kenya ;
+
+Lesotho ;
+
+Liberia ;
+
+Madagascar ;
+
+Malawi ;
+
+Mali ;
+
+Maurice ;
+
+Mauritanie ;
+
+Mozambique ;
+
+Namibie ;
+
+Niger ;
+
+Nigeria ;
+
+Ouganda ;
+
+République centrafricaine ;
+
+République démocratique du Congo ;
+
+Rwanda ;
+
+Sao Tome et Principe ;
+
+Sénégal ;
+
+Seychelles ;
+
+Sierra Leone ;
+
+Somalie ;
+
+Soudan ;
+
+Swaziland ;
+
+Tanzanie ;
+
+Tchad ;
+
+Togo ;
+
+Zambie ;
+
+Zimbabwe ;
+
+2° Caraïbes :
+
+Antigua et Barbuda ;
+
+Bahamas ;
+
+Barbade ;
+
+Belize ;
+
+Dominique ;
+
+Grenade ;
+
+Guyana ;
+
+Haïti ;
+
+Jamaïque ;
+
+République Dominicaine ;
+
+Saint Kitts et Nevis ;
+
+Sainte Lucie ;
+
+Saint Vincent et les Grenadines ;
+
+Suriname ;
+
+Trinité-et-Tobago ;
+
+3° Pacifique :
+
+Fidji ;
+
+Iles Cook ;
+
+Iles Marshall ;
+
+Iles Salomon ;
+
+Kiribati ;
+
+Micronésie ;
+
+Nauru ;
+
+Niue ;
+
+Palaos ;
+
+Papouasie-Nouvelle-Guinée ;
+
+Samoa ;
+
+Timor-Leste ;
+
+Tonga ;
+
+Tuvalu ;
+
+Vanuatu.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 6, v. init.
+
+
+###### Article Annexe 7-1-2
+
+AIDES COMPLÉMENTAIRES AUX AIDES AUX CINÉMAS DU MONDE (ARTICLE 712-9)
+
+Liste des documents justificatifs :
+
+1° Le contrat de coproduction, sauf s'il a déjà été fourni dans le cadre de la demande d'aide aux cinémas du monde, et dans
+ce cas, tout avenant intervenu depuis lors ;
+
+2° L'accord entre les parties à la coproduction désignant l'entreprise bénéficiaire de l'aide complémentaire si elle n'est
+pas désignée dans le contrat de coproduction ;
+
+3° Tout document officiel attestant de l'existence de l'entreprise désignée comme bénéficiaire de l'aide complémentaire ;
+
+4° Une note conjointe de l'entreprise désignée comme bénéficiaire de l'aide complémentaire et de l'entreprise établie en
+France ayant sollicité l'attribution d'une aide aux cinémas du monde justifiant le montant de l'aide complémentaire
+demandée ;
+
+5° Les justificatifs des financements acquis sur les territoires de la zone Afrique, Caraïbes et Pacifique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 6, v. init.
 
 
 ###### Article Annexe 7-2
@@ -55554,11 +56059,11 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 723-10 (V)
 
 
-## Livre VIII : Dispositions particulières relatives au calcul du soutien à la production, à la distribution et à l'exploitation des œuvres cinématographiques<a id=830></a>
+## Livre VIII : Dispositions particulières relatives au calcul du soutien à la production, à la distribution et à l'exploitation des œuvres cinématographiques<a id=834></a>
 
-### Titre unique<a id=831></a>
+### Titre unique<a id=835></a>
 
-#### Chapitre unique<a id=832></a>
+#### Chapitre unique<a id=836></a>
 
 ###### Article 811-1
 
@@ -55573,11 +56078,11 @@ _Créé par_:
   - Délibération n°2019/CA/22 du 6 décembre 2019 - art. 41, v. init.
 
 
-## Livre IX : Mesures exceptionnelles en faveur des entreprises du secteur du cinéma et des autres arts et industries de l'image animée affectées par l'épidémie de covid-19<a id=833></a>
+## Livre IX : Mesures exceptionnelles en faveur des entreprises du secteur du cinéma et des autres arts et industries de l'image animée affectées par l'épidémie de covid-19<a id=837></a>
 
-### Titre unique<a id=834></a>
+### Titre unique<a id=838></a>
 
-#### Chapitre Ier : Dispositions relatives à l'affectation des allocations d'investissement<a id=835></a>
+#### Chapitre Ier : Dispositions relatives à l'affectation des allocations d'investissement<a id=839></a>
 
 ###### Article 911-1
 
@@ -55612,7 +56117,7 @@ _Créé par_:
   - Délibération n°2020/CA/08 du 1er avril 2020 - art. 1, v. init.
 
 
-#### Chapitre II : Dispositions relatives à l'éligibilité des œuvres cinématographiques de longue durée<a id=836></a>
+#### Chapitre II : Dispositions relatives à l'éligibilité des œuvres cinématographiques de longue durée<a id=840></a>
 
 ###### Article 911-2
 
@@ -55651,7 +56156,7 @@ _Créé par_:
   - Délibération n°2020/CA/08 du 1er avril 2020 - art. 1, v. init.
 
 
-#### Chapitre III : Dispositions relatives au fonds d'indemnisation pour interruption ou abandon des tournages d'œuvres cinématographiques ou audiovisuelles liés à l'épidémie de covid-19<a id=837></a>
+#### Chapitre III : Dispositions relatives au fonds d'indemnisation pour interruption ou abandon des tournages d'œuvres cinématographiques ou audiovisuelles liés à l'épidémie de covid-19<a id=841></a>
 
 ###### Article 911-3
 
@@ -55883,5 +56388,171 @@ _Cite_:
   - Code du cinéma et de l'image animée - art. 211-17-1 (V)
   - Code du cinéma et de l'image animée - art. 311-22 (V)
   - Code du cinéma et de l'image animée - art. 411-9 (V)
+
+
+#### Chapitre IV : Dispositions relatives au soutien exceptionnel des entreprises de production et de distribution d'œuvres cinématographiques durant la période de reprise de l'exploitation en salles des œuvres cinématographiques<a id=842></a>
+
+###### Article 911-14
+
+Afin d'encourager la reprise de l'exploitation en salles des œuvres cinématographiques, les modalités de calcul des sommes
+représentant les aides financières automatiques auxquelles peuvent prétendre les entreprises de production et les entreprises
+de distribution, à raison de la représentation commerciale des œuvres cinématographiques en salles de spectacles
+cinématographiques entre le 22 juin 2020 et le 1er septembre 2020, sont fixées aux articles 911-15 et 911-16.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 7, v. init.
+
+
+###### Article 911-15
+
+Pour les entreprises de production, par dérogation aux articles 211-27, 211-27-1 et 811-1, les taux de calcul sont fixés à :
+
+167,81 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est inférieur ou égal à
+307 500 € ;
+
+134,24 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 307 500
+€ et inférieur ou égal à 3 075 000 € ;
+
+167,81 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 3 075
+000 € et inférieur ou égal à 6 150 000 € ;
+
+111,87 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 6 150
+000 € et inférieur ou égal à 9 225 000 € ;
+
+85,02 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 9 225 000
+€ et inférieur ou égal à 30 750 000 € ;
+
+8,95 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 30 750 000
+€.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 7, v. init.
+
+
+###### Article 911-16
+
+Pour les entreprises de distribution, par dérogation aux articles 221-10 et 811-1, les taux sont fixés à :
+
+625,08 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est inférieur ou égal à
+307 500 € ;
+
+198,89 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 307 500
+€ et inférieur ou égal à 615 000 € ;
+
+170,48 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 615 000
+€ et inférieur ou égal à 1 230 000 € ;
+
+71,03 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 1 230 000
+€ et inférieur ou égal à 3 075 000 € ;
+
+85,23 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 3 075 000
+€ et inférieur ou égal à 4 305 000 € ;
+
+28,41 % lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 4 305 000
+€ et inférieur ou égal à 6 150 000 €.
+
+Le taux est nul lorsque le montant de la recette réalisée par les œuvres cinématographiques de longue durée est supérieur à 6
+150 000 €.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 7, v. init.
+
+
+###### Article 911-17
+
+Pour l'application des articles 911-15 et 911-16, est prise en compte la recette, au sens du dernier alinéa de l'article
+211-27, réalisée entre le 22 juin 2020 et le 1er septembre 2020. Toutefois, pour les œuvres cinématographiques qui ont
+bénéficié du dispositif prévu par l'article 17 de la loi n° 2020-290 du 23 mars 2020 d'urgence pour faire face à l'épidémie
+de covid-19 et pour les œuvres cinématographiques qui ont fait l'objet d'une première représentation commerciale avant le 4
+mars 2020, outre la recette réalisée entre le 22 juin 2020 et le 1er septembre 2020, est prise en compte la recette réalisée
+avant le 14 mars 2020.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2020-290 du 23 mars 2020 - art. 17 (V)
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 7, v. init.
+
+
+###### Article 911-18
+
+A compter du 2 septembre 2020, les taux résultant de l'application des articles 211-27, 211-27-1, 221-10 et 811-1 sont
+déterminés en prenant en compte, outre la recette réalisée à compter de cette date, la recette réalisée entre le 22 juin 2020
+et le 1er septembre 2020. La recette réalisée avant le 14 mars 2020 n'est pas prise en compte pour la détermination de ces
+taux, sauf en ce qui concerne les œuvres cinématographiques qui ont bénéficié du dispositif prévu par l'article 17 de la loi
+n° 2020-290 du 23 mars 2020 d'urgence pour faire face à l'épidémie de covid-19 et les œuvres cinématographiques qui ont fait
+l'objet d'une première représentation commerciale avant le 4 mars 2020.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2020-290 du 23 mars 2020 - art. 17 (V)
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 7, v. init.
+
+
+#### Chapitre V : Dispositions relatives aux aides financières à la promotion à l'étranger des œuvres audiovisuelles<a id=843></a>
+
+###### Article 911-19
+
+Pour l'année 2020, par dérogation aux quatrième et cinquième alinéas du 7° de l'article 722-17, les allocations directes pour
+la promotion à l'étranger des œuvres audiovisuelles peuvent être attribuées :
+
+1° Pour la réalisation d'un second catalogue par entreprise, dans la limite de 3 000 € ;
+
+2° Pour la réalisation de deux lettres d'information supplémentaires par entreprise, dans la limite de 1 500 € par lettre
+d'information.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 7, v. init.
+
+
+###### Article 911-20
+
+Pour les demandes d'aides sélectives à la promotion à l'étranger des œuvres audiovisuelles adressées au Centre national du
+cinéma et de l'image animée entre le 20 juillet 2020 et le 31 décembre 2020, en complément des dépenses mentionnées à
+l'article 722-20, ces aides concourent également à la prise en charge des dépenses liées au développement de nouveaux outils
+numériques et à la mise en œuvre d'opérations marketing innovantes destinées à promouvoir à distance une œuvre ou un
+catalogue d'œuvres.
+
+Le montant de l'aide est plafonné à 50 % des dépenses précitées, dans la limite de 5 000 € par entreprise pour l'année 2020.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 7, v. init.
+
+
+###### Article 911-21
+
+Les aides supplémentaires résultant de l'application des articles 911-19 et 911-20 ne sont pas prises en compte pour la
+détermination en 2020 du montant total des aides financières attribuées pour la promotion à l'étranger des œuvres
+audiovisuelles mentionné à l'article 722-8.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Délibération n°2020/CA/14 du 16 juillet 2020 - art. 7, v. init.
 
 
